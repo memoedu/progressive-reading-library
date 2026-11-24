@@ -3,6 +3,7 @@
 !*.md
 !/.gitignore
 !/.gitattributes
+!/index/articles/*.json
 .env
 .env.*
 *.log

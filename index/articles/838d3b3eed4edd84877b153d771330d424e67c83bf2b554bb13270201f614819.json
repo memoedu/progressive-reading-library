@@ -5,5 +5,12 @@
   "original": {
     "path": "订阅/RSS/Justin Math/838d3b3eed4edd84877b153d.md",
     "sha256": "100f7d1fec07d0ac71b233fc77052707803433c711993d2b2a28c1d4269ebb06"
-  }
+  },
+  "versions": [
+    {
+      "kind": "translation",
+      "sha256": "f87a6a1e90174420e4558af6baf900b5aae21841b3fe88746a28a814f657fc0c",
+      "path": "加工版本/838d3b3eed4edd84877b153d/translation-f87a6a1e90174420e4558af6baf900b5aae21841b3fe88746a28a814f657fc0c.md"
+    }
+  ]
 }

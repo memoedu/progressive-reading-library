@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://csdiy.wiki/",
+  "title": "index",
+  "original": {
+    "path": "csdiy-full/index.md",
+    "sha256": "456a46dd27d87e9a273c59da34aae47bf2741f84fe8ec19d5a3666ad547ace75"
+  }
+}

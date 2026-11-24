@@ -8,4 +8,7 @@
 
 ## 通过订阅工具导入
 
-Ben Kuhn RSS 试点会优先查资料库。找到原稿时，订阅工具从对应的 Git 提交下载正文并校验哈希。发现新文章时，同步服务直接提交登录用户导入的原稿，并为匿名用户代提 PR。《渐进阅读工作流》的订阅页可关闭共享同步。具体操作见[订阅共享资料库](https://github.com/memoedu/progressive-reading-workflow/blob/main/docs/SUBSCRIPTION_LIBRARY_SYNC.md)。
+订阅工具优先查资料库。找到原稿时，从对应的 Git 提交下载正文并校验哈希。发现可独立核验的新文章时，同步服务直接提交登录用户导入的原稿，并为匿名用户代提 PR。《渐进阅读工作流》的订阅页可关闭共享同步。具体操作见[订阅共享资料库](https://github.com/memoedu/progressive-reading-workflow/blob/main/docs/SUBSCRIPTION_LIBRARY_SYNC.md)。
+
+- [订阅源索引](index/subscriptions.json)保留公开来源地址。
+- [Thoughts Memo 翻译合集](index/repositories/thoughts-memo-translation.json)保留固定的上游提交、目录、文件哈希和许可。读者可从该提交复用原译文。

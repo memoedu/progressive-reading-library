@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://l-m-sherlock.github.io/thoughts-memo-translation/andy/note/spaced-repetition/In%20prompt%20generation%20LLMs%20often%20need%20extra%20hints%20about%20what%20angle%20to%20reinforce.html",
+  "title": "对于卡片生成任务，大型语言模型（LLM）经常需要额外的提示，来确定从何种角度制卡",
+  "original": {
+    "path": "订阅/GitHub仓库/Thoughts Memo 翻译合集/andy/note/spaced-repetition/对于卡片生成任务，大型语言模型（LLM）经常需要额外的提示，来确定从何种角度制卡--浏览器加工--b4caaeac7f.md",
+    "sha256": "c580a992f0d8facd4488c06fd8ee730278752f29339c5f36e69f06c1b575918b"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://l-m-sherlock.github.io/thoughts-memo-translation/andy/note/spaced-repetition/In%20prompt%20generation%20LLMs%20lack%20promptwriting%20patterns%20for%20complex%20conceptual%20material.html",
+  "title": "对于卡片生成任务，大型语言模型（LLM）缺乏为复杂概念材料编写卡片的模式",
+  "original": {
+    "path": "订阅/GitHub仓库/Thoughts Memo 翻译合集/andy/note/spaced-repetition/对于卡片生成任务，大型语言模型（LLM）缺乏为复杂概念材料编写卡片的模式--浏览器加工--43926543a9.md",
+    "sha256": "87d024b8e69c605e4ddac1ad04d227ab49119b7ff684025565654bfa933fcd96"
+  }
+}

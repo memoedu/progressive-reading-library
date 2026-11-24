@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://cs-plan.com/todo",
+  "title": "todo",
+  "original": {
+    "path": "cs-plan-full/todo.md",
+    "sha256": "733fd0327903e13ef3a553dd9e574fbaa65a8a999e56c1cd9c79042df157e2a8"
+  }
+}

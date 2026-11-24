@@ -11,6 +11,11 @@
       "kind": "translation",
       "sha256": "0f4f2062124011e0f629830e323226f09e37cc61fa581951b8a35a668ce62b55",
       "path": "加工版本/73d060a34f233e854fbb4d74/translation-0f4f2062124011e0f629830e323226f09e37cc61fa581951b8a35a668ce62b55.md"
+    },
+    {
+      "kind": "reading_guide",
+      "sha256": "0dc371e8c7352f46a5469058facb94346f2b81e038bdb34a74ec5aff0e3d2fa1",
+      "path": "加工版本/73d060a34f233e854fbb4d74/reading_guide-0dc371e8c7352f46a5469058facb94346f2b81e038bdb34a74ec5aff0e3d2fa1.md"
     }
   ]
 }

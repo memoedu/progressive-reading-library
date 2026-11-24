@@ -1,0 +1,66 @@
+{
+  "schema": "progressive-reading.shared-subscriptions/v1",
+  "sources": [
+    {
+      "url": "https://www.ruanyifeng.com/blog/atom.xml",
+      "kind": "rss"
+    },
+    {
+      "url": "https://www.justinmath.com/feed.xml",
+      "kind": "rss"
+    },
+    {
+      "url": "https://letters.thedankoe.com/feed",
+      "kind": "rss"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1CQt365EzW/",
+      "kind": "bilibili_collection"
+    },
+    {
+      "url": "https://kirigaya.cn/rss.xml",
+      "kind": "rss"
+    },
+    {
+      "url": "https://www.zhihu.com/column/c_2091446834510274949",
+      "kind": "zhihu_column"
+    },
+    {
+      "url": "https://www.zhihu.com/column/c_2044814421306999191",
+      "kind": "zhihu_column"
+    },
+    {
+      "url": "https://www.zhihu.com/column/c_2022701103528059073",
+      "kind": "zhihu_column"
+    },
+    {
+      "url": "https://www.zhihu.com/column/c_1975202373086511712",
+      "kind": "zhihu_column"
+    },
+    {
+      "url": "https://www.zhihu.com/column/c_1838755902276120576",
+      "kind": "zhihu_column"
+    },
+    {
+      "url": "https://www.zhihu.com/column/c_1887927383622918262",
+      "kind": "zhihu_column"
+    },
+    {
+      "url": "https://www.neelnanda.io/blog?format=rss",
+      "kind": "rss"
+    },
+    {
+      "url": "https://github.com/L-M-Sherlock/thoughts-memo-translation",
+      "kind": "github_repository",
+      "index": "index/repositories/thoughts-memo-translation.json"
+    },
+    {
+      "url": "https://www.benkuhn.net/index.xml",
+      "kind": "rss"
+    },
+    {
+      "url": "https://nintil.com/rss.xml",
+      "kind": "rss"
+    }
+  ]
+}

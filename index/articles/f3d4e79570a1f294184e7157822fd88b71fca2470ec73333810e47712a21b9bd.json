@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://cs-plan.com/",
+  "title": "index",
+  "original": {
+    "path": "cs-plan-full/index.md",
+    "sha256": "a88f6a426df7a6062c60902a3f1e59e01fa41315f24ba3789ef9696f7414fe15"
+  }
+}

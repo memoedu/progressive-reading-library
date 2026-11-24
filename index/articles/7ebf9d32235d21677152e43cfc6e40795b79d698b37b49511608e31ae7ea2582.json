@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/623648932",
+  "title": "rwkv.cpp_ CPU 也能跑的 RNN 中文语言大模型",
+  "original": {
+    "path": "知乎/AnkiX高考/rwkv.cpp_ CPU 也能跑的 RNN 中文语言大模型.md",
+    "sha256": "9a7f8ad852e953207e131de4460aea6d16f57ed59b8135b2d97e5a56ba6035b8"
+  }
+}

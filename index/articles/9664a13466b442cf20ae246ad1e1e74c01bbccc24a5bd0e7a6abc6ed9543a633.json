@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://l-m-sherlock.github.io/thoughts-memo-translation/andy/note/spaced-repetition/In%20prompt%20generation%20LLMs%20may%20perform%20better%20when%20given%20promptwriting%20principles.html",
+  "title": "对于卡片生成任务，如果提供了编写卡片的原则，大型语言模型（LLM）的表现可能会有所提升",
+  "original": {
+    "path": "订阅/GitHub仓库/Thoughts Memo 翻译合集/andy/note/spaced-repetition/对于卡片生成任务，如果提供了编写卡片的原则，大型语言模型（LLM）的表现可能会有所提升--浏览器加工--9664a13466.md",
+    "sha256": "1a8d9a26e56bb86343f85646bece8e90c9a0edfa539692a15f67a6fb7404a617"
+  }
+}

@@ -4,6 +4,13 @@
 !/.gitignore
 !/.gitattributes
 !/index/articles/*.json
+!/index/subscriptions.json
+!/index/repositories/*.json
+!/index/materials/*.json
+!/原材料/**/*.pdf
+!/原材料/**/*.epub
+!/原材料/**/*.docx
+!/原材料/**/*.txt
 .env
 .env.*
 *.log

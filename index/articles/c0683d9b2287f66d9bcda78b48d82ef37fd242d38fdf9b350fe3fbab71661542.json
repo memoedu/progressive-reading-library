@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://cs-plan.com/books/OSTEP",
+  "title": "OSTEP",
+  "original": {
+    "path": "cs-plan-full/books/OSTEP.md",
+    "sha256": "028876da24c539a0f7b331d8c85438c80fec394f0f6dc0e4962e9f12d417d1ec"
+  }
+}

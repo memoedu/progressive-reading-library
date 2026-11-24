@@ -1,0 +1,7 @@
+While updating my DNS for the redesign, I had to decide whether my canonical URL should be `benkuhn.net` or `www.benkuhn.net`. Like all irrelevant website-related decisions, this has erupted into some sort of pitched battle.
+
+Sites like [`no-www`](http://no-www.org/), [`yes-www`](http://www.yes-www.org/) and even [`extra-www`](http://www.www.extra-www.org/) have strong opinions on both (all three?) sides of the debate. According to `no-www`, the argument against using the `www` prefix is that it’s “deprecated”, whatever that means—I assume the issue is that it’s not really needed and adds some extra URL cruft.
+
+On the other hand, `yes-www` presents an actual technical argument, which is that 1) you can’t use a CNAME record on a naked domain and 2) cookies on the naked domain get sent to all subdomains, which screws up caching for static files. Both of these are fairly minor (I don’t need a CNAME record right now, and I could use AWS for my static media), but I don’t want to sacrifice that flexibility. So I made the naked domain redirect to `www.benkuhn.net` and made that the canonical URL.
+
+Going through other sites, it looks like lots of big companies use `www`, like [google](http://www.google.com/), [apple](http://www.apple.com/), and [facebook](http://www.facebook.com/) (the exception is [twitter](http://twitter.com/)). But [a](http://alistapart.com/) [lot](http://jacquesmattheij.com/) [of](http://billyjanitsch.com/) [smaller](http://worrydream.com/) [sites](http://xkcd.com/) (random sampling) use no `www`. So either way is probably fine overall.

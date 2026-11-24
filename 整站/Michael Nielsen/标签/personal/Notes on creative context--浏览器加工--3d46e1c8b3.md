@@ -1,0 +1,103 @@
+[![](https://michaelnotebook.com/assets/home.png)](https://michaelnotebook.com/index.html)
+
+Michael Nielsen
+
+August 4, 2022
+
+_Rough notes, written quickly in response to a question about how I work. The notes concentrate on the value of what I call powerful creative contexts. They're not intended to apply to anyone else; indeed, the thinking is rough and I'm dissatisfied with it as it applies to me! Still, as a waystation it may be of interest. Thoughtful comments welcome -- see the comment area at the bottom._
+
+I value powerful creative contexts. They make a huge difference in my ability to create: they're often the difference between being slothful and lethargic versus buzzing with ideas and energy and producing a constant stream of work. When a powerful creative context remains stable I find I can quickly accumulate a great deal of work toward some particular creative end. And yet although I know all this intellectually, I believe that most people – myself included – are bad at recognizing such contexts, and greatly undervalue how crucial they are to creative work.
+
+**Narrow versus broad creative contexts:** There's a huge amount written about creative environments: from Bauhaus to Bloomsbury to Renaissance Florence to how to set up a modern research group or company or artist's colony or writer's workshop. I'll call those _broad creative contexts_. But my focus here is on something I've seen much less discussed, what I shall call _narrow creative contexts_ (mostly omitting "narrow"). This is the tiny little nub of a thing – maybe just an image or a phrase – that you hold onto, that gradually comes into focus, and then blossoms, the animating force driving the project. It's the emotional and intellectual force driving the work, the thing you return to over and over. People will sometimes describe it as "the idea", but it's often both considerably more and less than an idea. And if you get disconnected from it, don't nurture and stew in it enough, don't believe in it enough, you start to lose contact with your project.
+
+Without defining this idea of a (narrow) creative context any more precisely, here's a few examples of the kinds of things I often find help contribute to a powerful creative context:
+
+-   That email message that really pisses you off;
+-   That paragraph in a paper or a book that you just totally disagree with. Or that seems wonderfully suggestive, but also incomplete, just begging for an unfolding;
+-   That connection you see, that demands to be elucidated;
+-   The thing someone said in a talk that made you overflow with ideas, or enjoyment, or irritation, or \[…\];
+-   That marvellous conversation you just had, especially that bit where you or they said "\[…\]";
+-   The person whose opinion you really care about on some particular subject, and where there's some idea you just find yourself dying to convince them of;
+-   The thing you're scared might be true;
+-   The thing everyone in your community believes, but which you know is wrong;
+-   The beautiful YouTube video that you have to keep watching; and
+-   The demo that awed you. Or ticked you off.
+
+These are all things that you can _grab a hold of_, and _keep coming back to_, distilling and refining and improving, as the core driving a creative work. Surprisingly many friends of mine have told me that they did major research work _because_ they got so terribly angry at some other paper or demo. Sometimes just a single sentence in a paper, or a few seconds in the demo! And yet when I look at their final work, I can see no relationship at all. But for them it was the emotional fuel.
+
+I think this is, in part, what former Apple designer Jony Ive was talking about when he said of Steve Jobs: "he treated the process of creativity with a rare and a wonderful reverence. You see, I think he better than anyone understood that while ideas ultimately can be so powerful, they begin as fragile, barely formed thoughts, so easily missed, so easily compromised, so easily just squished." I suspect what Ive is talking about overlaps with, but isn't exactly the same as, what I'm calling a creative context. But sometimes that fragile, barely formed thought is the seed of a creative context; it becomes the thing that you defend, and attach to, and develop, the core of a work.
+
+Michael Jordan is a basketballer, not creative in quite the sense I mean. But in interviews with Jordan, his teammates, and his competitors, it's evident how good he was at creating powerful motivating contexts. Someone would look at him wrong at halftime, a quick glance or comment. And he'd use it as motivational fuel – sometimes for years! It's become an internet meme: ["I took that personally"](https://www.youtube.com/watch?v=2t4RVg_Yq2g&ab_channel=BloopersTV). One of his competitors [said](https://www.youtube.com/watch?v=zpt7rUVN98k&t=25s&ab_channel=DanPatrickShow): "I never got \[Jordan\] pissed off. He make a shot you say: 'Good shot Mike'. You don't talk trash to him so he can go off for 60. You try to kill him with kindness." In the documentary [The Last Dance](https://en.wikipedia.org/wiki/The_Last_Dance_\(miniseries\)) you can see that Jordan knows this act of creating powerful motivating contexts isn't entirely healthy (or rational). But they were also fuel that helped him play much better basketball.
+
+**Solo creative work:** For much of the rest of these notes I will focus on solo creative work. In many ways that's the hardest case, where it's _just you_ who has to develop and nurture the creative context. It's so, so easy to lose emotional connection and urgency. When a friend or family member or your boss comes a-knocking, well, we're motivated by the external social demand. It's easy to emotionally connect, to go get involved in the demand-of-the-moment!
+
+But contrast, we're often largely on our own when it comes to creating and then maintaining and developing our own creative context. In particular: the more original a work, the harder it can be to connect with others on an ongoing basis, and the harder it is to create and maintain and improve that context. That is, I think, the central problem of creative solo work: finding and stably attending to powerful contexts, for long enough, and with enough belief, that you actually ship something.
+
+This means that we _must_ be on the lookout for and value and nurture powerful creative contexts. Often we stumble into it: that email or paragraph in a paper that totally infuriates you may be a gift. That said: you can also independently work to create and maintain such contexts.
+
+**A few desirable qualities for creative contexts:** Note that very few have all these qualities to the level you desire. You kinda have to develop techniques for improving them:
+
+-   They will help drive you to completion, shipping some project you care about, and whose scale is commensurate with your emotional involvement;
+-   They supply both a very powerful _emotional_ and an _intellectual_ context;
+-   The are relatively _on demand_ and _accessible_ when you want; and
+-   They're ideally things you can revisit over and over and over again, gaining inspiration and motivation and drive for action.
+
+**I radically undervalue such contexts:** I can get much, much better at _recognizing_ such contexts, at _capturing_ such contexts, at _valuing_ such contexts, at _making them as jugular as possible_, at _distilling_ and _saving_ and _revisiting_ and _protecting_ and _valuing_ such contexts, at _stewing in (and improving)_ such contexts, and finding ways to _act_ to completion on such contexts. They will die if I let them. In some sense, I want to _savour_ such contexts, to keep putting myself back in them, _over and over and over, until I've shipped_. They should be _as provoking as possible_, emotional and intellectual fuel. Part of the challenge, of course, is that my thinking changes, the context evolves. But that's part of learning to do this well.
+
+**Blocks – staleness or stuckness or procrastination – are signs you've disconnected from your creative context:** The best resolution when it's really difficult is often to talk it over with sympathetic and generous friends who work on adjacent things. I often find this hard. I feel embarassed and don't want to "waste" (my feeling, not necessarily theirs) their time.
+
+For easier blocks it's often fine just to give myself a brief break, and then go for a long walk without distractions, and just very gently ponder the project. If you reconnect, great! If not, that's fine too. A trick I sometimes find useful is to dictate aloud to Otter. Or to read aloud on adjacent subjects, especially in inspiring material.
+
+Another trick is prompts: "I am scared that…" "The problem I'm having that I don't want to think about is…" "The incredible opportunity that I'm shy to think about is…" "I fucking hate…"
+
+Despite the evidence of these notes I relatively rarely swear. I've found "I fucking hate…" and giving myself not merely permission but encouragement to swear often reconnects me to stale projects. It often unlocks what I'm really worrying about. The social prohibition against strong emotion seems to inhibit me from connecting to my own feelings about the project. Once I've made that connection, I find the real source of the issue – at least, enough for me to gain momentum again. Creative projects are primarily an _emotional_ event, not an intellectual event, no matter the external form, and emotional and intellectual problems are intertwined.
+
+**Sharing:** Shortly before starving to death in the Alaska wilderness, Christopher McCandless wrote in his diary "Happiness only real when shared". I think this is true of many things in life. It's true of creative work. For me, such work often is in part truly for myself – and it's good to connect deeply to that part of myself. But also it's invariably _for_ others as well. It may only be for a tiny few other people, sometimes just a single person! But having extreme clarity about who am I making it for, and why, often helps enormously.
+
+This is one reason I don't really like notes as the note-taking crowd (often?) construes them. They often feel like they have no audience. It seems to me you should only write such notes if you are _truly_ writing them to figure something out which you _really need to figure out_, or for future you, as a matter of genuine urgency. Or for a collaborator, or friend, or someone you admire. Too often they seem to be notes-for-notes' sake, with no real audience. The consequence is that they have unclear epistemic standards, and little sense of what it means to be a "success". What are they actually _for_? When I share things with people whose good opinion I value, my work becomes _for_ something. And so I want to tie my creative context also to a goal I believe in for an object to ship, and who I'm shipping for. I want to hold a very high value on shipping _something_. While at the same time allowing that goal for shipping to change and adapt as I better understand what the project wants to be. This can all be tricky to manage!
+
+**Things I often ship**
+
+-   WhatsApp or Email or Signal messages to friends. This is relatively easy – the interaction (or even just the ancitipation) keeps creating strong emotional contexts.
+-   Twitter threads. Ditto on the strong emotional context.
+-   Notes, at [https://michaelnotebook.com](https://michaelnotebook.com/). These are typically much more isolating, in part because there's not the continual co-creation of a strong creative context that you get in messages. That said, they're often easier than a full paper or essay. That's part of why I like my notebook: it's pretty high stakes, but not _too_ high stakes. In many ways I think of it as an improvement over journal publication[1](https://michaelnotebook.com/creative_context/index.html#fn1).
+-   Larger things: (interactive) essays, papers, books, videos, code, mostly. Perhaps one day a movie or documentary or company or something else. It's harder still to maintain a powerful creative context for these. Collaborators can really help: a marvellous collaborator can expand your creative capacity enormously; they also add certain overheads and constraints. This is partially because of the expansion in skills and capacity to do work, but at least as important is the continual co-creation of an emotionally compelling creative context.
+
+**The challenge of ambitious projects:** The more ambitious a project is, the harder it is to remain connected to the creative context. If you lose connection, you may exit the project. Also: the more ambitious the project, the more isolating it is likely to be, and the harder it is to maintain and genuinely believe in the creative context.
+
+I think this is part of why creative people often work so monomaniacally on things. It keeps them in the creative context. They take a break for a day or two, and boom, they're out of it. And absent someone else to help them get back in, it can be hard to get back into it! Stephen King says he never takes a day off writing, including Christmas and birthdays. His advice to other writers: do the same. Or, if you can't do that, have at most one day off per week. I don't think it's because he's a workaholic, or because he couldn't stand a 14 percent decrease in productivity. It's because he fears one day a week off would lead to more like a 50 (or 100) percent decrease in how much he writes, and maybe an even larger decline in _quality_. After Kazuo Ishiguro's first successful novel, he started getting invited to dinners, lunches _etc_. They seemed like modest commitments, but somehow he found he couldn't make any progress on his next novel. He was puzzled: surely it ought to be possible to do occasional things like that? But he went into isolation, and quickly wrote _The Remains of the Day_. This makes sense: solo creative work is about a combination of maintaining a strong emotional commitment and a strong intellectual context. You do those other things and the emotional commitment erodes, and the intellectual context fades. Your work somehow just isn't as good as you want; then you lose confidence. Almost everyone I know who is good at this kind of thing seems to be aspirationally (if not in practice) something of a monomaniac[2](https://michaelnotebook.com/creative_context/index.html#fn2).
+
+I've been talking about (mostly) solo work. Of course, some ambitious projects are done as part of a large group. That group can make it much easier to get back into the creative context. When there is truly shared ownership and commitment – especially if it's extremely important (maybe life-or-death!), and with people you admire enormously, and can grow with and trust – then they become shared custodians of an immensely powerful creative context. This can be just wonderful. But if it's not fully owned with the others, it won't be such a powerful creative context[3](https://michaelnotebook.com/creative_context/index.html#fn3). This, incidentally, is one reason why having people who aren't living up to their commitments on a project is so debilitating.
+
+**I don't control emotional response. But I can choose to harness it (or not):** That said, I can influence it somewhat, create the conditions for it to occur. And having occurred I can lean into it, or away from it. But the key element is recognizing it, and deciding to act. For instance, I will read a paper, and maybe be very struck by some paragraph, full of energy. Maybe it ticks me off. I can recognize that, and decide to create something from it. Or not.
+
+It's easy to fool yourself into thinking something "should" have a powerful creative context attached, when it doesn't. When you do that you end up with dead projects, zombie projects, projects that never even really came alive in the first place. "Should" is the sign of a possibly dead context. The flipside is the things you "should not" work on. You're obsessed by something which maybe you "shouldn't" be, in the sense that it's outside your identity. This can be a genuine problem, and one I'm not quite sure how to deal with!
+
+**Things I don't understand:** It makes everything much, much easier if you run toward the highest emotional valence thing you can right now. Ava Huang has a [beautiful way of putting it for the specific context of writing](https://ava.substack.com/p/on-writing-more): "Say the deepest thing, and you'll find that something appears beneath it, like a set of Russian matryoshka dolls, an infinite uncovering." But at the same time there is a big tension between _completing_ a big project and working monomaniacally toward completing whatever is driving me most. Sometimes I disconnect from the big project. And it's tempting to switch to something else. Sometimes that works well: I ship something small and gain confidence from it and switch back to the big project. And sometimes I never reconnect. I don't know how to resolve this.
+
+**Miscellanea:**
+
+-   It's felt odd writing this. So often (especially in group work) it's easy to take all this stuff for granted. So it feels silly to talk about. But with solo creative work on big projects I think it's a real thing, and many people find it very hard. I certainly do. You may say: why work on such projects? Good question: it enables certain kinds of work that I don't think can be done in any other way. If you're driven to do that, then perhaps this will all connect. For many other people I don't think it will connect.
+-   While I've focused on what I called "narrow creative contexts", much of what I said applies also to broader creative contexts as well, sometimes with some modification. This seems like a benefit of this appellation (which otherwise is a little inaccurate – it'd perhaps be better called a "creative core" or "creative dynamo" or something).
+-   I haven't said very well what a creative context _is_. It's tempting to think it means a written description of your project or something like that. But what I really mean is whatever the core thing is that you're attaching to, the thing that drives it all. That is intrinsically something that you _carry within yourself_. You can use writing or conversation or sketching \[etc\] as a tool to help change and reshape that thing. But it's still fundamentally within you. Ideally it's clear and compelling and exciting. The more so, the better! But a big part of creative work is taking a hunch that is not at all clear and making it so.
+-   When I'm disconnected there's often surprising value in just dwelling upon the creative context, writing down worries, things I don't like, _etc_, and trying to reshape a little, get some more clarity.
+-   A challenge with big projects is that what you're working on locally is often only loosely connected with the big creative context. And you need both local and global creative contexts – perhaps very different – and to understand clearly how they relate. It's a lot of work, especially since the local creative context needs to change all the time!
+
+**Creating these creative contexts is, itself, a deep skill and craft:** I think that's why I (was driven to!) write these notes. I'd never really thought about it systematically before. I may perhaps one day make a second version, discussing much more about the nuts and bolts of doing it well. And there are a lot of nuts-and-bolts to discuss! It's a skill I'm certain I can get much better at. But I'll leave it here for now.
+
+## Acknowledgments
+
+Thanks to Nadia Asparouhova, Kat Baney, Andy Matuschak, and Kanjun Qiu for comments on a draft. Thanks to Parisa Rashidi for asking the question which prompted the notes in the first place. And thanks to many, many people who have, over the years, influenced how I think about creative context.
+
+## Footnotes
+
+* * *
+
+1.  I wish academics took the best items more seriously, however; some items, at least, are far better than almost any journal article I've written. And yet the form factor often dissuades that kind of consideration.[↩︎](https://michaelnotebook.com/creative_context/index.html#fnref1)
+    
+2.  There are exceptions. I'm certainly not saying that there can't be (large) other elements to your life. But they should nurture the creative context, or be neutral, not erode it.[↩︎](https://michaelnotebook.com/creative_context/index.html#fnref2)
+    
+3.  I know lots of startup founders who fool themselves that their project is co-owned with their employees. It never ever is.[↩︎](https://michaelnotebook.com/creative_context/index.html#fnref3)
+    
+
+## Comments

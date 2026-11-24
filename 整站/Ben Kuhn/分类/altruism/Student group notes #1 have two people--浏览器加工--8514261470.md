@@ -1,0 +1,11 @@
+_This is the first post in a [series](https://www.benkuhn.net/studentgroup) on lessons I learned while starting a student group almost from scratch._
+
+Far and away the most important factor in HEA’s success is that we had two co-presidents.
+
+At first, it was just me running things, and my motivation and excitement about my plans came in bursts. I would get a new idea for a project or event and start organizing it in a flurry of energy—but soon problems would come up, I’d start to think it was doomed to failure and get demoralized, and everything I’d set in motion would grind to a halt. Obviously this was self-defeating and not very helpful for our club’s operations.
+
+Fortunately, towards the end of the first year, [John Sturm](http://jasturm.blogspot.com/) took the initiative and got involved with organizing events as well. With John to take care of half the organizational burden (and frequently more) and plug away even when I was demoralized, I felt much less overwhelmed about running things. This broke down my aversion that running more events would start another boom-bust motivation cycle for me, and allowed us to do way more things than we could have with just me.
+
+If you’re more resilient to setbacks and more of a natural leader than I am, it may be less important for you to have a co-organizer. But given that finding a second person is also one of the most popular pieces of startup advice, it seems like it applies to most people, even if they’re as resilient and leader-y as most startup founders. So I’d recommend making it a high priority to find a co-organizer.
+
+That’s hard, of course, because a co-organizer needs to have a lot of initiative and agency—they have to care about the project even when you don’t. On the other hand, if you can’t find any good co-organizers before you start your group, don’t worry too much—I didn’t know John before I started HEA, and only met him when he joined the group and came to some of our events. So you can probably recruit a co-organizer from your membership; just keep your eyes peeled for good ones, because it’s a _huge_ boost in organizational capacity.

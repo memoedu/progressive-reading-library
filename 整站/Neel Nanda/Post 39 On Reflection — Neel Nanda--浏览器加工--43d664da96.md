@@ -1,0 +1,227 @@
+# Post 39: On Reflection
+
+#### Introduction
+
+[The world is full of wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule). Many things are far below where they should be, many actions fail to achieve their goals, and this includes many of _your_ actions. And this is not because you’re failing, but because achieving your goals is _hard_.
+
+This is obviously not a problem that can ever be _solved_. But one thing I find interesting is that often my mistakes are obvious and can be fixed, if only someone points them out! Indeed, often I can notice my mistakes, if someone just prompts me to stop and consider what I’m currently getting wrong. The problem is not some deep, ineffable mystery in the world, but rather just that I am not stopping to ask myself the right questions.
+
+Again, I think this is an understandable mistake. The step of zooming out, being meta, and asking myself the right questions is _hard_. **It is not the default action**. The problem right in front of me always feels urgent, going meta never feels like the thing I should do _right now_, so I never do it. But this thought pattern _is_ a mistake. What are the common mistakes you make in your life? What things do _you_ miss, until someone points them out to you? Could you be doing better?
+
+My main tool for this is having [a weekly review](https://docs.google.com/forms/d/1ixGVgJXIlCXXgf-y0gb64SwsUq_P1ZF4WYdo-5_C5K0/edit?usp=sharing) - a routine where I set out a regular time to reflect on my life, how it’s going, and what I want to change. [A routine that makes reflection the _default_ in my life](https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower). When people are getting started on debugging their life and ask me for first steps, this is one of my main recommendations - I find it extremely useful, and I think it’s a key basis for noticing your mistakes and actually _doing_ something about them. This post is my case for why this is a worthy habit, and how I think about implementing it.
+
+#### Asking the right questions
+
+I find there’s a lot of value in just making time to stop and reflect on your life, even if you don’t have a concrete plan - this makes reflection and going meta the default, which is the key first step! But I think it is even more valuable to go in with good questions, to get yourself thinking in the right way.
+
+I think the importance of good framing is highly underappreciated - my life is full of blind spots and systematic mistakes, but asking the right questions can often make those blind spots obvious. A common example is the planning fallacy: when I take on a new project, I am _always_ too optimistic. I expect things to be easy, for nothing to go wrong, and think I’ll get it done extremely quickly. But inevitably get bogged down in details and distractions, and fall far short of my goal. But, if I instead ask myself the question “how long did this type of project take before?”, and take an average, I am _way_ more accurate.
+
+A key mental move here is **pre-hindsight**: It’s much easier to _explain_ a past event with hindsight, than it is to predict something in the future, or notice something unexpected - the past is concrete and easy to reason about, the future is abstract and harder. But this is just a state of mind! For example, when I am writing an email, I often realise a mistake or missed detail _just_ after I click send. Absolutely nothing has actually changed, but the email goes from a future thing to a past thing. And often this mental shift can happen deliberately - take something vague and fuzzy that my mind wants to flinch away from, and make it concrete. For example, I find it hard to notice mistakes when I make them, but easy to answer “what was the biggest mistake I made this week?” - the key is to make not answering not an option, and to implicitly _assume_ there was a mistake.
+
+Some prompts for questions I find helpful:
+
+-   What mistakes did I make this week?
+    
+-   What am I being an idiot about?
+    
+-   What am I missing?
+    
+-   What was my biggest success this week?
+    
+-   What is my biggest bottleneck?
+    
+-   What is the right lesson to take from this week?
+    
+-   In an ideal version of this week, I would have \[…\]
+    
+-   What am I currently procrastinating about?
+    
+-   Whose advice will help me solve my problems?
+    
+-   What is my current biggest priority?
+    
+-   What’s weighing on my mind?
+    
+
+Of course, the right questions are going to be specific to you! I like questions that focus on what I’m missing, prioritisation, learning and improvement, tracking progress, asking for help, bottlenecks, etc. The right questions for you will come from _your_ goals, and what you often miss out on.
+
+**Exercise:** What are some questions that _you_ would like to answer once a week? Are there any past mistakes, that you needed someone else to point out to you? Big, systematic blind spots? Small things, that slip through the cracks? What questions would it have been useful to ask yourself, over the past month?
+
+#### Make it the default
+
+It’s easy to agree that going meta and reflecting is valuable, and far harder to actually _do_ it. The core problem is that reflecting often feels important, but rarely feels like the _top_ priority. It’s easy to be stuck in the short-term, chasing whatever is currently top of my mind, and letting my blind spots forever remain blind spots. And I think it is hard to just spontaneously decide to be meta where appropriate. So the second key insight of this post is that you need to **systematise going meta** - make it the default in your life. I personally find it easiest to do this by having a routine - thus the weekly review - but the important part is to follow whatever systems work best for you.
+
+I outline my general thoughts on systematising things in [a previous post](https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower), but for this, the key parts are to build a **routine** around it, to **minimise decision points** and to **keep the routine sacrosanct**. Some tips:
+
+-   Set out a clear time once a week, and put this in your calendar.
+    
+    -   Make it a clear and consistent time, so it keeps the routine, and so there’s never a _decision_ about when to do it.
+        
+        -   Having it be weekly is just a default suggestion, the key is to be _regular_. Depending on how much you have worth reviewing, some people prefer daily reviews, monthly reviews, etc
+            
+    -   It can also be valuable to have short daily reviews, longer weekly reviews that zoom out more, even longer monthly reviews that zoom out even more, etc - whatever works best for you!
+        
+        -   This tiered approach can be useful to eg think about deeper questions, like [questioning your current goals](https://www.neelnanda.io/blog/prioritisation) - this would be silly to do every day, but can be highly worth the effort once a month
+            
+-   Have a clear plan for what to do during that time
+    
+    -   This makes there be a clear default
+        
+    -   I find it valuable to [make myself a Google Form](https://forms.new/), with a list of questions, and boxes to answer them in - this makes the review literally just to fill out this form, always with a clear next action, and a clear order
+        
+    -   By minimising decision points during the review, this helps stop aversion to _doing_ the review build up - make it as low effort as possible!
+        
+-   Remind yourself of why the review is important, and why you care about it, if you ever feel tempted to cancel
+    
+    -   I personally feel fine with changing the time of the review, but try to ensure it feels important to _do_ the review - I haven’t missed a week in the last year
+        
+    -   This is easier when there’s some momentum behind the review - invest effort at the start to get yourself to do it. But once you’ve done it a few times, and found it useful, use this to help motivate yourself to keep to it. I find it useful to keep in mind that skipping a review once isn’t just skipping it once - it’s eroding the habit, and making me more likely to skip all future reviews!
+        
+        -   If you didn’t find it useful, stop doing it!
+            
+    -   Though, if you do skip it, try to avoid [failing with abandon](http://mindingourway.com/failing-with-abandon/)! A good routine is flexible, and can take a few missed weeks - you do it because it’s _useful_, not just to maintain a perfect streak
+        
+-   Getting started: If you like the idea, but feel uncertain whether it’s _actually_ worth the effort, try thinking of it as an experiment! Do it once a week for the next 3 weeks, and at the end of that check whether it’s useful
+    
+    -   I find it much easier to convince myself to do bounded experiments - I have an aversion to starting unbounded commitments, but I think this is often reasonable!
+        
+-   Making it stick:
+    
+    -   Accountability: Use sticks, find ways to get your future self to keep to it
+        
+        -   Set yourself reminders
+            
+        -   Arrange to send an email with the findings of the review to a friend
+            
+        -   Arrange to _do_ the review with a friend - have a weekly check-in call! Accountability buddys are great
+            
+        -   Set yourself financial penalties, with a site like Beeminder
+            
+    -   It’s also great to have positive ways to make it stick, and feel motivating!
+        
+        -   Having a buddy can do this - I personally find social things way more motivating
+            
+        -   I do a gratitude practice in mine - thinking about the people who improved my week, and thanking them - this makes me look forwards to it way more!
+            
+        -   At the end, record the key takeaways of the review - this is a way to remind yourself that it’s useful
+            
+
+#### Scaffold systems
+
+Another benefit of having a weekly time to check in and review your life, is that this makes debugging anything else in your life easier. If you have any new ideas for weekly habits, blind spots, new things you want to try, it’s _much_ easier to attach them to your weekly review. By having a reliable time when you go meta and reflect, it can make everything else in your life go more smoothly! Some suggestions for good things to peg to it: (I’m trying to throw out a ton of suggestions here - I recommend picking the few that seem most helpful. Don’t try to do all of them!)
+
+-   Regular debugging - I ask myself what my biggest bottleneck is, then set a 5 minute timer and try to solve it. Sometimes this works!
+    
+    -   I find it difficult to carve out time for this kind of debugging in the moment - it’s never the default
+        
+-   Tracking long-term things
+    
+    -   Your mood
+        
+    -   What’s weighing on your mind
+        
+    -   Long-term goals, eg overcoming anxiety, meeting more people, going outside of your comfort zone
+        
+    -   Productivity - eg, [do you feel less productive in winter](https://www.neelnanda.io/blog/sad)?
+        
+    -   [Did I have enough Slack this week](https://www.neelnanda.io/blog/38-slack)?
+        
+    -   Was I [a person who actually does things?](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things)
+        
+    -   [Reviewing and patching systems](https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower)
+        
+    -   Tracking health and exercise
+        
+    -   [Am I being a good friend](https://www.neelnanda.io/blog/25-friendship)? Is there anything I could be doing better?
+        
+-   Time tracking - what did you spend your time on this week? Was that a good allocation? How do you want to allocate your time next week?
+    
+-   Prioritisation - What are your current goals? Is what you’re working on _actually_ your highest priority?
+    
+-   Motivation - _Why_ are you working on what you’re currently doing? What was a success this week? How did I make progress on my goals?
+    
+    -   This can be really useful when [my standards are too high](https://www.neelnanda.io/blog/35-standards), and I always feel overworked and behind - this forces me to reflect and realise that, actually, I’m doing pretty well. The problem is my standards, not me!
+        
+    -   [Am I excited about what I am currently working on](https://www.neelnanda.io/blog/mini-blog-post-11-live-a-life-you-feel-excited-about)? If not, what can I _do_ about this? Is there something more fun I could be doing?
+        
+        -   I find this one _super_ easy to lose track of in the moment, but is a major productivity and happiness drain
+            
+-   Collecting data on longer term experiments, eg [trying a new learning style](https://www.neelnanda.io/blog/34-learning)
+    
+-   Getting things done
+    
+    -   Notice what you’re currently procrastinating about ([especially things without deadlines](https://www.neelnanda.io/blog/32-macro-procrastination)!)
+        
+    -   Notice what you’re putting off - what are the open loops in your mind?
+        
+    -   My system is to have an hour once a week for doing “life admin” - all the random tiny tasks on my to do list that are never my higher priority
+        
+        -   Having a clear time once a week where I trust that I’ll do it is valuable - it reduces the mental load the rest of the time, because I feel comfortable forgetting about it, and trusting my future self
+            
+        -   I find there’s high switching cost to doing tasks - it disrupts my concentration, and sometimes can open new distractions, eg if I open Messenger. Batching this up once a week reduces the switching costs, and means that when I notice a small task when doing something else, I can just add it to my to-do list and move on
+            
+-   Gratitude - Gratitude is one of the few peer-reviewed interventions that genuinely, actually, reliably works to make you happier. But if you’re anything like me, it’s not your default. So set yourself time once a week to notice what you’re grateful for, to _make_ it the default! ([A great post on this](https://thezvi.wordpress.com/2017/12/02/more-dakka/))
+    
+-   Planning the week ahead
+    
+    -   More generally, I find it highly valuable to separate **planning** and **doing**. I find it much easier to do something concrete, and clearly planned, so I don’t feel the need to waste energy questioning whether what I am doing is worthwhile in the moment. And it’s much easier to plan something, without the imminent prospect of actually _doing_ it forcing me to procrastinate
+        
+    -   So having a first draft of a concrete plan for the next week, can help me become much more focused!
+        
+
+#### My implementation
+
+I currently do my weekly review first thing on Saturday morning, and do it by following a Google Form (you can make a copy of my current form [here](https://docs.google.com/forms/u/0/d/1dxIdbLkS_Vv73C91KKS0uUCqpUv9xdULsH11afLhPxc/copy)) - I put in the questions and prompts I want to follow, and then just fill out the form. I am a really, really big fan of Google Forms for things like this - they are a super flexible medium to set an algorithm for my future self, and reduce following that algorithm to just filling out boxes. It creates a _super_ clear default action! When I previously tried things like having a list of questions in a word document, I found it easy to start reordering and skipping questions, and getting easily distracted. And they’re easy to edit, so it’s easy to iterate, remove the bad questions, add new habits to my scaffold, etc.
+
+I swap the questions in the form in and out, depending on what’s currently going on in my life, what I am currently finding useful, etc. But these are the parts I’ve consistently found most useful:
+
+-   Weekly gratitude practice - I go through my calendar for everyone I talked to this week, notice all the interactions I feel excited-in-hindsight about, write them a thank you note detailing what, specifically, I valued about the interaction, and send it to them
+    
+    -   This is far and away the most fun part of the review, and is one of the points that really helps the habit stick. Of all of my systems, this is one of my strongest recommendations for other people to try! I think we all have [a systematic bias about improving the lives of the people we care about](https://www.neelnanda.io/blog/mini-blog-post-10-seek-positive-externalities), and this is a small way to overcome that
+        
+    -   It significantly improves my mood, by getting me to dwell on all of the awesome people in my life. And, especially, trying to put into words what specific things I liked about what they did, rather than just sending a vague thanks
+        
+    -   People often seem concerned that this will feel forced, or make other people feel awkward, or make me seem insincere, but I haven’t encountered any of these issues. The key is that the system isn’t about _forcing_ gratitude - the point is to think about things that happened, and only write a message for the ones where I feel sincere gratitude. And people universally react positively to the message
+        
+    -   It’s also really useful! When I eg meet someone new who I really like, sending a thank you message is an excellent way to signal “I like you and would enjoy keeping in touch”. And this remains sincere, because I rarely want to keep in touch with someone I _didn’t_ enjoy talking to
+        
+-   Noticing my biggest bottleneck, and spending 5 minutes trying to solve it
+    
+    -   I also do the same for my current Hamming Problem - I think of my biggest bottleneck as a short-term, local problem this week, while my Hamming Problem is my current biggest problem in my life more generally. I find it helpful to both zoom in and zoom out like this
+        
+-   Braindumping whatever is on my mind - what did I talk to people about this week? What felt like the biggest things that happened? What weighed on my mind? This creates a fun record to look back on
+    
+-   Following the review with an hour of doing small things on my to-do list, and maintaining my social life
+    
+-   Asking “what am I currently being an idiot about?” - I find this is a surprisingly effective prompt for eg, things I am procrastinating about, people I should be asking for help
+    
+-   Tracking progress and successes - what was a win this week? What research progress did I make?
+    
+
+#### Is this worth your time?
+
+At this point in the post, I’ve hopefully sketched out what a good regular review _could_ look like. But this kind of thing is also effort - setting up and maintaining a routine is hard in the short-term, and even if it works, it’s a consistent drain on your time. So a natural question is, is it worth your time?
+
+I think that for most people reading this who don’t currently do a regular review, the answer is overwhelmingly yes. If you’re the kind of person who reads this blog, agrees with the core insight that [your problems _are_ fixable](https://www.neelnanda.io/blog/mini-blog-post-7-problems-are-for-fixing), and that life _could_ be better, but aren’t sure what to actually _do_ about this, I think this is an excellent place to start. Improving your life isn’t a single flash of inspiration where you realise how to resolve your core problem. It’s a slow, incremental process of noticing problems, trying to fix them, iterating, and slowly making progress. And slow, incremental progress is _really_ powerful in the longterm
+
+![](https://images.squarespace-cdn.com/content/v1/5ed9272a58c63e6402d3fefb/1607938640309-NIWWJIY3S1217BZCBOQB/tiny-gains-graph.jpg?format=1000w)
+
+What success looks like
+
+But it is _not_ the default. For me, a regular review is a cornerstone habit, upon which I can build everything else. Once I _see_ a mistake, fixing it is comparatively easy, but I need to have a routine that forces me to _look_ for them. One friend of mine claims to have completely turned his life around over the past year, and thinks having a regular review was the core of this. There were always failures, off weeks, and times he just didn’t care enough. But the important part was having a safety net, a routine that always got him to _return_ to caring about things
+
+I expect that for _some_ people this is overkill, but only if you feel like you already do this well enough, without the routine. And I think that that’s pretty rare.
+
+If, at this point, you feel convinced that this _could_ be a good idea, but feel unsure, then I suggest re-framing this as an **experiment**! You’re uncertain about whether regular reviewing is a good idea, and it would be valuable to reduce that uncertainty. [Seek upside risk](https://www.neelnanda.io/blog/33-upside-risk)! Make a plan for a weekly review, and make yourself stick to it for the next 3 weeks. And at the end of that, see whether it felt useful - if it did you can continue doing it and get value over the rest of your life, if it didn’t you can just forget about it, with a bit of time and effort wasted. The benefits _massively_ outweigh the costs. And, at least personally, I find that both the enthusiastic and skeptical parts of me can get behind running an experiment - it reframes the problem from “reviews are definitely awesome” to “I want to reduce my uncertainty”.
+
+Further, it’s _hard_ to be confident a review would be useless, without trying it. The benefits are slow and incremental, and we have a systematic bias against noticing the benefits of gradual, exponential growth. Especially when it takes time away from my “urgent”, short-term concerns, that I know I rarely care about a month from now. The only way to resolve a bias like this is to go out, gather data, and _try_ things!
+
+And finally, the goal is not to have a perfect review the _first_ time, this is something you can always improve and iterate. If there’s a 50% chance any given question is worth doing, you can just delete the half that aren’t useful! I’ve deliberately given a ton of prompts in this post, I expect some to be helpful and some to be irrelevant. And you can resolve this by trying and seeing. The question is not whether you could design an excellent review _now_, but whether it would be useful after several rounds of iteration, which is _much_ easier. And something you can only figure out by trying and seeing!
+
+#### Conclusion
+
+Overall, I think regular reviews are extremely valuable. Your life _will_ be full of mistakes, and things that could be better. Your goal is not to _avoid_ this, your goal should be to slowly notice them and then actually _do_ something about it. This is not the default, but you can _make_ it the default. And this can form a cornerstone habit - a source of gradual, incremental growth, a scaffold to peg other things to, a way to notice the wasted motion in your life, and _do_ something about it.
+
+And if you’ve gotten to this part of the article, and buy my case that this is worth trying, implement it! I suggest that you set a [5 minute timer](https://www.google.com/search?q=5%20minute%20timer) **right now**, and make a start on implementing this routine - pick a time, put it in your calendar, set yourself a reminder, and start to brainstorm good questions.
+
+Imagine it’s a month from now, and you’ve never got round to doing a review. Are you surprised by this outcome? If not, what are you going to do about it?

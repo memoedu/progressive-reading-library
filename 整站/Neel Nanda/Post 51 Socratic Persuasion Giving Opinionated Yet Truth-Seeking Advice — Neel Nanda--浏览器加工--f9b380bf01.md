@@ -1,0 +1,481 @@
+# Post 51: Socratic Persuasion: Giving Opinionated Yet Truth-Seeking Advice
+
+_The full post is long, but you can_ **_80/20 the value with the 700 word summary_**_! Over half the post is eight optional case studies. Thanks to Jemima Jones, Claude 4 Opus and Gemini 2.5 Pro for help copy-editing and drafting_
+
+**TL;DR**: I recommend **giving advice by asking questions** to walk someone through key steps in my argument — often I’m missing key info, which comes up quickly as an unexpected answer, while if I’m right I’m more persuasive. This error correction makes it safer to give opinionated advice, without overconfidence. This is useful in a wide range of settings, as a manager, managee, friend, and mentor, and is better for both parties, if you have the time and energy and are able to seriously engage with whether _you_ are wrong.
+
+## Summary
+
+-   **Socratic Persuasion:** When trying to persuade someone, especially if giving advice, I much prefer the Socratic method over directly presenting my case. I take my argument/thought process and break it down into 1-3 key step/cruxes, **reframe each step into a question**, and ask them one at a time.
+    
+    -   If there’s disagreement, **I’ll get an unexpected answer to a question**, and can stop, ask follow-ups, understand why and pivot or adjust as needed
+        
+-   **Being opinionated:** There’s many ways to do this – one solution for giving truth-seeking advice is to be a coach[\[1\]](https://www.neelnanda.io/blog/51-socratic-persuasion#fnl4n25j1zy1), asking questions to help the other person elicit their own thoughts, and trying to not express your own opinions. But **opinionated advice can be extremely useful** if done well, e.g. if I’m mentoring someone in an area I know well, and want to argue a specific case, but gently.
+    
+    -   The standard Socratic method tends to focus on open-ended, unopinionated questions, with Socratic persuasion it's fine to be opinionated.
+        
+    -   For example, different ways to turn “this plan will fail for reason X” into a question
+        
+        -   **Coach:** “what are the strongest arguments against this plan working?” or “suppose this plan failed – what went wrong?”
+            
+        -   **Manager/mentor**: “have you considered reason X?”
+            
+        -   If I know them well and am comfortable being direct: “I think this plan fails for reason X – thoughts?”
+            
+-   **Humility is crucial**: To do Socratic persuasion well you need to really internalise that **you have a decent chance of being wrong**. You need to care about _being_ right, not about winning an argument.
+    
+    -   It’s not about going through the motions of asking questions so you can be more persuasive
+        
+    -   You need to actually pay attention to their answers, **notice surprise or confusion** and consider actually changing course
+        
+    -   If I am wrong, realising this is in my interests and is normal, not something I should feel embarrassed or defensive about
+        
+-   **Why Socratic Persuasion?**
+    
+    -   **Truth-seeking:** The other person knows far more about their own situation and context than me. When giving advice, **I'll often be missing something**, causing awkwardness, defensiveness on either end, or unchallenged bad advice.
+        
+        -   It can also **correct misunderstandings**, if we are talking past each other then they’ll give unexpected answers.
+            
+        -   Socratic Persuasion **fails gracefully** – if I’m missing something, I’ll get an unexpected answer to a question! I can pivot without embarrassment or bad feelings
+            
+    -   **Persuasive:** It's a lot easier for someone to engage with an argument if they **generated the key steps themselves** by answering my questions – if imposed by me, it sparks contrarianism and defensiveness
+        
+    -   **Cooperative**: Done right, Socratic persuasion is **better for both of us**. If I'm right, it's easier for them to see it. And if I'm wrong, I can quickly realise and pivot–it’s in both of our interests. Persuasion should be collaborative, not adversarial.
+        
+-   **Where:** Socratic persuasion is surprisingly versatile, I use it on a daily basis – I give [eight case studies](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Worked_Examples) in this post from various contexts. Eg:
+    
+    -   Giving advice to those I manage or mentor
+        
+    -   Helping a friend/partner deal with a situation
+        
+    -   Helping my reports or mentees prioritise
+        
+    -   Giving career/life advice to someone I've just met at a conference
+        
+    -   Resolving miscommunications with people, especially in more contentious settings
+        
+    -   Trying to resolve disagreements, especially in more contentious or high-stakes settings
+        
+-   **Notes:**
+    
+    -   **Paraphrasing** is incredibly useful: if they give an unexpected and detailed answer, I repeat it back to them in my own words and ask if I understood correctly. Communicating nuanced concepts is hard, and often fails by default - paraphrasing is an **error correction mechanism**
+        
+    -   **The key ideas in here are not novel**. Asking good questions is a classic skill of good coaches, managers, and teachers. But I haven't seen it framed quite like this before, and often see people not practicing this or thinking they should only ask open-ended, unopinionated questions, so I wanted to share my framing in case it's useful to others.
+        
+    -   It can be useful to be **transparent about my intentions** and express humility, especially if there’s a power dynamic.
+        
+        -   E.g. "I think I disagree with you, but I'm not entirely sure. Let's try walking through this together."
+            
+        -   Or "I think I might be misunderstanding you. Can I try walking you through my reasoning and see where the point of confusion is?"
+            
+            -   Or even beginning with "I don't really follow, I must be missing something. Can I ..."
+                
+
+**_Note_**_: The next two sections try to give more motivation, details and warnings on the technique - if you want, you can just skip to the eight case studies, ready in any order:_
+
+1.  [Managing/prioritisation: Convincing a team member that a project is a better use of their time](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Managing_prioritisation__Convincing_a_team_member_that_a_project_is_a_better_use_of_their_time)
+    
+2.  [Debugging/giving negative feedback: Retrospectives on Time Management](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Debugging_giving_negative_feedback__Retrospectives_on_Time_Management)
+    
+3.  [Interpersonal/conflict resolution: Friend Having a Dispute](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Interpersonal_conflict_resolution__Friend_Having_a_Dispute)
+    
+4.  [Domain knowledge/negative feedback: Critiquing Research Project Ideas](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Domain_knowledge_negative_feedback__Critiquing_Research_Project_Ideas)
+    
+5.  [Ambition/career advice: Encouraging Someone to Drop Out of a PhD (to Accept a Job Offer)](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Ambition_career_advice__Encouraging_Someone_to_Drop_Out_of_a_PhD__to_Accept_a_Job_Offer_)
+    
+6.  [Debating: Convincing Someone We Can’t Just Turn Misaligned AI Off](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Debating__Convincing_Someone_We_Can_t_Just_Turn_Misaligned_AI_Off)
+    
+7.  [Reflection/self-improvement: Receiving Negative Feedback](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Reflection_self_improvement__Receiving_Negative_Feedback)
+    
+8.  [Coaching/career advice: Giving Career Advice to Someone I’ve Just Met](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Coaching_career_advice__Giving_Career_Advice_to_Someone_I_ve_Just_Met)
+    
+
+## Why does this matter?
+
+I often find myself in a situation where I need to give advice: talking to people I manage or mentor, my friends or partner, trying to help someone I've just met, etc. This covers a wide range of things from prioritisation, to understanding concepts, to admitting to and updating on their mistakes, to being more ambitious, to taking better care of themselves, to dealing with messy conflicts.
+
+I think that giving advice can be a great use of time – if I have relevant experience or domain expertise I can add a lot of value. Even if I don’t, an outside perspective can be crucial. **But giving good advice is hard**!
+
+I have screwed up a bunch of times: giving counterproductive advice; misunderstanding the situation or the other person's goals; being factually incorrect. Sometimes we didn't realise the confusion and spent a while talking past each other and getting frustrated or defensive.
+
+This means I value being good at giving advice, and this requires thinking about what goes wrong and how to do it well. No matter how much I know about a domain, the other person will always know far more about their own situation, context, beliefs, skills, preferences, etc than I do. There’s a good chance my advice is missing key nuance, or we’re talking past each other, or it’s outright incorrect or harmful. Even if I’m right, just telling people how they’re wrong sparks contrarianism and defensiveness or gets misunderstood.
+
+Socratic persuasion, giving advice via the Socratic method, tends to work _far_ better for me than normal advice giving, and significantly helps with these issues and more:
+
+-   If there’s a misunderstanding or I’m missing context, it gets surfaced quickly by an unexpected answer, or when I paraphrase their answer and get corrected – this can save you from a long and unproductive conversation where you talk past each other.
+    
+    -   This is much better than me giving a full pitch only to realise there was an incorrect early premise – less annoying for them as I haven’t confidently assumed false information, and less embarrassing for me, so it’s easier to acknowledge it.
+        
+-   It reframes things to feel cooperative - if I was wrong about something and get an unexpected answer, it doesn’t _feel_ like I was wrong, it feels like I successfully expressed uncertainty and discovered new info! And, if done right, the other person feels like they’re participating in the case, not having it imposed on them.
+    
+    -   This isn't about showing that I'm right and they're wrong. Ideally, we both feel like we’re figuring out the best path together.
+        
+-   It gracefully transitions from domains I know well to ones I don’t – if I’m giving feedback on something I know well, like interpretability research ideas, I can give pretty leading questions like “I’m concerned this might not work because factor X implies consequence Y, thoughts?”. While in a domain I don’t know well, like advising a friend on how to have a different conversation with their manager, I can focus on more open-ended questions that elicit their thoughts, like “what specific things are you concerned might go wrong here?” or “have you done this kind of thing before? What did/didn’t work?”
+    
+
+There are caveats: this isn't always the best approach, it's more effort and time consuming, and if not handled gracefully, can feel patronizing or like I'm claiming higher status. I'll give some takes later on how to avoid these issues.
+
+## Caveats & Warnings
+
+-   **There’s a good chance you’re wrong!** I've said this many times, but it's important enough to be worth reiterating: When giving advice, there is a good chance you are wrong. No matter how hard you try, this chance will never get close to zero. It is a win, not a loss, if you discover a specific way you were wrong, because this enables you to give better advice!
+    
+    -   The point of methods like Socratic Persuasion is to be more robust to being wrong. But this requires you to be willing to actually change your mind! This is a very important part of the process. It is not just an approach for being better at persuasion with a fixed argument.
+        
+-   **Status dynamics**: It can feel like a bit of a status move, like you know so much better than the other person that you're going to very patiently walk them through what should be patently obvious.
+    
+    -   I find it often helps to explicitly express uncertainty and genuine curiosity.
+        
+        -   Obviously, this is far more effective if you actually feel it!
+            
+    -   For example, "I'm surprised that you said X; my guess is Y. I'd love to understand where I'm going wrong. Do you mind if I walk you through my thought process for Y and you can tell me if I’m missing something?"
+        
+    -   This also makes it much easier to use Socratic persuasion on people higher up than me, though this is still pretty high variance and needs a good ability to read them.
+        
+-   **Negative feedback**: I find that Socratic persuasion _can_ be a very effective way of giving constructive negative feedback. It helps ensure that the other person actually understands it, and can ideally learn from it, and somewhat reduces reflexive defensiveness. But this can also go wrong by e.g. forcing the other person to think deeply about their mistakes and feel stupid or uncomfortable. Or they may spend the whole series of questions thinking that I'm criticizing them, but not know for sure, causing stress
+    
+    -   I recommend being extremely transparent about your intentions up front
+        
+        -   E.g. saying, "Hmm, my guess is that this research plan wouldn't work,  let me see if I can explain why." or "Hmm, I don’t think I agree with that reasoning. Let's try to dig into the details a bit more and see where we disagree."
+            
+    -   I also generally try to focus on constructive improvements for future iterations rather than guilt or blame for past mistakes.
+        
+        -   E.g. explicitly saying, "this isn’t a big deal, but I thought it would be worth discussing and thinking about how this kind of thing could go better next time."
+            
+        -   E.g. sharing anecdotes about how I/others I know have made similar mistakes
+            
+    -   See the [case](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Debugging_giving_negative_feedback__Retrospectives_on_Time_Management) [studies](https://www.lesswrong.com/posts/zesWv9YipxY8pQFKu/socratic-persuasion-giving-opinionated-yet-truth-seeking#Domain_knowledge_negative_feedback__Critiquing_Research_Project_Ideas) on negative feedback for more thoughts
+        
+-   **Read the room**: In general, this can be more intense for the other person than just hearing an argument. This requires some amount of reading the situation to get a sense of if they're fine with that or not.
+    
+
+## **Case Studies**
+
+At its heart, Socratic persuasion is a pretty simple idea – you may wonder why I’m making such a big deal out of it. But this is a very versatile technique! I use it on a daily basis. To illustrate the breadth and give a wider sense of the use cases, here’s 8 case studies - these are all fictional, but representative examples. They can be read in any order
+
+### Managing/prioritisation: Convincing a team member that a project is a better use of their time
+
+**Scenario:** One of the people on my team is choosing their next project, and is interested in research project R. I think infra project X is a higher priority than R, because it will speed up all future research across the team, creating greater total benefit than the direct impact of the research project.
+
+**Goals**: I want to either get them excited about working on infra instead, or change my mind and conclude that R is the right call. It’s pretty important that they’re motivated and happy, so I’d probably prefer them working on R but motivated than feeling forced into working on infra.
+
+_Direct Approach_: "I think we should do the infra project because the speed benefits to future research outweigh the direct benefits of the research project." (Invites reflexive arguments for why R is a really important research project, or pointing out flaws in the proposed infra)
+
+_Socratic Persuasion Approach_:
+
+-   **Framing**: I’d typically try to make my intentions fairly clear, rather than try to be sneaky about it. Eg beginning with something like “how would you feel about doing the infra project instead of the research project?” (which may surface useful info immediately!) followed by “Hmm, I’m not super convinced the research project is the highest priority thing to do next - want to think through this?”
+    
+-   **Premise**: These projects will be about the same amount of effort
+    
+    -   **Ask**: “How many days of work do you estimate either project would take you?”
+        
+    -   If the infra project would take way more effort than I expected, or the research project is much faster, that changes things a lot and I should pivot! Maybe there’s some hidden complexity that makes the infra project way more complex than I think. Or maybe they’re just the wrong person and another team member would be much faster.
+        
+        -   **Follow-up**: If they give an unexpected reason, there’s a good chance I misunderstood it, so I should **paraphrase** it back, e.g. “so you think the infra project is a bad idea because it only helps projects with trait X, and after projects A and B wrap up you don’t expect us to take on any more such projects – have I understood correctly?”
+            
+        -   If ambiguous, I’d ask clarifying questions - e.g. if they give a surprisingly high number, maybe I ask them to break that down into estimates for how long each part would take
+            
+-   **Premise**: The infra project will meaningfully speed up future research
+    
+    -   **Ask**: “If you did the infra project, how much would that speed up other current or future team projects?”
+        
+        -   **Follow-up**: “Can you estimate how much faster they’d go / how many days of work would be saved?”
+            
+        -   If they struggle with either question, I might ask about past projects instead
+            
+    -   The details here can get pretty in the weeds, and my team may know far better than me - I could totally be over-estimating how useful it is, e.g. it’s optimising some part of the tech stack we’re replacing soon
+        
+-   **Deduction**: The amount the future research is sped up outweighs the benefits of the current proposed project
+    
+    -   **Ask**: “How do you think the impact of the extra research that can be done in the time saved by the infra compares to the impact of your research project now?”
+        
+        -   If they agree the impact of the infra work is higher, then this may be enough to change their mind
+            
+        -   But there’s many reasons they could disagree – maybe the proposed research project is really important? Maybe the research is time sensitive a way that infra is not?
+            
+    -   I _could_ have just skipped to asking this question first, but I find that checking/agreeing on premises first is helpful
+        
+-   At this point, we may just agree. But maybe they still seem resistant. In this case I’d ask something more open ended to try to surface additional factors I’m missing, like “I’m curious what still draws you to the research project over the infra project?”
+    
+    -   This might surface perfectly reasonable reasons like that they’ve done a bunch of similar work recently and want variety, or are just _really_ nerdsniped by the research problem and would be very sad to not focus on it. Or that they think the infra project is much riskier/more expensive/disruptive to the rest of the team, but my questions before didn’t explicitly surface this.
+        
+    -   At this point I might just concede that the research project is a good idea, try to talk them out of it, or try to find a superior third option, like 80/20-ing the research project ASAP and then doing the infra one.
+        
+
+### Debugging/giving negative feedback: Retrospectives on Time Management
+
+**Scenario**: When a mentee/someone I manage has spent a month on a project that I think should have taken a week.
+
+**Goals**: We both want them to be faster and more productive, and I have enough authority here that my suggestions and advice are likely to be taken seriously. But equally, they might feel guilty/told off for being too slow, and fixate on that, when what really matters is doing better next time. So I want to both confirm that they actually _could_ have gone much faster, and then keep the conversation focused on actionable next steps and future changes.
+
+-   **Framing**: “huh, I’m surprised that took you a month. Want to reflect on exactly what happened, and if it could go faster next time?”
+    
+-   This is hard to define an argument for up front, as I often have more of a feeling that something doesn't seem challenging enough to have taken a month, rather than a concrete, detailed view of the project. I would start by gathering information.
+    
+    -   **Ask**: "Can you break down the key things you did in this project and estimate roughly how long they took you?"
+        
+        -   This works pretty well for getting more concrete details.
+            
+        -   If one of these stands out as being way too long, we can zoom in on that.
+            
+        -   Either way, we have more grounding. Maybe once I see all the moving parts, I might say, "Oh yeah, that does make sense to have taken that long. That was a harder task than I expected."
+            
+-   Next, I could ask, "Suppose you were doing it again, with the meta-level lessons you've learned now, could you do it faster? If so, how much faster?"
+    
+    -   If they think it went about as fast as was reasonable, I’ll stop and focus on this - it often helps to get concrete, e.g. by focusing on one specific step and how I think it could have done faster.
+        
+        -   Often the biggest speed ups are from cutting low priority things, rather than just “going faster”.
+            
+-   I would then close by trying to make sure this has turned into something actionable, rather than just feeling bad:
+    
+    -   What concrete actions do you want to take differently next time?
+        
+        -   In what context?
+            
+        -   How could you tell when these contexts are arising?
+            
+        -   How can you make sure you remember?
+            
+    -   If you make the same mistake again, how surprised would you be?
+        
+        -   What went wrong?
+            
+        -   What can we do to avoid this?
+            
+-   Maybe we conclude it couldn’t have gone faster, but I think it just wasn’t worth it – I might then pivot into “should we have dropped it?” and, if so, “how could we notice when similar future projects become no longer worth it?
+    
+
+### Interpersonal/conflict resolution: Friend Having a Dispute
+
+**Scenario**: When talking to a friend (A) who's been having a dispute with a mutual friend (B), where I think there was miscommunication and A is more in the wrong but doesn’t want to admit it/apologise
+
+**Goals**: My main goal is to help A have more empathy and resolve the conflict, or realise I’ve misunderstood the situation. But ultimately I don’t care _that_ much about this, and A may be pretty emotionally invested – I wouldn’t want to damage my relationship with A over this. So I’d avoid being too pointed and try to minimise taking sides, and back off if A seems like they just want to vent first.
+
+-   Here, even if I have a good argument for why A should apologise, it’s better to give a more open ended question first. A common mistake is insufficient empathy for the other person’s perspective, so I’d ask “what do you think was going on from B’s perspective?”
+    
+    -   Tbh, this is often enough to majorly diffuse things, by getting A to take a more outside view
+        
+    -   If A gives a view I consider uncharitable, I may push back by questioning specific points I think are wrong
+        
+        -   Or even just “do you _really_ think that \[specific step X\] was what B was thinking?”
+            
+    -   If I don’t have a specific point to poke at, I’d ask something open-ended like “what do you think B should have done, with the information they had?”
+        
+        -   One source of disputes is that B was missing some context, and A hasn’t realised this - this may be surfaced here, and I can ask “did B know that?”
+            
+    -   If A gives a view that seems pretty consistent with things and what I know of B, and B looks bad, then I’ll likely change my mind!
+        
+        -   This would be a meaningful update, so I’d first try to paraphrase their story back to them and check I’ve understood
+            
+
+### Domain knowledge/negative feedback: Critiquing Research Project Ideas
+
+**Scenario**: A mentee comes to me with a research project proposal that I think is significantly flawed, but I can envision a related project that would be more viable.
+
+**Goals**: I need to determine how to convey this feedback tactfully. I want to provide them with a detailed understanding of why their original idea was flawed. Since this is an area where I have a fair amount of domain expertise, I’m reasonably confident in my judgement, but still could totally have missed something or misunderstood their proposal. And they probably have a high opinion of me, so I need to try not to be _too_ harsh or discouraging – it’s totally normal for early research ideas to be bad.
+
+_Direct approach:_ Just explain why I think the idea is flawed (probably makes them feel bad, they may not understand but feel uncomfortable pushing back or asking for clarification, I may have misunderstood the project)
+
+_Socratic persuasion:_
+
+-   **Confirm understanding**: I could easily have misunderstood the idea! I typically would try to paraphrase first and ask if I’ve understood correctly, especially as a new mentee might e.g. feel intimidated/deferential and not correct me if I jump into confident critiques based on false premises
+    
+    -   Or ask clarifying questions
+        
+-   If I see particular steps with key issues, ask targeted questions about those
+    
+    -   “I have concern X about step Y, thoughts?”
+        
+    -   If a specific step seems unrealistically hard/long, ask them “can you walk me through how you’re imagining doing step X and how long you think it’d take?”
+        
+        -   Or, if I think they don’t understand how hard it’d be, be more directed, eg “So, to do step X, I think you’d need to do A, B and C. How long do you think that’d take you?”
+            
+-   If they’re excited about some results that I think have a boring explanation, maybe “Hmm, another possibility for why you saw X is hypothesis Y. Does that seem plausible to you?”
+    
+    -   If they don’t understand, I use Socratic persuasion to guide them through my reasoning for the boring explanation/why it’s boring
+        
+    -   If I’m feeling pedagogical, I’d ask “I think I can see another explanation for your results - can you see any alternate explanations?”
+        
+-   If I’m feeling pedagogical I might just ask something super open-ended like “what are your biggest concerns about the project?” “can you think of any even more exciting projects to do instead?”
+    
+
+### Ambition/career advice: Encouraging Someone to Drop Out of a PhD (to Accept a Job Offer)
+
+**Scenario**: A PhD student I know is considering leaving their program for a job offer, but seems reluctant and risk-averse about the decision. I suspect they have a strong sunk cost bias toward staying in the PhD and should take the offer, but can’t be confident. While I know many people who are very happy they dropped out of a PhD or regret a completing it, I also know a fair amount of people who had a great time in a PhD and grew a lot throughout.
+
+**Goals**: I want to help them make the best decision. I want to be somewhat pushy, since they may not be thinking clearly. But also, this is high-stakes life advice and I have pretty limited info on their situation compared to them, so I want to be particularly careful about being collaborative and epistemically modest rather than imposing my judgment.
+
+_Direct Approach_: "I think you should take the job for reasons XYZ. You clearly have an irrational bias towards the status quo and you're being overly risk-averse." (Likely to trigger defensiveness and doesn't account for factors I might be missing)
+
+_Socratic Persuasion Approach_:
+
+-   **Gathering information**: I would start by gathering info - I don’t know the situation well, and sometimes a decision will become clear to them when they explain it properly
+    
+    -   **Ask**: "What are the biggest pros and cons of taking the job versus staying in the PhD?"
+        
+    -   This often reveals important factors I was missing entirely. Maybe they have specific research they're passionate about, or think the PhD is long-term better for their career, or the job has significant downsides I didn't know about like being really stressful.
+        
+    -   **Follow-up**:
+        
+        -   If I think they’re missing a factor, or misjudging one, ask a question about that
+            
+        -   If not, ask something open ended like “which of these seem most important to you?” or zoom in on an important one and ask them to make it concrete.
+            
+-   **Push for concreteness**: Another way to push through emotional biases (that is much less effective on good counterarguments) is to push for more concreteness
+    
+    -   **Ask**: “Suppose you take the job and, 5 years later, it was clearly a terrible mistake. What went wrong?”
+        
+        -   Or, if the job was clearly a fantastic decision, what happened?
+            
+        -   Sometimes these surface great concerns and I change my mind!
+            
+    -   **Ask**: “What’s the most important thing drawing you to declining the job/doing the PhD?”
+        
+        -   We can then focus on that rather than wasting time on what aren’t cruxes
+            
+-   **Probing into their assumptions**: Sometimes there are third alternatives, or mistaken assumptions. E.g. asking "have you considered taking a leave of absence to try the job for a year?", which PhDs commonly offer
+    
+
+**Warning**: This is particularly high-stakes advice where I need to be ready to back off. If they have a strong gut feeling they can’t articulate, maybe I should just back off rather than pushing further. I also try to periodically check in on if the conversation feels productive, or if there’s something more useful to chat about/they want a break.
+
+Also, it’s my job to help them make the best decision by _their_ values, not mine. E.g. if they really value autonomy, and I think real-world impact is more important, I still want to help them make the best decision by their lights
+
+### Debating: Convincing Someone We Can’t Just Turn Misaligned AI Off
+
+**Scenario**_:_ I meet someone who thinks AI safety concerns are sci-fi nonsense because "if something goes wrong, we can just unplug it." I get the impression that they haven’t engaged much and bounced off some bad arguments, and are fairly confident in their take, but are genuinely happy to engage in good faith.
+
+**Goals**: I want to unpack why they believe what they do and actually get them to change their mind on the key points, rather than just “winning the argument” or refuting their counter-arguments but leaving them gut level convinced they’re right.
+
+This is a non-standard example, since I’m more trying to communicate my existing knowledge, rather than tailoring advice to the other person. But I still need to understand _why_ they disagree, since it often stems from an underlying misunderstanding or disagreement that needs to be identified and unpicked.
+
+_Direct Approach_: "You can’t fetch the coffee if you’re dead"/”it’ll stop us” (likely doesn’t address their underlying disagreement, I’m just trying to loudly disagree)
+
+_Socratic Persuasion Approach_:
+
+-   **Framing (optional)**: "Interesting, I disagree a fair bit with that. Want to walk through how we’re both thinking about this and see where we disagree?."
+    
+-   **Establishing premises**:
+    
+    -   **Ask**: “Do you think we’re going to build human-level AI systems? \[maybe give a more precise definition or timeline\]”
+        
+        -   Often the source of the disagreement is something this fundamental - they’re imagining very different AIs from me! I’d agree with their claims for the AIs they have in mind
+            
+    -   **Ask**: "Do you think we're likely to build highly capable AIs that are goal-directed - that will competently form long-term plans toward some objective and can execute them autonomously?"
+        
+    -   **Follow-up**: "What would that look like concretely? Isn’t there an incentive to build these? What do you expect to go wrong if people try?"
+        
+-   **Making arguments**: Now I’d walk through deductions from these premises
+    
+    -   **Ask**: “I’d argue that a system like that would find it harder to meet its goals if turned off, so it would eventually notice this and try to stop it, thoughts?”
+        
+        -   Maybe they have some strong take that systems will always be corrigible/aligned by default, or that we wouldn’t be stupid enough to give any freedom to a system without ruling out misalignment
+            
+    -   **Ask**: “So, if the AI wants us not to turn it off, and is great at long-term planning, wouldn’t it successfully stop us?”
+        
+        -   Maybe they think we’ll have great monitoring systems, or that the system will be really constrained in what actions it can take
+            
+            -   **Follow-up**: "How costly would that be? Do you think companies would implement that if it significantly slowed down their AI systems?"
+                
+-   In a more intellectual discussion, often any unexpected answers will be pretty nuanced, so I’d always be sure to paraphrase it back and ensure I understood.
+    
+
+### Reflection/self-improvement: Receiving Negative Feedback
+
+**Scenario**: Someone is giving me unprompted negative feedback about how I acted in a situation. Let’s say it’s someone I know fairly well and am happy to give push back to, like my partner or manager
+
+**Goals**: By default I might reflexively defend myself, not engage, or dismiss the feedback as unimportant. But there may be something valuable to learn here, so this could be dumb. My main goals are to understand the feedback clearly, determine if I agree with it, and figure out how to act differently in the future.
+
+**Note**: This is a non-standard example since receiving feedback isn't really about persuasion, but I think the same principles of Socratic questioning are helpful for ensuring I actually understand and can act on the feedback.
+
+_Socratic Approach to Understanding Feedback_:
+
+-   **Understanding**: Firstly I just want to understand the feedback, especially as defensiveness can cause me to flinch away and oversimplify it
+    
+    -   **Ask**: "Can you give me a specific example of when I did this?"
+        
+    -   **Ask**: "What exactly was the bad outcome that resulted?"
+        
+    -   **Follow-up**: Paraphrase this back to them to ensure I understand what they think.
+        
+        -   "So if I understand correctly, you're saying that when I did X, it caused Y, and that was bad because Z. Is that right?"
+            
+        -   This catches misunderstandings early and also shows good faith engagement on my end.
+            
+    -   **Follow-up**: If I disagree with any points, give
+        
+-   **Changing future actions**:
+    
+    -   **Ask**: Ensure it’s actionable at all by asking "What do you think I should have done differently in that situation?"
+        
+        -   If I disagree that their alternative would be better, or think it has hidden costs, I’d probe into that
+            
+    -   Try to figure out how I can act differently in future, and think about better policies I could follow
+        
+        -   **Ask**: "So going forward, if I notice \[trigger condition\], I should try \[alternative behavior\] instead of \[problematic behavior\]. Does that sound like it’d solve the problem?"
+            
+    -   Of course, sometimes it’s not actually worth making any behavioural updates from a single piece of feedback, but it’s worth checking.
+        
+-   **When I disagree**: If I think I actually acted reasonably, I'd probe more:
+    
+    -   **Ask**: "Hmm, I felt like I acted reasonably in that situation. What do you think was the concrete bad outcome?"
+        
+    -   **Ask**: "I agree that's a cost, but I don't see how I could have acted without causing something equally bad to happen. Do you have suggestions for how I could have handled it better?"
+        
+    -   The key is staying curious rather than defensive, while still being able to push back if I genuinely think the feedback is unfair.
+        
+
+### Coaching/career advice: Giving Career Advice to Someone I’ve Just Met
+
+**Scenario**: I meet someone at a conference who wants career advice. E.g. whether to pursue technical AI safety research or do research in AI policy. They show potential in both areas, but I don't know them well enough to give confident advice.
+
+**Goals**: I genuinely don’t know the answer here, and people new to AI can take me too seriously, so I am hesitant about expressing tentative opinions. But I have a bunch of info they may not about the skills and entry paths and experiences of each role. And I can add value by getting them to think about the right questions.
+
+_Socratic Coaching Approach_:
+
+-   **Gathering information**:
+    
+    -   **Ask**: "What are the pros and cons of each option from your perspective?"
+        
+    -   **Ask**: "What makes you think you might be a good fit for each of these roles?"
+        
+    -   **Ask**: "Which aspects of each role get you most excited?"
+        
+    -   For any of these they may bring up something important – a notable achievement or skillset, a preference that helps distinguish between them
+        
+    -   If they struggle to answer eg what they’re excited about, I can give useful info, e.g. “people who enjoy working in technical AI safety often highlight A, B or C – do any of these sound like your kind of thing?”
+        
+    -   Get concrete
+        
+        -   **Ask**: "Suppose you go all-in on AI safety research and, we’re talking 5 years later. What’s your guess for what this looks like?"
+            
+        -   **Ask**: "Same question for the policy path."
+            
+        -   Often this reveals big holes in their models of each role, that I can help fill
+            
+    -   Values and motivations:
+        
+        -   **Ask**: What are your goals here?
+            
+        -   **Ask**: "What kind of work environment makes you most productive and happy?"
+            
+        -   If discussing impact on the world, I will typically just give my opinion on that, since it’s more objective, but emphasise that personal fit can easily be the deciding factor
+            
+-   **Third alternatives**: “what could you do to gather more information about each role?”
+    
+    -   Or just suggesting concrete things to try and pitching them on it
+        
+-   **Expressing opinions**: After all this, I might think that one option is much better, in which case I’d try to use socratic persuasion to walk them through my reasoning
+    
+    -   If I’m not confident enough, I might just say what I think the strongest case for and against each option is – communicating what I think the key factors are is still pretty useful.
+        
+-   **Sharing relevant information**: After gathering their thoughts, I might add:
+    
+    -   "Based on what you've said about enjoying X and being good at Y, here's how I think about the skills needed for each path..."
+        
+    -   "One thing that strikes me is that you mentioned Z as really important to you. How do you think each option would satisfy that?"
+        
+
+## Conclusion
+
+Socratic persuasion isn't for everyone or every scenario, but I have found it _insanely_ useful. I'm not sure what I’d do without it. If any of the examples in this post spoke to you, I'd encourage you to give it a try! Please keep in mind, it only works if you are able to seriously keep in mind that you could be wrong. And be mindful of the ways it could cause a worse experience for the other person, in ways they may not tell you about.
+
+**Exercise**: When do you give advice in your life? Is there anywhere in the past week where you could have tried out Socratic persuasion? Next time this comes up, try it out and see what happens!

@@ -1,0 +1,17 @@
+I have a lot of [opinions](http://en.wikipedia.org/wiki/Effective_altruism) about ethics, and they tend to be different from other people’s. One question that often comes up in conversations, therefore, is “if I do such-and-such, am I a bad person?” or “is X unethical?”
+
+In my experience, there are a couple things that this can mean. One of them is, “does your moral framework say that X is bad?” For utilitarians like myself, there’s not really a concept of “bad” actions and “good” actions per se, only actions that increase or decrease utility by whatever amount. So the actual translation of this question is “does action X maximize utility over the space of all possible actions?” or, if you want a finer-grained answer, “how far away is X from maximizing utility?”
+
+Of course, on this perspective, since almost all actions[1](https://www.benkuhn.net/unethical/#fn:1) do not maximize utility, most things people (including myself) do are “unethical” or “not perfectly ethical”.
+
+Another thing that people can mean is “does X make me a Bad Person?” Now, I’m a [moral anti-realist](http://plato.stanford.edu/entries/moral-anti-realism/)[2](https://www.benkuhn.net/unethical/#fn:2), so Bad Person is just a label that I can choose to apply to people. So the utilitarian translation of this question is “would it increase utility for me to implicitly threaten to call you a Bad Person if you take action X?” Calling people Bad People is a fairly powerful social tool for getting them to do what I think is correct, but it requires that they (or their friends) take my Bad Person label seriously. So I need to choose the _policy about how to apply my Bad Person label_ that optimizes expected utility.
+
+It turns out that this doesn’t involve labeling someone a Bad Person every time they do something non-utilitarian does not maximize utility, for hopefully obvious reasons. Instead, a better policy seems to be something like: if you do something really egregiously non-optimizing, like become a totalitarian dictator, I’ll call you a Bad Person. If you make altruism-hedonism tradeoffs that lie pretty much within the [Overton window](http://en.wikipedia.org/wiki/Overton_window) of socially-acceptable things to say/do, I won’t call you a Bad Person, but I also won’t think you’re particularly good/awesome/exciting/interesting. If you look like you’re actually making a good-faith effort to maximize utility[3](https://www.benkuhn.net/unethical/#fn:3) I will be extremely impressed and think you are excellent and awesome.
+
+* * *
+
+1.  Yes, this is true in the mathematical sense. [↩︎](https://www.benkuhn.net/unethical/#fnref:1)
+    
+2.  Roughly. I think. [↩︎](https://www.benkuhn.net/unethical/#fnref:2)
+    
+3.  By “good-faith effort” I essentially mean trying to figure out what actually maximizes utility and then doing that thing, rather than searching through your brain for a script labeled “things people do to maximize utility” and then executing that script. For instance, people who are executing utility-maximizing scripts tend to, say, build [PlayPumps](http://www.theguardian.com/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts) instead of normal hand pumps, or [train guide dogs instead of curing trachoma](http://www.givingwhatwecan.org/about-us/our-research/the-moral-imperative-towards-cost-effectiveness), or spend massive amounts of time [“raising awareness”](http://en.wikipedia.org/wiki/Susan_G._Komen_for_the_Cure#Controversy_and_criticism). [↩︎](https://www.benkuhn.net/unethical/#fnref:3)

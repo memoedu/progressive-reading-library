@@ -1,0 +1,12 @@
+-   **Soft skills can be trained.** This seems silly, but apparently my previous model of the world was that you could learn how to do math and physics and programming, but “making good conversation” and “being perceptive” and “understanding how people think” were things that you were born with. It turns out that this is, um, not true. Talk about [learned helplessness](http://en.wikipedia.org/wiki/Learned_helplessness).
+    
+-   **Many effective-altruist organizations are bottlenecked on funding _and_ people.** First, I thought they were bottlenecked on funding, because the nonprofit sector was flooded with willing people—but it turns out the EA sector specifically isn’t. Then I thought it was bottlenecked on people because there were plenty of people earning to give—but that’s not true either. Actually, they’re bottlenecked on _both_! So it seems like when deciding whether to do direct work or earn to give, I should focus mostly on my comparative advantage rather than solving the coordination problem.
+    
+-   **Your brain is not a thing.** Well, specifically, it’s a _bunch_ of things (or “subsystems” or whatever if you want to get technical). And sometimes they disagree violently about what to do. One of the most useful things that’s happened to me this year is that I got better at noticing when different systems were disagreeing. When I don’t realize this, the systems have something like a “shouting match” and whichever one is loudest wins. But when I notice it, I can consciously separate the two sides, listen to both and take everyone’s evidence into account—which works much better for decision-making than a yelling contest.
+    
+-   **Thinking of examples is a mild superpower.** Sometimes some irritating part of my brain decides to believe general principles because they’re aesthetically pleasing or an in-group signal rather than because there’s actual evidence for them, and then I walk around with beliefs like “Harvard is full of people who are just there for the brand name”.[1](https://www.benkuhn.net/learned/#fn:1) I’ve gotten better at avoiding this by making sure that whenever I assert some general fact, I can give specific examples of it as well.
+    
+
+* * *
+
+1.  In reality, Harvard is full of people who think that Harvard is full of people who are just there for the brand name. [↩︎](https://www.benkuhn.net/learned/#fnref:1)

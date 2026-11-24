@@ -1,0 +1,15 @@
+La pregunta que titula esta entrada (También planteada en ocasiones como ¿Tú qué harías para salir de la crisis? )es una que, de una manera u otra acaba saliendo cuando se habla con gentes varias sobre la crisis.  Pues bien, la mayoría de veces la respuesta suele centrarse en tres medidas de reducción de déficit: perseguir el fraude fiscal, recortar en autonomías y políticos y recortar en subvenciones y ayudas. (Y subir impuestos a los ricos y perseguir las SICAV, pero esa cantidad es bastante pequeña, incluso sin tener en cuenta la fuga de capitales) Poca gente habla de tocar el llamado gasto social: sanidad, educación o pensiones. Es comprensible: es un principio básico recortar empezando por lo superfluo y no por lo que pueda ser más útil. Así que decidí ponerle números a esos recortes que la gente pide tirando de estudios que ya están hechos, de [FEDEA para el fraude fiscal](http://www.rtve.es/noticias/20120508/fedea-senala-lucha-contra-fraude-fiscal-no-va-resolver-problema-del-deficit/523117.shtml), de [Juan Ramón Rallo para ayudas y subvenciones](http://www.libremercado.com/2012-01-02/juan-ramon-rallo-el-recorte-que-deberia-haber-aprobado-rajoy-62621/), y de [UPyD para el recorte autonómico](http://www.lne.es/elecciones-generales-2011/2011/10/24/upyd-plantea-ahorrar-40000-millones-reformando-ccaa/1147581.html). Los datos estarán desactualizados en parte, pero creo que sirven para hacernos una idea de la magnitud que supone la tarea 'reducir el déficit', y debería hacernos ver que incluso habiendo recortado toda la grasa, sigue habiendo que tocar el sacrosanto e hipertrofiado gasto social. Otra opción es, claro está, completar lo necesario con subidas de impuestos, pero podrían mostrarse contraproducentes (Como quizá veamos al finalizar el presente ejercicio tributario)
+
+[![](https://nintil.com/1-cuantos-recortes-necesitamos/16-1-1.png "Recortes")](https://nintil.com/old_assets/2012/07/16-1-1.png)
+
+-   **[¿Cuántos recortes necesitaríamos para eliminar el déficit? « Gestión de la Salud y gestión sanitaria](http://gestiondelasalud.wordpress.com/2012/08/09/cuantos-recortes-necesitariamos-para-eliminar-el-deficit/)** 2012-08-09T12:54:15Z
+    
+    > \[...\] on artir.wordpress.com Share this:TwitterFacebookLinkedInTumblrCorreo electrónicoImprimirMe gusta:Me gustaBe the first to \[...\]
+    
+-   ![Jimmy](https://www.gravatar.com/avatar/22bda3d183589a0f07a9035abb4409fd?d=identicon) **Jimmy** 2014-01-22T21:00:14Z
+    
+    > Pese a que estoy muy de acuerdo con todo lo que pones en el blog, creo que aquí has patinado, y es que se te ha olvidado mencionar o tener en cuenta que una parte muy considerable del déficit corresponde a las ayudas/rescates que se les dieron a los bancos (creo que el resto de mi argumentación ya es presuponible).
+    
+-   ![artir](https://www.gravatar.com/avatar/77fac16b1eefeb9c6dcd9d0cfa2ea692?d=identicon) **[artir](http://)** 2014-01-22T23:18:14Z
+    
+    > En ese post simplemente recogí propuestas varias para mostrar que ni todas ellas juntas -sin entrar a ver si son realistas-bastarían para reducir el déficit. Su composición es irrelevante para lo que trato de decir.

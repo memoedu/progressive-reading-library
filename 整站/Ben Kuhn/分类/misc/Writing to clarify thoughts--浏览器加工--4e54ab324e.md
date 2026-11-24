@@ -1,0 +1,11 @@
+People often talk about how writing well is useful because it helps clarify your thoughts on a topic. This always seemed a little strange to me. I already think mostly in language![1](https://www.benkuhn.net/writing-clarify-thoughts/#fn:1) It’s even pretty good language most of the time![2](https://www.benkuhn.net/writing-clarify-thoughts/#fn:2) And thoughts are way more flexible than text, as I’m sure anyone who’s tried to write something complex would agree. So there’s not much reason to believe writing things down would help. Yet it does—even writing this post helped me think about its point better. Why does this happen?
+
+Ideas in your head are part of a massive web of different thoughts that have accumulated over months or years. Think of it as a [graph](http://en.wikipedia.org/wiki/Graph_%28mathematics%29), maybe (in the computer-science sense): a bunch of vertices (ideas) with lots and lots of edges (logical connections and relations) between them. That kind of structure is ill-suited to being put into writing because writing is essentially linear. If you were to jump around between ideas in order to describe all the connections between them it would take ages to transfer the entire thing to your reader’s head.
+
+Writing a good paragraph therefore involves excising some subset of these ideas and figuring out how to put them in order. That’s the part where good writing helps good thinking. The constraints of the medium—linearity and low information density relative to thinking—turn out to be a benefit, because they force you to compress your idea into a form that’s easy to transmit and work with. The constraints breed creativity because they force you to think about your idea in new ways. Meanwhile, having the idea in compressed form is good even if you don’t want to communicate it because it frees up more working memory to think about other things.
+
+* * *
+
+1.  When I’m not thinking in math, that is, but hopefully visualization is exempt from the assertion that writing makes you think better. [↩︎](https://www.benkuhn.net/writing-clarify-thoughts/#fnref:1)
+    
+2.  Or I think so, at least. When I pay too much attention to my sentences as I think them I get self-conscious, so observation is difficult. [↩︎](https://www.benkuhn.net/writing-clarify-thoughts/#fnref:2)

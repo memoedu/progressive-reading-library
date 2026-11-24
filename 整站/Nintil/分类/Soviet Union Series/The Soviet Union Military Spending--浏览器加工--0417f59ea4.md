@@ -1,0 +1,96 @@
+\[Part of the [Soviet Union series](https://nintil.com/2016/05/14/the-soviet-union-series/)\]
+
+This one is easier than the previous ones
+
+[![defchart](https://nintil.com/old_assets/2016/05/31-1.png)](https://artir.wordpress.com/2016/05/31/the-soviet-union-military-spending/defchart/#main)
+
+Notice that this chart is put together from different sources. I used % of National Income (GDP for usa, and NMP converted to GDP for the Soviet Union) for both countries, but different procedures for computing Soviet GDP will yield different estimates. The huge dispersion in 1980 comes from Harrison (2003), where he collects many different estimates.
+
+Even today we don't have fully reliable numbers on Soviet military spending. During the Cold War there was a whole literature (Dudkin & Vasilevsky 1987, Noren 1995, Steinberg 1990) devoted to these estimates. One example from Noren's paper:
+
+[![milesp](https://nintil.com/old_assets/2016/05/31-2.png)](https://artir.wordpress.com/2016/05/31/the-soviet-union-military-spending/milesp/#main)
+
+Given my chart, one would say that military spending was around 10-20% of Soviet GDP, so perhaps a compromise figure of 15%, around twice USA spending. However, Harrison 2003 leads some support to the idea that actual military spending was around 20%, at the upper range of the Cold War estimates. Being street bayesians, let's conclude that it was 18% for now.
+
+Bonus: Was US military technology more advanced than the Soviet's? Yes, but not by a large margin (Perry, 1973)
+
+Bonus2: Did Reagan induce a Soviet increase in military spending that in turn lead to the collapse of the Soviet Union? (For the thesis see Busch 1997, against the thesis Dobson 2005. For more, see the [AskHistorians subreddit](https://www.reddit.com/r/AskHistorians/comments/4cn9e8/how_actually_responsible_was_ronald_reagan_for/)) Reagan's policies were at much a secondary factor in explaining why the Soviet economy crashed. In that sense, he didn't win the Cold War. Rather, The Soviet Union committed suicide by virtue of the deterioration of its economic system in the late 70s.
+
+(Edit)
+
+We can also look at military spending on a per capita basis, and see also the absolute amount of spending. For that, I multiply my values above by GDP as measured by Maddison (I assume 18% of GDP spending for the Soviets in the 78-85 period), and then I multiply by population. Population for the US comes from the [US Census](http://www.census.gov/popest/data/national/totals/pre-1980/tables/popclockest.txt), population for the USSR comes from the [UN](https://commons.wikimedia.org/wiki/File:Population_of_former_USSR.PNG).
+
+![Capturan](https://nintil.com/old_assets/2016/05/31-3.png)
+
+![Capturan](https://nintil.com/old_assets/2016/05/31-4.png)
+
+![Capturan.PNG](https://nintil.com/old_assets/2016/05/31-5.png)
+
+If this is so, then Reagan's buildup didn't really increase the Soviet's military burden. Reagan's increase from valley to peak was of 62.5% while the Soviet answer to that was a mere 12%.
+
+[Here](http://one-salient-oversight.blogspot.co.uk/2012/09/let-end-this-nonsense-reagan-military.html) someone got a figure that looks like mine, and it also shows that the Soviet increase in spending came way before Reagan:
+
+![](https://nintil.com/old_assets/2016/05/31-6.png)
+
+## References
+
+Allen, R. C. (2003). _Farm to factory: a reinterpretation of the Soviet industrial revolution_. Princeton University Press.
+
+Busch, A. E. (1997). Ronald Reagan and the defeat of the Soviet empire. _Presidential Studies Quarterly_,_27_(3), 451-466.
+
+CIA (1977) Estimated Soviet Defense Spending in Rubles
+
+Daggett, S., & Belasco, A. (2002, March). Defense Budget for FY2003: Data Summary. CRS Report for Congress, March.
+
+Dobson, A. P. (2005). The Reagan administration, economic warfare, and starting to close down the cold war. _Diplomatic History_, _29_(3), 531-556.
+
+Dudkin, L., & Vasilevsky, A. (1987). The Soviet Military Burden: A Critical Analysis of Current Research. _Hitotsubashi journal of economics_, 41-61.
+
+Federation of American Scientists (2000) http://fas.org/nuke/guide/russia/agency/mo-budget.htm
+
+Harrison, M. (1988). Resource mobilization for World War II: the USA, UK, USSR, and Germany, 1938‐1945′. _The Economic History Review_, _41_(2), 171-192.
+
+Harrison, M. (2003). How much did the Soviets really spend on defence? New evidence from the close of the Brezhnev era.
+
+Noren, J. H. (1995). The controversy over Western measures of Soviet defense expenditures. _Post-Soviet Affairs_, _11_(3), 238-276.
+
+Nove, A. (1992). An Economic History of the USSR, 1st edn, London: Allen Lane, 1969; revised 1989; revised as An Economic History of the USSR, 1917–1991.
+
+Perry, R. (1973). _Comparisons of Soviet and US Technology_. Rand.
+
+Steinberg, D. (1990). Trends in Soviet military expenditure. _Europe‐Asia Studies_, _42_(4), 675-699.
+
+SIPRI http://www.sipri.org/research/armaments/milex/milex\_database
+
+## Appendix
+
+#### Soviet Military Spending
+
+| Year | Source | % of NI | | 1928 | Allen(2003) | 0,5 | | 1929 | Allen(2003) | 1 | | 1930 | Allen(2003) | 1 | | 1931 | Allen(2003) | 1 | | 1932 | Allen(2003) | 1 | | 1933 | Allen(2003) | 1 | | 1934 | Allen(2003) | 2 | | 1935 | Allen(2003) | 3 | | 1936 | Allen(2003) | 5 | | 1937 | Allen(2003) | 4 | | 1938 | Allen(2003) | 6 | | 1939 | Allen(2003) | 8 | | 1940 | Nove(1992) | 15 | | 1940 | Allen(2003) | 11 | | 1940 | Harrison(1988) | 20 | | 1942 | Nove(1992) | 55 | | 1942 | Harrison(1988) | 66 | | 1943 | Harrison(1988) | 58 | | 1944 | Harrison(1988) | 52 | | 1950 | Nove(1992) | 19 | | 1951 | Nove(1992) | 21 | | 1952 | Nove(1992) | 24 | | 1970 | CIA1(1977) | 12 | | 1971 | CIA1(1977) | 12 | | 1972 | CIA1(1977) | 12 | | 1973 | CIA1(1977) | 12 | | 1974 | CIA1(1977) | 12 | | 1975 | CIA1(1977) | 12 | | 1976 | CIA1(1977) | 12 | | 1980 | Harrison(2003) | 17 | | 1980 | Harrison(2003) | 17 | | 1980 | Harrison(2003) | 16 | | 1980 | Harrison(2003) | 15 | | 1980 | Harrison(2003) | 25 | | 1980 | Harrison(2003) | 13 | | 1980 | Harrison(2003) | 8 | | 1980 | Harrison(2003) | 8 | | 1980 | Harrison(2003) | 3 | | 1980 | Harrison(2003) | 25 | | 1987 | FAS(2000) | 13 | | 1988 | FAS(2000) | 13 | | 1988 | Cooper(1998) | 16 | | 1989 | FAS(2000) | 11 | | 1989 | Cooper(1998) | 14 | | 1990 | FAS(2000) | 11 | | 1990 | Cooper(1998) | 12 | | 1991 | FAS(2000) | 10 |
+
+#### US Military Spending
+
+| Source | Source | % of NI | | 1928 | CRS Report (2002) | 0,7 | | 1929 | CRS Report (2002) | 0,7 | | 1930 | CRS Report (2002) | 0,8 | | 1931 | CRS Report (2002) | 0,9 | | 1932 | CRS Report (2002) | 1 | | 1933 | CRS Report (2002) | 1,1 | | 1934 | CRS Report (2002) | 0,9 | | 1935 | CRS Report (2002) | 1 | | 1936 | CRS Report (2002) | 1,2 | | 1937 | CRS Report (2002) | 1,1 | | 1938 | CRS Report (2002) | 1,2 | | 1939 | CRS Report (2002) | 1,2 | | 1940 | CRS Report (2002) | 1,7 | | 1941 | CRS Report (2002) | 5,6 | | 1942 | CRS Report (2002) | 17,8 | | 1943 | CRS Report (2002) | 37 | | 1944 | CRS Report (2002) | 37,9 | | 1945 | CRS Report (2002) | 37,5 | | 1946 | CRS Report (2002) | 19,2 | | 1947 | CRS Report (2002) | 5,5 | | 1948 | CRS Report (2002) | 3,6 | | 1949 | SIPRI(2015) |                 5,1 | | 1950 | CRS Report (2002) | 4,8 | | 1950 | SIPRI(2015) |                 4,9 | | 1951 | CRS Report (2002) | 5 | | 1951 | SIPRI(2015) |                 9,7 | | 1952 | SIPRI(2015) |              13,3 | | 1953 | SIPRI(2015) |              13,0 | | 1954 | SIPRI(2015) |              11,2 | | 1955 | SIPRI(2015) |                 9,7 | | 1956 | SIPRI(2015) |                 9,5 | | 1957 | SIPRI(2015) |                 9,6 | | 1958 | SIPRI(2015) |                 9,7 | | 1959 | SIPRI(2015) |                 9,0 | | 1960 | SIPRI(2015) |                 8,6 | | 1961 | SIPRI(2015) |                 8,8 | | 1962 | SIPRI(2015) |                 8,9 | | 1963 | SIPRI(2015) |                 8,5 | | 1964 | SIPRI(2015) |                 7,7 | | 1965 | SIPRI(2015) |                 7,2 | | 1966 | SIPRI(2015) |                 8,1 | | 1967 | SIPRI(2015) |                 9,1 | | 1968 | SIPRI(2015) |                 8,9 | | 1969 | SIPRI(2015) |                 8,3 | | 1970 | SIPRI(2015) |                 7,7 | | 1971 | SIPRI(2015) |                 6,6 | | 1972 | SIPRI(2015) |                 6,3 | | 1973 | SIPRI(2015) |                 5,7 | | 1974 | SIPRI(2015) |                 5,7 | | 1975 | SIPRI(2015) |                 5,4 | | 1976 | SIPRI(2015) |                 5,0 | | 1977 | SIPRI(2015) |                 5,0 | | 1978 | SIPRI(2015) |                 4,8 | | 1979 | SIPRI(2015) |                 4,8 | | 1980 | SIPRI(2015) |                 5,0 | | 1981 | SIPRI(2015) |                 5,4 | | 1982 | SIPRI(2015) |                 6,6 | | 1983 | SIPRI(2015) |                 6,0 | | 1984 | SIPRI(2015) |                 5,9 | | 1985 | SIPRI(2015) |                 6,1 | | 1986 | SIPRI(2015) |                 6,3 | | 1987 | SIPRI(2015) |                 6,1 | | 1988 | SIPRI(2015) |                 5,7 | | 1989 | SIPRI(2015) |                 5,5 | | 1990 | SIPRI(2015) |                 5,3 | | 1991 | SIPRI(2015) |                 4,6 |
+
+| | USA GDPpc | USSR GDPpc | USA military pc | USSR military pc | USA Population | USSR Population | Total USA(bn) | Total USSR(bn) | | 1928 | 6569 | 1370 | 46 | 7 | 120509000 | | 6 | | | 1929 | 6899 | 1386 | 48 | 7 | 121767000 | | 6 | | | 1930 | 6213 | 1448 | 50 | 9 | 123076741 | | 6 | | | 1931 | 5691 | 1462 | 51 | 9 | 124039648 | | 6 | | | 1932 | 4908 | 1439 | 49 | 10 | 124840471 | | 6 | | | 1933 | 4777 | 1493 | 53 | 10 | 125578763 | | 7 | | | 1934 | 5114 | 1630 | 46 | 33 | 126373773 | | 6 | | | 1935 | 5467 | 1864 | 55 | 52 | 127250232 | | 7 | | | 1936 | 6204 | 1991 | 74 | 92 | 128053180 | | 10 | | | 1937 | 6430 | 2156 | 71 | 95 | 128824829 | | 9 | | | 1938 | 6126 | 2150 | 74 | 127 | 129824939 | | 10 | | | 1939 | 6561 | 2237 | 79 | 189 | 130879718 | | 10 | | | 1940 | 7010 | 2144 | 119 | 343 | 132122446 | | 16 | | | 1941 | 8206 | | 460 | | 133402471 | | 61 | | | 1942 | 9741 | | 1734 | | 134859553 | | 234 | | | 1943 | 11518 | | 4262 | | 136739353 | | 583 | | | 1944 | 12333 | | 4674 | | 138397345 | | 647 | | | 1945 | 11709 | | 4391 | | 139928165 | | 614 | | | 1946 | 9197 | 1913 | 1766 | | 141388566 | | 250 | | | 1947 | 8886 | 2126 | 489 | | 144126071 | | 70 | | | 1948 | 9065 | 2402 | 326 | | 146631302 | | 48 | | | 1949 | 8944 | 2623 | 452 | | 149188130 | | 67 | | | 1950 | 9561 | 2841 | 459 | 527 | 152271417 | 181077000 | 70 | 95 | | 1951 | 10116 | 2806 | 746 | 599 | 154877889 | 183610000 | 116 | 110 | | 1952 | 10316 | 2937 | 1370 | 701 | 157552740 | 186527000 | 216 | 131 | | 1953 | 10613 | 3013 | 1381 | | 160184192 | 189707000 | 221 | | | 1954 | 10359 | 3106 | 1165 | | 163025854 | 193061000 | 190 | | | 1955 | 10897 | 3313 | 1061 | | 165931202 | 196513000 | 176 | | | 1956 | 10914 | 3566 | 1036 | | 168903031 | 200011000 | 175 | | | 1957 | 10920 | 3576 | 1046 | | 171984130 | 203524000 | 180 | | | 1958 | 10631 | 3777 | 1026 | | 174881904 | 207035000 | 179 | | | 1959 | 11230 | 3669 | 1016 | | 177829628 | 210548000 | 181 | | | 1960 | 11328 | 3945 | 976 | | 180671158 | 214062000 | 176 | | | 1961 | 11402 | 4098 | 1001 | | 183691481 | 217563000 | 184 | | | 1962 | 11905 | 4140 | 1065 | | 186537737 | 221016000 | 199 | | | 1963 | 12242 | 3985 | 1036 | | 189241798 | 224360000 | 196 | | | 1964 | 12773 | 4439 | 986 | | 191888791 | 227519000 | 189 | | | 1965 | 13419 | 4634 | 967 | | 194302963 | 230441000 | 188 | | | 1966 | 14134 | 4804 | 1141 | | 196560338 | 233092000 | 224 | | | 1967 | 14330 | 4963 | 1299 | | 198712056 | 235502000 | 258 | | | 1968 | 14863 | 5202 | 1319 | | 200706052 | 237743000 | 265 | | | 1969 | 15179 | 5225 | 1256 | | 202676946 | 239933000 | 255 | | | 1970 | 15030 | 5575 | 1156 | 669 | 205052174 | 242148000 | 237 | 162 | | 1971 | 15304 | 5667 | 1017 | 680 | 207660677 | 244423000 | 211 | 166 | | 1972 | 15944 | 5643 | 1000 | 677 | 209896021 | 246737000 | 210 | 167 | | 1973 | 16689 | 6059 | 946 | 727 | 211908788 | 249075000 | 200 | 181 | | 1974 | 16491 | 6176 | 945 | 741 | 213853928 | 251396000 | 202 | 186 | | 1975 | 16284 | 6135 | 879 | 736 | 215973199 | 253676000 | 190 | 187 | | 1976 | 16975 | 6363 | 847 | 764 | 218035164 | 255909000 | 185 | 195 | | 1977 | 17567 | 6454 | 873 | 968 | 220239425 | 258121000 | 192 | 250 | | 1978 | 18373 | 6559 | 875 | 1181 | 222584545 | 260328000 | 195 | 307 | | 1979 | 18789 | 6472 | 897 | 1165 | 225055487 | 262576000 | 202 | 306 | | 1980 | 18577 | 6427 | 921 | 1157 | 227224681 | 264883000 | 209 | 306 | | 1981 | 18856 | 6433 | 1024 | 1158 | 229465714 | 267239000 | 235 | 309 | | 1982 | 18325 | 6536 | 1203 | 1176 | 231664458 | 269627000 | 279 | 317 | | 1983 | 18920 | 6687 | 1144 | 1204 | 233791994 | 272053000 | 267 | 327 | | 1984 | 20123 | 6709 | 1185 | 1208 | 235824902 | 274537000 | 279 | 332 | | 1985 | 20717 | 6708 | 1268 | 1208 | 237923795 | 277067000 | 302 | 335 | | 1986 | 21236 | 6923 | 1338 | 1038 | 240132887 | 279665000 | 321 | 290 | | 1987 | 21788 | 6952 | 1326 | 896 | 242288918 | 282280000 | 321 | 253 | | 1988 | 22499 | 7043 | 1293 | 986 | 244498982 | 284772000 | 316 | 281 | | 1989 | 23059 | 7112 | 1279 | 925 | 246819230 | 286945000 | 316 | 265 | | 1990 | 23201 | 6894 | 1225 | 793 | 249464396 | 288667000 | 305 | 229 | | 1991 | 22833 | 6425 | 1044 | 660 | 252153092 | 289888000 | 263 | 191 |
+
+-   **[The Soviet Union series | Nintil](https://nintil.com/2016/05/14/the-soviet-union-series/)** 2016-05-31T16:38:54Z
+    
+    > \[…\] The Soviet Union: Military Spending \[…\]
+    
+-   ![akarlin](https://www.gravatar.com/avatar/11c7a9262855d91316d620adedf79fa2?d=identicon) **[akarlin](http://akarlin.com/)** 2016-06-03T01:50:16Z
+    
+    > _Rather, The Soviet Union committed suicide by virtue of the deterioration of its economic system in the late 70s._
+    > 
+    > That was a factor, but far from a critical one. The centrally planned economy was inefficient but stable. The key mistake was conducting political and market reforms at the same time (thus provoking a recession while simultaneously making the Soviet state both answerable for it and enabling the airing of formerly repressed nationalist sentiments). Incidentally, Andropov planned to do the latter before the former, but he died too early.
+    
+-   ![Artir](https://www.gravatar.com/avatar/77fac16b1eefeb9c6dcd9d0cfa2ea692?d=identicon) **[Artir](http://)** 2016-06-03T11:32:49Z
+    
+    > Yes, I agree with that. The Soviet Union could have lasted far longer (See North Korea, it's still happily there). The downfall of the USSR deserves a post of its own, and I'll come to that at some point.
+    
+-   **[Is Healthcare eating our seed grain? – blrfurther.com](http://www.blrfurther.com/is-healthcare-eating-our-seed-grain/)** 2017-07-21T19:45:29Z
+    
+    > \[…\] and intentionally spend a high percentage on a domestically and politically popular sector. \[See: Soviet Union Military Spending\]. Never-the-less, when one sector of the economy consumes a disproportionate share of wealth it \[…\]
+    
+
+_Ricón, José Luis, “The Soviet Union: Military Spending”, Nintil (2016-05-31), available at https://nintil.com/the-soviet-union-military-spending/._

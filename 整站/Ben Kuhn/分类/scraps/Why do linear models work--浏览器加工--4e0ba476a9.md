@@ -1,0 +1,7 @@
+People often do statistics using linear models, which assume that the thing you’re trying to predict (_Y_) is a linear function of some set of covariates (_X_). That’s an incredibly restrictive assumption; almost nothing is linear! It’s confusing, then, why linear models seem to work reasonably well in practice a lot of the time. Why is that?
+
+The answer is, basically, [Taylor’s Theorem](http://en.wikipedia.org/wiki/Taylor%27s_theorem). Even if the true relation _Y = f(X)_ is not linear, _f_ is reasonably well-approximated by a linear function around any point of interest, as long as you don’t get too far away from that point. And it turns out that for “many” things statisticians care about, the range of your data isn’t that large, so the Taylor approximation of linearity works reasonably well.
+
+More precisely, if you include polynomial terms up to order _k_ in your linear model, then the approximation error is some function of the magnitude of its _(k+1)_\-th derivative. And it’s common in statistics to find that, even if the functions you’re trying to model are nonlinear, their higher-order derivatives decay to zero pretty quickly. You can think of this as encoding an assumption that the function must be “simple.”
+
+(Of course, the range of data is quite frequently large enough that you miss important things by assuming linearity. So the Taylor expansion explanation is more like “why linear models aren’t hopelessly inadequate” than “why linear models work really well.”)

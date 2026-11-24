@@ -1,0 +1,53 @@
+John Rawls ( 1921 – 2002) fue uno de los filósofos políticos más influyentes de la Historia de la Filosofía Política moderna. Robert Nozick, quien escribiera _Anarchy, State and Utopia_ replicando a _A Theory of Justice_ de Rawls llegó a decir que “los filósofos políticos actuales deben trabajar dentro del marco conceptual de Rawls o justificar por qué no lo están haciendo”.\*\*\*\* \*\*\*\*
+
+La sombra de Rawls es larga, y a día de hoy sus razonamientos y su concepción de Justicia como Equidad siguen formando parte implícita o explícita de las argumentaciones progresistas en defensa del Estado del Bienestar, la redistribución y la igualdad.\*\*\*\* \*\*\*\*
+
+En este artículo plantearé algunos problemas que presentan las teorías de contrato social hipotéticas, dentro de las cuales se enmarca la de Rawls. Dejo para un artículo posterior la crítica a la teoría rawlsiana en sí. Ofreceré argumentos mayormente basados en Huemer (2013) y que a día de hoy no tienen réplica desde el campo ralwsiano. Estos argumentos son generales y aplican a toda variante de la teoría ralwsiana, como la reformulación utilitarista de Harsanyi (1975).\*\*\*\* \*\*\*\*
+
+**Contratos hipotéticos**\*\*\*\* \*\*\*\*
+
+Antes de hablar de los particulares de la teoría rawlsiana, hay que explicar un concepto fundamental para entenderla, que es el de contratos hipotéticos.\*\*\*\* \*\*\*\*
+
+Un contrato explícito es el contrato que todo el mundo tiene en mente cuando piensa en un contrato: un acuerdo voluntario entre partes, tras el consentimiento explícito de las mismas. Un contrato implícito es un acuerdo voluntario entre partes donde el consentimiento es implícito: se señaliza mediante ciertas acciones que generalmente se aceptan como simbolizadoras de aceptación. Un ejemplo es el contrato que se celebra entre cliente y dueño de un restaurante: sin mediar palabra ni firma de contratos, al pedir y disfrutar un plato, el cliente se obliga al posterior pago del mismo.\*\*\*\* \*\*\*\*
+
+Los contratos hipotéticos están más alejados aún de la claridad de los contratos explícitos: son contratos que se entiende que uno acepta porque en ciertas circunstancias hipotéticas uno lo hubiera aceptado. Suena antiintuitivo, pero el siguiente ejemplo lo hará más claro: pensemos en una persona que tiene un accidente, queda inconsciente y es llevada en ambulancia a un hospital. Necesita cirugía para sobrevivir, y el equipo médico se la practica. Normalmente uno no puede abrir con un bisturí a otra persona salvo que ésta le de permiso, pero en estos casos se entiende que esa persona, de estar consciente, hubiese consentido, lo que legitima la acción del médico.\*\*\*\* \*\*\*\*
+
+Los contratos hipotéticos, si bien prácticos, pueden ser problemáticos, pues implican plantearse un contrafactual (“Si la persona estuviese en la situación X…”) y luego suponer que en esa situación, aceptaría (“… aceptaría el contrato Y”). Eso explica por qué apenas pueden encontrarse contratos así entre todo el abanico de contratos que regulan las relaciones entre miembros de una sociedad.\*\*\*\* \*\*\*\*
+
+Si uno reflexiona sobre casos de contratos hipotéticos, llegará a la conclusión de que hacen falta dos condiciones para que sean válidos: la primera, que no pueda obtenerse consentimiento explícito. La segunda, que los valores y convicciones filosóficas fundamentales de la persona -por erróneas que sean- sobre la que se realiza el contrafactual sean los mismos. Así se garantiza por un lado que la decisión real tiene primacía sobre la hipotética, y que en el contrafactual, la decisión de la persona sea la que realmente tomaría de poder pedírsele su opinión. En el caso de la operación, si llega un paciente que está en plena posesión de sus facultades mentales, pero que por cualquier motivo no quiere que se le practique cirugía y así lo manifiesta, no será legítimo que se le practique. De igual manera, no sería legítimo que el cirujano aprovechase para realizarle una operación de cambio de sexo al paciente, asumiendo que en ciertas condiciones hipotéticas, las preferencias del paciente serían tales que querría que se le practicase esa operación.\*\*\*\* \*\*\*\*
+
+Vemos por tanto un primer problema de una teoría de contrato social hipotética: que ambas condiciones se incumplen. Por un lado, el consentimiento explícito de los ciudadanos sí puede obtenerse. Por otro, la aceptación hipotética de un contrato social implicaría que ciertos individuos, opuestos al gobierno que exige el contrato social, tendrían que cambiar sus convicciones para, en el contrafactual, aceptar ese gobierno.\*\*\*\* \*\*\*\*
+
+**Contratos hipotéticos razonables**\*\*\*\* \*\*\*\*
+
+Otros filósofos defienden que si un sistema político puramente voluntario es inviable, puede aproximarse por un sistema político tal que nadie tenga ningún argumento razonable para estar en contra de él. Una forma de mostrar que un sistema político sería el resultado de un acuerdo razonable es suponer que los ciudadanos son perfectamente racionales, razonables (dispuestos a realizar acuerdos justos con otros, si ellos también lo están, y teniendo en cuenta los intereses de la otra parte) y que tienen conocimiento perfecto en economía, teoría de juegos y otras materias. Sin embargo, no pueden suponerse demasiadas cosas: no puede suponerse que el acuerdo hipotético razonable puede alcanzarse sólo después de que todas las partes acepten como verdaderos los principios que quieren demostrarse que emergerían del acuerdo.\*\*\*\* \*\*\*\*
+
+A día de hoy, ningún filósofo ha demostrado que exista un sistema político en concreto tal que toda persona razonable esté de acuerdo con él. Han mostrado que para que un sistema político sea aceptable, debe cumplir ciertas condiciones, pero no que ningún sistema en concreto las satisfaga. En el caso de Rawls, éste trata de justificar que su teoría sería aceptada aún en presencia de desacuerdo, pues es defendible desde una variedad de puntos de vista filosóficos. Pero lo que realmente hace Rawls es decir que una teoría razonable cumpliría eso. No demuestra que \_su\_teoría lo haga. En tanto los teóricos de contrato social hipotético se imponen como condición que toda persona razonable aceptaría su sistema, y existen personas razonables que no lo hacen, sus teorías fallan en sus propios términos. Incluso si sólo quisiesen justificar el Estado, sin más, bastaría un anarquista razonable para que se invaliden. Como dice Huemer:\*\*\*\* \*\*\*\*
+
+> _This constraint derives not from my own philosophical views but from those of my opponents, the hypothetical social contract theorists who claim that hypothetical consent establishes reasonableness. It is these theorists who have laid down as a condition of legitimacy that all reasonable people agree on a given social arrangement. It is, therefore, not I but such hypothetical contract theorists as Rawls, Scanlon, and Nagel who have in effect granted the reasonable anarchist’s veto._
+
+La teoría presenta otro problema adicional: aunque se demuestre que toda persona razonable sí aceptaría el contrato social, el que algo sea razonable no implica per se que pueda ser coercitivamente impuesto. Si aceptamos “Uno puede coaccionar a un individuo si no fuese razonable que el individuo acepte el contrato” aceptaríamos que si una empresa le ofrece unas condiciones de trabajo geniales a un trabajador, tal que si el trabajador fuese totalmente racional y razonable lo aceptase, la empresa podría obligar al trabajador a trabajar para la misma, lo que vendría ser legitimar un caso particular de trabajos forzados.\*\*\*\* \*\*\*\*
+
+Uno podría objetar que en ciertos casos, uno sí puede coaccionar a otro si esa persona no respeta unas normas razonables que no ha consentido. Por ejemplo: si un grupo de personas llegan a una isla desierta donde hay una cantidad limitada de animales para cazar, y el grupo decide limitar su caza para evitar acabar con todos los animales, puede llegar una persona que no quiera respetar el acuerdo y decida cazar por su cuenta, poniendo en peligro al grupo. En este caso, se vería aceptable restringir las capturas de este individuo que no quiere aceptar unas reglas razonables para el uso de un recurso común.\*\*\*\* \*\*\*\*
+
+La diferencia entre el caso del empleado y el de la isla está en que el empleado tiene derecho a disponer de su cuerpo como quiera, mientras que en la isla, los animales pueden considerarse una propiedad común de los náufragos, sujeta a una potencial tragedia de los comunes. El caso del contrato social hipotético es más parecido al primero, pues los derechos que da al Estado y las obligaciones que genera en la sociedad atentarían contra la propiedad de los miembros de la sociedad. Uno no podría evitar de forma sencilla esta conclusión diciendo que el Estado tiene derecho a manejar la propiedad de sus ciudadanos según ciertas reglas, o que todos los bienes de una sociedad son propiedad de toda la sociedad, pues lo primero implicaría que el Estado tiene autoridad para hacer eso (que es lo que justamente se quiere probar con el contrato social) y lo segundo requeriría una teoría de la propiedad que necesitaría una argumentación adicional, y que no se antoja fácil.
+
+En el siguiente artículo entraremos en los particulares de la teoría de Rawls y sus dos principios de la justicia.\*\*\*\* \*\*\*\*
+
+**Recapitulando…**
+
+En tanto teoría de contrato social hipotética, la Teoría de la Justicia de Rawls adolece de los siguiente problemas:\*\*\*\* \*\*\*\*
+
+1.  Incumple las condiciones de validez de los contratos hipotéticos: es posible obtener el consentimiento explícito y requiere un cambio en las convicciones fundamentales de los sujetos al contrato.
+2.  No toda persona razonable aceptaría un contrato social determinado
+3.  La razonabilidad de un contrato propuesto no da pie, en principio, a su imposición
+
+Artículo publicado en [Students for Liberty Barcelona](http://www.sflbarcelona.org/contrato-social/)
+
+-   **[El ocaso de Rawls (II): Una refutación exprés de A Theory of Justice | El blog de Artir](https://artir.wordpress.com/2014/12/21/el-ocaso-de-rawls-ii-una-refutacion-expres-de-a-theory-of-justice/)** 2014-12-21T20:54:14Z
+    
+    > \[…\] el anterior artículo vimos que es más que dudoso que el contractualismo hipotético sea viable como medio para \[…\]
+    
+-   **[Rawls, redistribución de órganos e ingeniería psíquica | El blog de Artir](https://artir.wordpress.com/2015/02/01/rawls-redistribucion-de-organos-e-ingenieria-psiquica/)** 2015-02-01T20:54:43Z
+    
+    > \[…\] episodios anteriores (El ocaso de Rawls I, II y III) ya tuvimos ocasión de desmontar las teorías Rawlsianas – centrándonos al menos \[…\]

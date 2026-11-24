@@ -1,0 +1,83 @@
+\[This post is a translation of the one I just published\]
+
+Hablemos de _[Beyond Sacrificial Harm: A Two-Dimensional Model of Utilitarian Psychology](http://psycnet.apa.org/record/2017-57422-001?utm_content=buffere5ed2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)_, por Kahane, G., Everett, J. A. C., Earp, B. D., Caviola, L., Faber, N. S., Crockett, M. J., & Savulescu, J. (2017), el que posiblemente sea el mejor paper de psicología moral del año.
+
+En el campo de la psicología, existe un área en particular que se ha hecho bastante famosa por su uso de peculiares dilemas morales, especialmente el llamado problema del tranvía. La psicología moral estudia cómo la gente razona sobre asuntos morales, utilizando a veces tales dilemas para examinar las intuiciones morales de los individuos.
+
+La historia reciente de la psicología moral (Al menos, en la era post-Kohlberg) tiene sus raíces en gran medida en el trabajo de Jonathan Haidt, que postuló una serie de fundaciones morales (Cuidado/Daño, Pureza, Igualdad, Autoridad, Lealtad y Libertad) para explicar las creencias morales. A las investigaciones dentro de este paradigma debemos otros experimento mental que ha alcanzado cierta fama: "Estaría uno dispuesto a comerse a su mascota después de muerta?" O "Qué le parece que un hermano y hermana lo hagan de forma segura y sin que nadie lo sepa?"
+
+Estas cuestiones tratan de suscitar emociones fuertes, pues para Haidt la moral es un asunto fundamentalmente emocional. En sus trabajos iniciales, parece que dejó cierto lugar para la razón, pero en las últimas versiones de su teoría (véase el libro The Righteous Mind), la razón tiene un rol casi testimonial, actuando como un "secretario de prensa" de los sentimentos morales.
+
+Haidt fue también notorio como pionero en el estudio de los [juicios morales de los libertarios](http://righteousmind.com/largest-study-of-libertarian-psych/): un grupo relativamente pequeño entre la población de todo país, pero que se haya sobrerrepresentado entre filósofos. En el modelo de Haidt, las filosofías altamente intelectuales abstractas como el kantianismo, el utilitarismo o el libertarianismo son rarezas, a ser explicadas por medio del [autismo](https://funkyeds.blogspot.com.es/2017/02/excerpted-from-jonathan-haidts-2012.html), o alguna otra desviación de la neurotipicidad.
+
+Pero la razón también aprece jugar algún papel. Aquí entra Joshua Greene, que publicó una serie de trabajos hace unos años (Las conclusiones de los cuales están compiladas en su libro, [Moral Tribes),](https://www.amazon.com/Moral-Tribes-Emotion-Reason-Between/dp/1594202605) argumentando que la moralidad, como el razonamiento en general sigue un modelo de dos sistemas: Existe un sistema automático y sentimental que la gente suele usar a menudo (Como el Sistema 1 de Kahneman) y un modo racional, frío y calculador basado en evidencias (Sistema 2). Este segundo modo Greene lo vinculó al utilitarismo.
+
+Como asunto separado, el libro abrió un sub-campo dentro de la propia filosofía (véase, por ejemplo, [la reseña que hizo Erik Wielenberg](http://www.jstor.org.sci-hub.tw/stable/10.1086/676069?ai=v9&mi=w0q6y1&af=R&seq=1#page_scan_tab_contents) del libro, acusando a Greene de inconsistente), que orbita alrededor de la cuestión de si estudios como estos, que prueban que unos u otros juicios morales van vinculados a emociones, pueden servir como motivos para abandonar o aceptar una teoría ética. O en otras palabras, si un individuo totalmente racional, libre de toda pasión y sesgo fuese utilitarista (O kantiano, o libertario), supone eso un argumento a favor de tal sistema ético (Y, con ellos, prueba de que podemos tener una moral basada en la razón, contra David Hume?) Aún no existe una respuesta a estas cuestiones.
+
+Volviendo al tema que nos ocupa, tiempo después, el modelo de dos sistemas comenzó a recibir críticas, tanto teóricas y metodológicas, principalmente de Guy Kahane, uno de los autores del paper que menciono al inicio (Kahane et al., [2015a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4642180/) and [2015b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259516/)). Entre otras cosas, estos papers muestran que los psicópatas parecen ser muy utilitaristas, lo que no cuadra con lo que sabemos sobre los psicópatas: parte del utilitarismo es la imparcialidad respecto al bienestar de todo ser sintiente, y el psicópata medio suele preocuparse poco más que por sí  mismo.
+
+Además de ello, personalmente he revisado los dilemas morales que algunos de los trabajos de Greene usan para intentar medir el grado de utilitarismo de una persona. Considere por ejemplo los que se encuentran en el material suplementario de  [Greene et al. (2004).](https://www.sciencedirect.com/science/article/pii/S0896627304006348)  Yo, que no soy un utilitarista declarado, puntúo muy alto en esos tests de utilitarismo. La base de mis respuestas no es el utilitarismo, así que esos tests no están captando lo que deben.
+
+Esto nos lleva al paper que nos ocupa.
+
+Los autores tratan de obtener una medida de cuán utilitarista es una persona que sea válida en la población en general, y en gran medida tienen éxito, lográndolo con mayor rigor que el que usaría un trabajo científico comparable.
+
+Primero compilaron cientos de posibles preguntas para elaborar una escala. Para ello estudiaron tanto la literatura al respecto en psicología y filosofía, usando también su conocimiento personal de la cuestión. El resultado final debe ser un breve cuestionario que pueda administrarse de forma conveniente en futuros estudios, de modo que para reducirlo emplearon Análisis Factorial: Esto consiste en asumir que hay una serie de factores "latentes" (no observados) que explican los datos que observamos. Por ejemplo, si hacemos un cuestionario con preguntas sobre deportes variados, preguntas sobre jugadores de fútbol y preguntas sobre cocina, y pedimos al modelo que saque dos factores, probablemente sacará un factor "cocina" y un factor "deportes", mientras que si pedimos tres factores, extraerá un factor "fútbol", otro "deportes" y otro "cocina". Cada item pregunta irá vinculada en mayor o menor medida a uno o más factores.
+
+No realizaron únicamente un análisis, sino 10, eliminando preguntas que no aparecían en ningún factor. Con un tamaño de muestra de 960 participantes respondiendo preguntas, y empleando no una sino seis métricas de ajuste del modelo a los datos, podemos decir que es un proceso bastante robusto.
+
+El resutlado final es una escala con dos subcomponentes (Oxford Utilitarianism Scale), que fue luego probada en otra muestra de 282 participantes diferentes para comprobar que efectivamente funciona.
+
+La escala tiene dos subcomponentes: Beneficencia Imparcial, que mide el grado de obligación moral percibido para con los demás, con preguntas como "Si la única manera de salvar la vida de otra persona durante una emergencia es sacrificar una pierna (de uno mismo), uno está moralmente obligado a hacer este sacrificio" o "Está tan mal no ayudar a alguien como hacerles daño de forma activa" (e.g. dejar morir  vs asesinar. Desde la perspectiva utilitarista, lo que importa no es la intención, sino el resultado, y en ambos casos muere una persona)
+
+La segunda subcomponente es Daño Instrumental, que mide cuánto está uno dispuesto a dañar a otros si ello trae un bien mayor. Tiene preguntas como "Es moralmente correcto hacer daño a una persona inocente si ese daño es un medio necesario para ayudar a muchas otras personas inocentes" o "Si la única manera de asegurar el bienestar y felicidad de la sociedad es a través de la opresión política por un periodo de tiempo corto y limitado, entonces debe usarse la opresión política", o "Es permisible torturar a una persona inocente si esto es necesario para proveer información que prevendrá un atentado terrorista que mataría a cientos de prsonas"
+
+La escala detecta correctamente el gradiente de posiciones que van entre el Kantianismo y el Utilitarismo de actos, con formas más débiles de utilitarismo y ética de la virtud entre medias.
+
+![Captura de pantalla de 2017-12-28 15-32-31.png](https://nintil.com/old_assets/2017/12/29-1.png)
+
+Los dos factores que encontraron no estuvieron muy correlacionados en su muestra de validación (r=.14). Nótese que los factores se extrajeron asumiendo factores latentes, como hemos explicado antes, no componentes principales (Esto hubiese hecho que por diseño las dos componentes estuviesen totalmente no correlacionadas). En una muestra de filósofos, de forma interesante, sí que se mostraron correlaciondaos.
+
+Los autores apuntan a posibles explicaciones para esto, de forma especulativa: quizá la estructura del debate filosófico moderno está polarizada de esa manera, causando a sus participantes a adoptar posiciones correlacionadas (similar a lo que ocurre en occidente, donde en gran medida existe un eje izquierda-derecha político, pero este eje varía entre países, por ejemplo el China las posiciones pro-mercado van asociadas con posiciones moralmente anti-conservadoras y viceversa ([Pan y Xu](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2593377), 2017))
+
+Otras correlaciones de la escala, mostradas más abajo, indican que existe una correlación moderada entre psicopatía y la escala de Daño Instrumental, pero no la escala de Beneficencia Impercial. Esto es lo que explica los resultados de los papers de Kahane: Los psicópatas se preocupan menos por hacer daño, pero al mismo tiempo no aceptan ayudar a todo el mundo de forma imparcial.
+
+La empatía resultó tener una correlación baja-media con la escala de Beneficencia Imparcial, con una pequeña correlación negativa con la escala de Daño Instrumental. Los autores apuntan que esto puede hacer al utilitarismo psicológicamente inestable: Si uno tiene una alta empatía que le mueve a ayudar a los demás, esto a su vez tiende a hacer que uno no esté tan dispuesto a hacer daño a otros para ayudar a más personas, y viceversa.
+
+Esto choca también con el modelo de Greene, que asigna al utilitarismo un sustrato psicológico basado en la razón, pero el presente estudio parece mostrar que la empatía puede estar detrás de la componente altruista del mismo, aunque también es cierto que la escala de empatía empleada, que unas preguntas como "Me siento mal por aquellos más desafortunados" sea un proxy de afirmaciones no emotivas como "Creo que debo ayudar a aquellos más desafortunados". Los autores comentan al respecto:
+
+> While a unitary model of utilitarianism-as-cognitive (and deontology-as-emotional) seemed to be supported by earlier studies using sacrificial dilemmas that tied prosacrifice judgments to effortful deliberation (Greene et al., 2004), more recent work has related such judgments to reduced aversion to harming (Cushman,
+> 
+> Gray, Gaffey, & Mendes, 2012; Kahane et al., 2015).
+> 
+> This latter work suggests therefore that prosacrifice judgments are largely driven by reduced emotion. In line with this interpretation, in the present study we found an association between the Instrumental Harm subscale and psychopathy and reduced empathic concern.
+> 
+> The positive dimension of utilitarianism has also often been claimed to be based in rational reflection (de Lazari-Radek & Singer, 2012; Sidgwick, 1907)—Peter Singer’s (1972) famous argument that there is no moral difference between letting a
+> 
+> drowning child die and refusing to donate money to prevent deaths in developing countries is based on an appeal to consistency, not on pulling at our heartstrings.
+> 
+> As we saw, however, the present study also associates impartial beneficence with empathic concern, an affective disposition—indeed, one that is exactly the reverse of that associated with instrumental harm. At the same time, neither subscale was significantly associated with need for cognition, a trait measure of motivation to engage in effortful cognition.
+> 
+> These results are consonant with recent studies that found that extreme altruists who donated their kidneys to strangers exhibit higher
+> 
+> empathic concern (Brethel-Haurwitz et al., 2016).
+
+![Captura de pantalla de 2017-12-28 15-36-44.png](https://nintil.com/old_assets/2017/12/29-2.png)
+
+El nivel de religiosidad también, de forma interesante, se mostró ligeramente asociado a la subescala de Beneficencia Imparcial ("Amarás a tu vecino..."), y dos medidas de ideología política (social y económica) también mostraron cierta correlación con la subescala de Daño Instrumental.
+
+Finalmente, qué piensan los autores que son los siguientes pasos tras la publicación de la escala? Emplear menos problemas del tranvía, al menos! Y usar la escala para medir el grado de utilitarismo directamente.
+
+Este trabajo seguramente recibirá muchas citas en los años venideros, y apuesto a que se convertirá en uno de los trabajos dentrales del campo. Seguramente seguiremos viendo dilemas del tranvía, pero ahora vendrán emparejados con una métrica robusta y teóricamente valida que permite medir si realmente una persona hace juicios morales según una filosofía utilitarista.
+
+* * *
+
+Para cerrar este post, hay una cuestión que plantea el paper, no relacionada del todo al propio trabajo, que merece ser examinada. Dicen los autores:
+
+> Modern-day secular morality can be seen as the gradual expansion of our circle of moral concern from those who are emotionally close, physically near, or similar to us, to cover the whole of humanity, and even all sentient life (Singer, 1981; see also Pinker, 2011). Utilitarians like Bentham, John Stuart Mill, and, in our time, Peter Singer, have played a pivotal role in this process, and in progressive causes more generally. They have been leading figures in the fights against sexism, racism, and ‘speciesism;’ influential supporters of political and sexual liberty; and key actors in attempts to eradicate poverty in developing countries as well as to encourage more permissive attitudes to prenatal screening, abortion, and euthanasia within our own societies (Bentham, 1789/1983; Mill, 1863; Singer, 2011)
+
+La cuestión es: Tenían los utilitaristas históricos como Mill o Bentham una moral parecida a la nuestra, comparada con otros intelectuales de su era? Ciertamente tenían una moral más parecida a la nuestra, comparada con la moral altamente tradicional del inglés medio de hace unos siglos, pero una mejor comparación - en términos de mérito-sería con otros intelectuales coetáneos.
+
+Y no puedo cerrar sin comentar la teoría de la expansión del círculo moral, que aunque inicialmente plausible, no considero correcta, contra los autores (y contra Steven Pinker y Peter Singer). Como comenta \[Huemer (2015)\](https://link.springer.com.sci-hub.tw/article/10.1007/s11098-015-0588-9)  , pasar de una moral tradicional a una más moderna en términos de, por ejemplo, sexo premarital, o la pena de muerte (O el aborto, o los derechos de la mujer de forma general) no parece que se haya producido debido a un ensanchamiento de ningún círculo moral: Qué círculo moral es más estrecho que un integrante de la mayoría de familias históricas? De igual manera, en los países musulmanes, donde las mujeres se ven obligadas a llevar velo, o en los países Africanos que practican la mutilación genital femenina, tales prácticas no se plantean para oprimir a la mujer, sino para protegerla. La teoría del círculo moral sí parece tener que ver con la reducción de la violencia en general (contra desconocidos  o extranjeros), pero no para el cambio de la moral tradicional familiar.
+
+De forma similar, la preocupación con el bienestar animal ha existido durante milenios (véase el Hinduismo o el Jainismo, e incluso la \[tradición judeo-cristiana).\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093044/) Es cierto que las leyes contra el maltrato aparecen más tarde, en 1600-1800, y que desde entonces las leyes han cambiado según el conocimiento en biología ha ido creciendo, pero esto se debe a un mayor conocimiento, y menos a un cambio en valores. En algún momento, el consumo de productos animales se verá drásticamente reducido, pero esto no ocurrirá por un avance de los valores utilitarios, sino porque sustitutos baratos y tan sabrosos como los productos animales hoy existentes \[estarán disponibles\](https://en.wikipedia.org/wiki/Cultured\_meat) en unos años. Cuando la diferencia entre dos chuletones idénticos, que saben igual y tienen el mismo aspecto, es que uno es más barato, y que el caro ha involucrado algo de sufrimiento, sólo alguien que esté dispuesto a pagar por causar sufrimiento gratuito elegiría el chuletón natural. Y la preferencia contra el sufrimiento gratuito es uno de los principios morales más antiguos que hay.

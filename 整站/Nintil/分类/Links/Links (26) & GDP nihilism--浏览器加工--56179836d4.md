@@ -1,0 +1,90 @@
+Collection of papers and articles that I’ve spotted since my previous links post that seem interesting.
+
+What came first, God or complex societies? It has been argued in the past that religion, in the form of 'Big Gods' had served the function of a social glue that through rituals and shared beliefs promoted cooperation, enabling large scale societies. [A recent study](https://www.gnxp.com/WordPress/2019/03/20/society-creates-god-god-does-not-create-society/?utm_source=dlvr.it&utm_medium=twitter) questions this narrative, arguing that complex society gives rise to 'Big Gods', and not the other way around. However, the paper doesn't test for the importance of pretheistic rituals and beliefs, so religion may have still played a cohesive role in the distant past. [Critical discussion on twitter.](https://twitter.com/babeheim/status/1108738799549513731)
+
+[Michael Nielsen and Andy Matuschak](https://quantum.country/qcvc) have created a quantum computing explained with an embedded spaced repetition system.
+
+Scott Alexander reviews [Inventing the future](https://slatestarcodex.com/2019/03/18/book-review-inventing-the-future/), the meme _Fully automated luxury communism made into a book_
+
+Also [Scott](https://slatestarcodex.com/2019/03/13/does-reality-drive-straight-lines-on-graphs-or-do-straight-lines-on-graphs-drive-reality/) on straight lines in plots and interpreting them. The thesis is something I've considered before, and it may be true to some extent. The only cure here is RCTs and cross-national analysis.
+
+Also via SSC, [according to Cato](https://www.cato.org/blog/yesterdays-technology-day-after-tomorrow), trains are almost always not cost effective compared to buses, cars, and planes. Anecdotally, this is true in Spain: The social costs of high speed trains in Spain [do not compensate for the social benefits](http://documentos.fedea.net/pubs/eee/eee2015-08.pdf). Of course, this has not discouraged politicians.
+
+And [Scott](https://slatestarcodex.com/2019/02/25/wage-stagnation-much-more-than-you-wanted-to-know/) again, on the compensation-productivity decoupling. My pre-reading take was that people used to think that there was a decoupling, but that this days we all know if one accounts for healthcare and other non-wage compensation items, and deflated the time series correctly, they are the same. Scott takes it to the next level. I see this as an argument for more direct measurement, instead of economic measurement. Measure what people do and amounts of goods in addition to measuring how much money they earn. Saying I earn $X more is far less informative than saying I am now able eat mangos on a daily basis and go to restaurants more often.
+
+[Does common ownership really matter](https://marginalrevolution.com/marginalrevolution/2019/03/does-common-ownership-really-matter.html), wonders Tyler Cowen. He links to a paper that shows that maybe common ownership hasn't had much of an impact on managerial incentives. This topic as a whole deserves a full investigation.
+
+Neurons [can communicate](https://www.sciencealert.com/neuroscientists-say-they-ve-found-an-entirely-new-form-of-neural-communication) with each other without being physically connected. Experimenters severed a piece of hippocampal tissue from mice, observing propagation of periodic electric activity (brain waves), and measured them via two electrodes before and after disconnecting the tissues, turns out the signal still passes through to the next segment after severing, and this stops being the case after the gap is 400 micrometers is greater.
+
+> If you think that sounds freaky, you're not the only one. The review committee at _The Journal of Physiology_ – in which the research has been published – insisted the experiments be completed again before agreeing to print the study.
+
+Google [does some research](https://marginalrevolution.com/marginalrevolution/2019/03/google-decides-it-is-underpaying-its-men.html) on how much they are paying employees, depending on race or gender. They find that men are underpaid. Some on twitter complained that the study [controls](https://services.google.com/fh/files/blogs/pay_equity_info_sheet.pdf) for variables that are downstream of the potential bias against a women. For example, imagine men and women make the same, and there happens to be a bias against women in performance ratings, then after controlling for performance ratings, men will appear to be underpaid (Because women's performance ratings are lower), yet in this case the truth is that there is no underpayment, and there is bias. There is also another perennial critique that has been made at these sort of studies: That this controls for what level one is in, but what if there is bias in who gets promoted or not? Now, I don't think there's a lot of bias, but ideally the study should have an explicit model for the promotion stage, (E.g. P(promotion for level X)=f(working hours, projects one has worked on,etc) and then inb4 someone also raises the objection for projects, the same for projects, and so on.
+
+VCs [seem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301982) to like women more.
+
+Some scientists [call](https://www.nature.com/articles/d41586-019-00857-9) for retiring statistical significance as a binary . Comments on Andrew Gelman's [blog](https://statmodeling.stat.columbia.edu/2019/03/20/retire-statistical-significance-the-discussion/). Ioannidis is not happy about this. This is a great debate to see how the scientific cake gets baked, in real time, sociologists and philosophers of science will have a great time studying the current years. I side with Ioannidis: In theory, the authors of the papers are right, in practice, given how people behave and the consequences of abandoning strict, yet ultimately arbitrary thresholds, would be worse than the current situation. Ultimately if we are all nice and well behaved we should just think bayesianly, this is the best scenario; but as a second best, what Ioannidis proposes is a good palliative until we are more civilised.
+
+Tanner Greer on [why we will remember Tolkien](https://scholars-stage.blogspot.com/2019/03/on-tolkienic-hero.html) as the writer who defined our era
+
+[Why violin plots are better than boxplots](https://blog.bioturing.com/2018/05/16/5-reasons-you-should-use-a-violin-graph/). I disagree that violin plots are non-parametric though: As any dataviz person knows, the choice of the smoothing function matters greatly.
+
+[The symbolisms of Theranos](https://twitter.com/emollick/status/1108543772739227649), how Elizabeth Holmes made it seem like Theranos was more than it really was.
+
+[Peter Thiel, Roberto Unger, and Cornel West](https://www.youtube.com/watch?v=h2TrRWAkbr8)
+
+[Paper claims CEOs do not matter than much for performance](https://twitter.com/emollick/status/1107692695680700422), immediately gets reply on twitter with "there is a paper criticising that paper".
+
+[No great stagnation, battery edition](https://www.cnbc.com/2019/03/15/battery-start-ups-are-raising-millions-in-the-battle-to-crush-tesla.html?__source=iosappshare%7Ccom.apple.UIKit.activity.Mail)
+
+[Intelligence and success](https://twitter.com/DegenRolf/status/648483014784253952): The correlation between both depends on how success is defined.
+
+[Poker](http://nadaesgratis.es/admin/es-el-poker-un-juego-de-azar-o-de-habilidad): Is it about luck, or is it skill? Luck, it seems.  (Spanish)
+
+[Moral dumbfounding](http://journal.sjdm.org/18/181220a/jdm181220a.pdf) is perhaps not a a thing after all on closer examination
+
+> _None of this evidence lends support to the strong position that people typically have no reasons when they make their moral judgments and decisions. On the contrary, there is evidence that reasons and reasoning do play a role in forming and changing at least some moral judgments and decisions in a less-biased manner (May, 2018). For example, whether individuals agree with a particular moral principle predicts their judgments across a range of moral dilemmas (Lombrozo, 2009), and being reminded that they agree with a particular moral principle can make many people change their moral judgments (Horne et al., 2015)._
+
+Economists: Healthcare will get pricey because markets aren't well suited for it. [One Indian](https://www.bloomberg.com/news/features/2019-03-26/the-world-s-cheapest-hospital-has-to-get-even-cheaper) guy: Hold my beer. Back in the day when I wrote the [Non-non-libertarian FAQ](https://nintil.com/2016/03/24/nnlibertarianfaq/) I already noted the wonders of the Indian healthcare market. I vaguely recall that while doing the reading for that paragraph I came across a claim that said that those hospitals remain cheap even after accounting for lower labour costs; that it, that the efficiency is genuine, not an artifact of being a lower income country; but I haven't checked this.
+
+Also economists: Prediction markets are optimal ways of aggregating information. Real life: [Not always](http://journal.sjdm.org/18/18919/jdm18919.html) . For questions that are imminent, accuracy of just aggregating polls with a pre-determined algorithm performs on par with prediction markets, but when there are many months until the question gets resolved, direct belief aggregation trumps betting. Using both jointly is even better.
+
+The boring heuristic / the common sense prior: If some claim is interesting, new, cool, assign it a lower prior probability.  Facts you encounter around are not randomly generated, they are generated by people trying to get your attention.
+
+The US is getting [more atheistic](https://twitter.com/michael_nielsen/status/1111690201917583360), bringing it in line with other developed countries.
+
+[Paper on effect sizes](http://www2.psych.ubc.ca/%7Eschaller/528Readings/RosnowRosenthal2003.pdf) and when they can be misleading; as an example the effect size for the p[olio vaccine](http://psychology.okstate.edu/faculty/jgrice/psyc3214/Ferguson_EffectSizes_2009.pdf) seems insignificant, on one calculation, even when the "real" effect is huge. This is why it is important to look at the raw data, not just blindly compute summary statistics.
+
+> As an example, Rosnow and Rosenthal (2003) discuss the effectiveness of the Salk vaccine on polio. From a treatment group (n 200,745) receiving the Salk vaccine, 33 later had polio develop. From a control group (n 201,229), polio developed in 115. Although the relative risk of not receiving the Salk vaccine is a moderate 3.48, the authors calculate .011 (square root of 2 45.52 divided by n 401,975), barely different from no effect at all. What if Salk was 100% effective in preventing polio olio vaccine\_(which should conceptually correspond to r 1.00)? Observing the maximum , we observe that this barely changes with max .017 (2 114.74; n 401,975). In other words, the range of possible values for in the Salk vaccine trial instead of ranging from 0 to 1.00 as they should, ranges only from 0 to .017. This is clearly problematic. The problem is that the formula uses sample size. Dividing any value of 2 by n 401,975 will result in artificially low scores. Because the epidemiologists who studied the Salk vaccine have no way of knowing who might be exposed to polio in advance, they used a wide “net” sampling approach. Most of the resultant sample were never exposed to polio, and thus are irrelevant to the hypothesis “How effective is the Salk vaccine in preventing polio in individuals exposed to polio”. The rh method (Ferguson, in press) accounts for this sampling problem by comparing only those individuals likely to have been exposed to polio. From the control group, we know that approximately 115 individuals can be expected to have polio develop. If Salk is completely ineffective, we would expect approximately 115 to have polio develop in the treatment groups as well (adjusting for any differences in sample size). However, only 33 have polio develop and 82 do not. Developing a binomial effect size display from these data, we find that for individuals actually likely to have been exposed to polio, r .744 (2 127.43; n 230), not .011. This effect size is likely a better index of the actual effectiveness of the Salk vaccine and makes more sense given an RR of 3.48
+
+[People are fake news](https://twitter.com/alexeyguzey/status/1110605681118212096): Studies that rely heavily on self-reported data may not actually be all that accurate.
+
+[Why are restaurants louder now?](https://www.theatlantic.com/technology/archive/2018/11/how-restaurants-got-so-loud/576715/) Less soft goods and harder surfaces, but ultimately, because loud restaurants are restaurants where customers don't want to stay for too long, maximizing profit.
+
+[Reaction Engines](https://www.reactionengines.co.uk/news/esa-completes-further-design-validation-reaction-engines-revolutionary-air-breathing-sabretm-rocket-engine), the UK-based company that is trying to significantly improve air transport by means of a hybrid jet engine-rocket, passes a further external design validation from the European Space Agency. As general estimates, the engine would allow flights within the atmosphere up to Mach 5, and higher in outer space, with a thrust to weight ratio 3x that of a regular jet engine. How does this work? By cooling the air before it reaches the combustion chamber. Take [the T-s diagram](https://en.wikipedia.org/wiki/Brayton_cycle) in the wikipedia article; you can take the area to be how much work you get out of the process. You get more area by moving point (3) up, but then your engine melts (lol). Also, as the aircraft flies faster, the air heats up from friction, and (1) moves up, reducing the area. Instead, if you cool down the air, (1) gets dragged down.
+
+"Studies should have a power of ~80%. You might have come across this claim. Or "A p-value <0.05 means a result should be considered significant". These are heuristics and rules of thumb. [We should treat them as such](https://daniellakens.blogspot.com/2019/03/the-new-heuristics.html), argues Daniel Lakens.
+
+Tfw[most of your highly cited scientists do not get money](https://www.ncbi.nlm.nih.gov/pubmed/30811411) from major sources of funding (in the UK)
+
+Alexey Guzey wrote a reminder that perhaps [GDP figures](https://guzey.com/economics/ad-hominem-gdp/) shouldn't be trusted that much. With that as a framing:
+
+-   [A new measure of GDP](https://twitter.com/Sam_Dumitriu/status/1112663804167491584) that accounts for the value of all the free goodies (google maps, facebook, twitter) we get these days. \[\_Under different assumptions, we provide two estimates for the impact of incorporating Facebook into GDP-B, ranging from 0.05 to 0.11 percentage points per year on average from 2004. \] \_
+-   GDP is commonly adjusted for inflation. The way this is done matters, [argues Bryan Caplan](https://www.econlib.org/paasche-prosperity/), matters greatly for what growth looks like.
+-   [Japan GDP figures may be off](https://www.ft.com/content/e3a28958-1a24-11e9-9e64-d150b3105d21) by non-trivial amount. The paper referenced there from the BoJ, translated to English is [this](https://www.boj.or.jp/en/research/wps_rev/wps_2016/data/wp16e20.pdf) one, in the grand scheme of things, over time, it doesn't look like a big discrepancy, though year-to-year figures do var by a few % points.
+-   [China's GDP  is 12% smaller than what official data says](https://www.ft.com/content/961b4b32-3fce-11e9-b896-fe36ec32aece)
+
+Long term trends, what I'm mostly interested in are roughly unaffected by these artifacts, such is the nature of exponential growth. But there is also a larger conceptual issue at play: We have ideas for what we want to measure, then those get made into formulas, then data is looked for to plug it in. Those can be done in many ways, and the initial measure may thus not be an accurate tracker of what one really cared about to begin with. Using income to measure welfare has the benefit of not having to worry about what people in particular want; if we just look at time series of production of steel, or of TVs, there's the question: Is this a good or a bad thing? Money seemingly allows one to sidestep these issues and provide with a unified metric.
+
+But it introduces complex calculation issues; there's taxes, benefits, capital gains, household vs individual adjustments, differential rates of inflation for different goods, differences in cost of living per area.
+
+Instead, one can look at things directly and assume your way through people's preferences. Look at life expectancy adjusted by health, how do people spend their time, what work looks like, break this down by economic class, compare how much better a smartphone is now than back 10 years ago. One will end up with a pile of messy datapoints, but I reckon that looking at this will provide a better idea of what one wants to know, than just looking at a single timeseries for income, or even a single timeseries  for income adjusted in 50 different ways.
+
+-   **[Rational Feed – deluks917](https://deluks917.wordpress.com/2019/04/03/rational-feed-542/)** 2019-04-03T04:52:13Z
+    
+    > \[…\] Links 26: Gdp Nihilism by Artir – Link post: Mis-measuring GDP, statistical significance, Google underpays men?, better jet engines, etc. \[…\]
+    
+-   ![dearieme](https://www.gravatar.com/avatar/e23bcf21925661cdebc31e43c5907e4b?d=identicon) **dearieme** 2019-05-02T12:40:42Z
+    
+    > "the consequences of abandoning strict, yet ultimately arbitrary thresholds, would be worse"
+    > 
+    > That's a general conclusion I think: arbitrary rules should be made harder to change than reason-based rules. The latter should be readily changed when new evidence or better logic emerges. The former you must defend stoutly else they'll be changed on whim and the people subject to them will be unable to plan reliably.

@@ -1,0 +1,27 @@
+I’ve been thinking a lot lately about GiveWell’s [difficulties](http://blog.givewell.org/2013/03/21/trying-and-failing-to-find-more-funding-gaps-for-delivering-proven-cost-effective-interventions/) finding opportunities for funding. Shockingly enough, despite lots of inefficiencies in the market for other people’s [QALYs](http://en.wikipedia.org/wiki/QALY), it turns out that if you get a group of impressive people to run a transparent charity with an evidence-based intervention, you will probably get funding. (Surprise!) This has led me to be [unsure](http://www.benkuhn.net/downgrading-confidence-earning-give) about the effectiveness of having effective altruists donate to charities like GiveWell’s recommended ones.
+
+In other words, **replaceability applies to altruistic decisions just as much as to career choice.** While it’s hard to get people fully into the mindset of effective altruism, there are some things, like funding proven charities where you can easily persuade outsiders to help. So, to maximize the leverage we get as altruists, we should focus on areas where replaceability applies the least. What are such comparative advantages for us?
+
+## Starting new things
+
+Starting a thing is scary. It takes a lot more additional agency and dedication than just donating a chunk of income. Fortunately, the EA community seems to select (somewhat) for agenty dedicated people, probably by dint of filtering for people who think “I should try really hard to help people” _and then start trying really hard_. For instance, people [proposed](http://www.overcomingbias.com/2013/03/why-it-should-be-easy-to-dominate-givewells-recommendations.html) that a fundraising organization would be a highly cost-effective charity; one year after the linked article was published, [it exists](http://www.effectivefundraising.net/).[1](https://www.benkuhn.net/replaceability/#fn:1)
+
+Starting a thing doesn’t have to be full-time, of course. There are probably many really helpful projects, both small and large, where actually doing the project would be more effective than earning money and paying someone else to do it. For instance, I and some other folks are exploring the possibility of developing web apps for the EA community. It seems valuable to have these apps built and maintained by people who care about EA, not just people who did it for hire—valuable enough that I think we should do it ourselves.
+
+## Working for EA organizations
+
+All the EA organizations that I’ve talked to have mentioned difficulty in finding people. This is despite the fact that I know many people in the movement who seem like they would be quite good candidates. I’m wondering if this is because the earning-to-give meme has propagated so strongly that _everyone_ decides they would rather earn money and fund someone else working there, and then they don’t apply, leading to a shortage of qualified applicants. At any rate, few enough people have the required skills and attitudes to work at e.g. GiveWell, Giving What We Can or 80,000 Hours that it seems pretty non-replaceable.
+
+So far, we’ve done a great job of growing without compromising on intellectual standards. The Facebook group, for instance, is about six times the size it was when I joined, but the discussion is still lively and interesting. But we’ll need to devote lots of resources to making sure this continues through the next few orders of magnitude, and that’s not something we can easily outsource. There’s some progress being made right now, on Wikipedia editing and discussion media, but I think we can do much more to ensure that as the community grows we maintain its high quality of thought.
+
+## Being risk-neutral in donations
+
+Donors driven by signalling, prestige, or warm fuzzies tend to be unhappy when charities they donate to don’t get results. But effective altruists know that individually, we should just be maximizing expected outcome, and if that requires a high-risk strategy, so be it. In other words, even if we’re personally risk-averse [we should be altruistically risk neutral](http://www.jefftk.com/news/2010-12-07). This (hopefully) means that we can operate something like philanthropic venture capitalists—fund pie-in-the-sky ventures that are too risky for most donors, and thus collect a [risk premium](http://en.wikipedia.org/wiki/Risk_premium) (paid in QALYs, not dollars, but it’s the same idea).
+
+It’s relatively easy for object-level effective interventions to get funds, because they can appeal to those even without the effective-altruist mindset. For “meta” organizations like [80,000 Hours](http://80000hours.org/) and [Giving What We Can](http://www.givingwhatwecan.org/), though, that’s not the case, so fundraising is harder for them. So donations from effective altruists are much less replaceable.
+
+Well, these are the things I can think of off the top of my head. I’m guessing that because of replaceability concerns, at least one of these would be more effective than donating to GiveWell’s top charities for most people. Thoughts?
+
+* * *
+
+1.  A year is still a lot of lag time, but I think we’re getting better at this as the movement grows and the people who comprise it get more do-things-y. [↩︎](https://www.benkuhn.net/replaceability/#fnref:1)

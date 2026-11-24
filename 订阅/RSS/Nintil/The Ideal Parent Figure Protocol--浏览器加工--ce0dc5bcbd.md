@@ -1,0 +1,3 @@
+I wrote a guide to the ideal Parent Figure Protocol, a therapeutic modality for repairing attachment disorders. You can find it [here](https://ipfp.nintil.com/). It also contains some pointers to meditations to boost agency, self-esteem, and a healthy sense of self. Though often done with a therapist, it can be done as self-therapy at a cost of zero, so I couldn't miss the opportunity to help visibilize such a powerful intervention.
+
+Hope it is of use to someone!

@@ -1,0 +1,17 @@
+This is a random English post in my blog! :D
+
+First: What is a price?: A historical relation of exchange between two goods. Or the objectively quantified subjective preferences of two agents.
+
+What does wrong mean? [http://www.merriam-webster.com/dictionary/wrong](http://www.merriam-webster.com/dictionary/wrong) From its second definition, Wrong->"not satisfactory,not in accordance with one's needs, intent, or expectations,not according to truth or facts".
+
+Now, we know humans err. Such statement doesn't require much justification here. Prices are formed via voluntary human interaction, and since humans can err, one can seemingly conclude that results of human action such as prices can also be wrong.
+
+A practical case: I want to set up a business, as I think people in a certain area want a certain good: cakes. So I ask for a loan and set up a bakery, I buy some equipment and blah blah. Things happen. Time passes. And it turns out I find myself losing money. So I close the bakery. The action of having opened up the bakery is clearly not satisfactory and not in accordance to my expectations back them. It was, in other words, wrong. Not only I have wasted my effort, but I also have to repay my loan without the expected revenues I was expecting to get. That's problematic.
+
+Imagine what would happen if everyone did that. You suddenly go around and everything are bakeries. Nobody can buy certain goods they want because every single entrepreneur has failed. Overproduction of cakes and underproduction of everything else ensues. The baking business unbakes and collapses. That situation clearly reflects a discoordination (Or more precisely, a composition mismatch) between offer and demand. And it also seems that my decision of building that bakery there is a step towards that direction, and hence, discoordinating.
+
+Also by having chosen to pursue that project, I've made product prices higher than what otherwise would have been (Though obviously my effects on the whole market are minimal) Those are prices induced by a discoordinating action. Those prices propagate the discoordination through the rest of the economy. Maybe because I set up said bakery and prices rise (More obvious in the everyone-is-a-baker case), a really profitable pizza store doesn't end up opening in another place. (It has to end up collapsing. Bubbles don't last forever.)
+
+Of course, the next logical step is to swap bakeries for housing. Housing prices were probably not right, they were disproportionately high in relation to its fundamentals (such as price/earnings ratio). Does that mean that the 'right' price can be mathematically derived from the price/earnings ratio? Of course not. Those are only clues and hints. What I mean by 'right price' would be 'A price such that it induces coordination with the rest of the economy, in that the expectations for both parts in the transaction end up being fulfilled'.
+
+And by that criteria, prices can be wrong. 'Right prices' cannot be known ex-ante except if one happens to have a time machine, something highly dubious. But we can know they do exist because there exist ample empirical evidence that we don't always end up getting what we thought we would.

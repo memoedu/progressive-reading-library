@@ -1,0 +1,15 @@
+*
+!*/
+!*.md
+!/.gitignore
+!/.gitattributes
+.env
+.env.*
+*.log
+node_modules/
+.local-ir/
+imports/
+.cache/
+dist/
+build/
+runtime/

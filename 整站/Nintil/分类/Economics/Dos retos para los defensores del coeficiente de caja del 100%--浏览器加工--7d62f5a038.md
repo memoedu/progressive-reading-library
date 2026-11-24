@@ -1,0 +1,37 @@
+El primero, refutar [esta argumentación](https://artir.files.wordpress.com/2013/02/coeficiente3.pdf).
+
+El segundo, construir una argumentación con la misma o mejor claridad expositiva que la anterior, dando definiciones claras de lo que se habla, y asumiendo un entorno de nula injerencia estatal en el sector bancario. Hasta ahora nadie lo ha hecho.
+
+Una lista de cosas importantes a tener en cuenta a la hora de tratar de abordar lo anterior: (0-8 propias, 9-18 de JR Rallo)
+
+0\. Entender las definiciones que cada uno usa es importante. 1. Todos estamos a favor de la claridad contractual 2. Todos estamos a favor de permitir contratos donde se pacte que el banco será mero custodio del dinero depositado. 3. En un contrato de préstamo a la vista (Lo que hoy es popularmente conocido cuenta corriente o depósito a la vista) el cliente no es propietario del dinero que está en la cuenta. Tiene derecho a exigir cuando quiera la cantidad a la que tenga derecho y el banco tiene la obligación de, en ese instante, hacer efectivo el pago. 4. El contrato de préstamo a la vista no es de imposible cumplimiento de forma global. Primero, porque es posible construir un modelo teórico donde nunca haya ningún problema (Asumamos que las entradas y salidas de efectivo diarias están perfectamente casadas). Segundo, porque históricamente se han cumplido y han funcionado bien. 5. Puede teóricamente haber casos puntuales donde fuesen de imposible cumplimiento, _pero esto se sabrá tras el incumplimiento y no a priori_. Y aún sabiéndolo a priori, aún no he visto ningún argumento sólido por el que deban prohibirse contratos imposibles donde ambas partes estén perfectamente informadas de lo que firman. 6. La Doctrina de las Letras Reales permite que esos contratos funcionen bien 7. Históricamente, la banca libre no se ha visto forzada por las fuerzas de mercado al coeficiente de caja del 100% y sí al modelo descrito por la RBD 8. La banca libre sin-100% no es, al menos necesariamente, inflacionaria 9. La banca no-100% no causa ciclo económico necesariamente. Y puede haber ciclo económico con banca-100%. 10. Los bancos no crean dinero, sino promesas de pago (bienes futuros). 11. La moneda fiat es un bien futuro, no un bien presente al nivel del oro. 12. Los bancos no crean medios de pago "de la nada", sino contra una serie de activos que tienen valor. 13. No solo los bancos tienen la facultad de crear medios de pago socialmente aceptados. De hecho, la presente crisis ha sido causada por creación de sustitutos monetarios fuera del ámbito de la banca comercial. 14. La deflación de precios tiene problemas inversos a la inflación de precios (el ideal es la estabilidad, Mises dixit). 15. La inmensa mayoría de depósitos actuales no proceden de haber prestado a otros clientes parte de las reservas recibidas, sino de haberlos creado durante la actividad de prestar. 16. En nuestras sociedades el pago por compensación es muchísimo más importante y frecuente que el pago al contado. 17. La tenencia de dinero implica costes altísimos, mientras que el pago crédito permite economizarlos. 18. Es verdad que un sistema al contado puede lograr en teoría los mismos resultados que un sistema con pagos al contado+ pagos a crédito, pero ni es probable ni, en todo caso, lo hará a un coste menor.
+
+-   ![mentor66](https://www.gravatar.com/avatar/e996528db333c06b343bd490ea869509?d=identicon) **mentor66** 2014-01-29T09:22:07Z
+    
+    > Gracias por la respuesta, José Luis...........pero mi pregunta iba más en el sentido de cómo contemplan "los teóricos de la liquidez" (entre los cuales te incluyo) esa desbancarización que comenta el profesor Rallo............"The rise of the market-based credit system" según se comenta en este paper de Perry Mehrling (\*) y otros : "Bagehot was a shadow banker ; Shadow banking, Central banking, and the future of Global Finance" : http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2232016. ¿Se puede considerar un paso adelante hacia un sistema de crédito privado basado en el mercado? A pesar de las limitaciones que se exponen en la conclusión del paper al seguir "gozando de los tradicionales backstops gubernamentales" al haber crecido parasitariamente al viejo sistema (banca tradicional), ¿cómo se contemplan estas nuevas formas de intermediación financiera? ¿Pensais que el futuro de la intermediación financiera va por ahí? Pregunta desde mi desconocimiento, ¿no sería algo asimilable a un "free banking"?
+    > 
+    > Gracias. Un saludo
+    > 
+    > (\*) = El profesor Mehrling tiene un curso en Coursera bien interesante dividido en dos partes : "Economics of Money and Banking" que he intentado seguir aunque no he podido acabarlo. He escuchado a Capella en alguna conferencia del IJM que también lo siguió y que le pareció bien interesante. Tenía intención de hacerle las mismas preguntas que te estoy haciendo a él también, pero hasta ahora no me había puesto a ello. Lo haré ahora mismo.
+    
+-   ![artir](https://www.gravatar.com/avatar/77fac16b1eefeb9c6dcd9d0cfa2ea692?d=identicon) **[artir](http://)** 2014-01-29T14:59:57Z
+    
+    > Sí, estuve en ese curso en la primera parte, pero me quedé a medias. Las lecciones siguen ahí y volveré a él cuando tenga tiempo.
+    > 
+    > ## En cierto sentido es más free que el banking de un banco estándar, pero siendo los incentivos los que son, hacen con su libertad cosas que no deberían hacer.
+    > 
+    > ## En el mundo Bagehoteano que describe Mehrling había coordinación entre los plazos de activos y pasivos en el sistema financiero, pero hoy no "themodern system is fundamentally a world of long term debt, which connects to the world of short termbills through the institution of the interest rate swap".
+    > 
+    > De todas formas tampoco es un tema que haya estudiado en profundidad
+    
+-   **[Una refutación de los argumentos en defensa del 100% en “Dinero, Crédito Bancario y Ciclos Económicos” | Artir contra el mundo](http://artir.wordpress.com/2014/03/01/una-refutacion-de-los-argumentos-en-defensa-del-100-en-dinero-credito-bancario-y-ciclos-economicos/)** 2014-02-28T23:54:08Z
+    
+    > \[…\] Leí ”Dinero, Crédito Bancario y Ciclos Económicos” de Jesús Huerta de Soto en su día y en aquel momento me convención de la corrección de la teoría del coeficiente de caja del 100%. Volviendo a ojear el libro en cuestión, veo que lo la argumentación expuesta resulta ser bastante más débil (y confusa) de lo que inicialmente esperaba. El objetivo en el debate del coeficiente de caja del 100% es este. \[…\]
+    
+-   ![mentor66](https://www.gravatar.com/avatar/e996528db333c06b343bd490ea869509?d=identicon) **mentor66** 2014-01-28T09:37:54Z
+    
+    > No tengo claro cómo contempla la escuela austriaca y más especificamente los "teóricos de la liquidez" el punto 13.- "No solo los bancos tienen la facultad de crear medios de pago socialmente aceptados. De hecho, la presente crisis ha sido causada por creación de sustitutos monetarios fuera del ámbito de la banca comercial". Gracias. Un saludo
+    
+-   ![artir](https://www.gravatar.com/avatar/77fac16b1eefeb9c6dcd9d0cfa2ea692?d=identicon) **[artir](http://)** 2014-01-28T10:15:33Z
+    
+    > Seguramente punto 6 http://juanramonrallo.com/2013/09/el-descalce-de-plazos-si-es-la-causa-del-ciclo-economico/

@@ -1,0 +1,13 @@
+(Asúmase dinero exógeno, sea oro, sea bitcoin)
+
+\-Sí: Con 100% el descalce de los ahorros a la vista es imposible. Con reserva fraccionaria siempre existe esa posibilidad. Y sí, sería más posible con RF. Contraparte: matas el mercado de crédito a corto. Hay un tradeoff entre seguridad y utilidad, que determinará el coeficiente de caja a emplear, y decidir ese coef es una decisión que debe tomar el mercado. El error de los cienporcientistas (Aparte de vulnerar contratos perfectamente válidos) es que no consideran las consecuencias negativas del 100% (cuotas que se comerían los ahorros y un mercado de crédito a corto muerto). Aunque si se impusiese el 100% y los bancos comenzasen a ofrecer depósitos a la vista a 1 día o a 1 mes como algo estándar (Que sería previsible) podrían seguir igualmente descalzando, si bien en un entorno de banca libre los mismos incentivos que evitan el descalce los evitarían para el caso del 100%.
+
+\-El proceso empresarial de selección de empresas crea unas ineficiencias... en el sentido en el que la burocracia interna de una empresa las cree, pero se logra el objetivo final que es la aproximación a la mejor configuración del mercado bancario. Directamente con 100% no habría descalce de préstamos a la vista (Asumiendo una banca honesta).
+
+\-Sí, la habría. La tentación de descalzar siempre estaría ahí. Pero habría otros incentivos a no descalzar (Los otros bancos me reclaman promesas de pago, corridas bancarias, quiebra)
+
+-   ¿Uno? ¿Por qué no más? (Si hubiese más, competencia, pero me extrañaría que a nivel mundial haya uno). Con esa situación, te quedaría que apareciese otro banco de bancos que al reclamar pagos contra ese otro gran banco de bancos le hiciese quebrar (Los bancos solventes que no expandan estarían interesados en formar parte de este contra-banco para destrozar a sus rivales más ilíquidos). Es lo primero que se me ocurre.
+
+\-No se vulnera flagrantemente la autonomía de las partes que pactan un contrato de préstamo a la vista ( :P ). Y no se niega arbitrariamente crédito a comerciantes que quieran descontar letras. A cambio, te expones a que se produzca un descalce. Salvo que el banco no tenga intención de honrar su contrato (En cuyo caso, creo, se produciría una violación de dichos principios), no habría problema. El problema del descalce es que no aparenta tener problema alguno, no viola los derechos de nadie y es una fuerte tentación. Y el banco es lógico que piense ¿Why not?. Pero por suerte, para toda conducta perniciosa en la sociedad, hay una institución espontánea o un conjunto de incentivos destinados a contrarrestarla, y este caso no es diferente.
+
+Fin de la transmisión. xD

@@ -1,0 +1,1 @@
+Nice post, as usual. I have a question for you, which has nothing to do with the article, but I want to know more about the economic history of Sweden. What papers or books you recommend?

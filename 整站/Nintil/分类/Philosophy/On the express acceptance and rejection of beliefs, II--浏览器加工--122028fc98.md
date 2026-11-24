@@ -1,0 +1,63 @@
+[Someone](https://www.reddit.com/r/slatestarcodex/comments/4eajy7/culture_war_roundup_for_week_of_april_11_2016/d1z426d) in the Slate Star Codex subreddit wasn't very convinced by my previous post.
+
+I copy here 4bpp's comment:
+
+> I don't find the Artir post's section on homeopathy very convincing. He writes:
+> 
+> > Against homeopathy: Violation of the laws of physics, the consensus of medical scientists, several meta-analysis finding no effects. Most of the evidence for homeopathy comes from homeopaths.
+> 
+> Except for the laws of physics (and I doubt that Artir has a sufficiently good understanding of physics to arbitrate on that; he may defer to physicists, but then he has to understand [which physicists are trustworthy, too](https://en.wikipedia.org/wiki/Brian_Josephson)), all of these cut both ways. For homeopathy: the consensus of alternative medicine practicioners, several meta-analyses finding effects. Most of the evidence for medicine comes from medics. I strongly get the impression that he just found a fancy way of obfuscating a cognitive process that will never yield a result distinguishable from "keep believing what you already believe" or at most "believe what people with money and status in your society believe".
+
+4bpp makes a good point, in that I just mentioned weak evidence going for homeopathy rather than 'meta-analysis finding weak evidence'. I've fixed that. But still: meta-analysis done by the homeopath camp find weak effects, while meta-analysis done by the non-homeopath camp finds effects consistent with the null hypothesis of homeopathy being as good as placebo. If homeopaths were finding large effects with high confidence, that would probably make me more interested in the issue.
+
+Regarding the laws of physics, I do know a bit about physics, as I am an engineer. I don't know much, however, about quantum mechanics, relativistic physics, or the kind of physics that homeopaths invoke to support their claims. They talk about [nanobubbles and nanostructures](http://www.sciencedirect.com/science/journal/14754916/104/2) that form in the water. I certainly would have to spend some time to fully understand those papers.
+
+By 'the laws of physics' being against homeopathy, I mean that, as everyone acknowledges, in the final homeopathic dilution, there is no, or almost no original substance remaining, just water. And water itself, in the consensus of physicists, doesn't have the water memory effect homeopaths need. Another weird property that homeopaths need is that the effect gets stronger the more diluted the preparation is. Maybe there is some mechanism that works. Maybe if I read the literature on nanobubbles and nanostructures I'll be convinced that homeopathy works. But I won't read it for now, because I predict it will end up not convincing me. Also, if it did work, the effect would be really small, so you wouldn't be able to benefit from it as you do from conventional medicines. So there is little epistemic or instrumental reason for me to do further research on this. What would I need to believe in homeopathy? As I said in the other post, a low-cost of acquisition source of information: a FAQ that presents homeopathy, deals with criticisms and seems plausible to me. And this would work just because I'm interested in knowing the most truths possible. From a merely instrumental point of view, I wouldn't even care reading that FAQ, as even if it worked, it wouldn't be much useful to me.
+
+Next, 4bpp notes, correctly, that by default I defer to the consensus of physicists. I don't say that if a physicist says that if P is the case, then P is the case. In epistemically relevant fields, there is no person or body of people that makes claims about that field automatically true. That only happens in, say, fiction, where the author says that something is true about a fantasy world. The fact that  Brian Josephson disagrees with the consensus is some reason to reduce our confidence in the consensus being right. But, in my case, not enough -and I guess in 4bpp's case it is the same-to stop believing the consensus.
+
+Next, 4bpp raises the issue of the relevant consensus. The consensus of homeopaths say homeopathy has weak effects. The consensus of medical researchers says it has no effects. Which consensus do you pick? Heuristic: the one that has more endorsements. You can consider each physicist/medical researcher/homeopaths's opinion as evidence for the conclusion, and the more the better.
+
+Finally, 4bpp says that my heuristics will end up being "believe what you already believe" and "believe what people with money and status believe".
+
+Perhaps that is a plausible inference, given that in my two examples, homeopathy and Soviet healthcare, I initially began  believing a conclusion, and ended up believing in the same conclusion. But this need not be the case. For example, in a forthcoming post on Soviet nutrition, I initially believed that the Soviet Union would be plagued by famines, queues and poor nutrition. But after a literature review, I learned that it wasn't the case. So I changed my mind. Here, my first heuristic of seeing if it 'seems plausible' failed to track the truth. The next level, which was to check the FAO's statistics on calorie consumption, reduced my confidence in the belief. Next, I couldn't find relevant critiques of that statistics, which further reduced my confidence. And finally, a literature review changed my mind. I'll post it here when it's ready.
+
+That's an example of changing my mind. Here is an example of believing against the consensus: I believe [free banking](http://www.econtalk.org/archives/2008/11/selgin_on_free.html) would work much better than the current monetary system. I came to believe this by reading arguments in favour and against it. At some point, I will do a post on free banking to explain why I think departure from the consensus is justified in this issue.
+
+Where 4bpp has a point, though, is that my low-level heuristics are conservative and lazy. By default you will retain your beliefs, and if you change them, you will adopt that of the consensus. My higher-level heuristics, however, are not conservative and lazy, which is why I rarely apply them, they take some effort. But this is a virtue, not a defect. Usually, going with what seems plausible, or what the biggest group of experts find plausible is a the best idea. Only if you have some special reason to go beyond is the extra effort justified, I think. It would be interesting to apply my heuristics at different points back in time and see what beliefs you end up with, and if there are superior heuristics to mine that consistently yield better truth-tracking.
+
+-   ![ohwilleke](https://www.gravatar.com/avatar/9ddbb1a4760bae59a32c8edbe43abde1?d=identicon) **[ohwilleke](https://dispatchesfromturtleisland.blogspot.com/)** 2016-04-28T01:35:16Z
+    
+    > As a pair of posts on how you should form beliefs about factually provable points, they are O.K., but these posts do omit one of the really central findings of people who descriptively try to explain what causes people in general to change their beliefs about various kinds of things. The central empirical finding about belief formation over the last few decades is that, for the most part, belief formation is not a logical, rational, analytical process. Instead, it is a process with a powerful social component.
+    > 
+    > For example, one of the best predictors of someone's ability to change your mind is that person's social relationship with the person to be persuaded. The kinds of arguments made by people in your own social circle, for example, will generally be much more powerful than the kinds of arguments (logically, rock solid ones) presented to you by outsiders. The fact that people who are part of your regular web of interactions believe something is often more powerful than any argument whatsoever in favor of a new position. If you are an outsider, the best strategy to change someone's mind is to figure out what arguments an insider would make and to present those arguments rather than the arguments that you as an outsider would personally find most convincing.
+    > 
+    > Consider another example. In 1950, the majority consensus was that interracial marriage was wrong. Forty years later, even many formerly segregationist politicians had staffers in their personal circles who were part of interracial marriages, had rhetorically accepted the appropriateness of interracial marriage as a given in their political speeches, and had moved on to attacking affirmative action. This didn't happen because a lot of ordinary Americans reviewed academic literature and rationally considered the facts. The sea change in attitudes about interracial marriage (mirrored a couple of generations later by the gay marriage movement) was fundamentally a social process in which only a tiny minority of people who changed their views did so through the rational process you discuss. Personal experience with interracial married couples (or with same sex couples) is particularly powerful through a mechanism that draws on the "present company excluded" instinct of etiquette. If you want to understand what empirically drives people to adopt new beliefs, you are better off looking to Miss Manners than to the logical/rational model that you propose.
+    > 
+    > Even when someone does claim that their decision was reached in a logical/rational fashion, this is often an after the fact rationalization that even the person claiming that this is what happened will often inaccurately believe (in another example, people often claim to have consciously made a decision to use their hands even though it is possible to show through nerve signals that the decision was made before the part of the brain that governs the conscious mind engaged with the question).
+    > 
+    > Similarly, the descriptive reality in the history of science is that new paradigms become consensus views only once the highly intelligent and rational people who formed their views before the new paradigms came about die. And, nothing in the rational model of belief formation can explain why birth order is a good predictor of the stance that someone will take to defend the status quo or to instead adopt a new paradigm. The merits of each new idea may ultimately drive the outcome, but an individual's inclination to favor one side or another in a close case has more to do with a nurture driven aspect of your personality than it does with the actual arguments advanced for each possibility.
+    > 
+    > A rational logical approach to making decisions may be a desirable ideal to strive to attain, but almost nobody actually reaches most of their beliefs in that manner.
+    
+-   ![Artir](https://www.gravatar.com/avatar/77fac16b1eefeb9c6dcd9d0cfa2ea692?d=identicon) **[Artir](http://)** 2016-04-28T17:57:47Z
+    
+    > I agree with most of what you have said there. These two posts are not everything that is to be said of the matter. Not even everything I have to say about it!
+    > 
+    > re how values change, I wrote this other piece https://artir.wordpress.com/2016/01/20/why-values-change-some-theories/
+    > 
+    > I have read lots of papers in this literature, and I will be presenting some results here from time to time. I can't do it all at once.
+    > 
+    > re nerves, I assume you mean something like Libet's experiments. There is more recent literature on that, and it reinterprets some of the original findings http://blogs.discovermagazine.com/neuroskeptic/2013/11/15/free-will/#.VyJAzzDhCUl
+    
+-   ![ohwilleke](https://www.gravatar.com/avatar/9ddbb1a4760bae59a32c8edbe43abde1?d=identicon) **[ohwilleke](https://dispatchesfromturtleisland.blogspot.com/)** 2016-04-28T02:19:11Z
+    
+    > You might appreciate as an introduction to the overall field, given your cognitive style, the linked (open access) recent review article on the subject: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327528/
+    
+-   ![Artir](https://www.gravatar.com/avatar/77fac16b1eefeb9c6dcd9d0cfa2ea692?d=identicon) **[Artir](http://)** 2016-04-28T17:49:37Z
+    
+    > Thanks!
+    
+-   **[A brief argument with apparently informed global warming denialists | Nintil](https://nintil.com/2017/06/04/a-brief-argument-with-appaently-informed-global-warming-denialists/)** 2017-06-04T21:38:40Z
+    
+    > \[…\] homeopathy doesn’t work without having read what homeopaths say. I talked about this here and here. I was asked if I understand how homeopathy is claimed to work, and I do in the same way I \[…\]

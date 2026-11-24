@@ -1,0 +1,125 @@
+# Post 46: Reward Good Bets That Had Bad Outcomes
+
+### Introduction
+
+I am a very anxious person. One of the most damaging ways this manifests is that I am pretty risk-averse and afraid of failure. In situations of uncertainty, I often want to freeze up, and know I’ll feel safer doing nothing. 
+
+This is a really bad problem! If I let this dictate my life, I lose a _ton_ of value. In particular, there are a lot of areas in my life that are hits-based, where the best way to be successful is to persevere through many failures and [seek the upside risk](https://www.neelnanda.io/blog/33-upside-risk "https://www.neelnanda.io/blog/33-upside-risk") of things occasionally going _super_ well. I want to be someone who can be a great researcher, find really awesome friends, and [generally be ambitious](https://www.neelnanda.io/blog/44-agency "https://www.neelnanda.io/blog/44-agency") about all areas of my life going well. And to achieve this, it is important that I be the kind of person who can take actions with high expected value, and persevere through failures without feeling paralysed. The key thing going wrong here is that I beat myself up over bad _outcomes_ even when I had no way of knowing it wouldn’t work out, given the information at the time. And anxiety gives me a negative prior and causes suboptimal outcomes to stick in my mind. Failures feel painful in a way that missed opportunities do not.
+
+My solution to this is to **think in bets, not outcomes**. To clearly notice all of the good _bets_ that I take, the actions that I endorse given what I knew at the time, and to be happy about each of those. And to think of my life in terms of this, rather than the concrete outcomes of the bet, and whether _that_ was a success or failure. At the end of the day, the only thing I can control is the bets that I make, and the policies I follow, and there will always be uncertainty on the outcomes. And if I make a good bet with a bad outcome, I should be happy about this, not sad! I refuse to let my negative emotions be tied to things fundamentally outside my control.
+
+### My Underlying Model
+
+I first formed this view when I did a trading internship a few years ago. In settings like financial trading or poker, the fundamental skill is about engaging well with uncertainty, and getting past anxieties is a key part of that! And noticing all of the expected value I was missing when I froze up did a lot for helping me notice this failure mode and learning how to solve it. And though the lessons generalise, real life is often a much harder learning environment than these settings - I make fewer bets and so get fewer data points, and it’s much harder to explicitly calculate what’s going on.
+
+I find it easiest to understand what’s going on here and how to fix it when thinking of myself as having a reinforcement learning system inside my head, shaping my actions. I take actions in the world, get feedback from my environment, and use this to update the policies that I follow. Within this framing, there are two clear problems with learning to make good bets with high upside, while being anxious.
+
+The first problem arises because reality is noisy! Even if I had zero anxiety, fundamentally reality has unknowns and I must make decisions under uncertainty. But, by default, I only learn about my actions from their outcomes. And this makes it _really_ hard to learn strategies around pursuing occasional major upsides! It’s obviously worth it to go on 99 unsuccessful dates if the hundredth results in marriage. But by default, my reinforcement learner will likely be discouraged and stop after 99 failures. While, if I can reframe it as 99 successful _bets_, then I get much better!
+
+The second problem comes from anxiety, which causes me to _over_\-update on negative feedback, and consider it _way_ more important than positives. This is a fundamental issue with my learning algorithm that means I will learn systematically bad policies. By focusing on the action I took being good, this reduces the anxiety caused by unsuccessful outcomes. Note that negative feedback doesn’t just include stuff that may actually be a big deal, like a romantic rejection, or missing out on a job I really cared about. At least for me, my anxiety reacts badly to even minor negative outcomes with no real consequences, like making a joke that didn’t land, or recommending a book to someone that they’ve already read.
+
+By default, I feel like I can solve these issues if I just [try harder](https://www.neelnanda.io/blog/mini-blog-post-6-stop-pressing-the-try-harder-button). Think harder about an issue, go through every consideration, analyse it more deeply, and only take the actions that will work out well. This is an illusion! Reality is not fully knowable. And thinking harder has costs. If I follow the strategy of “just try harder”, I will implicitly miss a lot of bets worth taking. The optimal strategy, given that I am an imperfect person in an uncertain world, is to take positive expected value bets. Finding ways to learn well in spite of anxiety is essential, because anxiety holds me back from so many bets worth taking.
+
+### How to Apply This?
+
+The idea of thinking of my actions as bets and not focusing on their outcomes is a pretty core part of how I think about my life, and is useful in a wide range of areas in different ways. A quick brainstorm of different areas where my anxiety significantly holds me back from making the right bets:
+
+-   Applying for jobs
+    
+-   Asking people out/going on dates
+    
+-   Pursuing research directions
+    
+-   Making friends, and generally [taking social initiative](https://www.neelnanda.io/blog/mini-blog-post-23-taking-social-initiative)
+    
+-   Offering people help and favours
+    
+-   Recommending books/articles/resources
+    
+-   Introducing people who might get on
+    
+-   Writing a blog post
+    
+    -   Or starting a blog in the first place!
+        
+-   Writing a cold email
+    
+-   Giving advice
+    
+-   [Asking for help](https://www.neelnanda.io/blog/40-help)
+    
+    -   Especially asking someone for their time, or anything else with a risk of rejection and that might be being a burden!
+        
+-   Any form of [seeking upside risk](https://www.neelnanda.io/blog/33-upside-risk)
+    
+-   Sharing opportunities - I personally try hard to message people with jobs that might be a good fit, good articles I read they might enjoy, etc.
+    
+    -   The instance of this I’m most proud of is getting stressed about Omicron near the start of the surge, and messaging 100 friends with instructions on how to get boosters earlier - this felt stressful at the time, but resulted in 5-10 counterfactually getting it a week or two earlier, and 1-3 getting a booster at all.
+        
+
+**Exercise:** Set a 5 minute timer and brainstorm times in _your_ life when this bias applies. How could you orient to these in terms of bets, not outcomes? 
+
+The exact way I try to think in bets not outcomes varies depending on context, but there are a few core principles that stand out:
+
+-   Find ways to actively be _excited_ about unsuccessful outcomes, so long as I think it was a good bet!
+    
+    -   One way that works well for me is to reflect on how the action fits my self-identity, and is an example of becoming the kind of person I want to be. This successfully shifts focus from outcomes because my identity is a function of the actions I take, not the feedback from the world
+        
+        -   This is the core insight of [becoming a person who actually does things](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things)
+            
+    -   Another way is to quantify things
+        
+        -   Make a log of your unsuccessful bets, eg a list of rejections or failures. Set targets for how many failures you want to have, and see each one as an example of becoming someone who can put yourself out there!
+            
+        -   Estimate the probability of the outcome you want! Eg [Chris Olah’s framing of dating and meeting potential partners in terms of micro-marriages](https://colah.github.io/personal/micromarriages/)
+            
+-   Magnify your excitement about positive outcomes! Remember them, cherish them, and use them as motivation!
+    
+    -   Keep a log of great outcomes, and bets going well.
+        
+        -   Eg, I often share opportunities in group chats, and know of at least two people who’ve gotten internships this way - I find this super motivating to do it more often!
+            
+        -   Relatedly, I keep a log of particularly happy memories and meaningful compliments, which is really uplifting to read when I’m down
+            
+    -   Notice selection bias - all the good outcomes you might not hear about! 
+        
+        -   Eg, I occasionally hear from people who’ve had significant life improvements from things I’ve done. This is fucking awesome in and of itself, but even better when I reflect on how I likely miss out on most things like this!
+            
+        -   Try to shift the selection bias, by making it clear that you love hearing about things like this, and being easy to reach!
+            
+            -   If anything I’ve done has improved your life, [I’d love to hear about it!](mailto:neelnanda27@gmail.com)
+                
+-   Reflect on whether I _could_ have done something differently, given what I knew at the time. This really helps to defuse the anxiety that I’m missing an important lesson and could have known better, and occasionally get the insight that it _was_ a bad outcome!
+    
+    -   It’s important to focus on _given what I knew at the time_. If I’m not careful, my anxieties _love_ to smuggle in some hindsight bias, and tell me that I’m an idiot for not having known the future! By focusing on general policies I could follow, I can get past this.
+        
+    -   [Engage my inner simulator](https://www.neelnanda.io/blog/42-inner-sim) and ask myself “Suppose, at the time, I predicted it would go badly and decided not to do it. Am I surprised by this outcome?”
+        
+        -   Further, ask myself what happened, and _why_ I decided not to do it. Was it for the right reasons?
+            
+    -   Take the outside view - is there any similar past action that did go well? And if so, was this case obviously worse than that one, given what I knew beforehand back then? Can I find a policy which avoided this failure without missing out on that success?
+        
+
+### Does This Reward Bad Bets Too?
+
+One caveat worth addressing is whether this strategy could be _dangerous_? When I think about putting it into practice, this is the biggest flinch from my anxiety - maybe my bets are actually systematically bad and I am deluding myself, and the outcomes are the only way to get this feedback. This is obviously worth considering, and will sometimes happen! The ideal world is one where I evaluate each outcome for information that I’m missing, and take it as a slight negative update on whether the bet was worth making. 
+
+But there is no way of reaching that ideal world - my anxiety is a major bias, it pushes me towards risk-aversion, and it’s basically impossible to _perfectly_ correct for a bias like this. My solution essentially introduces [a counter-bias](https://www.neelnanda.io/blog/31-overcoming-bias), towards ignoring the outcomes by default, which pushes me towards risk-seeking. In principle, there’s some risk of overshooting the ideal point and being _too_ risk-seeking, but in practice I think this is really unlikely! Especially if I explicitly reflect on whether I _could_ have known better. My anxiety creates a pretty big bias towards risk-aversion, and dealing with anxiety is hard, and nothing I do is likely to create as big a bias the other way. I’m not able to ignore the anxiety at particularly bad outcomes, or the creeping doubt of getting way more unsuccessful outcomes than expected. The sheer fact that I feel anxiety about overshooting is a sign that I am safe, and can trust myself to not go too far without needing to actively track it!
+
+### Rewarding Other People’s Bets
+
+Many of my anxieties are social in nature, and I get _way_ more anxious about bad outcomes involving other people. And it’s much easier for someone _else_ to help me overcome a socially-related anxiety by giving reliable feedback, than trying to deal with it within the insecurities of my own head. I like to seek positive externalities, so a great (and sad) thing is that this works in reverse - social anxieties are super common, so if I can help _other_ people reward themselves for good bets with bad outcomes, I can help them make much better bets! 
+
+Often I do this by being enthusiastic and positive when I see someone who made a good bet with a bad outcome - offering them sympathies about the outcome itself of course, but also congratulating them on putting themselves out there, and making a good bet! I think it’s reasonable to have some concern about insincerity or seeming mocking/insensitive, but in practice I find this often goes down well. Especially if I explain the framing of bets not outcomes, and get them to think about whether the bet was a bad idea given what they knew at the time.
+
+This applies in all the settings I brainstormed above, but is particularly important if someone made a good bet towards me! Eg someone recommends I apply for a job that’s a bad fit, sends me an article I didn’t enjoy, a book recommendation I’ve already read, an introduction that didn’t work out, gave me advice I’d already tried or that didn’t work, etc. I know I find it super discouraging to be on the other end of that, so I always try to clearly say that what they did was positive expected value, and that I appreciate it and hope they do that kind of thing again! A lot of great things in my life have come from people sending me good opportunities, and it’s crazy to train people to not do that. (Though only if I think it actually _was_ positive expected value, obviously - don’t reward people for bad bets and bad outcomes!)
+
+Doing this also selfishly helps me - it creates a social context around me where other people will reward me for taking good bets, and helps build the association in my mind that eg ‘applying for jobs and getting rejected = good’, which helps me internalise it and apply this to myself.
+
+**Exercise:** Set a 5 minute timer and brainstorm ways you can help reward people around you for making good bets with bad outcomes.
+
+### Conclusion
+
+If you relate with the failure mode of fixating on failures and being risk-averse, I think it’s _really_ worth trying to be on top of this, and focusing instead on the actions you took, given what you knew at the time! Anecdotally this seems super common - many of the smartest people I know are super insecure and risk averse. And this is a massive tragedy because [the world is full of wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule) - if you’re unable to be ambitious and take the opportunities that come your way, you’ll miss out on a lot.
+
+So, as a final exercise, reflect on where this bias holds you back in your own life. What are the good bets you fail to make? What opportunities do you miss out on? Where do your anxieties unduly punish you? And what are you going to do about it?

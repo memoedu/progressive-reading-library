@@ -1,0 +1,35 @@
+This Sunday, with some uncertainties, there will be a referendum for independence in Catalonia. It could potentially be the most important political event in decades.
+
+The angle I wanted to briefly touch on here is that of legality, and what the consequences of the referendum could be. The referendum, if their organises deliver on their promises, will mean a unilateral declaration of independence from Spain (UDI). The [list of unilaterally declared independence](https://en.wikipedia.org/wiki/Unilateral_declaration_of_independence) is not long, most likely because it is very difficult to unilaterally secede from an entity that controls the army and the police and wants really hard to keep the land over which it claims sovereignty.
+
+The Catalonian case is unique among the UDI countries in that it is not the result of a deep rooted violent conflict, and it is not being pursued through violent means. There has been no Catalan equivalent of [ETA](https://en.wikipedia.org/wiki/ETA_\(separatist_group\)).
+
+Being a UDI it is already quite a unique event . This is not like [Scotland](https://en.wikipedia.org/wiki/Scottish_independence_referendum,_2014), or the [handful of countries](https://www.nationalia.info/new/10936/ten-countries-that-grant-the-right-to-independence-to-some-of-their-territories-and-france) that recognise a very limited and qualified right of secession. (Except Liechtenstein, where even towns can secede). It is not like these examples because Spanish legislation does not allow for independence of a region. It does not take years of legal education to understand the relevant parts of Spanish law. Nor does EU law allow for such a referendum.
+
+The independence movement has appealed instead to international law - [the right to self-determination](https://en.wikipedia.org/wiki/Self-determination), specifically -, which is an obvious move. International law stands in an interesting position relative to national constitutions in that constitutions are held to be the supreme law of the land, but then informally, there's this idea that countries must in addition abide by international law. International law itself is not issued by any given entity, but it is more like a common law system, where it is all about case law: what happened in the past tends to serve as guidance for how to deal with the problems in the present.
+
+Said right or principle[has evolved over time](http://opil.ouplaw.com/view/10.1093/law:epil/9780199231690/law-9780199231690-e873). Once there was thee idea that each nation ought to have a State, and thus a bunch of states were born, both by fractionalisation and agglomeration of territories, in some cases through war. In modern times, it is understood that the right applies to peoples who have been colonised or are subjugated by a foreign power. It is mainly thought of as a way of undoing what colonisation did. A weaker version of this right mandates that peoples could also gain self-determination by gaining political autonomy within an existing State. I am no expert in international law, but it is most likely not true that it can be appealed to for the Catalonian referendum.
+
+So the referendum lacks any sort of legal backing. But what is being attempted in Catalonia, if successful, could serve as a precedent for the future. If unilateral independence is possible by peaceful means, and the international community eventually recognised Catalonia as a State, this would move the state of the interpretation of the right to self-determination more towards the side of Liechtenstein: That any territory, if it just feels like it, can become independent by passing a vote. This is what is being attempted, even though it is not being made explicit: to appeal to what is considered right to change what is considered legal.
+
+This principle would also allow for the independence of Barcelona, or of London, for example, if recognised in a non-hypocritical way.
+
+Though unlikely a few weeks ago, it now looks like there will be a referendum. (PredictIt assigns it a [81% chance](https://www.predictit.org/Contract/7223/Will-Catalonia-vote-for-independence-on-October-1#data)). This is an interesting turn of events: In the fight between a State -which claims the monopoly over violence- and a substantial portion of the population of a region, plus its government, the latter seems to have won. The monopoly of violence, like many other things we tend to reify, is made of people,after all, and people may not be willing to beat up unarmed and peaceful civilians who are putting papers in boxes. Thus Spain, following a series of court rulings -including Catalonia's own High Court), has systematically blocked hundreds of websites, seized ballot boxes, ballots, sent in thousands of policemen (In a L[ooney Tunes themed](https://verne.elpais.com/verne/2017/09/22/articulo/1506064053_793109.html) ship no less) in an attempt to stop the referendum from even happening. But this has not been enough.
+
+The referendum will most likely have a [positive result](https://en.wikipedia.org/wiki/Catalan_independence_referendum,_2017), with maybe over 60% in favor. The [law that regulates the referendum](http://www.elperiodico.com/es/politica/20170704/ley-referendum-cataluna-pdf-6147161) says that then the Catalonian parliament has two days to formally declare independence.
+
+Now the question is: what happens next? It seems like nothing, like the government of Spain will do something to stop it from happening, and the organisers will end up being prosecuted and jailed, and then things would go back to normal. Last time there was an attempt, back in 1934, [thousands of people were jailed](https://es.wikipedia.org/wiki/Proclamaci%C3%B3n_del_Estado_Catal%C3%A1n_en_octubre_de_1934) so technically it can be done. But that it can be done does not mean that it will be done. Next week we'll see.
+
+This could be just another footnote in a history book, or an opening passage in the chapter that explains how you got an explosion in the number of states  that began around 2017.
+
+-   ![T. llimac](https://www.gravatar.com/avatar/325de8c7f3c3f498523e0a4989538250?d=identicon) **T. llimac** 2017-10-22T12:03:05Z
+    
+    > Turns out it will be a footnote. I suppose they were afraid of running the same fate.
+    
+-   ![T. cargol](https://www.gravatar.com/avatar/f53a9463070adc9cb152336d7a24f693?d=identicon) **T. cargol** 2017-10-06T09:01:36Z
+    
+    > Catalonia is not an artificial territory made by convenience or design.
+    
+-   **[Rational Feed – deluks917](https://deluks917.wordpress.com/2017/10/05/rational-feed-139/)** 2017-10-06T02:12:43Z
+    
+    > \[…\] Brief Note On Catalonia by Artir – Unilateral declarations of independence are rare. Right to self-determination and common international law. What precedent would the referendum set? \[…\]

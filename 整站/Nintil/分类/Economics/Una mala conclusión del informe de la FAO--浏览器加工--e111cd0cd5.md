@@ -1,0 +1,49 @@
+Este informe: [http://www.rlc.fao.org/fileadmin/templates/iniciativa/content/pdf/publicaciones/pubs-no-proyectoiniciativa/Volatilidad\_en\_los\_precios\_de\_los\_alimentos\_y\_el\_papel\_de\_la\_especulacion.pdf](http://www.rlc.fao.org/fileadmin/templates/iniciativa/content/pdf/publicaciones/pubs-no-proyectoiniciativa/Volatilidad_en_los_precios_de_los_alimentos_y_el_papel_de_la_especulacion.pdf)
+
+¿Quién escribe la conclusión? Leonel Fernández, presidente de la República Dominicana, y sin experiencia en el campo de la economía, finanzas o mercados de commodities.
+
+Veamos qué cosas relevantes dice:
+
+"nos encontramos con una carencia de información: no contamos con suficientes datos." "un primer objetivo que debemos trazarnos es cómo mejorar la recolección de datos e información sobre transacciones de commodities, y que este conocimiento sea accesible a todos los actores, de modo cotidiano, para identificar las actividades especulativas. "
+
+**Esto avala lo dicho en el informe de la FAO, [http://www.fao.org/fileadmin/user\_upload/hlpe/hlpe\_documents/HLPE-price-volatility-and-food-security-report-July-2011.pdf](http://www.fao.org/fileadmin/user_upload/hlpe/hlpe_documents/HLPE-price-volatility-and-food-security-report-July-2011.pdf) . Hay poca información. Vale.**
+
+"Un proceso de constante liberalización ha modificado el sistema bancario estadounidense establecido por la ley Glass-Steagall, la cual fue echada a un lado por la ley Gramm-Leach-Bliley, a partir de cuando se permite la interacción entre bancos comerciales tradicionales y bancos de inversión. Esta desregulación del sistema financiero en Estados Unidos fue una vasta transformación de impacto global."
+
+**Muy bien. Pero cómo afecta esto al tema en cuestión? Mi hipótesis es que Leonel deja cae la idea de la desregulación, junto con palabras "vasta transformación de impacto global" para comenzar a pintar una imagen negativa de la especulación. La subida de precios de las materias primas es en parte atribuíble al ciclo económico, que es en parte atribuíble a las operaciones de ciertos bancos, sí. Pero incluso asumiendo que absolutamente todos los bancos fuesen mixtos y captasen depósitos para invertir, la Ley Glass-Steagall seguiría siendo un intento de atajar la consecuencia, y no la causa, del comportamiento de estos bancos.**
+
+"Podemos constatar el hecho de que todo esto ha ocurrido y, como no tenemos suficiente información, no nos es posible determinar el impacto de estos hechos; diríapor tanto, que se trata de un tema que debe continuar siendo estudiado."
+
+**Nuevamente, se dice que no se tiene información.**
+
+"Al día de hoy no tenemos la respuesta, pero debe haber alguna relación entre el incremento de las transacciones donde se “transfieren” barriles de papel en lugar de barriles de petróleo, y la incidencia de tales negocios en el mercado físico"
+
+**Debe de haberla? Leonel parece querer que en efecto esa relación exista. ¿La hay? Una rápida búsqueda de papers parece indicar que la volatilidad parece relacionada con shocks reales de demanda y no el volumen de negociación ([http://www.econstor.eu/bitstream/10419/66964/1/664022138.pdf](http://www.econstor.eu/bitstream/10419/66964/1/664022138.pdf) . Este estudio del FMI alcanza la conclusión de que el volumen tiene algo que ver, pero que no es un factor principal, y que en cualquier caso la evidencia es mixta [http://chede.org/chede/wp-content/uploads/2010/06/IMF-Reasons-for-Food-Price-volatility.pdf](http://chede.org/chede/wp-content/uploads/2010/06/IMF-Reasons-for-Food-Price-volatility.pdf) . Este otro informe se decanta por que el precio del petróleo refleja efectivamente sus fundamentales, y que su volatilidad no responde a la financialización [http://www.ourenergypolicy.org/wp-content/uploads/2013/06/milan030612.pdf](http://www.ourenergypolicy.org/wp-content/uploads/2013/06/milan030612.pdf) )**
+
+**Pueden buscarse más,  pero quizá esa relación no exista, Leonel.**
+
+"Porque el problema de la especulación no es sólo de productos básicos agrícolas, ni de petróleo, ni de metales. Se trata de un problema sistémico, un problema del sistema financiero global"
+
+\*\*Y ahora, pasando del "no tenemos información suficiente", se da el salto al "Es un problema". Lo que confirme lo antes dicho de que Leonel ya tiene su veredicto escrito de antemano: culpable. Decir que no se tienen datos para explicar los efectos de algo y luego decir que ese algo es un problema es una completa incoherencia. \*\*
+
+"Para ahondar un poco más en qué sabemos y qué no sabemos con carácter de certeza científica, podemos reflexionar sobre la constatación de una serie de hechos que constituyen una crisis ecológica: hay un incremento en la emisión de dióxido de carbono que se concentra en la atmósfera y exacerba el llamado efecto invernadero..."
+
+**Este párrafo viene a meter en la mente del lector la analogía con el cambio climático: Dice que porque hay algunos que niegan que el ser humano sea causa del mismo, proponiendo la inacción, se pierden vidas. Y el lector pensará "Por precaución, es mejor tomar medidas". Pero la analogía es falaz: Si la especulación puede ser buena o mala, y no se sabe cómo es, no hay razón para tomar medidas. Pero sí sabemos que el cambio climático o es neutro (business as usual) o es malo. En ambos casos se sale ganando con medidas precaucionarias.**
+
+"En esa oportunidad se habló de la posibilidad de que el suministro de petróleo iraní se interrumpiría a consecuencia de actos de fuerza en el estrecho de Ormuz, cosas que no sucedieron. ¿Cómo, entonces, se justifica que el precio del petróleo se disparase a esos niveles? No hubo interrupción del abastecimiento, nada cambió en términos de oferta y demanda. Sólo se dijo que el estrecho de Ormuz podría ser cerrado, y el precio del petróleo subió de modo brusco, arrastrando los precios de los alimentos cuya producción depende de los hidrocarburos. A eso, aunque no existan datos matemáticos concluyentes que lo afirmen, se llama, en todos los idiomas, especulación. Esa especulación está teniendo un impacto en la vida real de las personas."
+
+\*\*Precisamente la especulación está para eso: para prevenir riesgos. Supongamos que se cree que en unos días llegará un huracán a una localidad. La gente evacúa. Pero finalmente el huracán no llega. ¿Cómo es posible que la gente huyese masivamente? No hubo interrupción del abasetecimiento, nada cambió... sólo se dijo que podría haber un huracán y la gente huyó masivamente. \*\*
+
+**Se llama prudencia. La misma prudencia que Leonel quiere emplear para respaldar la implantación de regulaciones subyace a la especulación. El futuro es incierto, y los mercados de futuros son una manera de tratar de mitigar esa incertidumbre, agregando lo que muchos agentes creen sobre circunstancias futuras. Si se cree que la oferta va a ser más baja en el futuro (y el precio más alto), tiene sentido comprar esa commodity hoy y venderla mañana. Así, aumentas el precio hoy y lo reduces mañana: reduces la volatilidad, como explicaba[en otro artículo](https://nintil.com/2012/10/29/si-la-especulacion-no-existiese/ "Si la especulación no existiese…"). No hay que olvidar que un especulador que compra al final terminará vendiendo. Muchos tienden a olvidar eso último.**
+
+"Mientras encontramos la información científica y conducimos los análisis econométricos, los modelos regresivos, las investigaciones estadísticas, lo cierto es que millones de personas están muriendo en todo el mundo como consecuencia de un incremento desorbitado de precios y unas fluctuaciones continuas –que nadie parece entender por qué ocurren– que están teniendo un impacto humano profundo y dramático."
+
+\*\*Leonel prosigue su trabajo de jugar con la imagen que ha creado: pide precaución sin datos, en base a una analogía falaz y apelando prácticamente a las emociones, empleando lenguaje emocionalmente cargado como "millones de personas muriendo o impacto humano profundo y dramático" \*\*
+
+"El incremento de precios y la volatilidad son una declaratoria de muerte para muchas personas. Por consiguiente, mi conclusión es esta: mejoremos los mecanismos de adquisición de información, hagamos los análisis científicos que deban hacerse, pero pongamos por encima de todo el porvenir, el destino y la suerte del género humano, que en estos momentos están siendo profundamente afectados por este fenómeno."
+
+\*\*Finalmente, pide una mayor información y que tengamos en cuenta el porvenir del ser humano que están siendo profundamente afectados por este fenómeno. ¿Profundamente afectados a pesar de que en varias ocasiones dices que no hay información para afirmar eso? \*\*
+
+**Vale, hay que recoger más información. Pero en esta conclusión: 1) Por escrito no se pide acabar con la especulación 2)Interpretando las intenciones de Leonel, él quiere poner coto a la especulación. Pero piensa esto sin tener conocimiento justificado de los hechos. De hecho, podemos ver que efectivamente [http://www.abc.es/agencias/noticia.asp?noticia=980492](http://www.abc.es/agencias/noticia.asp?noticia=980492) Leonel está en contra de la especulación, como destilan sus palabras. Pero igualmente, no tiene datos para apoyarse. Tiene también una visión del mundo sesgada: piensa que cada vez hay más pobres (Lo que encajaría con la idea de la especulación como agente dañino), cuando la realidad es bien distinta: cada vez hay menos pobreza. [http://www.economist.com/blogs/graphicdetail/2013/06/daily-chart-2](http://www.economist.com/blogs/graphicdetail/2013/06/daily-chart-2)**
+
+En resumen, la conclusión escrita es neutral, pide más información. Las formas son pésimas, con constantes apelaciones a lo emocional, y ciertamente la conclusión que se infiere (La especulación es mala) es una que los datos no soportan.

@@ -1,0 +1,3 @@
+“You might hope that intellectual honesty and self-awareness would be sufficient to prevent people from switching justificatory standards… But my experience is that the human capacity for self-deception is both vast and subtle. It enables us to seize upon any available tool for maintaining the beliefs — particularly about philosophy, religion, and politics — that we prefer, while avoiding full consciousness of its own operation. In fact, it takes a concerted, conscious effort not to engage this otherwise automatic faculty.”
+
+| — | **Michael Huemer**, _Skepticism and the Veil of Perception_ (2001) |

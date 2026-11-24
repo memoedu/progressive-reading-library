@@ -1,0 +1,13 @@
+Me he fijado que entre las muchas respuestas ante el reciente accidente de un vuelo de la aerolínea GermanWings (Lufthansa) se han producido al menos dos que son a la vez contradictorias e irracionales.
+
+Por un lado, hay gente que se siente más tranquila tras la caída del avión: Piensan que sería muy raro que caigan dos aviones seguidos de la misma compañía. Esto es una [falacia del jugador](https://es.wikipedia.org/wiki/Falacia_del_apostador) de libro, salvo que los que lo sepan algo de GermanWings que el resto de los mortales no sabe (Que sus planes de revisión de aviones se hagan de manera tal que estadísticamente los sucesos sí guarden relación. Un vuelo dado de una compañía seguramente tenga una probabilidad menor de accidente si uno anterior ha sufrido un accidente a largo plazo, en tanto los accidentes motivan una mayor seguridad, pero a corto plazo no ha habido tiempo para hacer revisiones o implementar mejoras ).
+
+Por otro, hay gente que quizá haya cancelado su vuelo o no coja próximamente aviones. En este caso, es un [sesgo de disponibilidad](https://en.wikipedia.org/wiki/Availability_heuristic) : Otorgar mayor probabilidad o importancia a sucesos más fácilmente recordables y/o recientes. La probabilidad de que el próximo avión que cojas se vea modificada no cambia con un accidente. O para hilar finos, no cambia mucho. El número de vuelos V que se producen en un periodo de tiempo T es vastísimamente superior al de accidentes A en T. Incrementar A en una unidad deja casi absolutamente invariante el cociente A/V. Así lo muestran los datos:
+
+![](https://nintil.com/old_assets/2015/03/24-1.png)
+
+Nótese que [no toda aerolínea es igual de segura](http://www.dailymail.co.uk/travel/travel_news/article-2908531/Ranking-world-s-dangerous-airlines-includes-troubled-AirAsia-Malaysia-Airlines-scores-highly-safety.html). Las que menos suelen concentrarse en gran medida el Tercer Mundo. Las cinco más peligrosas tienen su operación prohibida en la UE. De las más seguras, [varias son europeas](http://www.airlineratings.com/news/425/worlds-safest-airlines-for-2015).
+
+Germanwings, en concreto, tiene 6 de 7 estrellas en seguridad según el ranking [AirlineRatings.com](http://www.airlineratings.com/ratings/133/germanwings) , y este número de estrellas tiene en cuenta auditorías de la ICAO, si está permitida su operación en la UE, si la FAA le da el visto bueno, o si nunca han tenido un accidente.
+
+El año pasado, sin ir más lejos, sólo hubo un [único accidente aéreo](http://aviation-safety.net/database/hpbarometer_gallery.php?year=2014)  en occidente, y murieron dos personas.

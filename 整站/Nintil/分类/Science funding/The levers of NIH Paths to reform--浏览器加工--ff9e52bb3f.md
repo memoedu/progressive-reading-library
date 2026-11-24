@@ -1,0 +1,50 @@
+In my [Fund People, Not Projects](https://nintil.com/categories/fund-people-not-projects/) post series I discussed various reforms that have been proposed to change the way science is funded. NIH is the world's [largest](https://health-policy-systems.biomedcentral.com/articles/10.1186/s12961-015-0074-z) science-funding entity (or entities), singlehandedly funding 60% of _global_ non-private life sciences research in 2013. Given the possibilities of the [life science](https://nintil.com/science-ending-frontier/)s, it is of interest to understand what one would have to do if one wanted to implement these reforms at NIH. Do you just need to convince the Director of an Institute to get changes approved? Would they be able to do it, but destroy their careers in the process if the change was too radical? There isn't really anything written about this.
+
+First, worth pointing out what the structure of NIH is. It's 27 [Institutes](https://www.nih.gov/about-nih/who-we-are/organization) [and](https://www.nih.gov/institutes-nih/list-nih-institutes-centers-offices) Centers, each of which established at different points in time, with the [oldest and largest](https://en.wikipedia.org/wiki/List_of_institutes_and_centers_of_the_National_Institutes_of_Health) being the National Cancer Institute (1937) and the newest being the National Institute of Biomedical Imaging and Bioengineering (2000). The org-chart of the [Office](https://oma.od.nih.gov/IC_Organization_Chart/OD%20Organizational%20Chart.pdf) of the Director alone is already kind of extensive.
+
+NIH has introduced a bunch of changes over the years; some of them one could imagine who you would have to convince to implement; the [NIH Director's Pioneer Award](https://commonfund.nih.gov/pioneer) was implemented by, not surprisingly, the Office of the Director. That was framed as part of the [High-Risk, High-Reward Research](https://commonfund.nih.gov/highrisk) programme which in turn was funded out of the [Common Fund](https://commonfund.nih.gov/) which is a chunk of money that acts as funding source of last resort of sorts,
+
+> Common Fund programs must meet five overarching criteria. Programs must be:
+> 
+> -   **Transformative**: Must have high potential to dramatically affect biomedical and/or behavioral research over the next decade
+> -   **Catalytic**: Must achieve a defined set of high impact goals within a defined period of time
+> -   **Synergistic**: Outcomes must synergistically promote and advance individual missions of NIH ICs to benefit health
+> -   **Cross-cutting**: Program areas must cut across missions of multiple NIH ICs, be relevant to multiple diseases or conditions, and be sufficiently complex to require a coordinated, trans-NIH approach
+> -   **Unique**: Must be something no other entity is likely or able to do
+
+The Common Fund is however a relatively [small](https://officeofbudget.od.nih.gov/pdfs/FY21/br/1-OverviewVolumeSingleFile-toPrint.pdf) pot of money compared to actual grant funding (From p.16, report from 2021), 37x less, but in absolute terms it's still substantial (597M$), which gives an idea of how humongously large NIH is.
+
+Administratively, NIH hangs inside the US's Department of Health and Human Services and operates following the [Public Health Service Act](https://www.law.cornell.edu/uscode/text/42/chapter-6A), with most of the money being authorized by Section 402A(a)(1) of the PHS Act. What the NIH Director can do seems [very](https://www.law.cornell.edu/uscode/text/42/282) broad, but (e.g. (b)(2)) seems to indicate the Director is not supposed to micromanage each Institute. Common Fund money could be used, it seems, to fund grants by a particular institute.
+
+However, (9) puts all NIH-funded research under the need to be reviewed according to other sections (289a). In turn, that section mandates that such peer review be done
+
+> **(A)** to the extent practical, in a manner consistent with the system for technical and scientific peer review applicable on November 20, 1985, to grants under this chapter for biomedical and behavioral research, and
+> 
+> **(B)** to the extent practical, by technical and scientific peer review groups performing such review on or before November 20, 1985,
+
+So it seems by the way the regulations were written, they built-in into the NIH the practices of 1985-style peer review, which I assume end up being the familiar [study section](https://public.csr.nih.gov/StudySections) [system](https://medschool.vanderbilt.edu/wp-content/uploads/sites/5/public_files/Hamm_peer%20review.pdf). This in principle doesn't sound very promising for reforms like funding lotteries if one needs to amend the Public Service Act, so it would have to go through the US Congress via the [Senate Committee on Health, Education, Labor, and Pensions](https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Health,_Education,_Labor_and_Pensions), the Chair of which is US Senator [Patty Murray](https://en.wikipedia.org/wiki/Patty_Murray).
+
+However, it may not be necessary to amend the law. Perhaps in practice as long as every proposal gets some review it suffices to meet the requirements of section 289a. And in most funding alternatives, be it lotteries or HHMI-style longer term fund-people-not-projects there is _some form_ of review. Even Don Braben's [picks](https://nintil.com/review-scientific-freedom) were peer reviewed to satisfy formalities, so here the same _might_ work.
+
+For the NIH Director's Pioneer Award or various other kinds of new funding mechanisms like [MIRA/R35](https://www.nigms.nih.gov/research/mechanisms/mira/pages/default.aspx) grants or the [K99/R00](https://researchtraining.nih.gov/programs/career-development/k99-r00) ("kangaroo") grants there was no need to change any law, NIH could do it internally. So if NIH wanted to introduce an expanded Pioneer Award program they could do it. The same goes for most proposals. Lotteries might be the one that would be trickier.
+
+NIH management at the Centre for Scientific Review (CSR) [seems](https://www.nejm.org/doi/full/10.1056/NEJMp1507427) open to study the effectiveness of their own process but prima facie they [like](https://public.csr.nih.gov/AboutCSR/Mission/PowerofNIHPeerReview) peer review as is. CSR is also explicitly committed to _Scientifically assess approaches to improve the efficiency and the quality of NIH peer review_, and so if that's true CSR should be pretty much open to do experiments on their own methodology.
+
+A substantial [change](https://en.wikipedia.org/wiki/NIH_Public_Access_Policy) to NIH back in 2004, requiring all research papers originating from NIH-funded grants to be open access a year after publication was eventually made mandatory by law (Sec [217](https://grants.nih.gov/grants/guide/notice-files/not-od-09-071.html) of the Omnibus Appropriations Act 2009), but prior to that it was enacted voluntarily. For purposes of further reform this sounds like a given institute might have some latitude to try things if they want to but they can't be forced to unless done by law.
+
+Given the way NIH works right now, one would have to make CSR cooperate with at least one institute to get a lottery going. CSR could for example have a study section that flips coins and does some preliminary review, but within the current system they would have to then convince a given institute that _those grants_ are worth funding (CSR study sections give grant proposals a score, but it's up to the institute to decide what they end up funding). CSR has done some reforms and experiments over time that to me seem relatively minor relative to what one can find [out there](https://www.nature.com/articles/477529a) like comparing half-point to an integer scale [when](https://public.csr.nih.gov/AboutCSR/HalfPointPilotStudy) scoring proposals.
+
+Can a given institute bypass CSR? They review 76% of NIH [proposals](https://public.csr.nih.gov/AboutCSR/Evaluations), not 100%. The rest go through _committees at an [Extramural](https://www.nimh.nih.gov/funding/grant-writing-and-application-process/peer-review-of-grant-applications.shtml#:%7E:text=NIMH%20grant%20applications%20are%20either,the%20NIMH%20Extramural%20Review%20Branch.&text=Specific%20grant%20applications%20types%2C%20such,\(P50s%2C%20P30s%2C%20P20s\)) Review Branch_. But it seems that conceptually they work like study sections. So in practice maybe?
+
+Another possibility might be to convince one institute's advisory council to [randomize](https://www.niaid.nih.gov/grants-contracts/second-level-review) the proposals they choose. It's unclear to me, however, if they would do that.
+
+To sum up, if one wanted to try new funding mechanisms at NIH, one would have to
+
+1.  Convince the NIH Director to add some new mechanism to the Common Fund/[High Reward](https://commonfund.nih.gov/highrisk) program. This could work given that it's the NIH Director blessing the change, and it's some money that's allocated to try out new funding mechanisms.
+2.  Convince CSR to randomize grants to new decision making mechanisms, then convince at least one institute to fund the ones that are picked
+3.  Convince one institute to pick at random groups of grants from the scored proposals study sections send them, then one group is funded in a business as usual way, the other goes through a new mechanism
+4.  Convince US Congress, via the aforementioned committee, to change the NIH charter (Public Health Service Act) so that it has to enact the desired reform
+
+The nicer way, however, given that NIH runs on a mixture of implicit and explicit formal rules, would be to get buy in directly at the top (NIH's Director) and if that is not doable, then do a smaller scale pilot via CSR. If that doesn't work then one would have to do it through an advisory board at a particular institute, but at that point it becomes impractical.
+
+_Ricón, José Luis, “The levers of NIH: Paths to reform”, Nintil (2021-03-11), available at https://nintil.com/nih-levers/._

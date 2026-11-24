@@ -1,0 +1,15 @@
+_Epistemic status: needs empirical support._
+
+When people talk about starting businesses that provide social value, one point that often comes up is that you can’t trust market incentives, because they’re skewed by income inequality. Since rich people are able to pay more for things they enjoy, it’s disproportionately rewarding (relative to its social value) to make products for rich people. For example, perhaps Apple could make lower-quality computers and sell them at a lower price point; this would create more social value (because it would only slightly reduce the value that people derive from Apple computers, and more people would be able to purchase them), but it would be less profitable for Apple (because they couldn’t get away with as large of a margin).
+
+_Prima facie_ it seems strange that rich people should ever actually pay more per unit enjoyment (“hedon”). For instance, suppose that Casey is rich and is willing to pay $20/hedon, while Dana is poor and is only willing to pay $10/hedon. Why should Casey ever pay more than $10/hedon for a product? For this to happen, ey would have to consume all possible goods at $10/hedon and hit diminishing marginal returns. In a society with as many goods as ours, this seems completely implausible.
+
+The answer is that it’s not just hedons that matter. Casey is only capable of consuming a certain amount of goods, irrespective of their hedonic content. As such, what matters to Casey isn’t just hedons but _hedonic density_. An Apple computer provides more hedons _per amount interacting with it_ than its inferior substitutes. Income inequality skews markets towards greater hedonic density than would be socially optimal.
+
+Unfortunately, even skewed markets provide a much better incentive structure than trying really hard to theorize about what works. So we should probably keep them around if we want to make sure that we’re actually creating social value. Given this, how can this risk of distorted markets be avoided or limited? I can think of a couple ways that might work:
+
+-   Work in areas where the range of possible hedonic densities is limited. For example, there is very little room for electricity infrastructure to be more hedonically dense (at least compared to, say, computer hardware). (Of course, electricity infrastructure has its own problems with skewed market incentives.)
+    
+-   Work in a market where number of participants is much more important than participant wealth: for instance, Google provides a lot of social value through free universal high-quality search and email, but their revenue stream is ads. Their ad marketplace may be catering more towards the rich than is socially optimal, but their search engine is free, so incentives are better aligned.
+    
+-   Have the social value you create be removed from your revenue stream. Google falls into this category, as does e.g. AT&T or other bigcorps that provide a lot of social value through blue-skies R&D. (However, this gets into the territory of not having market incentives apply, which can be dangerous as it’s much harder to see one’s way to creating value at all without them.)

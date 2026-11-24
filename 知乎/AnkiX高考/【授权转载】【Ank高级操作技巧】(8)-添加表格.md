@@ -1,0 +1,19 @@
+# 【授权转载】【Ank高级操作技巧】(8)-添加表格
+
+> [原文链接](https://zhuanlan.zhihu.com/p/136792696)
+
+感谢 [@Innis](https://www.zhihu.com/people/9b564660241925cb57e5eede371fe21a) 授权转载【Ank高级操作技巧】系列文章，我将转载其中特别实用的部分。也欢迎各位读者关注这位作者，同时他也是一位 b 站学习类 up 主。以下是正文：
+
+有些时候我们在学习的时候会遇到表格类的学习材料，而anki是不支持直接输入表格的，而且我们也不方便把表格打散开来，那么我们该怎么使用anki学习表格类型的知识呢？这篇文我们将介绍解决的方法
+
+第一步：制作表格并添加框线
+
+第二步：从excel复制表格到word
+
+第三步：从word复制表格到网站：Kindeditor
+
+[在线HTML编辑器](https://link.zhihu.com/?target=http%3A//kindeditor.net/demo.php)第四步：转换表格并复制
+
+第五步：保存html代码到anki
+
+[https://www.bilibili.com/video/av57047958](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av57047958)

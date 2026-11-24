@@ -1,0 +1,9 @@
+> Socialism seems to answer to a higher moral calling. Perhaps the best evidence of this is that socialists so often defend their view in moral terms, while capitalists defend their view in economic terms.  The problem with socialism thus seems to be that it asks too much of us—it asks us to love our neighbors as ourselves, to share, and to never take advantage of power. Socialism seems like a noble idea—and we’re not good enough for it. Socialism says, “All for one and one for all.” But we’re more comfortable with something like, “Every man for himself.” And so, sociobiologist Edward Wilson jokes of socialism: “Wonderful theory, wrong species.” \[...\] You, the reader, are probably not a socialist. But you probably accept the view just described: That markets are a kind of moral compromise, and that if we could harness the best within us, we would dispense with capitalism. You might not call yourself a socialist, but if you are a typical person, you probably agree that socialism would be best if only human beings were much nicer than they in fact are. \[...\] Cohen’s book contains a simple but powerful thought experiment meant to about capitalism are correct. For Cohen, to say of socialism, “Wonderful theory, wrong species” is to damn humanity, not socialism. Capitalism works better only because it harnesses our greed and fear. But socialism is the system of love and community. Socialism is not bad for us—we are bad for socialism.  
+
+##### This quote reflects a mistaken view, see here:
+
+##### [Why not Capitalism? - Jason Brennan](http://bleedingheartlibertarians.com/2014/06/why-not-capitalism-should-appear-in-paperback-today/)
+
+-   **[On criticising communism | Nintil](https://artir.wordpress.com/2016/06/15/on-criticising-communism/)** 2016-06-15T10:55:24Z
+    
+    > \[…\] think that communism is a bad system in theory and in practise. But why \[…\]

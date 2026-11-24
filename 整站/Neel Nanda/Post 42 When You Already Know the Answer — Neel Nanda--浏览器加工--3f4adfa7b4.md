@@ -1,0 +1,266 @@
+# Post 42: When You Already Know the Answer
+
+_I first encountered the idea of Inner Simulators at a_ [_CFAR workshop_](http://rationality.org/)_. Credit to them, and read the relevant chapter of_ [_their Handbook_](https://rationality.org/resources/handbook/) _to see their take. If you’re already familiar with the idea, or find this post slow, I expect you’ll still enjoy the list of examples at the end_
+
+### **Introduction**
+
+I am fascinated by **framing effects** - when phrasing a question in a different way, this can significantly change my immediate answer. Some of my favourite examples:
+
+-   **Other-ising:** I find it easy to get anxious, stuck in my head, and obsessing over things, eg past failures. But when I imagine this happening to a friend and giving them advice, it’s _obvious_ that it’s all ridiculous
+    
+-   **Making things concrete:** Often, when trying to explain or understand an idea, it feels vague and complex. But, when I am first prompted to think of an example, things click into place
+    
+-   **Thinking in bets: When trying to make a prediction about the future, eg forecasting whether I’ll finish a project by a deadline, it’s easy to be optimistic or have fuzzy and vague intuitions. But when phrased as ‘would I be comfortable betting on this?’ my intuitions become much crisper and better calibrated.**
+    
+
+Personally, I find these effects are all easy to replicate and surprisingly strong. And this is _super_ weird! Changing the way I frame a question can instantly make it much easier to answer well. And this can be applied instantly, in the moment, with little additional effort. Ways to improve my thinking on the [five second level](https://www.lesswrong.com/posts/JcpzFpPBSmzuksmWM/the-5-second-level) are rare and incredibly powerful! I want to collect all the useful framing effects that I can, and make them reflexive parts of my thinking. 
+
+This post is about one of my favourite framing effects, which boils down to ‘assume you already know the answer to a question, and let your intuition fill in the blanks’. This effect is _insanely_ useful, and I use it multiple times a day. I find it hard to articulate the key mental move here, but people tend to find it fairly intuitive once they get it. So this post will consist of me attempting to describe the idea and gesturing at it in multiple ways, and then giving a long list of examples! (I consider the list of examples to be the most interesting part of this post)
+
+### **Pre-Hindsight**
+
+I often send emails and, immediately after clicking send, realise I got something wrong, eg forgetting to include a point or to attach a file. This experience seems near-universal, but it’s also _super_ weird! I have gained absolutely no new information, yet I suddenly have an insight that I lacked moments before. This is the sign of a framing effect! And it can be exploited. I imagine sending the email and then instantly realising I forgot something. And then I ask myself “what happened?”. And, often, this framing is enough to get my mind to fill in the blanks for what I forgot. This particularly example is sufficiently useful that Gmail now has an ‘undo’ feature for several seconds after sending an email.
+
+This is an example of the [CFAR](http://rationality.org/) technique of **pre-hindsight** (part of their broader technique of Murphyjitsu), and the core insight is that there is a significant difference between how we think about the past and the future. We think about the past with **hindsight** - things feel definite, and concrete, and it’s easy to generate explanations. But the future is vague and fuzzy - it’s easy to flinch away from it, and have no idea what’s going on. By imagining sending the email, I flip it from a future event to a concrete past event, and can now use the power of hindsight to guess at what went wrong.
+
+I first encountered this technique at a CFAR workshop, as part of their class on Murphyjitsu, an approach to good planning (see [notes for a workshop](https://dynalist.io/d/pgngbu6nDQbQzu1Gcof3Dj1i#z=4SdU4Sh5SSWbyF1vyi6uAnPG) I gave on this or [the CFAR handbook](https://rationality.org/resources/handbook/) if you want to learn more). The idea is that any time you have a future intention, it’s hard to think about it, and to fully use your intuitions about what might go wrong. But if you concretely simulate the plan happening, and imagine it going wrong _without_ fleshing out the details of what went wrong, you can now use hindsight to predict what went wrong. And that doing this is an effective way to use your intuitions about likely failure modes.
+
+For example, I have an important job interview coming up, so I’m currently stressing out, preparing, and trying to ensure I know everything I might be expected to know. I imagine doing the interview and leaving feeling like I screwed up. When I ask myself ‘what went wrong?’, it feels obvious that I got stressed and anxious and made dumb mistakes. Now that I know this, I know that the bottleneck is not being unprepared, it’s getting too anxious about it. And I can instead focus my effort on relaxing and ensuring I go in in a good headspace.
+
+I find pre-hindsight to be a super useful mindset for making good plans, but for the purposes of this post I want to focus on the key mental move of ‘assume your plan has failed, and get your intuition to fill in the blanks of what went wrong’. The key here is that it converts something unknown and abstract into something concrete, it _assumes_ I know the answer, and it allows my intuitions to fill in the blanks. I find that this technique generalises far beyond just planning, and that it can be elicited with the right framing.
+
+For example, I am often procrastinating because I have several things to be doing but no obvious highest priority. This means things feel vague and non-urgent, so I end up meandering. In order to start doing something I must first do the cognitive work of trading off and choosing the highest priority, which is effort, so I put it off. I can short circuit this by asking myself “suppose I picked one thing as my highest priority, and decided to focus on that. Which was it?” and then just running with the first thing to come to mind. 
+
+Another example: I notice a problem in my life that’s bugging me, and I have vague thoughts on possible solutions but never really do anything about it and feel [helpless](https://neelnanda.io/blog/41-helplessness). Eg, recently this was ‘being distracted at work’. I can resolve this by imagining myself two weeks from now and saying ‘I changed things up, and this problem no longer feels like an issue. What did I do?’, and letting my intuition fill in the blanks.
+
+### **Inner Simulator**
+
+Zooming out a bit, what’s going on here? An experiment: Pick up a ball (or something similar), and toss it into the air. Watch the trajectory as it comes down, and try to catch it. When I do this, I find it easy to guess at the future trajectory and to put my hands in the right place to catch it. To do this explicitly and verbally, I’d need to solve a bunch of differential equations. But here, some part of my mind is doing all of this instantly and intuitively, without being under my conscious, verbal control. 
+
+I call this part of my mind my **Inner Simulator**, and this is the part of my mind doing all the work in pre-hindsight. It’s a part of my mind that’s really good at simulating the world, and a powerful source of intuition when elicited in the right way. Using my Inner Sim creates feelings of certainty and concreteness, it’s easily able to fill in the blanks.
+
+And learning how to use my Inner Sim right is extremely valuable! It is instant and certain, so can cut out a lot of [wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule) and wishy-washy hand-waving. It feels confident and certain, so can add motivation, decisiveness and resolve when facing uncertainty. It lets me use all of the knowledge at my disposal, helping me to identify blind spots and better understand the world.
+
+But the reason I need to draw your attention to it is that the Inner Sim is not under your explicit, conscious control. It provides intuitive information, but to use it well, the question needs to be asked in a specific way. It’s very much part of [System 1, not System 2](https://suebehaviouraldesign.com/kahneman-fast-slow-thinking/). Some tips for how to elicit it well: (Note that these are just speculative guidelines that I find helpful, your mileage may vary. I often find that these aren’t necessary)
+
+-   Be as concrete and specific as possible
+    
+-   Add as much visceral, sensory detail as possible - what can you see? What can you hear? How warm is it?
+    
+-   Give yourself some space and time without distractions
+    
+
+### **Examples**
+
+That was all a load of theory and speculation. But the main reason I am excited about this effect is that I use it multiple times a day, and it feels applicable to a wide range of scenarios in my life. So here’s a long list of various ways I find it helpful - hopefully at least one of them resonates!
+
+-   **Noticing blind spots**
+    
+    -   I’m currently making a mistake, what is it?
+        
+    -   What am I currently not paying attention to?
+        
+    -   What problems in my life am I neglecting?
+        
+    -   \[This works especially well for identifying recurring problems. These work well for me:\]
+        
+        -   I ask someone for help, and this feels really valuable. Who did I ask?
+            
+        -   What is my current biggest bottleneck?
+            
+        -   What am I beating myself up unnecessarily about?
+            
+        -   Something is weighing on my mind and bothering me, but I’m not doing anything about it. What is it?
+            
+-   **Epistemics (Used when disagreeing with someone, or thinking about something complicated)**
+    
+    -   A few weeks from now, I end up agreeing with the other person. What happened?
+        
+    -   I’m currently making a mistake in my reasoning. What is it?
+        
+    -   If I changed my mind about this belief, what shifted?
+        
+    -   I’m currently wrong about something, but feeling too defensive to admit it. What belief is it?
+        
+-   **Focus and good workflow**
+    
+    -   Debugging code
+        
+        -   A few hours from now, I’ve fixed this bug. What did I do?
+            
+        -   \[If I’m pursuing a particular way to fix a bug, and I’m not sure it’s the right way\] Would I be surprised if this worked?
+            
+        -   \[If I don’t know what the issue is\] If, 20 minutes from now, I understand what’s going on, what did I do?
+            
+    -   Focused research
+        
+        -   If I had to pick one goal right now, what would it be?
+            
+        -   If I made progress on that goal right now, what does that look like?
+            
+        -   \[Execute this plan, then repeat the process\]
+            
+        -   (I find that this process works similarly well for mathematical research, solving problems, planning code, etc. It works best when there are a lot of options and I’m trying to explore a complex space, but when it works it makes me _much_ more effective)
+            
+    -   Solving maths problems
+        
+        -   If I solved this problem, what happened? 
+            
+        -   What would a solution to this problem look like?
+            
+-   **Decisiveness**
+    
+    -   \[When I have many things on my to-do list and am procrastinating\] If I chose my most important priority right now, what would I choose?
+        
+    -   \[If flip-flopping on an important decision\] Suppose, after a few hours more of thinking, I go with Choice A. What ultimately decided it? \[Repeat for Choice B\]
+        
+        -   Similarly, suppose I go with A but a few weeks from now regret it. What happened?
+            
+    -   \[When feeling indecisive in general\] If I had to pick a choice right now, what would I go for?
+        
+        -   Often the best call is just to take it.
+            
+-   [**Seeking upside risk**](https://www.neelnanda.io/blog/33-upside-risk)
+    
+    -   \[When meeting someone new and exciting\] If this conversation goes _awesomely_, what happened?
+        
+        -   Often I can now try to push the conversation in that direction
+            
+    -   If this project went as awesomely as possible, what happened?
+        
+        -   Often, if I don’t have a good answer for this, the project isn’t worth bothering with
+            
+-   **Simulating other people**
+    
+    -   If I asked person X for advice, what would they say?
+        
+        -   It helps to try to actually simulate interacting with the person and asking them - you’re using your social machinery for this
+            
+    -   If I asked person X for feedback on this piece, what would they say?
+        
+-   **Overcoming procrastination: If I never do \[thing I am currently putting off\] would I be surprised?**
+    
+    -   If I’m not surprised, this often gives a prompt to actually do it?
+        
+-   **Being intentional/avoiding meandering**
+    
+    -   If I did this _right now_, what would that look like?
+        
+        -   Often this can be fleshed out into a concrete plan, which I then follow
+            
+-   **Introspection**
+    
+    -   \[When feeling vague unease and uncertainty\] An hour from now I feel fine. What did I do?
+        
+    -   \[When considering solutions to emotional problems\] I do X and a week from now I still feel Y. Am I surprised?
+        
+    -   Anxiety:
+        
+        -   What would person X say if I asked them for an outside view?
+            
+        -   If I realised I was being silly and that this was no big deal, what happened?
+            
+    -   \[Introspecting on messy problem that I don’t understand\] I think for a while, and have a flash of insight and realise what’s going on. What did I realise?
+        
+    -   \[When feeling [guilt/unrealistically high standards](https://www.neelnanda.io/blog/35-standards)\] I spend the next several months feeling this guilty, and as a result of this guilt I actually end up doing well, and meeting my standards. Am I surprised by this outcome?
+        
+-   **Creativity**
+    
+    -   If I found a really creative solution to this question, what would that look like?
+        
+    -   I try something super dumb, which turns out to work surprisingly well. What did I do?
+        
+-   **Learning**
+    
+    -   \[Identifying confusions\] I spend the next hour researching this topic, and feel much less confused. What might I now understand?
+        
+    -   I realise that I had one major misunderstanding, and after that everything clicks into place. What was it?
+        
+    -   I spend the next hour thinking, and at the end feel that I understand confusion X. What did I realise?
+        
+    -   \[If I don’t know where to start on a topic\] If I managed to make progress in understanding this, what would that look like?
+        
+        -   Often this caches out as ‘[ask someone who knows more than me for help](http://neelnanda.io/blog/40-help)’
+            
+-   **Life planning**
+    
+    -   I follow \[my current favourite career plan\] and a year from now I feel miserable and regret it. What happened?
+        
+    -   I discover a life path that I’m not currently thinking about, and turn out to find it _way_ more fulfilling than expected. What is it, and what did I realise?
+        
+-   **Motivation: If I’m not excited about what I’m currently working on**
+    
+    -   I find a way to reframe this project such that I feel super pumped about working on it. What new angle did I take?
+        
+    -   I find a new project that I feel _super_ excited about. What does it look like?
+        
+-   **Planning/Pre-hindsight**
+    
+    -   If this date goes badly, what happened?
+        
+    -   I meet (high-status person X) and leave feel like I screwed up. What went wrong?
+        
+    -   \[When implementing a solution to a problem in my life, eg a new routine\] If this system doesn’t stick, what happened?
+        
+        -   Alternately, ‘If this system _does_ stick, how did I make it happen?’
+            
+    -   More generally, if I screw this up, what happened?
+        
+    -   Project planning:
+        
+        -   At the start, say ‘it’s a month from now, and this project feels like a failure. What happened?’ From this, generate a bunch of key failure modes
+            
+        -   Then repeatedly make time during the project to check in on these failure modes and how they’re going
+            
+-   **Gratitude/Happiness**
+    
+    -   The most awesome thing to happen to me this week was \_\_\_\_
+        
+    -   \[If feeling in a bad mood\] I spend the next hour doing something, and at the end of that feel awesome. What did I do?
+        
+    -   In the next ten minutes, I pick someone who’s recently improved my life and thank them. Who did I pick and why?
+        
+        -   [Bonus points if you proceed to actually thank them!](https://www.neelnanda.io/blog/mini-blog-post-10-seek-positive-externalities)
+            
+-   **Debugging personal problems**
+    
+    -   It’s a month from now and I’ve solved \[difficult problem X\]. What happened?
+        
+        -   This is surprisingly effective even for big and intractable feeling bugs, eg sleep issues, motivation issues, having goals and direction.
+            
+    -   \[[If I come across a great technique but am not sure how to use it](http://neelnanda.io/blog/42-inner-sim)\] I think for a bit, and find the perfect place to apply this idea. Where do I use it?
+        
+    -   \[If I’m not sure what the problem really is, just that things are going wrong\] I change something about my life, and things start to feel _way_ better. What shifted?
+        
+    -   \[[Overcoming helplessness](https://www.neelnanda.io/blog/41-helplessness) and blind spots\] There is one major bottleneck holding me back. What is it?
+        
+-   **Debugging other people’s problems: One of the most awesome parts of this framing effect is that it’s really easy to get _other_ people to apply it, by asking questions in the same way that I would to myself!**
+    
+    -   \[If they seem stuck on a problem\] Suppose by the end of this conversation we come up with a great solution to this problem. What does that look like?
+        
+    -   \[If we’ve come up with a plan to solve this problem\] Suppose you implement this plan, but a few weeks from now things have gone wrong. Which part failed?
+        
+    -   \[If I think they’re focusing on the wrong problem, eg they’re focusing on using time efficiently when I think they just have too many commitments\] Suppose this plan goes _really_ well, and you perfectly solve (thing they’re focusing on). Does the problem feel solved?
+        
+        -   I really like this one, because it fails gracefully - sometimes they say yes, and I realise I was wrong, and they _had_ identified the right problem
+            
+-   **Interviewing others/asking for advice** \[ask them these questions\]
+    
+    -   Is there anything important I forgot to ask you?
+        
+    -   What is one thing I could improve at?
+        
+    -   What is a mistake you think I might be currently making?
+        
+    -   \[If talking to a researcher/domain expert\] You see a paper come out in the next 5 years that feels like really surprising progress in this field. What is it about?
+        
+
+### **Conclusion**
+
+Hopefully at least one of those examples resonated! I tried to strongly err on the side of completion - the key message I want you to take is that this framing is _extremely_ widely useful, and can help in a bunch of different contexts. 
+
+A final point: The reason I am excited about this idea is that it can be _reflexive_. Something that sticks, and is used in the right situations to help you reach the right answer. But for it to reach this point, it needs to practiced. I highly recommend actually trying out the examples that resonated best, and paying attention to exactly what the mental move feels like.
+
+Further, I find it useful to have it be the _default_ to use this framing. Eg, including questions in my weekly review like ‘what am I currently missing?’. Or having a checklist every time I start a project, that get me to do pre-hindsight.
+
+**Exercise:** Pick three of your favourite examples from the above. How can you ensure that using these becomes a reflex? How can you build these into your life by default?

@@ -1,0 +1,68 @@
+Physics is beatiful. Are you sure?
+
+Sabine Hossenfelder, theoretical physicist at the Frankfurt Institute for Advanced Studies just published a book about the relation between beauty and physics. The common idea -common for the standards of this side of the internet - is that physics is beautiful, in particular the laws of physics have a beauty to them. Books that aim to popularise physics among the public also tend to reflect this idea.
+
+The book claims that this idea not only is wrong, but that the idea of beauty itself has not been dissected enough, people throw it around too easily, and furthermore that the belief that physics has to be beautiful can be, and in fact has been, bad for a few subfields of physics (cosmology, quantum theory, and string theory, to name some), by misleading physicists who instead of studying different theories, focus instead of what they think is beautiful, regardless of its correctnss. (many) Physicists, claims Hossenfelder, are lost in (the beauty of) math, and are inching closer to believing that beauty should be a criterion of validation of a theory, where before only experimental confirmation would serve that role.
+
+I'll approach the book first by explaining what the author means by beauty, and what she thinks of the relationship between beauty and truth, then I'll followup with the link between beauty and how it can be problematic and then I'll add some comments.
+
+### Beauty
+
+When people say that $latex e^{i\pi}+1=0$ or the Standard Model and its SU(3) × SU(2) × U(1). symmetries are beautiful, what do they mean?
+
+Beauty is conceptualised in the book as comprising three things:
+
+-   Simplicity: A theory with less parameters, equations, or components is more beautiful. In describing the orbits of a planet, a circle is more beautiful than a ellipse (Even when not true).
+-   Elegance: A theory that connects disparate elements in a surprising way. For example, supersymmetry solves a few different problems in physics in one go. String theory has the [monstruous moonshine](https://www.quantamagazine.org/moonshine-master-toys-with-string-theory-20160804/), or if Garrett Lisi were right, the Theory of Everything would fit nicely in the largest exceptionally simple Lie groups, E8.
+-   Naturalness: Naturalness requires that a theory doesn't look cherrypicked. In practice this means that, say, if we have a parameter that goes into a theory, it is better if we have a theory that explains why that parameter ended up being there. Hossenfelder complains that this requires one to specify a probability distributio n for the parameter, and that this introduces further finetuning (in choosing it). A specific case she mentions, though it doesn't seem to me well explained, is that phyisicists want some ratios between appropriately chosen parameters to be close to unity. The idea of the[hierarchy problem](https://en.wikipedia.org/wiki/Hierarchy_problem) itself, that the weak nuclear force is far far stronger than gravity is an example of naturalness in action. Hossenfelder might quip: What's wrong with it being that big? Who are we to demand nature to be well behaved and tidy.
+
+### Truth
+
+On the basis of the criteria above, it may sound like physics is indeed beautiful. The correlation between beauty and truth was given an explanation by Steven Weinerg, cited in the book as saying that our standards of physical beauty are built upon what successful theories have looked like in the past, and so it's not that weird that beauty would lead to truth.
+
+But, Hossenfelder warns, we have to also consider false beautiful theories and true ugly theories. True beautiful theories may be more salient beause they are true and beautiful, but that doesn't mean they are the only game in town.
+
+An example of fake beauty is Kepler's attempt to fit planetary orbits in Platonic solids or something called_vortex theory_(apparently praised by many physicists back then) and an example of an ugly truth is Maxwellian electrodynamics: he didn't like it because it didn't conform to his mechanistic ideal of beauty. Or, for that matter, the fact that the Higgs boson's mass (or that of the top quark) is so much greater than that of other particles. This violates naturalness.
+
+### People
+
+Like all institutions, Science -and the concept of scientific truth - is made of people. This is not an admission of postmodernism; there is a difference between being true and being widely believed by a community of expert to be true (or trueish). The latter gives ground to believe in the former.
+
+It is reasonable to believe that a bunch of people who want to find the truth about something, who are able to carry out experiments independently and fact check each other would get closer and closer to truth.
+
+But what if...
+
+-   There is no data anymore
+-   The community can get stuck with exploring some theory due to them being too beautiful "not to be wrong"
+-   Getting results published and quick, working inside existing paradigms is safer than cranking papers on a promising yet novel approach
+-   In general, researchers are fallible humans, subject to the same biases everyone else is subject to.
+
+Then, we see that the premise is not necessarily true: Scientists don't try to maximise just the odds that their research will be true. They also take into account their own career prospects. (And this it rational of them!).
+
+So the book argues, given that in these fields - high energy particle physics, quantum mechanics- we have had no new evidence in decades, just confirmations of the existing theory, and the new theories seem to require crazily high energy levels to test, given also that physicists like beautiful theories, the community is lost exploring what they think is beautiful math, but without any ties to reality.
+
+The last paragraph of the book is perhaps the only optimistic paragraph in the whole book, which to me it seemed a bit artificial, inserted there to give it a forced happy ending :-) . If no more experiments are forthcoming until we build a particle collider the size of Jupiter, then what do we do with the piles of math that the remaining theoretical physicists that haven't yet turned to finance will be producing? This sounds far bleaker!
+
+### Eternal beauty
+
+Hossenfelder had a interesting chat with Eric Weinstein [on twitter](https://twitter.com/EricRWeinstein/status/1012431939083517952) and I have to say I side with Weinstein (maybe I drank too much of the Ian Stewart kool-aid when I was a teen). It does seem to me that even though one can construct beautiful false theories, true theories tend to be beautiful in the same way. In the book it is hinted at the fact that the ideals of beauty change over time to track the success of past theories. But to me it seems that it expands and deepends - around the same principles - instead of change radically. In the case of the Kepler example, elliptic orbits are uglier than circular orbits. But we are talking about the beauty of theories, not particular facts. On that view, the theory that produces the ellipses -Initially Newtonian mechanics and later General Relativity- are again beautiful! . Theories that produce the right answer but that feel incomplete - quantum mechanics - are no exception: There will be a theory that supersedes it. And that one will, it again seems, be beautiful in the traditional physical sense. I can hear Sabine saying "Why!". I will say that at least, based on the horsebreeder argument and the fact that some bits of beauty (symmetry and simplicity, at least) seem to be eternal (useful so far in the same way). What would convince me of the opposite will be reading a discussion by experts (Say, if Ed Witten weighs in and debates Sabine), and me seeing that her arguments are better. My usual heuristic to decide what is true is to go with a consensus expert opinion first, and adjust from there, so it won't come as a surprise that I begin with the beauty goes with truth idea, but I am less sure of that after reading the book.
+
+Ideally we would bet on this, to have some skin in the game: But if I say "The theory of everything will be beautiful in the traditional sense", that seems to require experiments, and judges of beauty, and I am not comitted to any particular case of a beautiful theory to bet on it. Supersymmetry at this stage does seems to be false.
+
+### Probabilities on probabilities
+
+One final note somewhat unrelated to the central topic. Throughout the book, there are some assertions about probability distributions that I found a bit of an issue with:
+
+> When we say something is random without adding a qualifier, we usually mean it's a uniform probability distribution, \[...\] But why should the probability distribution for the parameters of a theory be uniform? \[...\] The uniform distribution, like the regular de, might seem pretty. But that's exatly the kind of human choice that naturalness attempts to get rid of.
+
+(We are then directed to Appendix B)
+
+> The assumption of a uniform distribution is based on the impression that it's intuitively a simple choice. But there is no mathematical criterion that singles out this probability distribution. Indeed, any attempt to do so merely leads one back to the assumption that some probability distribution was preferable to begin with. The only way to break this circle is to just make a choice. \[...\] To better see why this criterion is circular, think of a probability distribution on the interval from 0 to 1 that is peaked around some alue of a width of, say 10^-10. "There", you exclaim, "you have introduced a small number!" That's finetuned!. Not so fast. It's finetuned according to a unifor probability distributio. But I'm not using a uniforn distribution; I'm using a sharply peaked one. \[...\] But, you say, "that's a circular argument!" Right, but that was my point, not yours. \[...\] Yeah, I know, it somehow feels like a constant function is special, like it's somehow simpler. And it somehow feels like 1 is a special number. But is this a mathematical criterion or an aesthetic one? \[...\] A modern incarnation of technical naturalness makes use of Bayesian inference. In this case the choice is moved from the probability distribution to the priors.
+
+The issue here is that, while she is correct that the choice of a uniform distribution in the face of uncertainty is not a mathematical criterion, it is not a baseless aesthetic one. It is a philosophical criterion, and its justification is not circular. It is based on the principle of indifference. (You have an interesting discusssion in  chapter 8 of Huemer (2018)). But the idea is that if you face a choice between several alternatives, and you know nothing about them, you don't have a reason to favor any of them. Hence, you have to assign them equal weight, and thus a uniform distribution. The peaked distribution example doesn't work because there is no reason for it to be like that: there is no reason why 10^-10 is more special. All numbers "pull" with equal intensity. This only works if the values we are considering are bounded. If we assume that our parameter can take any value then we cannot define a (proper) uniform distribution. But we would know that we have to define a distribution that tries to reduce the "specialness" of any single value to the minimum. A gaussian might meet this criterion: It is the distribution that has the maximum entropy of all distributions defined over the reals (For a given mean and variance), but a further argument would be required to justify why mean 0 and variance, say, 1. If improper priors were allowed, then the natural choice would be a uniform prior. For that matter, the principle of maximum entropy also supports uniform distributions in the case of a bounded interval. Perhaps the principle fo maximum entropy to choose priors in the face of uncertainty doesn't feel "mathematical" enough, but to me it seems that it good enough for practical use, especially when it also gives the correct answer in the one case where we know it (the bounded interval case).
+
+Now I will wait until (hopefully!) the community of physicists engages Sabine's beautiful book and we all see what happens, that development will be more interesting that anything I can write on the topic. To recap, the good thing is that the book opens an interesting debate, making explicit what physicists mean by beauty, surveying the state of the field of theoretical physics in the post-Higgs era and challenging a widely held assumption. But conclusively demolishing that beauty~truth will take more time and more pages, something of an historical account like \_[Why beauty is truth](https://en.wikipedia.org/wiki/Why_Beauty_Is_Truth) , \_but arguing in reverse, and perhaps finding flaws with such accounts.
+
+-   **[Rational Feed – deluks917](https://deluks917.wordpress.com/2018/07/05/rational-feed-358/)** 2018-07-05T14:03:13Z
+    
+    > \[…\] Book Review: Lost In Math by Artir – “The book claims that this idea not only is wrong, but that the idea of beauty itself has not been dissected enough, people throw it around too easily, and furthermore that the belief that physics has to be beautiful can be, and in fact has been, bad for a few subfields of physics (cosmology, quantum theory, and string theory, to name some), by misleading physicists who instead of studying different theories, focus instead of what they think is beautiful, regardless of its correctness.” \[…\]

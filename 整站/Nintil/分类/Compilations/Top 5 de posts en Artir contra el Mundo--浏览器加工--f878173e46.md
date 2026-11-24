@@ -1,0 +1,15 @@
+Cerramos el año con una recopilación de lo más leído por aquí:
+
+1.  [Austríacos en journals mainstream](https://nintil.com/2013/04/16/austriacos-en-journals-mainstream/): El título es bastante explicativo. No existía nada parecido en todo internet, y pensé que sería interesante tener una lista de estos trabajos.
+2.  [Dos JL no pueden tener razón sobre las pensiones](https://nintil.com/2013/03/19/dos-jl-no-pueden-tener-razon-a-la-vez/): Donde critico una crítica de José Luis Ferreira a algunos argumentos a favor del sistema de pensiones de capitalización. En restrospectiva hay algunas cosas que cambiaría y de hecho tengo pensada otro post para corregirme y apuntar un par de cosas más en este interesante debate.
+3.  [Bitcoin vs el oro. Dineros para el futuro](https://nintil.com/2013/03/16/bitcoin-vs-el-oro-dineros-para-el-futuro/): Donde hago un análisis económico del Bitcoin en comparación con ese entrañable activo monetario que es el oro. El post se enmarca en un interesante debate sobre el tema que mantuve con mi buen amigo David de Bedoya en Liberal Spain.
+4.  [Debate: ¿Es la Escuela Austríaca una pseudociencia?](https://nintil.com/2013/12/13/debate-es-la-escuela-austriaca-una-pseudociencia/): Una recopilación de enlaces del debate Ferreira-Rallo sobre la validez científica de la Escuela Austríaca de economía. Es un debate que lleva unos días sin recibir más atención, pero que quizá en los próximos sí lo haga. En cualquier caso cuando lo dé por terminado quizá haga una valoración personal del mismo.
+5.  [Comentarios a ‘¿Es el dinero electrónico el dinero del futuro?’](https://nintil.com/2012/07/06/comentarios-a-es-el-dinero-electronico-el-dinero-del-futuro/) . Unos comentarios críticos a un artículo de Juan Ramón Rallo sobre el Bitcoin.
+
+Personalmente los que más me han gustado a mí han sido los de la saga del [Abortocalipsis](https://nintil.com/category/filosofia/aborto/) (aún inconclusa), '[Si la especulación no existiese](https://nintil.com/2012/10/29/si-la-especulacion-no-existiese/)' y un par de artículos algo más largos que creo que pueden leerse juntos: '“[Mitologías minarquistas, o contra la intervención del Estado](https://nintil.com/2013/09/26/mitologias-minarquistas-o-contra-la-intervencion-del-estado-unos-comentarios/)”, unos comentarios' y '[No es economía,es filosofía](https://nintil.com/2013/10/11/no-es-economia-es-filosofia/)'. Mención honorífica para el  '[Manifiesto Ingenierista](https://nintil.com/2013/07/08/manifiesto-ingenierista/ "Manifiesto Ingenierista")' sin el cual no tendríamos entretenidos debates en Twitter sobre la Ingenierocracia :)
+
+Muchas gracias a todos los que me leéis/soportáis asiduamente (si los hay) y gracias a todos aquellos que he leído, tanto en blogs, como en libros, twitter o artículos que me han permitido aprender más sobre las diversas facetas de este complejo mundo en el que vivimos.
+
+Feliz Año Nuevo
+
+:D

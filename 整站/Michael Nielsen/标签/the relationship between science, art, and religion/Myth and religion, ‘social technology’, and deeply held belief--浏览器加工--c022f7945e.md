@@ -1,0 +1,27 @@
+[![](https://michaelnotebook.com/assets/home.png)](https://michaelnotebook.com/index.html)
+
+_December 1, 2022. Adapted from a response to a conversation with Sonia Joseph; sent also to Laura Deming, March 24, 2021._
+
+Several times I've heard you talk about religion as a kind of social technology. This is also a framing I've heard often from technologists, and I think it stems from some badly mistaken assumptions. Pardon if I've misunderstood you, and please forgive any didacticism in what follows. In some sense I'm writing to convince myself, at least as much as you, and so laying out a lot of basic ideas that are no doubt already very familiar.
+
+An important part of the core of religion is sincerely held belief. I don't mean "belief" as in "I believe peanut butter tastes better than vegemite" (though I will die on that hill). I mean beliefs that strike down deep to the core of you, that you have struggled with, beliefs that (perhaps) you may be willing to give up a great deal for. In some cases you may even be willing to die for. Such beliefs, held with deep sincerity, are, in my opinion, at the core of every transcendental narrative.
+
+You see this in (nearly) all powerful religions. The modern conception of Christianity has its roots I think mostly in Job, Jonah, the Sermon on the Mount, and the Gesthemane / Crucifixion sequence. There are parts of these that seem outdated today. But the depth of thought in the best parts is astounding; it does not come from religion as a pasted on technology. It comes from brilliant, amazingly imaginative people, people who have struggled with these ideas, likely often as part of tragedies in their own lives, people who with courage and imagination have transcended the thinking of their time. When I read the very best parts I am often abashed at the limits of my own moral thinking, 2000 or so years later.
+
+Nick Bostrom and Scott Siskind have both written things that seem to be attempts at fable or myth. Neither works all that well, in my opinion. And I suspect that what they're doing is treating myth (and perhaps religion) as a social technology, something to be pasted on, a technique. But I think they only believe part of what they're writing; to the extent it's insincere it feels almost like a parody.
+
+If someone is interested in religion, then I think part of the core question to ask is: what do you sincerely, deeply believe, believe enough to make sacrifices for? And then to develop that belief by testing it, over and over, to develop it, perhaps to make it stronger, perhaps to discard it, or transmute it into something else, something stronger.
+
+\[This, by the way, is part of what I take to be the point of Hesse's Siddhartha. Siddhartha develops his beliefs by testing them and himself, putting himself through a crucible of pain and suffering, rather than going to others as the source of his belief. I believe Hesse ultimately makes what I regard as the mistake made by Siskind and Bostrom – his beliefs are simply not deeply held enough. But still Siddhartha goes much deeper into what Hesse believes than do Bostrom and Siskind's attempts.\]
+
+\[Also: it's very important that the beliefs are not immutable. The point of the Christian emphasis on faith isn't unquestioning belief. I rather take it to be to develop beliefs that are severely tested, perhaps modified, and yet ultimately survive those tests. And I believe this is likely at the core of all transcendental narratives. Indeed, one reason Progress Studies and similar ideas don't work as transcendental narratives is because they are so fragile in this way. Not that they're necessarily intended that way! But I've met a few people who seem to want to tream that way, at least in part.\]
+
+\[Further context: I'm an atheist, out of deeply held conviction. I do have some not-incompatible pantheistic tendencies, associated to science.\]
+
+There are interesting exceptions to all this. Joseph Smith and L. Ron Hubbard (and many cult leaders) succeeded in making successful religions (Mormonism and Scientology), though I certainly doubt either was fully sincere in the core beliefs. I'm not quite sure what to make of that. I suspect in both cases there was a large core they believed. But parts seem to have been more cynical, the form rather than the substance. Admittedly, that may well be true also of the major world religions – I don't know enough of the history to be sure! Maybe the point is that you need some deeply held, sincere core, and that can survive some cynicism.
+
+In my own life, I am – like everyone – still figuring out what I believe. I am shy even to hint at it, and even if I do it is difficult to evoke without feeling that anything I say is inadequate. I know that there is some essence in the world that I respond very, very strongly to, enough that I am giving my life to it. I don't yet know how to articulate it. It involves some felt sense of science, of order in the world, perhaps not as ordinarily conceived, but as a source of beauty and understanding and elegance and force and latent possibility. And that for me is also intertwined with some extraordinarily optimistic sense of the long run of collective humanity, tempered by deep fear for (and of) humanity. But I have not yet done work sufficient to articulate what I believe.
+
+Anyways, I have many, many more thoughts on this, but that's enough for one message!
+
+## Comments

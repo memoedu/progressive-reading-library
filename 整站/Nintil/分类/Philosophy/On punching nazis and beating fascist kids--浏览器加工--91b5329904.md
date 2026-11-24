@@ -1,0 +1,51 @@
+Brief comments.
+
+A few days ago, Richard Spencer, who is a self-described white nationalist, though he dismisses being labeled as [a neo-Nazi](http://time.com/4642117/richard-spencer-punched-white-nationalist-nazi-trump-inauguration/) (Make of that what you will, google around), was punched.
+
+Relatedly, a few days ago a band [beat up a girl](http://www.elespanol.com/espana/20170124/188481341_0.html) in Murcia (Spain). After the fact, it seems -though it has not been officially confirmed- that the attackers were extreme left-wingers and that the 19 year old girl in question was a  a self-defined 'patriot' with ties to a certain extreme right-wing organisation. Many comments on the internet point to the fact that she was involved in an overtly nazi band that went on so called _hunts_ of LGBT people.
+
+I am against both things (both ideologies and both uses of violence), but my stance differs from most people who are also against, so I'll explain myself here:
+
+Zerothly. Nazism is bad. Duh. So are ideas that border nazism but are not explicitly so.
+
+To begin with, I have no emotional aversion to Nationalsocialism. I think it is wrong and I oppose it. But that's like I oppose creationism or mathematical illiteracy. Those are things that shouldn't be there - of course, if we have to choose, better to get rid of nazism-. I think that strong emotional reactions might be biasing some people's judgements about this issue. Nazis have become almost synonymous with evil itself in post-WWII West, so it's understandable. If nazis are evil, and fighting evil is praiseworthy, and the WWII was a just war, then what's the problem in punching nazis, one might ask.
+
+Secondly, and we here get to the point, I think one does not deserve violence done to them for holding certain ideas **or even for engaging in violence themselves**. Violence against the violent is justified, as I see it to: a) prevent further violence (As in self-defense or jailing) b) Exact restitution for the victim (Restoring the ex-ante situation to the maximum extent possible.). Additionally, expected retaliatory violence serves as a dissuasion for future violence.
+
+The reason to be skeptical about deserving violence is a reflection on the concept of deserving something. I gather that some people get a terrible urge to beat up those who beat up others and make them suffer. I don't, I just would like them to stop (And would use violence for that end). But such violent rage, I claim, is irrational, driven more by anger than by reason. What's the point of making bad people suffer? Bad people are like kids, they don't know that what they do is bad.  More on that [here](https://nintil.com/2015/08/29/huemer-contra-caplan-why-bryan-caplan-should-abandon-desert/). Evildoers should be pitied, not hated, if anything, for not being fully aware of the facts around what they are doing. Behind those nazis -or young communists, for that matter- you will in many cases find a backstory of either troubled families, poor social environments, and/or misinformation. In many cases, those young ideologues find community and acceptance in people from those ideologies. They are victims of their circumstances.
+
+One argument some have used in the case of Spencer is that, even when he personally has done nothing, his words might induce others to violence.  In his case, though, he has never publicly (As far as I know) advocated it. He aims to peacefully convince everyone that an American 'white ethno-state' is good, then implement his 'peaceful ethnic-cleansing'. Which will never happen (Anyone willing to bet me?). The closest you will see is Trump's approach to immigration.
+
+Not all speech should be free. A crime boss need only utter orders to his underlyings to orchestrate crimes. Or someone who is directly inciting violence  should also be stopped. But we are far from the situation where fascism could be a threat. Regardless of magnificently [amusing](https://www.youtube.com/watch?v=u1w4IxCXIxU&t=2s) [internet](https://www.youtube.com/watch?v=xQCaWLF2gfs) [videos](https://www.youtube.com/watch?v=lDUwXFvTJfA) and the total domination in internet memespace, the alt-right is still a minority position, and so called [fake news](https://twitter.com/petergklein/status/823926364248166401) has not done much to the election. (And even then, there is a broad spectrum of alt-righters. It is not synonymous with nazis, in the same way that far-left political parties are not synonymous with bringing about a violent socialist revolution)
+
+But the thing is: Many or most voters hold views that, when analysed without care qualify them as Nazis. People have always been nationalistic, misinformed and irrational. It is now when we realise. What norm should one follow when deciding who to punch? Should we also punch communists? Or a neighbour who endorses trade protectionism? Someone who is against totally opening the borders? Someone who endorses total drug legalisation? I see all of those as people who defend unjust violence. You could say that it is okay to punch anyone that disagrees with you on anything. Perhaps some people actually endorse that rule and the only thing that stops them is fear of retribution. Or you could say that it is ok to beat anyone who advocates unjust violence, which seems more plausible, and would seem to be a workable rule, as self-interest would prevent too many beatings and chaos. The argument that 'Don't punch nazis because you could be punched in turn' doesn't quite work, because if you are not a nazi, you would only be punched if a) Someone thought you were worth beating and b) Could get away with it. There seems to be consensus on who is in the beating list (And you aren't), though it could quickly expand to include, say, protesters from a different ideology. My argument is not an appeal to self-interest but to decency and reflection.
+
+Additionally, violence against small ideological groups might not be a good idea to get rid of them. In the same way as  anti-abortion policies [do not seem](http://news.bbc.co.uk/1/hi/8305217.stm) to decrease the number of abortions, beating nazis need not decrease the number of nazis. It could even increase it. Seeing people being beaten make the beaters seem bad. One answer to this would be: Let them come out, and they will be beaten over and over again, no matter how many nazis. But then, why not keep their numbers low, and have less people beaten?
+
+All I say is that, if all things considered you think you ought to punch someone, then punch them. It seems like a trivial syllogism. But consider first the reasons for your action. Do you punch Nazis because it feels good? Because you expect to decrease the expected future amount of violence? Because you want to compensate victims? Because bad people ought to suffer for being bad?
+
+I submit that the only valid reasons are the second and third ones (I mean, violence because it feels good is bad, and for the last thing see the[this](https://philpapers.org/rec/FILWRD)or [this](https://nintil.com/2015/08/29/huemer-contra-caplan-why-bryan-caplan-should-abandon-desert/)), and it doesn't seem the punchers are doing literature reviews, nor that they don't have time for it. They just do it because they feel hate towards nazis. And being one that acts unreflectively on gut feelings to punch Nazis is not much better than the one  who acts unreflectively on disgust to ban, say gay marriage.
+
+Act, but think before why you act. I'm not even saying that you should never ever attack someone for holding certain views or being violent. I'm saying that one should think why that is being done. If you still think you ought to punch, go ahead, but I've yet to read a good reason why one ought.
+
+-   ![elfly](https://www.gravatar.com/avatar/f1860316629c01b94862af64f06bcef0?d=identicon) **elfly** 2017-01-25T14:12:34Z
+    
+    > the antifa ideology points out that this is about taking away platforms for the fascists. Impose costs on the Nazis, particularly in cases like Spencer, where news networks are interviewing him on TV and thus giving validation and publicity to his ideas.
+    > 
+    > If it has gotten so bad that TV networks are giving publicity to the nazis and painting them as these guys with the funny frog in their laps, maybe it is time to start taking away that platform in any way possible
+    > 
+    > because, at which point do you advocate violence against the Nazis? when they are putting people into the trains? not wanting to apply violence against people for their ideas is laudable but it is not what is happening here
+    
+-   ![eqdw](https://www.gravatar.com/avatar/fc5e211bba3aa5046d00dc3f1cc18364?d=identicon) **[eqdw](http://blogeqdw.wordpress.com/)** 2017-01-26T19:08:04Z
+    
+    > Having witnessed first-hand a lot of subdued, and some overt, Antifa violence in one of the hard-left parts of the US:
+    > 
+    > I don't think that the boots-on-ground who are engaging in violence are doing it out of a measured attempt to leverage game theory to dis-incentivize politics they disagree with.
+    > 
+    > Honestly, I don't even think most of them hate nazis.
+    > 
+    > I think, for the most part, they just want to smash things, and hurt people, and this gives them an opportunity to do so.
+    > 
+    > Sure, maybe they have some reactive hatred to The System, in the abstract. They probably have legitimate grievances in their life, critical needs they lack, hardships they suffer. They probably have a vague, mystical-thinking chain of causality outlined from "nazis" to this problem. But I don't think there's anything principled behind the black masked thugs who set fire and smash windows. I think they just like smashing.
+    > 
+    > And to me, completely taking "smashing other peoples' stuff because I felt like it" off the table is more important than avoiding the marginal increase in hard right extremists with microphones. Because Nazis have never come to my neighbourhood, assaulted innocent civilians, smashed and looted stores, set fires in the streets, blockaded freeways, and prevented emergency first responders from providing medical attention. Antifa have.

@@ -1,0 +1,3 @@
+Abstract: Este artículo es una crítica a la 'Carta contra-argumentativa al freebanking con reserva fraccionaria', publicada por Leonardo Ravier, que puede encontrarse aquí. La carta de Ravier es una crítica a otra crítica en formato fisking, esto es, citas del texto original seguidas de comentario. Por comodidad, en lugar de hacerle un fisking a un fisking, enunciaré los argumentos del texto y procederé a indicar sus errores. Evitaré emplear palabras que puedan ser objeto de debate como préstamo, depósito o banco en la medida de lo posible.
+
+[Aquí](https://nintil.com/papers/ "Papers")

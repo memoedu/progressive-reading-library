@@ -1,0 +1,11 @@
+2013-02-06; Last updated: 2013-02-06  
+Wordcount: 67 | Reading time: 1 min  
+[Is this article wrong?](https://nintil.com/prove-wrong-get-money)
+
+> Abstract: La posición del coeficiente de caja del 100 por cien que niega la legitimidad de los contratos empleados por la banca de reserva fraccionaria es inmoral y atenta contra contratos perfectamente correctos y bastan 7 páginas para probar tal hecho.
+
+Tal refutación puede consultarse haciendo click en el siguiente enlace: [Coeficiente](https://artir.files.wordpress.com/2013/02/coeficiente3.pdf)
+
+La última versión podrá consultarse en el apartado Papers de esta página.
+
+Loading comments…

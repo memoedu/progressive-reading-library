@@ -1,0 +1,13 @@
+> As the linguist Noam Chomsky has pointed out, when we strive to build a machine that moves underwater, we don’t require it to “swim” – and a submarine is no less of an achievement for its inability to do the backstroke. [Smithsonian Magazine](http://www.smithsonianmag.com/innovation/turing-test-measures-something-but-not-intelligence-180951702/)
+
+> The question of whether computers can think is like the question of whether submarines can swim; ([Edsger W. Dijkstra](http://amturing.acm.org/award_winners/dijkstra_1053701.cfm))
+
+These kind of remarks are used to say that the Turing test is enough, and that further debate about what the apparatus is really doing is baseless. What matter is what is does. This is mistaken.
+
+Can submarines swim? That depends on how we define swimming. Swimming is usually understood as moving bodily appendages in such as way as to generate locomotion through an aquatic medium. Submarines do move through an aquatic medium, and there could be a curious debate on whether a propeller is a bodily appendage. But what we can agree on is that the submarine has this and that parts, and that it does move. Questions about whether some concept applies to it are baseless, as concepts are just mental categories to group facts and work more easily with them.
+
+With a machine that can pass the Turing test, some would be inclined to say that if it can do everything a human being can do, then it can think. Other would not accept that it thinks, because even if  it seems to produce output similar enough to that of humans when engaged in thinking, it is really just parroting answers without knowing what it's doing.
+
+The thing is, if in your definition of thinking you involve consciousness or understanding what it is being done, rather than parroting answers from a database (or being able to do X things), then it is not a semantic dispute anymore: we're talking about a property of a system (consciousness) that the system can either have, have some, or not have.
+
+From a purely engineery point of view, the question of consciousness doesn't seem to be relevant, as we would just want the machine to do the things we want it to do. This holds unless it is the case that consciousness is required by the process required for the machine to behave as expected. From a philosophical point of view, it's a very interesting question. Indeed, perhaps it's the most interesting question we have in our hands right now, what it takes to be consciouss, and what consciousness does.

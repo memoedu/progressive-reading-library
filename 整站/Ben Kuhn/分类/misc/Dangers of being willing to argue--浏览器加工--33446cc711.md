@@ -1,0 +1,11 @@
+I have a lot of debates with people. If someone says something I don’t agree with, I think I’m less hesitant than most people to disagree and start discussing it.[1](https://www.benkuhn.net/dangers-being-willing-argue/#fn:1) So far it’s worked out pretty well for me; I’ve learned a lot of interesting things and gotten to understand other people’s perspectives better. I’ve also gotten to be pretty good at making arguments.
+
+If you think that your beliefs are more correct than average on some topic (which you probably do, otherwise you should just switch to the average belief), then you usually want to be a good arguer so that you can cause more people to believe those things. But there’s a downside to being a good arguer, which is that it’s very easy to ignore warning signs that you’re rationalizing—making up bogus justifications for something you want to believe.
+
+I do this all the time. I notice it most in coming up with reasons not to do things (attend events, go on outings, and especially trying new activities.) This happens pretty frequently, and most of the time in retrospect it turns out I was actually BSing to cover up my laziness. I think I also do it with respect to not believing things that sound crazy initially, in which case it’s covering up a different kind of laziness (in that it takes a certain amount of energy to hold a controversial view about something).
+
+As I write this I’m realizing that I have a lot of examples of small things where I’ve done this, but none of large things. This makes me pretty suspicious that I’m missing something. Maybe I should declare [Crocker’s Rules](http://en.wikipedia.org/wiki/Lee_Daniel_Crocker#Crocker.27s_Rules) for any accusations of rationalizing?
+
+* * *
+
+1.  I don’t do this aggressively (especially since it often turns out I just haven’t thought about things thoroughly enough) and I only do it with people that I know pretty well. But I still think I have a pretty low threshold for disagreeing with people openly. [↩︎](https://www.benkuhn.net/dangers-being-willing-argue/#fnref:1)

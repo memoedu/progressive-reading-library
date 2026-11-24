@@ -1,0 +1,24 @@
+-   La función social de la Bolsa
+-   Sindicatos e información asimétrica
+-   Es moralmente permisible el salario mínimo? (paper)
+-   Patrón oro: compendio de papers publicados desde 2009
+-   Matrimonio y adopción homosexual: argumentos morales y evidencia científica
+-   La teoría del valor de Marx: por qué parece correcta, qué se puede deducir de ella y qué no.
+-   Contra el matrimonio de las ideas
+-   El problema del Principio de No Agresión
+-   Intuicionismo Ético
+-   Irracionalidad: ¿Y eso qué es?
+-   ¿Es el socialismo imposible?
+-   ¿Cuál fue la influencia de la inflación en la caída de Roma?: Un análisis crítico de cierto vídeo
+-   Sobre los derechos de los animales
+-   The JL Way of Life: Cómo soy y por qué veo el mundo como lo veo
+-   ¿Cuán importante es la ciencia básica?
+-   Religión: ¿Tiene algún sentido hoy en día?
+-   El trabajador ha muerto y el ingeniero lo ha matado
+-   De cómo diseñar el dinero perfecto
+-   Lucha de clases ¿Quién contra quién?
+-   Los malvados fisicalistas (David Donaire)
+-   En defensa de las críticas al PNA (Jorge Antonio Soler)
+-   Teoría de redes de capital
+-   Existen diferencias cognitivas entre razas o sexos?
+-   En defensa de la ética experimental

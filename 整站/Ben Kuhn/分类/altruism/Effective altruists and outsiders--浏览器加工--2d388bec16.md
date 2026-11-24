@@ -1,0 +1,22 @@
+The effective altruism community somewhat frequently has outsiders come in claiming that one particular intervention is Definitely The Most Effective Thing Ever. These people tend to start a bunch of discussions about their favored intervention, don’t talk very much about anything else, and argue very forcefully for their point of view. This causes the community at large to ignore them, which is (understandably) upsetting: it seems hypocritical for the effective altruism community to claim to value a spirit of open-minded inquiry and then go around shunning outsiders who are arguing for a particular intervention.
+
+I think it’s very important that we learn to talk to outsiders productively. And I largely understand where outsiders are coming from: from their perspective, the EA community looks like an amazing untapped resource they could be using for their preferred cause! And it’s so amazing that they need to _push really hard_ to mobilize it. Here’s my attempt at explaining why that’s a bad strategy, even though their intervention of choice is probably awesome.
+
+Right now the EA movement is very young. There are lots of interventions that seem promising, and there’s not very much research on any of them. Even within the domain of global health and poverty, GiveWell has three interventions that it can’t decide between, and they [think](http://blog.givewell.org/2011/09/12/why-givewell-labs/) it’s likely that global health isn’t even the best option (just a good one that’s easy to assess). When an organization as objective, rigorous, and thorough as GiveWell doesn’t know which interventions will be the best, it makes us pretty skeptical of anyone else who claims to have certainty.
+
+Overall, there are four possible explanations for why such a person could disagree with what I’ll call “mainstream EA” be really sure of an intervention.
+
+1.  They have significantly different epistemological views from mainstream EA (I’d say [MIRI](http://intelligence.org/) is an example of this, given their disagreement over [astronomical waste](http://www.nickbostrom.com/astronomical/waste.html));
+    
+2.  they have significant information that mainstream EA thought doesn’t (obviously I can’t cite examples here);
+    
+3.  they are avoiding significant biases that affect mainstream EAs (anti-aging research like [SENS](http://www.sens.org/) thinks it falls into this category);
+    
+4.  they aren’t actually engaging with the idea of effective altruism and are just trying to use the existence of a group of enthusiastic people for their own ends.
+    
+
+Hopefully, as an outsider think you belong to one of the first three. The problem is that the base rate of (4), as compared to the others, is _really high_, so you need a _ton_ of evidence to outweigh that. And arguing repeatedly about your favored intervention actually isn’t a good way to produce such evidence, since it’s hard to make sufficiently persuasive arguments purely through text; furthermore, this plan is exactly what someone in (4) would come up with.
+
+Instead, the best kind of evidence that you fall into one of the first three categories would be trying to engage with the community on its own terms—to cooperate in the [epistemic prisoner’s dilemma](http://lesswrong.com/lw/9z/the_epistemic_prisoners_dilemma/) that you and we fall into. For example, I was recently at the EA summit and Eliezer Yudkowsky (founder of MIRI) was also there. Honestly, I somewhat expected him to harp on AI risk for the whole conference. But even Eliezer was trying to contribute to EA thought on other topics—see [his new post on LessWrong](http://lesswrong.com/lw/hvd/q_for_givewell_what_is_givedirectlys_mechanism_of/) about [GiveDirectly](http://www.givedirectly.org/). I think because he was willing to engage on other topics unrelated to AI risk, Eliezer actually ended up persuading more people about his views than he would have if he had soapboxed the entire time.
+
+I don’t mean to say that it’s bad for outsiders to be enthusiastic about their intervention. Believing strongly in one thing can be a great motivator. (In fact, if you’re very enthusiastic about getting EAs interested in something, maybe you could start doing some research of the type that GiveWell does on it! That would be super valuable.) It’s just that from an outside view, it’s very hard to distinguish people who have a reason to be confident from people who are trying to bend the EA community to their own goals.

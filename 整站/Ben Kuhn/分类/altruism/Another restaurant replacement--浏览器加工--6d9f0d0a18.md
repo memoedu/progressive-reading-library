@@ -1,0 +1,5 @@
+Last week I blogged about [alternatives to eating out](http://www.benkuhn.net/eatout) for large social groups. This week I realized a great (SF-specific) one I missed earlier: San Francisco’s [privately-owned public open spaces](http://www.sf-planning.org/index.aspx?page=3339).
+
+San Francisco’s building codes since 1985 have apparently required most new downtown developments to devote some fraction of their square-footage to public space. Apparently developers aren’t eager to publicize these spaces—that would lead to more usage, which would lead to higher maintenance costs—so they tend to be relatively uncrowded. Combine that with seating and with the downtown location, and you have a replacement for many of the benefits of restaurants, without the low-quality space or rents.
+
+(Incidentally, as I learned while researching this, San Francisco’s building codes are also the reason why there’s so much bizarre art in downtown. They have a requirement that 1% of a project’s budget must be spent on art, and, developers being developers, they sometimes [make weird choices](https://www.google.com/search?tbm=isch&q=san+francisco+public+art&ei=uW4fVZvYH9HdoATfnYCwBg).)

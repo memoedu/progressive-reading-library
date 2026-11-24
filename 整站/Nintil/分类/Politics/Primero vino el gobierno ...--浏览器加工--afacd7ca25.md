@@ -1,0 +1,3 @@
+> Primero vino el gobierno de un individuo, el fuerte o el sabio o el ungido, la monarquía. Luego, para recabar mayor apoyo, el poder se expandió para abarcar a los próximos al monarca, la oligarquía, gobierno de la minoría. Tener grupos de interés que apoyen hace más fácil la labor del dirigente. Posteriormente y buscando mayor equidad y justicia, vino la democracia, el gobierno de la mayoría. Cabe pensar que un paso más es la dirección de la sociedad por parte de todos de forma verdadera. Paradójicamente, tal cosa es la anarquía.
+
+JLR

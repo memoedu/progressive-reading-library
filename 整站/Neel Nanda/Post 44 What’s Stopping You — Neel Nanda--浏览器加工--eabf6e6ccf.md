@@ -1,0 +1,349 @@
+# Post 44: What’s Stopping You?
+
+_(Note 21/10: Significant edits made._ _Thanks to Duncan Sabien and the LessWrong Feedback Service for valuable feedback!)_
+
+## Introduction
+
+This post is about the concept of **agency**, which I define as ‘doing what is needed to achieve your goals’. As stated, this sounds pretty trivial - who _wouldn’t_ do things to achieve their goals? But true agency is surprisingly hard and rare. Our lives are full of constraints, and defaults that we blindly follow, going past this to find a better way of achieving our goals is hard.
+
+And this is a massive tragedy, because agency is _incredibly_ important. [The world is full of wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule "https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule"). Most things in both our lives and the world are inefficient and sub-optimal, and it often takes creativity, originality and effort to find better approaches. Just following default strategies can massively hold you back from achieving what you _could_ achieve with better strategies.
+
+This should not be surprising. Thinking past defaults, and your conception of ‘normal’ is _hard_, and takes meaningful effort. But this leaves a lot of value on the table! Personally, I’ve found cultivating agency to be one of the most useful ways I’ve grown over the last few years. And, crucially, this was _deliberate_ - agency is a hard but trainable skill. In this post, I try to outline my models of what agency is, and my thoughts on how to cultivate it.
+
+## Why Care?
+
+I’ve been pretty abstract so far about the idea of agency. A reasonable reaction would be to be pretty skeptical that there’s any value here. That you _already_ try to achieve your goals, that’s what it means to have goals! But I would argue that it’s easy to be missing out on opportunities and better strategies without realising it. An unofficial theme of this blog is that the world is [full of low-hanging fruit](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule), you just need to look for it. Further, many of the people I most admire, who’ve successfully changed the world for the better, had a lot of agency - changing the world is not the default path!
+
+To make this more concrete, I want to focus on examples of how agency has been personally valuable to me. The times I managed to step off the default path, look past my constraints, and be more ambitious and creative about how I achieved my goals. 
+
+-   By far the most significant was realising that I could take agency with my career and life path. That I could step away from the default of continuing my undergrad to a fourth year and masters and then doing a maths PhD or working in finance. And instead, I’ve spent the past year doing 3 back-to-back AI Alignment research internships, trying to figure out if this might be a path for me to have a significant positive impact on the world.
+    
+    -   This was an _incredibly_ good decision that led to much more personal growth. I now feel much less risk-averse, am a better engineer and researcher, have a much clearer idea of what the AI space is like, and have a much more concrete view of why [AI Alignment](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/) matters and what progress on it might look like. 
+        
+    -   Further, I now have a job I’m very excited about, and a much clearer picture of what I want to do over the next few years.
+        
+    -   Agency is relative to _your_ context, and _your_ defaults. I expect some people would have found this decision easy, but I found this surprisingly hard. I’d intended to do a fourth year for ages, and most of my friends were doing it - this strongly felt like the default, and doing something else felt risky and scary.
+        
+-   Being ambitious about taking on personal projects, rather than the default of being risk-averse and shying away from fear of failure and putting in effort
+    
+    -   [Starting a blog](https://www.neelnanda.io/blog/27-retrospective)! Most notably, this led to my now-girlfriend asking me out, and [being interviewed on a cool podcast](https://notoverthinking.com/how-can-we-optimise-for-a-meaningful-life/).
+        
+    -   [Learning how to learn](https://www.neelnanda.io/blog/34-learning) - Being intentional about how I learn and publicly experimenting with new approaches. Organising [my own lectures](https://www.youtube.com/channel/UCzoIa8e4vhfRIxL_Kj6yy0Q?view_as=subscriber), [publishing notes](https://dynalist.io/d/ToOhEKlz9qC2PmpjgyTpXQJz), and finding that my best way of learning is by teaching.
+        
+-   Realising that I can improve my social life by taking initiative - breaking free of the default path of forming surface level friendships with the people I run into naturally, and never putting myself out there.
+    
+    -   [Intentionally making close friends](https://www.neelnanda.io/blog/43-making-friends) - practicing and learning how to form emotional bonds with friends has made my life _so_ much better, and hopefully helped improve their’s too!
+        
+    -   [Taking social initiative](https://www.neelnanda.io/blog/mini-blog-post-23-taking-social-initiative) - By getting better at reaching out, I’ve gotten really valuable mentorship and advice, job opportunities, and friends I now cherish
+        
+    -   Having awkward conversations about ways I thought I’d hurt someone or being hurt, apologising, and growing closer rather than letting things fester
+        
+-   Improving myself and my life. Breaking out of the default mode of [helplessness](https://www.neelnanda.io/blog/41-helplessness) and realising that [problems are for fixing](https://www.neelnanda.io/blog/mini-blog-post-7-problems-are-for-fixing), that I have the capacity to _make_ things better.
+    
+    -   Underlying my feelings of guilt, obligation and [not meeting my standards](https://www.neelnanda.io/blog/35-standards), and learning how to manage this better
+        
+    -   Understanding my own motivation and [learning how to become excited](https://www.neelnanda.io/blog/mini-blog-post-11-live-a-life-you-feel-excited-about) about what I’m doing, or how to find things I am excited about.
+        
+    -   Smaller everyday things - noticing small things which annoy me and fixing them, or items that could improve my life and buying them.
+        
+    -   More generally, the spirit of self-experimentation, seeking novelty and doing new things, and being willing to go outside my comfort zone to see what that’s like. This has led to things from trying out pole-dancing to going round a room and asking people for sincere criticism.
+        
+
+As those examples hopefully illustrate, agency has been extremely valuable for _me_, and _my_ goals. But it is not my place to tell you whether agency is right for you. Agency can be hard, stressful and exhausting! Sometimes the defaults are good enough. Instead, my goal in this post is to present the mindset of agency, and make a case that it _can_ be valuable to you_,_ for achieving what you want.
+
+**Exercise**: What _do_ you want? What are _your_ goals? What are your dreams, your ambitions? How do you want to change the world? What is missing in your life? Take a minute to reflect on your favourite prompt before moving on.
+
+**Exercise 2:** What’s stopping you?
+
+## What _is_ Agency
+
+When stated as ‘doing what is needed to achieve your goals’, agency feels like a pretty simple concept. But implicitly, I’m gesturing at a messy bundle of different skills. In this section, I want to break agency down what agency _is_, and the most important mindset and sub-skills. These are neither comprehensive nor compulsory for achieving agency, but I’ve found all of them valuable to cultivate:
+
+-   **Noticing and avoiding defaults:** A core lens I view the world through is that our lives are full of defaults. Expectations that society places upon us, social norms that we follow, our own conception of our role and expected duties and path through life, our own conception of what is ‘normal’ vs ‘weird’. A key part of agency is noticing when these constrain you, and being willing to break them.
+    
+    -   Part of this is **avoiding groupthink** - being able to think non-default thoughts, think for yourself, think things through from first principles, and deeply caring about having true beliefs. 
+        
+        -   Eg the kind of person who was concerned about COVID at the start of February, or someone who grew up in a deeply religious household and decided to de-convert.
+            
+    -   Note that agency is _not_ about knee-jerk nonconformity. You need to be _willing_ to not conform - that’s what it means to avoid a default. But non-conformity fails to be agency when it’s about not following defaults _because_ they’re defaults, rather than to achieve your goals - that’s still letting defaults control you. Instead, strive to _notice_ your defaults, and _check_ whether you want to avoid it.
+        
+        -   For example, trying hard in exams is often the conformist choice. But if I care about getting a great job and my grades matter for that, then _choosing_ to try hard is the agentic choice, and slacking off is not.
+            
+-   **Finding opportunities:** Noticing when there are opportunities to achieve my goals, chances to take agency. And being good at _making_ my own opportunities, and actively seeking them out, rather than waiting for them to fall into my lap
+    
+    -   Part of this is **creativity** \- being able to see what other people don’t see, and generate a lot of ideas
+        
+    -   Part of this is **not thinking in defaults** \- being open to weird and unusual ideas, and taking them seriously
+        
+    -   To me, this feels similar to the mindset of learning the rules to a game, and reflexively looking for ways to exploit, munchkin and break them.
+        
+-   **Intentionality:** Understanding _why_ you’re taking actions, and keeping your goals clearly in mind. Being mindful of [wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule), and checking whether you’re actually achieving what you want. [Being deliberate](https://www.neelnanda.io/blog/be-deliberate).
+    
+    -   Note that this is separate from identifying your goals in the first place. Spending time thinking about and eliciting your deep goals and values, [the skill of prioritisation](https://www.neelnanda.io/blog/prioritisation), is incredibly important. But it different enough to be worth separating from agency, which is about building on those goals.
+        
+        -   Though this is a fuzzy boundary - we often absorb default goals from our social context, eg making money or seeking status. And it takes agency to look past this and check for what you _actually_ value.
+            
+-   **Taking action:** Ultimately agency is about _doing_ things to achieve my goals. It is important to learn how to convert thoughts and vague intentions into actions and change.
+    
+    -   But agency is not _just_ about having willpower and putting in effort, being able to act rather than procrastinating or always following the easy path. Agency is also about being strategic and intentional. For example, a hard-working student who exerts a lot of effort to read and re-read their notes exhibits less agency than a student who learns it with half the effort by spaced repetition, or who realises they don’t care about this course and drop it.
+        
+-   **Ambition:** Thinking big, and not being constrained by small-mindedness. Often you can achieve things _far_ more important than it feels at first. We are bad judges of what we are capable of, and it is a tragedy to let a lack of ambition limit what you can achieve.
+    
+    -   This can look like many things - being ambitious in changing your life, believing that you _can_ make progress on your biggest problems rather than being [helpless](https://www.neelnanda.io/blog/41-helplessness); being ambitious as a researcher by identifying [the most important problems in your field and working on them](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html); being ambitious about having a major positive impact and making progress on the world’s biggest problems, eg believing you might be able to [save hundreds of millions of lives](https://scienceheroes.com/menu/top-10-lists).
+        
+        -   An underlying insight here is the importance of fat tails and [upside risk](https://www.neelnanda.io/blog/33-upside-risk)
+            
+    -   Though note that agency is not just about ambition, it is also about being _intentional_. Agency looks like _actually trying_, not just doing actions that seem defensible under the pretext of some grand vision. Trying to understand the problem, finding the points of leverage, and forming a [theory of change](http://www.aaronsw.com/weblog/theoryofchange) for how to achieve your ambition. Noticing when your strategies aren’t working, learning from this, and doing something differently.
+        
+-   **Don’t be a bystander**: A particularly poisonous mindset that can hold you back from agency is the bystander effect. Saying that something is “not my problem”, implicitly relying on someone else to fix it. Asking whether you _have_ to do something about it, rather than whether you _want_ to, or whether doing it could bring you closer to your goals or help others. Framing things in terms of blame and obligation, rather than asking if you _could_ do something about it..
+    
+    -   This can be local, personal problems or larger problems in the world. From realising you can take agency and fix the things in your life that make you unhappy, like poor sleep, to contributing to large global challenges like climate change or pandemic prevention
+        
+    -   Part of this mindset is **taking responsibility**  - realising that you _can_ do things and influence the world, and that by taking it upon yourself to fix or improve something the world will be better than if you did nothing. That if you _just_ rely on others, the world will be worse.
+        
+    -   Part of this mindset is to **pick your battles**  - taking responsibility can itself be poisonous if you make _everything_ your problem, every single thing that is wrong in the world and your life, and feel guilty if you fail to solve them. Focus on the problems you most care about and have leverage on.
+        
+        -   Further, sometimes you will never be able to “solve” a problem. Making progress on a big problem can still be really valuable. And flinching away from problems so large they feel unsolvable can also hold you back.
+            
+
+A final note after all this discussion of what agency is and isn’t. In practice, it is rarely sensible to ask “is this actually agenty enough?” and imagining being able to justify your agency - that pushes me towards doing things that are clearly and legibly weird and original. Instead, agency is relative to _your_ goals, and _your_ defaults. A socially anxious introvert who decides to throw a party demonstrates far more agency than a confident extrovert who does it every weekend. Agency is what you make of it. The important question is whether it helps you achieve your goals, not whether it looks appropriately brave or non-conformist.
+
+### The agency to improve the world
+
+An application of agency that is [particularly important to me](https://www.neelnanda.io/blog/8-altruism) is taking agency in improving the world, in finding the most effective ways to have a positive impact. Agency is important here because you can do _far_ more good than you do by following default ways to do good - I see this as one of the key insights I’ve gotten from the [Effective Altruism](http://effectivealtruism.org/) movement. You can achieve far more if you look for missed opportunities, way to leverage your limited resources, ways to be far more ambitious and aim for [a chance of having a major impact](https://www.openphilanthropy.org/blog/hits-based-giving). 
+
+The mindset of taking responsibility for contributing to the world’s problems treating it as ‘not my problem’ can be particularly important here, and represent the difference between doing something and nothing. Eg, realising that you can _actually_ put meaningful effort into fighting climate change, rather than just recycling and being environmentally conscious. But I think this mindset can harm people, so I wanted to give my take on how I view this.
+
+Often, this can be framed in terms of obligations. That the world is full of problems, it is my job to fix them, and I _have_ to do this. I reject that mindset. You don’t _have_ to do anything. If you don’t care about problems, that is your prerogative. 
+
+Instead, I think in terms of my _values_. Over the course of my life, I have the capacity to influence the world towards my values, and it is my responsibility to do something about this. But this is not some weighty obligation to resent and feel guilty towards - these are _my_ values and I actually care about doing something about it. Personally, I care deeply about human flourishing. I have the capacity to influence the world to be a better and safer place, and it is important to me to do something about this, to take agency and be ambitious about it. I’m a big fan of [Nate Soares’ thoughts](https://mindingourway.com/on-caring/) here.
+
+## Cultivating Agency
+
+### What’s Holding You Back?
+
+Agency can be pretty rare. And part of why it’s rare is that it’s hard! And in particular, lots of things make it harder to be an agent. And before diving how to develop agency, it’s worth examining what’s holding you back, and seeing which things you can relax. Even if you can’t solve the things holding you back, often just identifying them can help!
+
+There are two important categories here, **defaults** and **constraints**.
+
+-   **Defaults**
+    
+    -   Default roles and expectations
+        
+        -   Eg, that the role of a good student is to do well in assignment, so you pour all your effort into your degree, without checking how much you care
+            
+        -   This is particularly bad with expectations around careers and life paths. This is one of the most important decisions you’ll ever make! 
+            
+            -   Eg, the idea that a maths student will go into software, finance or academia, and you just need to find the best option
+                
+            -   Eg, having Asian parents who insist that you need to become a doctor or a lawyer
+                
+    -   Social norms - a deep sense of what is “normal” vs “weird”
+        
+        -   Eg, feeling unable to skip small talk and talk about something interesting, even if you think both of you would enjoy it
+            
+        -   Of course, often following social norms is the right call! But it’s valuable to see it as a trade-off, with benefits and consequences, rather than an iron-clad rule that induces anxiety to violate
+            
+    -   Cultural narratives and groupthink - the ideas you’re taught when you’re young, and the things everyone around you believes
+        
+        -   Politics is particularly bad for this - it’s very hard to hold right wing ideas if all your friends are left, and vice versa
+            
+        -   It’s worth noting this even when you think you agree with the idea! Eg, I’d find it pretty hard to conclude that COVID vaccines aren’t worth taking given my social circles. I also genuinely think the vaccines are great, but it’s much harder to be truth-tracking here!
+            
+    -   Default strategies - Instrumentally achieving your goals the way all your friends do. This is much worse with peer pressure, but even just a sense of what is “normal” can hold you back
+        
+        -   Eg, learning by going to lectures, making notes, and revising by re-reading and doing past papers
+            
+        -   Eg, letting keeping in touch with friends happen naturally and spontaneously, rather than being deliberate and intentional about it
+            
+    -   [The illusion of doing nothing](https://www.neelnanda.io/blog/mini-blog-post-15-the-illusion-of-doing-nothing) - The feeling that doing nothing is _safe_, that you can’t be blamed, and that taking action is scary. And thus procrastinating on actually doing anything. 
+        
+        -   This is much worse when I’m considering doing something with risk!
+            
+        -   And when dealing with [option paralysis](https://www.neelnanda.io/blog/37-option-paralysis)
+            
+-   **Constraints -** When you don’t have enough of some important resource, and feel constrained. Fundamentally, [lacking Slack](https://www.neelnanda.io/blog/38-slack) in your life. 
+    
+    -   **Money**
+        
+    -   **Energy levels** - it’s much harder to be agentic when you’re tired all the time!
+        
+        -   Note, if you commonly feel fatigued, I _highly_ recommend getting tested for [the most common causes of fatigue](https://www.nhs.uk/live-well/sleep-and-tiredness/10-medical-reasons-for-feeling-tired/)! Some, like iron deficiency or hypothyroidism, are easy to treat and easy to test for but often go undiagnosed.
+            
+        -   There can be more mundane causes - poor sleep, poor diet, lack of exercise, etc
+            
+    -   **Time**
+        
+        -   Note - it’s worth distinguishing between not having enough time, vs not being able to use time well. I find that when I’m stressed, I always _feel_ like I don’t have enough time
+            
+    -   **Commitments** - overcommitting your time, having a packed schedule and a long list of obligations
+        
+        -   On a deeper level, sometimes the problem is feeling unable to quit things, and not knowing how to say no when someone asks you to take on a new commitment. 
+            
+        -   I’ve recently gotten value from making a form I need to fill out when taking on any new commitment, estimating how much time and effort it’ll take, and checking whether it’s _actually_ worth it
+            
+    -   **Mental health**
+        
+        -   I’ve found [Lorien Psychiatry’s advice](https://lorienpsych.com/) _super_ useful here (written by Scott Alexander), the article on [depression](https://lorienpsych.com/2021/06/05/depression/) is particularly good
+            
+    -   **Attention/focus** - are you constantly distracted? Do you ever have long blocks of at least 2 hours where you’re confident you won’t be interrupted, and can think and reflect on things?
+        
+    -   **Physical health**
+        
+    -   It’s worth checking how much of the resource you _actually_ need, and trying to quantify things. Or whether you can systematise taking care of it. Often the problem is less the constraint itself, and more the mental space tracking it and stressing over it takes up. Eg, it’s much better to make and keep to a budget than to constantly stress over how much money you spend.
+        
+
+Of course, just noticing a default or constraint is _much_ easier than solving it. So what can you do? This is hard to give general advice on, but often noticing is the first step to doing something about it. Some personal examples: 
+
+1.  I noticed the constraint of not having enough mental space to try new things or take agency, due to [a lack of Slack](https://www.neelnanda.io/blog/38-slack) and too many commitments. In the short term, I carved out my Sunday afternoons to relax and work towards non-urgent stuff, or whatever I was excited about, and carved out time for [weekly reviews](https://www.neelnanda.io/blog/39-reflection), to reflect on my longer-term goals and on what opportunities I was missing when too in the moment. In the longer-term, I’ve set myself a much higher bar for future commitments, quit the lowest priority ones, and am slowly reducing my load.
+    
+2.  I noticed that I cared a lot about what felt normal and safe, vs weird and unusual, and found it took a lot of willpower to deviate from this. In the short term, I found particularly useful kinds of weird things to do, and practiced doing them. In the longer-term, I’ve tried to surround myself with friends who are ambitious, altruistic and agentic, and I am sufficiently socially influenced that this has helped me get better at overcoming defaults in general.
+    
+
+**Exercise:** What’s stopping _you_? If you suddenly became significantly more ambitious, what would you want to do? And what’s holding you back from doing that now? 
+
+### Feeling Agency
+
+The main path to cultivating agency, as I see it, is to practice! To initially do agentic things occasionally, and with effort. To (hopefully) have them go well, and get positive reinforcement. And slowly practice and develop the mindset of agency, and have the mental moves feel smoother and more reflexive, until this is something you do naturally.
+
+To make this more concrete, I find it helpful to reflect on what agency _feels_ like, and how to make each part of the process smoother and more natural.
+
+1.  First, I have the spark of an **idea**, something to do. Noticing some opportunity, inefficiency, or a desire to do something interesting.
+    
+2.  **Noticing and** **nurturing** that spark of an idea. Resisting the urge to instinctively flinch away from it, and actually thinking about it. Checking whether I actually want to do it, but _actually_ checking, not just flinching away from something weird and risky. Exploring the idea, understanding it, and figuring out what I could actually do
+    
+3.  **Taking action -** finally, actually doing something about it! Being concrete, avoiding overthinking, procrastination and option paralysis, and actually doing something.
+    
+
+So, how to make each of these smoother? Some immediate thoughts:
+
+-   **Ideas**
+    
+    -   The main thing is to be creative, and to open myself up to new ideas
+        
+        -   Making time to reflect, think and brainstorm. I _really_ like [5 minute timers](https://www.neelnanda.io/blog/post-28-on-creativity-the-joys-of-5-minute-timers) for this
+            
+        -   Read a wide range of interesting things, and try to step outside your bubbles
+            
+        -   Talking to other people
+            
+            -   Note - it’s important to distinguish between “I am doing an idea because someone _told_ me to”, without checking whether _you_ want it, and “I genuinely _want_ to do this idea someone else suggested”
+                
+    -   Be open to weird ideas - notice the ideas you immediately flinch away from. Notice if there are things you see someone else do that you’d never have thought of. Notice your default patterns of thought, and what these close you off from
+        
+    -   Ambition - Some of my best ideas come from being unafraid to think big. 
+        
+        -   Ask yourself, “What would I do if I was a _way_ more ambitious person?“
+            
+        -   If trying to solve a difficult and intractable problem, ask “If I managed to completely solve my problem, what happened?”
+            
+-   **Noticing and nurturing**
+    
+    -   **Filters:** Notice the filters in your head that cause you to flinch away from an idea. And check whether you actually want to follow these constraints, and whether they are connected to your goals, or just reflexes stored in your head.
+        
+        -   A big one is risk-aversion - I often flinch away from ideas because it _could_ go wrong, and this feels scary
+            
+            -   But, please do actually check for risk! Many people are not agenty enough, but some are _too_ agenty, and if you have a lot of agency and don’t check for risk, you can really hurt yourself
+                
+        -   Fear of judgement, and a desire for social conformity
+            
+        -   A personal sense of identity - it’s hard to do something that doesn’t feel “me”. For example, on some level I identify as nerdy and averse to exercise, and this makes it _way_ harder to entertain ideas involving exercise
+            
+        -   Often this is particularly hard because the flinch happens on auto-pilot, but noticing it takes self-awareness. For this problem, I find the [technique of noticing emotions](https://www.lesswrong.com/posts/GLPaZamxqkx7XJbXv/the-skill-of-noticing-emotions) particularly helpful
+            
+    -   **Redefine failure:** Often I flinch away from an idea because I’m afraid of failure. In this case, I find it useful to redefine what I’m aiming for, what success/failure actually mean. If you can pull this off, and orient towards something meaningful, failure is literally no longer an option!
+        
+        -   A big one for me is making taking agency my goal. Deciding that this is a skill I want, and that any time I take agency I’m making progress.
+            
+            -   Building it into my identity, and trying to become a [person who actually does things](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things)
+                
+            -   In the long-term, you don’t just want agency without good judgement. But I find it is _much_ easier to first become able to do things, and _then_ filter for the things most worth doing, rather than trying to do both at once.
+                
+        -   Seeking novelty. It’s easy systematically under-explore, and don’t try new things enough, because the costs of not doing the standard option are concrete and visceral, while the benefits of discovering a new and better option are abstract. To counteract this, I try to build novelty seeking into my identity
+            
+        -   When I’ve redefined failure, I also get past the endless agonising over whether this is the “best” thing to be doing. I’m no longer analysing the object level action, I’m making progress towards the kind of person I most want to be.
+            
+    -   **Be concrete:** It’s easy to flinch away from an unknown idea without properly exploring it. Assume you do explore the idea, and try to make concrete what you would _actually_ do. Suppose it goes wrong, and flesh out _exactly_ how bad this would be, and what you could do about it. 
+        
+        -   It’s much easier to entertain an idea than to actually take action, and this helps reduce the flinch
+            
+-   **Taking action**
+    
+    -   Be spontaneous and fast!
+        
+        -   Create tight loops between taking actions and getting results. 
+            
+        -   Put a big premium on doing something _now_ rather than later. Don’t leave enough time for motivation to fade
+            
+        -   Have easy ways to rapidly commit to something. Eg, messaging the intention to a friend, putting it in your to-do list, scheduling a time to do it properly in your calendar, etc. Put in effort beforehand, to enable yourself to be spontaneous in the moment
+            
+    -   Avoid overthinking and overplanning. Identify a rough plan, and a concrete first step, and then take it - you don’t need a perfect plan to start doing something.
+        
+    -   Set a 5 minute timer, and try to do as much as you can before the timer goes off - often this is enough to get enough activation energy
+        
+    -   Try to have a clear goal/intention when acting, don’t just go through the motions
+        
+    -   I collect some related strategies in [Taking the First Step](https://www.neelnanda.io/blog/mini-blog-post-21-taking-the-first-step)
+        
+-   **Reward -** Finally, you want to feel _good_ about taking agency after the fact! The main value of practicing agency is getting better at the skill, and for that you need positive reinforcement.
+    
+    -   Ideally this happens automatically, if you take agency towards good things!
+        
+        -   And if you take agency towards actively bad things, it’s worth checking whether agency is a skill you actually _want_ to cultivate
+            
+    -   Redefining failure really helps here - if you can get excited about seeking novelty or taking agency, it’s much easier to get strong and rapid positive reinforcement
+        
+    -   Seek tight feedback loops - practice agency on small things where you’ll quickly find out whether it was a good idea
+        
+
+### Concrete Advice
+
+The following is a grab bag of more concrete ways to cultivate agency and put this into practice. Some of these are contradictory, and aimed at different people - look for the ones that resonate, and might be of value to you!
+
+-   As outlined above, practice! Look for opportunities for agency in everyday life, and take them for the sake of practicing the skill.
+    
+    -   This can be incredibly minor things, eg being the one who gets up from the table to refill an empty water jug.
+        
+-   Make time to regularly reflect. I am a big advocate for [weekly reviews](https://www.neelnanda.io/blog/39-reflection)
+    
+    -   Prompts like “what would I do if I was being really ambitious?” or “what opportunities came up recently?”, “what am I missing?” or even “how could I be more agentic?” Can be really helpful
+        
+-   Try to take ideas seriously. Notice when you flinch away from something because it feels weird or effortful, and actually think through the pros and cons. Give yourself permission to be weird and ambitious and to actually try
+    
+-   Notice the defaults in your life, and make efforts to step past them. Try new things! Expose yourself to new ideas, and new ways of thinking. Make friends very different from yourself.
+    
+-   Take care of yourself! Notice if you’re spreading yourself too thin. Make sure you have energy, good health, and take care of anything causing stress or taking up mental space. [Build good systems](https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower). If these things are going wrong, aggressively prioritise dealing with it.
+    
+-   Take an action orientation - try to default to saying why not, rather than no. Be willing to experiment and see what happens
+    
+-   Seek mentors and role models who have agency, and who you can learn it from
+    
+    -   Note - [there are different kinds of mentorship](https://www.lesswrong.com/posts/Wj5CCL7ay39on9ZuK/mentorship-management-and-mysterious-old-wizards), and most will not give you this
+        
+    -   Personally, I find that by far the best way to teach agency to other people is via 1-1 conversations. Understanding what the other person wants and their problems and constraints and defaults. And making suggestions for ways to do something differently and take agency. And helping them check whether this is actually what they want, and then making the intention concrete and putting it into practice
+        
+        -   [Tyler Cowen puts it well](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html)
+            
+
+**Exercise**: Did any of these resonate? What is something concrete you could implement in your life? Set a 5 minute timer, and do something about it right now.
+
+## Drawbacks
+
+Most of this post has been cheerleading for agency, and treating it as a virtue. But it’s worth reflecting on the drawbacks, and ways too much agency can hurt you. Some particularly notable drawbacks:
+
+-   The attractor of non-conformity. Feeling uncomfortable doing anything normal, and defaulting to _ignoring_ standard wisdom unless it’s obviously true. Sometimes things are done for a reason! 
+    
+-   There are social consequences to weirdness, especially in certain cultures and social circles. This makes me sad, and I strongly advocate looking for friends who will help nurture your agency, but it _is_ a real cost and consequence
+    
+-   Agency adds a _lot_ of variance to things. The default path is normally fairly safe, while agency opens up a lot of new avenues. The prototypical example is someone who decides to try a lot of drugs, doesn’t know how to do it safely, and ends up badly hurting themselves.
+    
+-   Agency is _hard_. Making your own path can be exhausting and stressful, while following the default path can be pleasant and fine. Optimising small things may not be worth the effort
+    
+    -   Again, I recommend picking your battles! It’s easy to fall into the attractor of thinking you must be agentic in _everything_, and feeling guilty when you’re not.
+        
+
+## Conclusion
+
+Overall, agency is one of the most useful skills I’ve ever gained (and I still have a lot of room to grow!). And hopefully in this post I’ve helped to flesh out what, exactly, I mean by agency, reasons to value it, and concrete ways to cultivate this skill.
+
+So, if this post resonated and you want to gain agency, my final challenge to you is this. What are you doing to do about it?

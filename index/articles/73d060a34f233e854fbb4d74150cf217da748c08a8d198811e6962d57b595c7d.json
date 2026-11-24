@@ -5,5 +5,12 @@
   "original": {
     "path": "radimentary.wordpress.com/Where do your eyes go--浏览器加工--d5391a3dad.md",
     "sha256": "42d9ea16be140c6ce305ccc3de07473a6d20b36ba93e5941d186b7a0c71cd711"
-  }
+  },
+  "versions": [
+    {
+      "kind": "translation",
+      "sha256": "0f4f2062124011e0f629830e323226f09e37cc61fa581951b8a35a668ce62b55",
+      "path": "加工版本/73d060a34f233e854fbb4d74/translation-0f4f2062124011e0f629830e323226f09e37cc61fa581951b8a35a668ce62b55.md"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Sobre Dios y la Perfección (II)--浏览器加工--32df16bed5.md",
     "sha256": "ab6abaf01bc31d2b88a6a3c519a49c33d385546e700b5793b5865bc30eb55f08"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ad3ebe4aade0d958bcd859d9/reading-028b35331c10e1d492919e11f7920ea40387a7ce956b6b25e2c0396592504de6.md",
+      "sha256": "028b35331c10e1d492919e11f7920ea40387a7ce956b6b25e2c0396592504de6",
+      "original_sha256": "ab6abaf01bc31d2b88a6a3c519a49c33d385546e700b5793b5865bc30eb55f08",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - Atesoramiento--浏览器加工--a6571ca3ed.md",
     "sha256": "7401d6f0cdddcce7a4c5ab0b73d68a6fd25e7c2c79eac2091f06b09b522040f0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/27d9b21e7824dbb2ff5a6030/reading-24cf91dfd4906008331d9b98ff5f278680caacecb38d71a55d0f6708f95f71da.md",
+      "sha256": "24cf91dfd4906008331d9b98ff5f278680caacecb38d71a55d0f6708f95f71da",
+      "original_sha256": "7401d6f0cdddcce7a4c5ab0b73d68a6fd25e7c2c79eac2091f06b09b522040f0",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

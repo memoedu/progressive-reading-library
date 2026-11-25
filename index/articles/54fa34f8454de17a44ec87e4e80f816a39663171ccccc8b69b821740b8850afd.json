@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/General Miseducation--浏览器加工--7bc6f5d3a2.md",
     "sha256": "40f9b556fe858c8ff6e705679444cad1c0826211c2df8adc369624d2f6698a6c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/54fa34f8454de17a44ec87e4/reading-44762ed8e8ec0f155e1ab2325ab80da7a6ee007c6cdd977cc332268821c9dccc.md",
+      "sha256": "44762ed8e8ec0f155e1ab2325ab80da7a6ee007c6cdd977cc332268821c9dccc",
+      "original_sha256": "40f9b556fe858c8ff6e705679444cad1c0826211c2df8adc369624d2f6698a6c",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

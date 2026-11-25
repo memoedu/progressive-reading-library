@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/[administrivia] Site migration--浏览器加工--0c9c0eeab0.md",
     "sha256": "c287ec50f5185952147770c20d2716d0b514bceeaa8f33dfe74e4fee76a61cb9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/53dab52d7c976d3d3058426e/reading-969ab211004904ce0459ee4584c6bce6f21f13406ba7facc777a5267e7d09f05.md",
+      "sha256": "969ab211004904ce0459ee4584c6bce6f21f13406ba7facc777a5267e7d09f05",
+      "original_sha256": "c287ec50f5185952147770c20d2716d0b514bceeaa8f33dfe74e4fee76a61cb9",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

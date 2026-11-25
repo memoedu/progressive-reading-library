@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Feelingsmaxxing/Loving boundaries Conditional love applied to parenting and therapy--浏览器加工--63180d3a39.md",
     "sha256": "c202df37f772c6cb71b1ff6526039251ebb985ac7756580c5e4c8c49cdb802fe"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ccbd7407cf74ede86ec880ca/reading-491a1d5197029c0403a178b9ae315dd45f57a4298825ea91a5d387b2ba926401.md",
+      "sha256": "491a1d5197029c0403a178b9ae315dd45f57a4298825ea91a5d387b2ba926401",
+      "original_sha256": "c202df37f772c6cb71b1ff6526039251ebb985ac7756580c5e4c8c49cdb802fe",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

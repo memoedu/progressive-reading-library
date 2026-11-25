@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Gender and STEM/Women in STEM a cross-country view--浏览器加工--2f22967ea2.md",
     "sha256": "ed7ac1939f3cfdbae8ee8a1907c154893ee4c8008e589dae6bda51c849cc2887"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b43245f8d08f0ac4ca755b9e/reading-b6b7c84bf631dc470eb9dfafa3b11713eab2582b86bff737bba21eb3de0788c0.md",
+      "sha256": "b6b7c84bf631dc470eb9dfafa3b11713eab2582b86bff737bba21eb3de0788c0",
+      "original_sha256": "ed7ac1939f3cfdbae8ee8a1907c154893ee4c8008e589dae6bda51c849cc2887",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/La certeza no sale gratis--浏览器加工--392a0e0976.md",
     "sha256": "d14923485fce133a2521a6e8cd26ae34f249dad205aa80932d5cfa3d4289a940"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/28f7635eec3f2cc92f36f68f/reading-c19c47a5e924dce969979e26033d71b5c8f009b25d2485e4521718d9220bc436.md",
+      "sha256": "c19c47a5e924dce969979e26033d71b5c8f009b25d2485e4521718d9220bc436",
+      "original_sha256": "d14923485fce133a2521a6e8cd26ae34f249dad205aa80932d5cfa3d4289a940",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

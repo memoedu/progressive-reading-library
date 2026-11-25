@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/[Link] Scott Aaronson sums up my thoughts on environmentalism and divestment--浏览器加工--5223055ff9.md",
     "sha256": "fdfaf4fbc4bd994e6db83685c32292f30cb8fb9abd9de288f3b7fe1e8312fd37"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/014299dd407d43b9111c2432/reading-3f2e37afd464c42294091fd20ede24e603373181da9c2a40f85d4e160eb5d94d.md",
+      "sha256": "3f2e37afd464c42294091fd20ede24e603373181da9c2a40f85d4e160eb5d94d",
+      "original_sha256": "fdfaf4fbc4bd994e6db83685c32292f30cb8fb9abd9de288f3b7fe1e8312fd37",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

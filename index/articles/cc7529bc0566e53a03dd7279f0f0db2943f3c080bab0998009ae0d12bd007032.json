@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Spanish/Diez puntos sobre el vacío intelectual de la derecha, y el futuro del debate público--浏览器加工--ef1478b44b.md",
     "sha256": "03270dbc69625806106dbd32133bc43b15227ece3db8d4898b36c49cc294c7a7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cc7529bc0566e53a03dd7279/reading-2d9746f0a970ee380819dad5ffd33f4c23c73bd889b846fd42b699b90e0dd09c.md",
+      "sha256": "2d9746f0a970ee380819dad5ffd33f4c23c73bd889b846fd42b699b90e0dd09c",
+      "original_sha256": "03270dbc69625806106dbd32133bc43b15227ece3db8d4898b36c49cc294c7a7",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

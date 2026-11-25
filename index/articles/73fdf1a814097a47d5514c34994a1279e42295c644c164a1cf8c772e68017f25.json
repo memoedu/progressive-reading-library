@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/Why squared error--浏览器加工--0050b875bc.md",
     "sha256": "b3bee70d1df081d72878a8317f86aa96a8df13e004db31e1f014b4929ba20fc7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/73fdf1a814097a47d5514c34/reading-95f53d83b19410e29538b412ab3d29a27a39defb6710f1d3ba6191856d7652d4.md",
+      "sha256": "95f53d83b19410e29538b412ab3d29a27a39defb6710f1d3ba6191856d7652d4",
+      "original_sha256": "b3bee70d1df081d72878a8317f86aa96a8df13e004db31e1f014b4929ba20fc7",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

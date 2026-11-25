@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Boston should begin aggressive coronavirus mitigation--浏览器加工--9e6821da93.md",
     "sha256": "08224d444beafa56d63ef6c9aab600ba8136da0ebf85511f6640eead143162de"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ae6fe1fa145add273921ea41/reading-11276e6cb207cdb37ea9bca287d6a36136f16a7cdd8abdcac0721937164ca41a.md",
+      "sha256": "11276e6cb207cdb37ea9bca287d6a36136f16a7cdd8abdcac0721937164ca41a",
+      "original_sha256": "08224d444beafa56d63ef6c9aab600ba8136da0ebf85511f6640eead143162de",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

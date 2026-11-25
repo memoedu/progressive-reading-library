@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Stop your video calls from stuttering--浏览器加工--ed1e5d733e.md",
     "sha256": "ed1f5463d3256224f40fe605aae2df18fbb3c3bc42087907c035932bb1af9a45"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5aa92b9613603a9ca2b7863a/reading-c19a62c408e9c37b5e2571f47dc5c21938be30246eff981380231193636ab07f.md",
+      "sha256": "c19a62c408e9c37b5e2571f47dc5c21938be30246eff981380231193636ab07f",
+      "original_sha256": "ed1f5463d3256224f40fe605aae2df18fbb3c3bc42087907c035932bb1af9a45",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

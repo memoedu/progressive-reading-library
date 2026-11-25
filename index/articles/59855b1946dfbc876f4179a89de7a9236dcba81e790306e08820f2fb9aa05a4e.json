@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Effective social norms small groups--浏览器加工--9f05680564.md",
     "sha256": "b9a675558f1e884edd45b2a48888d0c919ba3d073258dd93b9c25ef1fb1d9155"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/59855b1946dfbc876f4179a8/reading-be5700a954f49e675e60b2e284bd9c0f30917d49d613e12600b8cc7edae04a81.md",
+      "sha256": "be5700a954f49e675e60b2e284bd9c0f30917d49d613e12600b8cc7edae04a81",
+      "original_sha256": "b9a675558f1e884edd45b2a48888d0c919ba3d073258dd93b9c25ef1fb1d9155",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

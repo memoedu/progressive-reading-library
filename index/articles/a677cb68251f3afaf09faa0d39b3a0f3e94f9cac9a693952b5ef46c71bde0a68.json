@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/What should we do about network-effect monopolies--浏览器加工--cb9b01a6b4.md",
     "sha256": "848d7359f3227243ece2758d3acb523e3f323d205c723d6ad9605ba35c2e41c7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a677cb68251f3afaf09faa0d/reading-968dead2f2b61d933dc36587182d8a51c61516e7bbe4e390d7cf08787b210112.md",
+      "sha256": "968dead2f2b61d933dc36587182d8a51c61516e7bbe4e390d7cf08787b210112",
+      "original_sha256": "848d7359f3227243ece2758d3acb523e3f323d205c723d6ad9605ba35c2e41c7",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -1,0 +1,37 @@
+# But where are the European Googles?
+
+---
+
+## 正文
+
+网上流传着这篇文章的许多版本。所有版本都提出了一个关于 Googles 和 Europe 的问题。例如[这里](http://www.theglobalist.com/where-are-the-european-googles/) 、[这里](http://marianamazzucato.com/wp-content/uploads/2014/10/Mazzucato-Donna-Repubblica.pdf)，或[这里](https://www.youtube.com/watch?t=5&v=cVM91WzUeXk)。
+
+> 过去 20 年来，一个重大问题始终是：European Googles 在哪里？为什么像 Apple、Amazon、Google 和 Facebook 这样 funky、creative、dynamic、innovative 的 companies 都出自 US，而不是 Europe？你经常会听到的回答是：Europe 有丰富的文化、美食和时尚，但它并不‘entrepreneurial enough’，没有足够的‘garage tinkerers’，而这主要是因为我们的 state 太多，market 不够。这种每天由媒体和 conservative politicians 灌输给我们的观点，忽略了这样一个事实：所有让 iPhone 如此 smart 的 revolutionary technologies，实际上都是由 government 来 funded 的。不是通过狭隘的‘market fixing’ policies，而是通过‘mission oriented’ policies，后者 catalysed 了全新 technologies 和 sectors 的 creation。
+
+问题在于，那些文章提出了 European Googles 在哪里这个问题，却没有回答。它们断言，US 的大量 innovation 来自 government，但论述就停在这里。我们该由此 infer 什么？难道没有 European Googles，是因为与 US 相比，Europe 的 State entrepreneurialism 太少？这似乎确实是最善意的解读。但它似乎并不显然正确。[US government 的 spends](http://stats.oecd.org/Index.aspx?DataSetCode=MSTI_PUB#)中，用于 R&D 的是 US GDP 的 0.34 %，而 Europe 的 spends 是 0.25%。除非在 0.34% 附近存在某个神奇的临界点，否则似乎并不能明显看出，将 Science funding 提高到 US levels 会有什么帮助，尤其是考虑到 Europe 的 governmental funded R&D 中有 95% 用于 civil purposes，而 US 的这一数字仅为 48%。而且，按照对此的 mainstream view（见[这里](https://artir.wordpress.com/2015/08/28/is-war-necessary-for-economic-growth-a-review-and-some-aviation-history-love/)和[这里](https://katalepsisblog.wordpress.com/2015/09/29/handbook-of-the-economics-of-innovation-some-sort-of-summary/)），R&D 中的 military spending 并不会 lead to 更多 innovation 或 productivity，这一点在 development spending 上更为明显。而在 US Defense expending 中，82% [是 systems development！](http://www.nsf.gov/statistics/seind14/content/chapter-4/fig04-19.png)或许，为了 build railguns 而 researching electromagnetism 会 leads to 更多 innovation 和好东西，但研究这一问题的 researchers 认为，实际 building 和 designing railguns、Zumwaltzs 或 F35 本身却不会：那些是 highly specific（而且大部分是 secret）的 designs，不会轻易转化为 commercial spinoffs。
+
+此外，Europe 对 State 的 culture 似乎比 US 更友好。construct 一个 'love of the State' index，并看看它是否 affects innovation on the margin，会很有意思。按照 Mazzucato 的说法，对 State 的 positive vision 会 leads to 聪明人加入其中，并使它更 effective。因此，尽管如此，仍然没有 comparable European innovation generation。
+
+如果问题不只是 spending，那或许在于 spending 的 composition，以及 system 是如何 configured 的。但在我们 Europe 这里，也有涵盖广泛 fields 的 government labs、public universities、innovation agencies、面向 scientists 的 European-wide grants，等等。Explaining 这一点是她该做的功课，而她并没有做，甚至在她的书里也没有。
+
+我们也可以 posit 其他 explanations：Regulations、taxes、EU 内存在的 linguistic borders 导致了 smaller market、对 skilled human capital 的 attraction 较少（许多 US corporations 和 startups 都有 first or second generation immigrants 参与）、US 对最 succesful 的 EU entrepreneurs 和 scientists 的 capture，等等。
+
+这是一个有趣的 research topic，因为原则上，并没有什么显而易见的事情是 US 在做而 EU 没有在做的。[这里](http://uk.businessinsider.com/ap-why-europe-isnt-creating-any-googles-or-facebooks-2015-9?r=US&IR=T)有一些相关评论。
+
+---
+
+## 原文
+
+There's this article going around the net in many versions. In all of them there is a question about Googles and Europe. An example [here](http://www.theglobalist.com/where-are-the-european-googles/) , [here](http://marianamazzucato.com/wp-content/uploads/2014/10/Mazzucato-Donna-Repubblica.pdf), or [here](https://www.youtube.com/watch?t=5&v=cVM91WzUeXk)
+
+> A big question for the past 20 years has been: where are the European Googles? Why are all the funky, creative, dynamic, innovative companies like Apple, Amazon, Google and Facebook coming out of the US and not out of Europe? The answer you will often hear is: Europe has lots of culture, good food and fashion, but it is not ‘entrepreneurial enough’, not enough ‘garage tinkerers’ and that this is mainly because we have too much state and not enough market. This view, fed to us on a daily basis by the media and conservative politicians, ignores the fact that all the revolutionary technologies that make the iPhone so smart were actually funded by government. Not through narrow ‘market fixing’ policies, but through ‘mission oriented’ policies that catalysed the creation of entirely new technologies and sectors
+
+The thing is, in those articles, the question of where are the European Googles is asked, but not answered. It is asserted that lots of innovation in the US come from the government, but the point is left there. What are we to infer? That there are no European Googles because there is too little State entrepreneurialism in Europe compared to the US? Surely this seems the most charitable interpretation. But it doesn't seem obviously right. [The US government spends](http://stats.oecd.org/Index.aspx?DataSetCode=MSTI_PUB#) 0.34 % of US GDP in R&D, while Europe spends 0.25%. Unless there is a magic point near 0.34%, it does't seem evident that an increase to US levels of Science funding would be helpful, specially when you take into account the fact that 95% of Europe's governmental funded R&D is dedicated to civil purposes, while that number is just 48% for the US. And according to the mainstream view on this (see [here](https://artir.wordpress.com/2015/08/28/is-war-necessary-for-economic-growth-a-review-and-some-aviation-history-love/) and [here](https://katalepsisblog.wordpress.com/2015/09/29/handbook-of-the-economics-of-innovation-some-sort-of-summary/)), military spending in R&D does not lead to more innovation, or productivity, and this is more evident for development spending. And within US Defense expending, 82% of [it is systems development!](http://www.nsf.gov/statistics/seind14/content/chapter-4/fig04-19.png) Maybe researching electromagnetism to build railguns leads to more innovation and goodies, but, argue the researchers on this, not actually building and designing the railguns, the Zumwaltzs or the F35 themselves: those are highly specific (and largely secret) designs that won't find their way into commercial spinoffs easily.
+
+Also, Europe seems to have a friendlier culture towards the State than the US. It'd be of interest to construct a 'love of the State' index and see if that affects innovation on the margin. According to Mazzucato, a positive vision of the State leads to smart people joining its ranks, and making it more effective. So despite that, there is no comparable European innovation generation.
+
+If it is not just spending, perhaps it's the composition of spending, and how the system is configured. But here in Europe there are also government labs in a wide array of fields, public universities, innovation agencies, European-wide grants for scientists, and so on. Explaining this is homework for her to do, and she has not done it, not even in her book.
+
+One could also posit other explanations: Regulations, taxes, the linguistic borders present in EU resulting in a smaller market, less attraction of skilled human capital (Many US corporations and startups have first or second generation immigrants involved), US capture of the most succesful EU entrepreneurs and scientists, etc.
+
+This is an interesting topic of research, because in principle there is nothing obvious the US does that the EU isn't doing. [Here](http://uk.businessinsider.com/ap-why-europe-isnt-creating-any-googles-or-facebooks-2015-9?r=US&IR=T) there is some comment on that.

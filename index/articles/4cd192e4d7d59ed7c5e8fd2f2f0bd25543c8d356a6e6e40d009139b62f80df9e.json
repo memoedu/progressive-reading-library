@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/Your room can be as bright as the outdoors--浏览器加工--2de49555e7.md",
     "sha256": "fa5c9af93f9842039da8cf843c176153e04f62db0ae2c529976502bc0a6bb891"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4cd192e4d7d59ed7c5e8fd2f/reading-63bca68f12915ce151f7d67e1b9d99f867aa6bd4e58e4e2c45d462e4e0b66987.md",
+      "sha256": "63bca68f12915ce151f7d67e1b9d99f867aa6bd4e58e4e2c45d462e4e0b66987",
+      "original_sha256": "fa5c9af93f9842039da8cf843c176153e04f62db0ae2c529976502bc0a6bb891",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

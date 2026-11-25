@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/¿Es racional jugar a la lotería--浏览器加工--1aedec795d.md",
     "sha256": "84f8dfc1d8b35ee38656493f40d98a8d6797ecdb4c9858952e1510f8ac2a11cb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cdb81f4473cf2d79bebde904/reading-36b98d959ace6c798181c7f722814f366214bd1c0471ee441f063266c9f08095.md",
+      "sha256": "36b98d959ace6c798181c7f722814f366214bd1c0471ee441f063266c9f08095",
+      "original_sha256": "84f8dfc1d8b35ee38656493f40d98a8d6797ecdb4c9858952e1510f8ac2a11cb",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 15 The illusion of doing nothing — Neel Nanda--浏览器加工--1aa5f99967.md",
     "sha256": "0130da3d50279d92140faca80d8c4b759f19e0fc13cc14e7ead49d84a93e6c96"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1aa5f9996718ecdf43cd4e38/reading-69977b13077fa0d47cd6d3500c9a91aee824fd8116093b04eada2d858b52bec5.md",
+      "sha256": "69977b13077fa0d47cd6d3500c9a91aee824fd8116093b04eada2d858b52bec5",
+      "original_sha256": "0130da3d50279d92140faca80d8c4b759f19e0fc13cc14e7ead49d84a93e6c96",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

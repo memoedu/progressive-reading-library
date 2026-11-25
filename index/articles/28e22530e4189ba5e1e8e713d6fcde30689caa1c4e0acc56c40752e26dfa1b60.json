@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/I declare Crocker's Rules today--浏览器加工--4658e067ab.md",
     "sha256": "8291cc3a1d09232adac2d80ffa4b041a263a32e8439785210faf3b49e1043cfe"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/28e22530e4189ba5e1e8e713/reading-4fe9e9312e5a628d64bb0895c1e7ded909162e5b985247401cd044004f40b97c.md",
+      "sha256": "4fe9e9312e5a628d64bb0895c1e7ded909162e5b985247401cd044004f40b97c",
+      "original_sha256": "8291cc3a1d09232adac2d80ffa4b041a263a32e8439785210faf3b49e1043cfe",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

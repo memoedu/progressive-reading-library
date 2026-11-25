@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - Comments on 'Fully Grown'--浏览器加工--66e9ecad55.md",
     "sha256": "70ba57ff7b7847b6785f9923fa1e641c381ad01534822757eba3a11eba5bffa3"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3f3f324fac12c181182b9196/reading-6878ac0a79a19fa143e3939bd4f8b38438a661077490175b3686dc25044e3e97.md",
+      "sha256": "6878ac0a79a19fa143e3939bd4f8b38438a661077490175b3686dc25044e3e97",
+      "original_sha256": "70ba57ff7b7847b6785f9923fa1e641c381ad01534822757eba3a11eba5bffa3",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/How I build and run behavioral interviews--浏览器加工--14e2f65ca5.md",
     "sha256": "2223bf56be314a12203dcec0163b3d6d83443c2d938c4e4fc9216d87a4cc640c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f58800aee4de87339295674e/reading-cf2a9737c64686de16b1d87e909790bdd8cc748e17b0872b8d9eca125875d2b3.md",
+      "sha256": "cf2a9737c64686de16b1d87e909790bdd8cc748e17b0872b8d9eca125875d2b3",
+      "original_sha256": "2223bf56be314a12203dcec0163b3d6d83443c2d938c4e4fc9216d87a4cc640c",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

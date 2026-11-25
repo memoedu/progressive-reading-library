@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/misc/Quick notes on the Las Vegas Strip--浏览器加工--42e3f5c778.md",
     "sha256": "b83566fb45a6d2ee2e8369d6592094d5b69fa55b4c6d113ed8ba1383ab6ea4f4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/42e3f5c7786c6f8ca497f630/reading-c90e4b6c46c5af77846ef5301a2c32f94342bff1ae1c9ad27b8d639dada9bd7d.md",
+      "sha256": "c90e4b6c46c5af77846ef5301a2c32f94342bff1ae1c9ad27b8d639dada9bd7d",
+      "original_sha256": "b83566fb45a6d2ee2e8369d6592094d5b69fa55b4c6d113ed8ba1383ab6ea4f4",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

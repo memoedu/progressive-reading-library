@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Empirical questions at the root of ideological disagreements--浏览器加工--4ecbc49986.md",
     "sha256": "4e078f3308dafd741e5db199e5e6b94fcab33b06b95b0bb7221f87c7f4334f98"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/70207399885c9965e033b2e9/reading-2672ed9235d82f6a908d77514df2afb66effb0bbae3c09d7275fe298ddb16d6a.md",
+      "sha256": "2672ed9235d82f6a908d77514df2afb66effb0bbae3c09d7275fe298ddb16d6a",
+      "original_sha256": "4e078f3308dafd741e5db199e5e6b94fcab33b06b95b0bb7221f87c7f4334f98",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

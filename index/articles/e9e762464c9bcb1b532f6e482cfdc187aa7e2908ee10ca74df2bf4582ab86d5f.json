@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 2 Be Deliberate — Neel Nanda--浏览器加工--e9e762464c.md",
     "sha256": "38aeccde1ec6cbd730ec8b66ffc8bcd5988034d7d275dc9ff0778b9c17ffc463"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e9e762464c9bcb1b532f6e48/reading-bc8ed7fca0e4528c0cb59f81ddb8f9d83294fa584809d5e9c46f16ee3f338937.md",
+      "sha256": "bc8ed7fca0e4528c0cb59f81ddb8f9d83294fa584809d5e9c46f16ee3f338937",
+      "original_sha256": "38aeccde1ec6cbd730ec8b66ffc8bcd5988034d7d275dc9ff0778b9c17ffc463",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

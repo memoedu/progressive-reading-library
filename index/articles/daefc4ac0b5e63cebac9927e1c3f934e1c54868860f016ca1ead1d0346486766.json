@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/AI/Anthropic's Claude Constitution; or love as the solution to the AI alignment problem--浏览器加工--4bf556ed31.md",
     "sha256": "65d147346e409db73d2db561f3d9d3ae425efc5a47012ec05c304edddc36b150"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/daefc4ac0b5e63cebac9927e/reading-b892b1ba5d7e0c8a958f806c879964b6db960e9e010ba06ea2c5c2e2d6dcc208.md",
+      "sha256": "b892b1ba5d7e0c8a958f806c879964b6db960e9e010ba06ea2c5c2e2d6dcc208",
+      "original_sha256": "65d147346e409db73d2db561f3d9d3ae425efc5a47012ec05c304edddc36b150",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/What I learned from working at GiveWell--浏览器加工--e14f87dc0e.md",
     "sha256": "b636c88d6d024d212d34fc90cff6ba708fd2005d598edb317d27788be57a0d0a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/894c41c25c8a45362bcd5f6e/reading-077c816a609f604474ab865846a1e76dcb99734c3f9a7ca4a4e6fdbc4ae18c1e.md",
+      "sha256": "077c816a609f604474ab865846a1e76dcb99734c3f9a7ca4a4e6fdbc4ae18c1e",
+      "original_sha256": "b636c88d6d024d212d34fc90cff6ba708fd2005d598edb317d27788be57a0d0a",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

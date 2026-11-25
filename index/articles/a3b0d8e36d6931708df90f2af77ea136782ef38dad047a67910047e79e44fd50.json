@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Massachusetts should shut down immediately--浏览器加工--7627c5d10e.md",
     "sha256": "c005a973fab64bdf0811e3e6269fee467fb64eabe51c3c34f68df43cd6880165"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a3b0d8e36d6931708df90f2a/reading-cef713f31bae06e5bb4b2a33cac415805abeb156c803de863ab766517ab544bc.md",
+      "sha256": "cef713f31bae06e5bb4b2a33cac415805abeb156c803de863ab766517ab544bc",
+      "original_sha256": "c005a973fab64bdf0811e3e6269fee467fb64eabe51c3c34f68df43cd6880165",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

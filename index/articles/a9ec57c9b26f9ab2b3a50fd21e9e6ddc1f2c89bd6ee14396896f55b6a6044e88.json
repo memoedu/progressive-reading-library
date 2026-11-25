@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Is X unethical--浏览器加工--9884adcdd2.md",
     "sha256": "1705e32da7d746e57fa2d9f6ba3bffc3f731207e1cb256ac2123badb663a7bc3"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a9ec57c9b26f9ab2b3a50fd2/reading-e56b7f1fd53ca28e90e772b426671c9c1155a3031a7c8f60d7d93f1ebb027c41.md",
+      "sha256": "e56b7f1fd53ca28e90e772b426671c9c1155a3031a7c8f60d7d93f1ebb027c41",
+      "original_sha256": "1705e32da7d746e57fa2d9f6ba3bffc3f731207e1cb256ac2123badb663a7bc3",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Análisis del consumismo II Consumismo y materialismo--浏览器加工--be92153101.md",
     "sha256": "f0fc3408693652051daf39a07ee0f70ab552394533182a4fa49f6ac96b62e587"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5f31898b3aea6a61382620bd/reading-37940950730bd1aef8e5dc776e33c3bfe16b8a5082ecf98bdd571d3a96d35299.md",
+      "sha256": "37940950730bd1aef8e5dc776e33c3bfe16b8a5082ecf98bdd571d3a96d35299",
+      "original_sha256": "f0fc3408693652051daf39a07ee0f70ab552394533182a4fa49f6ac96b62e587",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

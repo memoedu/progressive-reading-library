@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Moral arguments--浏览器加工--e0307dbcb3.md",
     "sha256": "97492e1f61287ad2b005cc6acf4451c1b942c5207ee4effe4d906691e1f5c410"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9bf27acc8c70ef2bc5aa3ee3/reading-52958bd17b00f6fcce5df9131f85bbdeb92deaca915a60ef93a80cd56a968d67.md",
+      "sha256": "52958bd17b00f6fcce5df9131f85bbdeb92deaca915a60ef93a80cd56a968d67",
+      "original_sha256": "97492e1f61287ad2b005cc6acf4451c1b942c5207ee4effe4d906691e1f5c410",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

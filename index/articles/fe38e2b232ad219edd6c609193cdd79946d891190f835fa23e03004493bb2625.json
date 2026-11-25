@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Nintil - Mingardi contra Mazzucato--浏览器加工--2be5ff1f59.md",
     "sha256": "f10f92ee0f0a2e7059e89b2067e227dfe890c5f7a826765289358c671a58632f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fe38e2b232ad219edd6c6091/reading-b19ed33d948a0d8ea37b67d5cdc2bee92ab276be74727576bec47bf0330f3dec.md",
+      "sha256": "b19ed33d948a0d8ea37b67d5cdc2bee92ab276be74727576bec47bf0330f3dec",
+      "original_sha256": "f10f92ee0f0a2e7059e89b2067e227dfe890c5f7a826765289358c671a58632f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

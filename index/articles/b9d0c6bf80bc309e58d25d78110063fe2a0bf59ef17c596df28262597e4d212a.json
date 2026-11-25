@@ -5,5 +5,16 @@
   "original": {
     "path": "订阅/RSS/Nintil/The Ideal Parent Figure Protocol--浏览器加工--ce0dc5bcbd.md",
     "sha256": "30f150a9e629971c969a6b99a3c2bfcdeb28ebcb524d14d0a13444e93dd81a37"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b9d0c6bf80bc309e58d25d78/reading-f7b75c170e86d6d809e1853287c9fcf840fedc9532c3266b6c13764091387db0.md",
+      "sha256": "f7b75c170e86d6d809e1853287c9fcf840fedc9532c3266b6c13764091387db0",
+      "original_sha256": "30f150a9e629971c969a6b99a3c2bfcdeb28ebcb524d14d0a13444e93dd81a37",
+      "processing_sha256": "0624f005217d014934d80c5ad584c8757b0e4e90554c4c03441525504e2570a5",
+      "processor_version": "1.12.18",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "a515210ac39dc741b066a86a8cb9971bba66021653c23ee96097b3ebfd93c7fe"
+    }
+  ]
 }

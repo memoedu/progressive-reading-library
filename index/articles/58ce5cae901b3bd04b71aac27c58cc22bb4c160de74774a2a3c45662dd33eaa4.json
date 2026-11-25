@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - Comentario a Maribel--浏览器加工--04a95184a2.md",
     "sha256": "10fe054758b19f122ea900711ffe61083dabf55a80d880f4317f5a8e787146d7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/58ce5cae901b3bd04b71aac2/reading-c835a4adf1740cf00b4e04f3265b94e15abd7240d625161f5c327c5df1954fd7.md",
+      "sha256": "c835a4adf1740cf00b4e04f3265b94e15abd7240d625161f5c327c5df1954fd7",
+      "original_sha256": "10fe054758b19f122ea900711ffe61083dabf55a80d880f4317f5a8e787146d7",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Things that screw up your causal inference--浏览器加工--96c78c439b.md",
     "sha256": "a2dacea1e57f0304b0613a83db9d1cfafd6391a55b82d5ed6d673da8bc60a212"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0806316dcbff4f7b5cb70c24/reading-6217f81e039ac458fe93c5b17e269d27c3955786eac7faf840736a2ea98c0de9.md",
+      "sha256": "6217f81e039ac458fe93c5b17e269d27c3955786eac7faf840736a2ea98c0de9",
+      "original_sha256": "a2dacea1e57f0304b0613a83db9d1cfafd6391a55b82d5ed6d673da8bc60a212",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

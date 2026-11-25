@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/When simple econ models don't work--浏览器加工--85f6e5ee5b.md",
     "sha256": "b76ca08a0e77b67680ca5d708aae3fc8f559c742b70428493d23a1f42e34518d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7572c1eff1c11cd4ba9bd48e/reading-7c93c1ac6b985e1947755dc2e3e1bb97c444ecff97847ecd6cf87aec6f733e6c.md",
+      "sha256": "7c93c1ac6b985e1947755dc2e3e1bb97c444ecff97847ecd6cf87aec6f733e6c",
+      "original_sha256": "b76ca08a0e77b67680ca5d708aae3fc8f559c742b70428493d23a1f42e34518d",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

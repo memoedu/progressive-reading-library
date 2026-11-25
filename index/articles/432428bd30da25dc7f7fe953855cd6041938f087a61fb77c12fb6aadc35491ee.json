@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Post 32 Macro-Procrastination — Neel Nanda--浏览器加工--432428bd30.md",
     "sha256": "95ec0227a69d8f61dde3598dd0c0020abc50f7e9cd290921d4c27aac6446f676"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/432428bd30da25dc7f7fe953/reading-2e8e72c23bf31a72237eff42262c4063937f896ea8801786f56263ce4e44594d.md",
+      "sha256": "2e8e72c23bf31a72237eff42262c4063937f896ea8801786f56263ce4e44594d",
+      "original_sha256": "95ec0227a69d8f61dde3598dd0c0020abc50f7e9cd290921d4c27aac6446f676",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

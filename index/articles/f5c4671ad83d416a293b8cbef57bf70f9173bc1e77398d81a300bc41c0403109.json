@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - Automatización y empleo--浏览器加工--fe53e81398.md",
     "sha256": "c969b38129d0dac2dfc22bf61d347c3f97f29d263f3f9d766f9c837f4954a54d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f5c4671ad83d416a293b8cbe/reading-ed8bf40b5d4c3d1e85b3afc5b31986727ca3029edbd126d22ee9cabe7f0c6d25.md",
+      "sha256": "ed8bf40b5d4c3d1e85b3afc5b31986727ca3029edbd126d22ee9cabe7f0c6d25",
+      "original_sha256": "c969b38129d0dac2dfc22bf61d347c3f97f29d263f3f9d766f9c837f4954a54d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Me/Prove me wrong, earn money!--浏览器加工--516e40e249.md",
     "sha256": "1b369770891cfd34ddf1637ccd4653f59faac4528199285c843d33f4b778b10c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/83af55def7bc752975c7158b/reading-55e7e5a7f021768dd440d7719465f5cdfba5e9c3be89d815054f3ca18dbce91a.md",
+      "sha256": "55e7e5a7f021768dd440d7719465f5cdfba5e9c3be89d815054f3ca18dbce91a",
+      "original_sha256": "1b369770891cfd34ddf1637ccd4653f59faac4528199285c843d33f4b778b10c",
+      "processing_sha256": "fabb6b6dd1abc7c744b4013ad784b8c4099e6cb2207d67d4403d0acbd6e9950d",
+      "processor_version": "1.12.16",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

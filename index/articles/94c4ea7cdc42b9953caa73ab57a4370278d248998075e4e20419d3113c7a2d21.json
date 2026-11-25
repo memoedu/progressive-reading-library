@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/To listen well, get curious--浏览器加工--79139d9626.md",
     "sha256": "df93004afe6ee40a5b6d904c360c26f371b639fb7806052439bbf5eb66e7a5cb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/94c4ea7cdc42b9953caa73ab/reading-e12e8982bcedc0b9493ec58d9711b09b3af715f4a4fc2f7a5e3b569c0b444c9c.md",
+      "sha256": "e12e8982bcedc0b9493ec58d9711b09b3af715f4a4fc2f7a5e3b569c0b444c9c",
+      "original_sha256": "df93004afe6ee40a5b6d904c360c26f371b639fb7806052439bbf5eb66e7a5cb",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

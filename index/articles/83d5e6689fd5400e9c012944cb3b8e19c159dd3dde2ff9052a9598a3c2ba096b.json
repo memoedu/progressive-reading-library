@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Compilations/Lo mejor de Juanramonrallo.com 2011-2013--浏览器加工--9597c451bb.md",
     "sha256": "181a7a9d96bedb353338273d92068e86db8949221b82234eb141e11a8d02af3f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/83d5e6689fd5400e9c012944/reading-4b40d55a555ccaaa0b9062412674d773f8b0379f8489872143ae67bf5e344f2b.md",
+      "sha256": "4b40d55a555ccaaa0b9062412674d773f8b0379f8489872143ae67bf5e344f2b",
+      "original_sha256": "181a7a9d96bedb353338273d92068e86db8949221b82234eb141e11a8d02af3f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 14 Minds should make sense — Neel Nanda--浏览器加工--831b20783e.md",
     "sha256": "76f38e5edf860c6c05804eb9d29f010c843755e0247f5107b0d1e4a8ba6d549f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/831b20783e5d54a474fd8a34/reading-2e4bbaac71d3c81dc9d1f3af0191046d9f96fed4cf792c9e90924d3708d889c4.md",
+      "sha256": "2e4bbaac71d3c81dc9d1f3af0191046d9f96fed4cf792c9e90924d3708d889c4",
+      "original_sha256": "76f38e5edf860c6c05804eb9d29f010c843755e0247f5107b0d1e4a8ba6d549f",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

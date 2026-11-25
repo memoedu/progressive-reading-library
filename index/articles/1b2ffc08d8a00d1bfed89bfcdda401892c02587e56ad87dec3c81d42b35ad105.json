@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Abortocalipsis VI La solución para el dilema del aborto--浏览器加工--31ddfc9410.md",
     "sha256": "ce7c0b0075dff68d67cafcffb8bc524bad44ab820c6ae671bec93edf2f26bdb6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1b2ffc08d8a00d1bfed89bfc/reading-732db2e6a625d3f6ea79c35550a5bdccce5d2506af1f3f9e445393216dcda0b5.md",
+      "sha256": "732db2e6a625d3f6ea79c35550a5bdccce5d2506af1f3f9e445393216dcda0b5",
+      "original_sha256": "ce7c0b0075dff68d67cafcffb8bc524bad44ab820c6ae671bec93edf2f26bdb6",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

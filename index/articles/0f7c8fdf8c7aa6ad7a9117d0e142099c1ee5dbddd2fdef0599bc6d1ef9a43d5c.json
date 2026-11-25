@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Links/Links (26) & GDP nihilism--浏览器加工--56179836d4.md",
     "sha256": "8e12ecd00c772bcdd602e7bdc004d457415381cf2edacdc8dbf2b55a87294312"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0f7c8fdf8c7aa6ad7a9117d0/reading-27b4fb13673f5acb7c686c361a860649420c495fafefd30255ccceaff4847cf3.md",
+      "sha256": "27b4fb13673f5acb7c686c361a860649420c495fafefd30255ccceaff4847cf3",
+      "original_sha256": "8e12ecd00c772bcdd602e7bdc004d457415381cf2edacdc8dbf2b55a87294312",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

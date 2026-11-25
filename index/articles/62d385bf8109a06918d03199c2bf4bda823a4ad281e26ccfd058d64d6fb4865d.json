@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Student group notes #3 getting good speakers--浏览器加工--a2d6b1cfd1.md",
     "sha256": "5f978673e0836486e2601254e705f696e31a17561667fcf3dafacae5911b30d8"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/62d385bf8109a06918d03199/reading-a5aedf3221600084a59ebd4fbd4ad1f5ba8fd5f33f8c06c98501669ed5beb808.md",
+      "sha256": "a5aedf3221600084a59ebd4fbd4ad1f5ba8fd5f33f8c06c98501669ed5beb808",
+      "original_sha256": "5f978673e0836486e2601254e705f696e31a17561667fcf3dafacae5911b30d8",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Butchering the web for fun and profit with µBlock--浏览器加工--0736003add.md",
     "sha256": "71f8b930fff55447902cfeac9c28bb8b024fa5530be069a6d4b8c33fc8d7422b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/09974dd0297dfc5cfb106ec0/reading-04cf3518bb2136b4f7d2c740be60f5daa9184069ea51bbf7a5c93ff4bdf2686b.md",
+      "sha256": "04cf3518bb2136b4f7d2c740be60f5daa9184069ea51bbf7a5c93ff4bdf2686b",
+      "original_sha256": "71f8b930fff55447902cfeac9c28bb8b024fa5530be069a6d4b8c33fc8d7422b",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

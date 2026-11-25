@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Year-and-a-bit in review, 2014 where I've been--浏览器加工--df60253974.md",
     "sha256": "359029006f45c787641ea59fb73c2feacfc24a52c437d23e7d0d35f5696c1c78"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/51b83dd3d3adfd37d22e08b7/reading-e38ee56072c27d1f767806c899f56ddccc27a02598a1c66c73b8465da0d712a8.md",
+      "sha256": "e38ee56072c27d1f767806c899f56ddccc27a02598a1c66c73b8465da0d712a8",
+      "original_sha256": "359029006f45c787641ea59fb73c2feacfc24a52c437d23e7d0d35f5696c1c78",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

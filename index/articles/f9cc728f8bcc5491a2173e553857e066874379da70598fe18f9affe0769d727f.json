@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/On being welcoming--浏览器加工--850a727bb9.md",
     "sha256": "fc9c201ede8b25192d526abb9c7b9e6544ab2d8d72d012fb5858abf1c1092401"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f9cc728f8bcc5491a2173e55/reading-99a113d91f7965e9262366ea3f4521e0d5f545258310be9e889e018541b70ddf.md",
+      "sha256": "99a113d91f7965e9262366ea3f4521e0d5f545258310be9e889e018541b70ddf",
+      "original_sha256": "fc9c201ede8b25192d526abb9c7b9e6544ab2d8d72d012fb5858abf1c1092401",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

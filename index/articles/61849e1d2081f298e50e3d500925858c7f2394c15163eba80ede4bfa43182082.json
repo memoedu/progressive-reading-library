@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Pseudorandom Notes--浏览器加工--6b15727d12.md",
     "sha256": "a6db3afde7df377f47e45b96a7e84aba754900f1e1b676e2b78eac4981c6c272"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/61849e1d2081f298e50e3d50/reading-8410e00dcf9ff041ec3faf243f1d3c0cf63221c47ac2e80f3b4fffbb664bfbe4.md",
+      "sha256": "8410e00dcf9ff041ec3faf243f1d3c0cf63221c47ac2e80f3b4fffbb664bfbe4",
+      "original_sha256": "a6db3afde7df377f47e45b96a7e84aba754900f1e1b676e2b78eac4981c6c272",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

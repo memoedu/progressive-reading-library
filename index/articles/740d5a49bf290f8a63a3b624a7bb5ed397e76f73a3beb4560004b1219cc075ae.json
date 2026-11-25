@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/¿Cuántos recortes necesitaríamos para eliminar el déficit--浏览器加工--9b558d28d8.md",
     "sha256": "e6a894c1f7a7677128d749de584ddc7f864513d2913032c50bc21755c20b9e33"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/740d5a49bf290f8a63a3b624/reading-2259328cb48a363e39f67933096f6239da6de02f441e4b847b76b587fa21cebe.md",
+      "sha256": "2259328cb48a363e39f67933096f6239da6de02f441e4b847b76b587fa21cebe",
+      "original_sha256": "e6a894c1f7a7677128d749de584ddc7f864513d2913032c50bc21755c20b9e33",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

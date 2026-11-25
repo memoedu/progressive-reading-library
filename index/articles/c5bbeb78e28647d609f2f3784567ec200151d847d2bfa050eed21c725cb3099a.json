@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Why I'm taking operating systems--浏览器加工--ab02addd4e.md",
     "sha256": "5559006e482568e3c3a91a8500f675950110defbae7ad0641e6c4f5ea7b4696c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c5bbeb78e28647d609f2f378/reading-2184ab045387e44c7f543ccf7d87502f60eecc9090a25fef31b614958f5d2079.md",
+      "sha256": "2184ab045387e44c7f543ccf7d87502f60eecc9090a25fef31b614958f5d2079",
+      "original_sha256": "5559006e482568e3c3a91a8500f675950110defbae7ad0641e6c4f5ea7b4696c",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

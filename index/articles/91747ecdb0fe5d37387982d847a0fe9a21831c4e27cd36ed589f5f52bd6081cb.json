@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Me/Nintil - Notes on 2021--浏览器加工--a8ca9ece96.md",
     "sha256": "472be0e6cb039b769ce0fe1f6dde35e6f009f09db58f6a763df30ac56e85282d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/91747ecdb0fe5d37387982d8/reading-e481c83db4d9a22583bb9547a883e2b6a5453cc3414f53dbc6e80edb319848b8.md",
+      "sha256": "e481c83db4d9a22583bb9547a883e2b6a5453cc3414f53dbc6e80edb319848b8",
+      "original_sha256": "472be0e6cb039b769ce0fe1f6dde35e6f009f09db58f6a763df30ac56e85282d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Nintil - Brief note on Catalonia--浏览器加工--f5b4e67f71.md",
     "sha256": "f242aa1148ec3b1ecab72a15f31b90b44282c09fc628e62bc5884eb2e864191f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/41272330034b973f6a9b2a71/reading-469bbab3e21adc7bc56ba97d0a915418c0ce7c68f5aa49819ac54061f8659ab8.md",
+      "sha256": "469bbab3e21adc7bc56ba97d0a915418c0ce7c68f5aa49819ac54061f8659ab8",
+      "original_sha256": "f242aa1148ec3b1ecab72a15f31b90b44282c09fc628e62bc5884eb2e864191f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

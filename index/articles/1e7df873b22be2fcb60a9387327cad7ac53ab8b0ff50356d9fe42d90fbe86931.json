@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/A checklist for stock option offers--浏览器加工--053d702eb1.md",
     "sha256": "3e44f8c2b79a55c82d6553f34a8686354ecea412b2c66598f57cc6e1d8c5bf5d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1e7df873b22be2fcb60a9387/reading-1203dcf274664f1bfcf5faecf747fd50dfff6595c38e18a647c06389984e46a8.md",
+      "sha256": "1203dcf274664f1bfcf5faecf747fd50dfff6595c38e18a647c06389984e46a8",
+      "original_sha256": "3e44f8c2b79a55c82d6553f34a8686354ecea412b2c66598f57cc6e1d8c5bf5d",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

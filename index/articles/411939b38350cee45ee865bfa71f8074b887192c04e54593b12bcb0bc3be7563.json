@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Are venture capital markets inefficient--浏览器加工--ea4d3a18e0.md",
     "sha256": "de962590977ce4c7df8fae9d5d5f84c443aaf112ffd8ac764060de094514f81f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/411939b38350cee45ee865bf/reading-b91129c2ab5344fb648d6753849cd04efc14d95fd587f220825424cfcb7970c5.md",
+      "sha256": "b91129c2ab5344fb648d6753849cd04efc14d95fd587f220825424cfcb7970c5",
+      "original_sha256": "de962590977ce4c7df8fae9d5d5f84c443aaf112ffd8ac764060de094514f81f",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

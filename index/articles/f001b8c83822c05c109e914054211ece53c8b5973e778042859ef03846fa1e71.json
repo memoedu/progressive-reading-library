@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/Fund people, not projects II Does pre-grant peer review work--浏览器加工--03690f53c7.md",
     "sha256": "7b6f9c913785552ec9c19c9783993df66911599c247808dd4572e0140034c238"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f001b8c83822c05c109e9140/reading-f19930bffaa17fb0e4d5612d09ff5ea5908e61fd82ec3b834d75531b2fbea0b1.md",
+      "sha256": "f19930bffaa17fb0e4d5612d09ff5ea5908e61fd82ec3b834d75531b2fbea0b1",
+      "original_sha256": "7b6f9c913785552ec9c19c9783993df66911599c247808dd4572e0140034c238",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

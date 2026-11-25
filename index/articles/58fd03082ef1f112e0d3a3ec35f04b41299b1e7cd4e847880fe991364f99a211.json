@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Contra Hanson on Party Death--浏览器加工--de4c7931a8.md",
     "sha256": "bd41b28d954d571abc18127f6e120df8e880678cf9dbff9e0793a0e8df950843"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/58fd03082ef1f112e0d3a3ec/reading-5375f1e54b7d12ca02ccd120ab7a90b30bcf8297d8cbf985cb2621215198c11c.md",
+      "sha256": "5375f1e54b7d12ca02ccd120ab7a90b30bcf8297d8cbf985cb2621215198c11c",
+      "original_sha256": "bd41b28d954d571abc18127f6e120df8e880678cf9dbff9e0793a0e8df950843",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

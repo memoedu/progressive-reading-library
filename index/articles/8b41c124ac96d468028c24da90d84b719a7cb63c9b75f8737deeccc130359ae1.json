@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Further thoughts on antinatalism--浏览器加工--71577ada7c.md",
     "sha256": "b813471dc54cde1259b0818b4f32646184e2e6a7633585c2491e7f1ee711f176"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8b41c124ac96d468028c24da/reading-19bb3c82911f5533a80026714fc843a0d24fc623de0c6d9bf369f3322b16b29a.md",
+      "sha256": "19bb3c82911f5533a80026714fc843a0d24fc623de0c6d9bf369f3322b16b29a",
+      "original_sha256": "b813471dc54cde1259b0818b4f32646184e2e6a7633585c2491e7f1ee711f176",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Primero vino el gobierno ...--浏览器加工--afacd7ca25.md",
     "sha256": "3554e4b4ec18abcb9a54e7a8eacaa77d2b8f900d1e6b259890bc29ba47f2385e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/376194f5cb224aa37c001746/reading-4feaf9792b29ed8e3d3c64e791a42bfa1574f28a23347b16d452d9071b7f3301.md",
+      "sha256": "4feaf9792b29ed8e3d3c64e791a42bfa1574f28a23347b16d452d9071b7f3301",
+      "original_sha256": "3554e4b4ec18abcb9a54e7a8eacaa77d2b8f900d1e6b259890bc29ba47f2385e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

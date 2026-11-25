@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Nintil - Progress in nuclear energy--浏览器加工--22188c9a0c.md",
     "sha256": "f3c0ca0537435e879d669a49fb4b2a356108c57df0cb560eb53974acba9873e9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/06878f217df45f6946655690/reading-fd4d7b0439a5a521511f7e5227b44fcef069a328f2da4c341390b25e092abe06.md",
+      "sha256": "fd4d7b0439a5a521511f7e5227b44fcef069a328f2da4c341390b25e092abe06",
+      "original_sha256": "f3c0ca0537435e879d669a49fb4b2a356108c57df0cb560eb53974acba9873e9",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

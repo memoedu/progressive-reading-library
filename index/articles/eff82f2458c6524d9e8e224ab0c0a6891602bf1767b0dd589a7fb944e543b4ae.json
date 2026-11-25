@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Some mistakes I made as a new manager--浏览器加工--e76eeacc2e.md",
     "sha256": "da098a09a08eff2b16a0fce9028989d8f1d36e18a037fed5b01cf791052b13d7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/eff82f2458c6524d9e8e224a/reading-f94538059ccd22fa2d9fd7b1195227e0d0115334fc8f60d593286a538aa5a1a1.md",
+      "sha256": "f94538059ccd22fa2d9fd7b1195227e0d0115334fc8f60d593286a538aa5a1a1",
+      "original_sha256": "da098a09a08eff2b16a0fce9028989d8f1d36e18a037fed5b01cf791052b13d7",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

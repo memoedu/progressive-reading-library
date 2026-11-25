@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Evidence and the design and reform of scientific institutions--浏览器加工--d9dff920b7.md",
     "sha256": "7f9e1c674f27644bad68fcf7f7d992cb79f95f4866b2eea74287a8167010e622"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cd63d023d0771f2daea26d89/reading-efbb28ad0e17c6c4bb765593f836b4160e8075fbdc9dc5306de40e3bb7fd66bc.md",
+      "sha256": "efbb28ad0e17c6c4bb765593f836b4160e8075fbdc9dc5306de40e3bb7fd66bc",
+      "original_sha256": "7f9e1c674f27644bad68fcf7f7d992cb79f95f4866b2eea74287a8167010e622",
+      "processing_sha256": "fabb6b6dd1abc7c744b4013ad784b8c4099e6cb2207d67d4403d0acbd6e9950d",
+      "processor_version": "1.12.16",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

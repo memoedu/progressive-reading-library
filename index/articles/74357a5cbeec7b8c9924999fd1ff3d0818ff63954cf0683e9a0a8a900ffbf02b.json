@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science/Una categorización de sucesos a estudiar--浏览器加工--b98bb85065.md",
     "sha256": "761aec52d29ebec6ffe49ff612c19e16c3209b5e3d286e765ec5d2b384de8552"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/74357a5cbeec7b8c9924999f/reading-b100bab710193e0264ef64bb8eb0476efd00bea8539b5c2f6ae5d7ecb315b2c5.md",
+      "sha256": "b100bab710193e0264ef64bb8eb0476efd00bea8539b5c2f6ae5d7ecb315b2c5",
+      "original_sha256": "761aec52d29ebec6ffe49ff612c19e16c3209b5e3d286e765ec5d2b384de8552",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

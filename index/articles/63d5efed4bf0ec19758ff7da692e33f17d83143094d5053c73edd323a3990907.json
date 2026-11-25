@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/misc/How much do our elite know about human progress--浏览器加工--63d5efed4b.md",
     "sha256": "39b6f2d9ee4c04ca9f8971d044dc7d39677bdf36261132bfcb3c0e1afebe8926"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/63d5efed4bf0ec19758ff7da/reading-f8dbb65f0be5f781b9501bd489a395dfd2ce8d9bd808ac7b2655a2171cf10d37.md",
+      "sha256": "f8dbb65f0be5f781b9501bd489a395dfd2ce8d9bd808ac7b2655a2171cf10d37",
+      "original_sha256": "39b6f2d9ee4c04ca9f8971d044dc7d39677bdf36261132bfcb3c0e1afebe8926",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

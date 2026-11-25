@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Nintil - Ad hoc explanations--浏览器加工--7d5828a784.md",
     "sha256": "b9cbbe1bb52ab401832981b9a64763843970c2075c78dcba11ecd8acb89373cb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/63d55f0fb9434fc2c4501dbd/reading-5a192b85298bc52e9bf654057eab10e33ed9aca3bdc0bc4fbcc05795ab56efec.md",
+      "sha256": "5a192b85298bc52e9bf654057eab10e33ed9aca3bdc0bc4fbcc05795ab56efec",
+      "original_sha256": "b9cbbe1bb52ab401832981b9a64763843970c2075c78dcba11ecd8acb89373cb",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

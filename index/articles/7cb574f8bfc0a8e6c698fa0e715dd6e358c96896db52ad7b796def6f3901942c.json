@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/On the living standards of animals in the United Kingdom--浏览器加工--0f30df622c.md",
     "sha256": "9fa3ea0a34b2fd3dbc4c69196e49532867b7f9d0d6d2afd433fcbbff2f017925"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7cb574f8bfc0a8e6c698fa0e/reading-b3dfd368b3e601f41c82ffb613db0858cab9347daba2ac99c3cc3dda087da5c3.md",
+      "sha256": "b3dfd368b3e601f41c82ffb613db0858cab9347daba2ac99c3cc3dda087da5c3",
+      "original_sha256": "9fa3ea0a34b2fd3dbc4c69196e49532867b7f9d0d6d2afd433fcbbff2f017925",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Feelingsmaxxing/Therapy is like dating how to know if it's working--浏览器加工--35ba401e8d.md",
     "sha256": "3552a65c6e23641a064db8851b7bc611a1633fd3617f631fd8246c02d34de932"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/92fca44cbe1365f81086e11d/reading-36390470b366e555ee9954aebc2ca7f6eeeeba4ede3bf7aeebf55388df6ec468.md",
+      "sha256": "36390470b366e555ee9954aebc2ca7f6eeeeba4ede3bf7aeebf55388df6ec468",
+      "original_sha256": "3552a65c6e23641a064db8851b7bc611a1633fd3617f631fd8246c02d34de932",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

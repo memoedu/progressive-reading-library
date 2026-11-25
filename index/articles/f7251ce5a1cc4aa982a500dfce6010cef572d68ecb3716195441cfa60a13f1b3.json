@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/My opponents are all biased!--浏览器加工--897c20c96a.md",
     "sha256": "0c5ca65946155d1c48ef478cb294df291fbd46536b18f435b1ed16753688a317"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f7251ce5a1cc4aa982a500df/reading-b765f06a158a4e721b94abe0ba2326d316eeb7ae0ac555a75aa145b667da6242.md",
+      "sha256": "b765f06a158a4e721b94abe0ba2326d316eeb7ae0ac555a75aa145b667da6242",
+      "original_sha256": "0c5ca65946155d1c48ef478cb294df291fbd46536b18f435b1ed16753688a317",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

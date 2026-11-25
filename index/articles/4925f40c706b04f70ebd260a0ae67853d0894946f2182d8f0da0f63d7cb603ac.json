@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Claves para entender los últimos movimientos de Bitcoin--浏览器加工--a6318be100.md",
     "sha256": "d6f98723eaf16c36afcece94912b2c39f78dfd057a9f276f185cdd17a13961cd"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4925f40c706b04f70ebd260a/reading-12add8d3af3ea27cd780d1e1f9d9a7db298875db13007697bb4dce664df1c1af.md",
+      "sha256": "12add8d3af3ea27cd780d1e1f9d9a7db298875db13007697bb4dce664df1c1af",
+      "original_sha256": "d6f98723eaf16c36afcece94912b2c39f78dfd057a9f276f185cdd17a13961cd",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/misc/Volitional Philanthropy--浏览器加工--9d799b6165.md",
     "sha256": "56f3adea49487eb64784019a973401224b2a8336ecfc9b7284dc21f656c94941"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9d799b6165f1aef3f85e24e7/reading-b7eadb7ef1df6c35a42e1ae80913fd5de8a67ef9f5c4f613964fea719ca82650.md",
+      "sha256": "b7eadb7ef1df6c35a42e1ae80913fd5de8a67ef9f5c4f613964fea719ca82650",
+      "original_sha256": "56f3adea49487eb64784019a973401224b2a8336ecfc9b7284dc21f656c94941",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

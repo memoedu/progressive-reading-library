@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 8 What altruism means to me — Neel Nanda--浏览器加工--eef8540779.md",
     "sha256": "2ff3b9ffecce534bfc3c7fcdc0790763aebd01b18b235507dca7f92696d381f7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/eef8540779593f8af6b4fd3f/reading-dfd365b6e1c05d321d7080483ca277255930f7d85f507ff12d5edc95936607e1.md",
+      "sha256": "dfd365b6e1c05d321d7080483ca277255930f7d85f507ff12d5edc95936607e1",
+      "original_sha256": "2ff3b9ffecce534bfc3c7fcdc0790763aebd01b18b235507dca7f92696d381f7",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

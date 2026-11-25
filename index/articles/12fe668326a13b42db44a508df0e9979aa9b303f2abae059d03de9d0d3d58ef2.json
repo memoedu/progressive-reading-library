@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Dos JL no pueden tener razón a la vez sobre las pensiones--浏览器加工--26e12461c7.md",
     "sha256": "36f92bf2692891af019444bcc6196acb74aabaaf1ddf5ef01d557eeefdbbdba2"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/12fe668326a13b42db44a508/reading-3e7c7e934fc1173f26b4985619a6e2b135de6d22d24e3159010b095284588483.md",
+      "sha256": "3e7c7e934fc1173f26b4985619a6e2b135de6d22d24e3159010b095284588483",
+      "original_sha256": "36f92bf2692891af019444bcc6196acb74aabaaf1ddf5ef01d557eeefdbbdba2",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

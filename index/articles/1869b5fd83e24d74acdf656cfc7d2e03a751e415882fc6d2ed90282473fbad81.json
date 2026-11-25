@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Software/Nintil - No al OOXML--浏览器加工--8cd9610095.md",
     "sha256": "e77d481b9ff1062cc060a46d3c760f44855d0d1b1fa8f40bac8e1985fb753112"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1869b5fd83e24d74acdf656c/reading-db60f2944ff63e9c58615d2687c404f5ddc3b721c6eef2ff3f6119a575814dd4.md",
+      "sha256": "db60f2944ff63e9c58615d2687c404f5ddc3b721c6eef2ff3f6119a575814dd4",
+      "original_sha256": "e77d481b9ff1062cc060a46d3c760f44855d0d1b1fa8f40bac8e1985fb753112",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

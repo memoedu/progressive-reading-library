@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/ongoing/Sporadica--浏览器加工--01cea99aa9.md",
     "sha256": "71b8fb5713df98c504dfc47ca6468a80739d8206c794032fc890b8439b9fdb0e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/01cea99aa9e38c8ec081d20d/reading-5acf42b6d93f6c5d0a86438dd855db73fc96e276e3f20899ca024df0939e2f16.md",
+      "sha256": "5acf42b6d93f6c5d0a86438dd855db73fc96e276e3f20899ca024df0939e2f16",
+      "original_sha256": "71b8fb5713df98c504dfc47ca6468a80739d8206c794032fc890b8439b9fdb0e",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

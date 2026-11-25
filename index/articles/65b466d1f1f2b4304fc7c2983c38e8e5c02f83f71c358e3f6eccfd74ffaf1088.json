@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Las diferentes visiones meta-éticas--浏览器加工--09f53f8edd.md",
     "sha256": "29944b3b9a013361cc918761240bec369f48bdfdb04baddcced8f6db6426516a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/65b466d1f1f2b4304fc7c298/reading-d04e3d5f9a48fb9c5878b235adc378aee8c7ac88db4bf4348abdc388f60eb7f8.md",
+      "sha256": "d04e3d5f9a48fb9c5878b235adc378aee8c7ac88db4bf4348abdc388f60eb7f8",
+      "original_sha256": "29944b3b9a013361cc918761240bec369f48bdfdb04baddcced8f6db6426516a",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

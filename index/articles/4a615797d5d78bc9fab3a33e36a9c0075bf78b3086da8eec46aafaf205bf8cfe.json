@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Intuition for the utility of finance--浏览器加工--5b781dd169.md",
     "sha256": "024392094df177028006f2f6545918461825f487dcf57617bd8b917b90b7a296"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4a615797d5d78bc9fab3a33e/reading-d5dfc46397c3bf32221e77d89a8e631e4d4f796c398b52de393398bf4384f0c9.md",
+      "sha256": "d5dfc46397c3bf32221e77d89a8e631e4d4f796c398b52de393398bf4384f0c9",
+      "original_sha256": "024392094df177028006f2f6545918461825f487dcf57617bd8b917b90b7a296",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

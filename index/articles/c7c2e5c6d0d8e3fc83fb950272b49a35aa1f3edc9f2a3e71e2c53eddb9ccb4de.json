@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 25 Friendships should feel like playing on the same team — Neel Nanda--浏览器加工--c7c2e5c6d0.md",
     "sha256": "f75d1888af93e899f714f4a456d55a8e5d6810a218f39f2fad715639a79faeae"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c7c2e5c6d0d8e3fc83fb9502/reading-4b4374f546c2c1eba43e3dbedccb1645f045db913ca24b2f81ecfeccd2953ec0.md",
+      "sha256": "4b4374f546c2c1eba43e3dbedccb1645f045db913ca24b2f81ecfeccd2953ec0",
+      "original_sha256": "f75d1888af93e899f714f4a456d55a8e5d6810a218f39f2fad715639a79faeae",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

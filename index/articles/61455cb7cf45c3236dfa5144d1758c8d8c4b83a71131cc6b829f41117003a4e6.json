@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Why so many utilitarians--浏览器加工--62bd1ff4dc.md",
     "sha256": "03f03534b6b720d2b34fa4bbb5dc5ebe6edaae3adb03b4698fe4bd1eb646f06b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/61455cb7cf45c3236dfa5144/reading-2d52276adb76016aba4b8f67f79347b3792212791bf43bcab5c5344de02a7f2d.md",
+      "sha256": "2d52276adb76016aba4b8f67f79347b3792212791bf43bcab5c5344de02a7f2d",
+      "original_sha256": "03f03534b6b720d2b34fa4bbb5dc5ebe6edaae3adb03b4698fe4bd1eb646f06b",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

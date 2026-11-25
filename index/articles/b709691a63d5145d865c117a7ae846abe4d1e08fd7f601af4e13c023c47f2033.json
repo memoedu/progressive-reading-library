@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Syntax highlighting is backwards--浏览器加工--c4eab09650.md",
     "sha256": "df6f3cc20f2c3593b813436acdc1c4618205fb4792a052deaf49823ee25791b6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b709691a63d5145d865c117a/reading-25f693dcbc2b0fcd1247de52e6466a41097809951ec196056f62c7b4292b221a.md",
+      "sha256": "25f693dcbc2b0fcd1247de52e6466a41097809951ec196056f62c7b4292b221a",
+      "original_sha256": "df6f3cc20f2c3593b813436acdc1c4618205fb4792a052deaf49823ee25791b6",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

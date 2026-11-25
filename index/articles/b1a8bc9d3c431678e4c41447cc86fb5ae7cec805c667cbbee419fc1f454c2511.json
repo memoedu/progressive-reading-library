@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Why I am not a Bowmanite neoliberal, and why that doesn't matter--浏览器加工--77c2cc86f2.md",
     "sha256": "19a305a8da9b145538d1effcf465162ae59ca26c9ef042be42ded37af5aa0859"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b1a8bc9d3c431678e4c41447/reading-3d23592f0a4ae0c250642571416e8bfff89e7a95b6800a7fc52115b387dde3c1.md",
+      "sha256": "3d23592f0a4ae0c250642571416e8bfff89e7a95b6800a7fc52115b387dde3c1",
+      "original_sha256": "19a305a8da9b145538d1effcf465162ae59ca26c9ef042be42ded37af5aa0859",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

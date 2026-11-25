@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Links VII baseball stars, birthday songs, and bloggers--浏览器加工--826b2323e5.md",
     "sha256": "757d1fb996695c8bb03c993724ca5a0513ba93f22ea93384f82afd934381309c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/63258fb1919be95ef9f8ee4c/reading-9b7ae9fe96ac7f59ba26e938ebb345168702a552a304343d64f49cbc3c416061.md",
+      "sha256": "9b7ae9fe96ac7f59ba26e938ebb345168702a552a304343d64f49cbc3c416061",
+      "original_sha256": "757d1fb996695c8bb03c993724ca5a0513ba93f22ea93384f82afd934381309c",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

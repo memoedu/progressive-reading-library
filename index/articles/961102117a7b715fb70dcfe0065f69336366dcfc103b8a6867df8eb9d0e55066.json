@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Me/Nintil - Burning Man--浏览器加工--f6c1dc47ee.md",
     "sha256": "286ee6c5ad5870e51f016a9f8c2b8270dd99ca6d11c3813147f2e8878a3a168b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/961102117a7b715fb70dcfe0/reading-264a3bd3574d952803559f1aafeb42f338a2a498e9063c8a49726ff24d928130.md",
+      "sha256": "264a3bd3574d952803559f1aafeb42f338a2a498e9063c8a49726ff24d928130",
+      "original_sha256": "286ee6c5ad5870e51f016a9f8c2b8270dd99ca6d11c3813147f2e8878a3a168b",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

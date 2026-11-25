@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Writing a better Entrepreneurial State--浏览器加工--0c84e87b30.md",
     "sha256": "bc369c40fe8b6308925cabe20dcc35c2f58d73abd5162ab8ce2dbf244835f0c7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cb4986196f8f0d91e9410080/reading-8c92c9811016f5b86c0cdd6fc98d863f909225be9b2ab629e179e426deae4cbf.md",
+      "sha256": "8c92c9811016f5b86c0cdd6fc98d863f909225be9b2ab629e179e426deae4cbf",
+      "original_sha256": "bc369c40fe8b6308925cabe20dcc35c2f58d73abd5162ab8ce2dbf244835f0c7",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

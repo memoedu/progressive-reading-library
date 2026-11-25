@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/No one can teach you to have conviction--浏览器加工--65637c3e71.md",
     "sha256": "1f9f6c0458909d8d8a9a67f35d2ca4a2e071c7bfb7e7a7c90cf3dbc24f7a6b9d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/007400029037028d7689b8db/reading-ee234151cd186a303d9233b8b5a4c5b391c7d9e5ecdc505f63a44068e2167917.md",
+      "sha256": "ee234151cd186a303d9233b8b5a4c5b391c7d9e5ecdc505f63a44068e2167917",
+      "original_sha256": "1f9f6c0458909d8d8a9a67f35d2ca4a2e071c7bfb7e7a7c90cf3dbc24f7a6b9d",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

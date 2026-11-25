@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science/The Longevity FAQ Making of--浏览器加工--39b92f0ba9.md",
     "sha256": "35a4a57a5a3740d4fe68286b6d87ae7cd04c1da4179d7579540faecf1affcb50"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0abea77cc027fd8c392e0b21/reading-2a01ae4ffa5409d93614f9d2e6644f1cfeb090cf16f719d69b4f4c1f7e197c1f.md",
+      "sha256": "2a01ae4ffa5409d93614f9d2e6644f1cfeb090cf16f719d69b4f4c1f7e197c1f",
+      "original_sha256": "35a4a57a5a3740d4fe68286b6d87ae7cd04c1da4179d7579540faecf1affcb50",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Bleg programmers, what tools and practices have improved your work the most--浏览器加工--f6c1c94fa8.md",
     "sha256": "f8694f701949a9a54e41d76b18934836a304c79133c32e54e9dceb79b96528c2"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/65c5d3ef48ff062dcc61aed1/reading-5808938f84b87e670ac61c27cf20a3f97d5928a9ee036095d067a6dccadc5b90.md",
+      "sha256": "5808938f84b87e670ac61c27cf20a3f97d5928a9ee036095d067a6dccadc5b90",
+      "original_sha256": "f8694f701949a9a54e41d76b18934836a304c79133c32e54e9dceb79b96528c2",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

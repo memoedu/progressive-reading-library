@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/In defense of blub studies--浏览器加工--55be0c87a1.md",
     "sha256": "285efa7edb3afd4ace3d75887218dc6af88772d68899439f12773f85d76ba57c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b5f2e5081e44b4ca989ea693/reading-1dfe6e56fb20ddf902bccffd569f59aecfda4cef03fcae82b922336ecc0c3709.md",
+      "sha256": "1dfe6e56fb20ddf902bccffd569f59aecfda4cef03fcae82b922336ecc0c3709",
+      "original_sha256": "285efa7edb3afd4ace3d75887218dc6af88772d68899439f12773f85d76ba57c",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Giving away money a guide--浏览器加工--19082f1938.md",
     "sha256": "4c4c03525b87dbea62353547cdc58b721e1baac08c208431971215882312f9f6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2e10d3a3a07d8d91ac58e81a/reading-01d3da4aa6c2ee0ea67b34bf77eaf42d3e43152db3b7640ae6f8560d27f16e02.md",
+      "sha256": "01d3da4aa6c2ee0ea67b34bf77eaf42d3e43152db3b7640ae6f8560d27f16e02",
+      "original_sha256": "4c4c03525b87dbea62353547cdc58b721e1baac08c208431971215882312f9f6",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

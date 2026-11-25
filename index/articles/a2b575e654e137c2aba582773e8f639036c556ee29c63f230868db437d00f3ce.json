@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/My 2018 donations--浏览器加工--3b4d0083c2.md",
     "sha256": "c88ccb474aa14c86eac42616056639582d40118211451837a891e47f2a95b3cb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a2b575e654e137c2aba58277/reading-2917f68317a006d37132ec9dbcf7683d2a9c7d8cc5307f153b60a93d88eaa9d9.md",
+      "sha256": "2917f68317a006d37132ec9dbcf7683d2a9c7d8cc5307f153b60a93d88eaa9d9",
+      "original_sha256": "c88ccb474aa14c86eac42616056639582d40118211451837a891e47f2a95b3cb",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

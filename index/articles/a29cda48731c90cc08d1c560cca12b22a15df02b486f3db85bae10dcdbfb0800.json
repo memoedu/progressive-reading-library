@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/R&D spending in the US (2013) and UK(2011)--浏览器加工--9fa3c715d8.md",
     "sha256": "39dbdd2d52b7f014068f168bd809bc384fbe8be665cfcfbec5e6968801f23ad7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a29cda48731c90cc08d1c560/reading-117a31dd26483cfb7b865a78c14b7aea90e83c6de44ee919020300e6714d9d5e.md",
+      "sha256": "117a31dd26483cfb7b865a78c14b7aea90e83c6de44ee919020300e6714d9d5e",
+      "original_sha256": "39dbdd2d52b7f014068f168bd809bc384fbe8be665cfcfbec5e6968801f23ad7",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

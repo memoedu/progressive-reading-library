@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/On inclusivity in Less Wrong a response to Scott Alexander--浏览器加工--0ce3b9cbe1.md",
     "sha256": "530a75612a977d579a603dce6822c4be480b0f417f7dd083eca9ba9f736ee56f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/932ac526fef044fabb93b06a/reading-d24936d55186f2a2bbd223187a648525334cdef8d79d1e97c435ffb2ea06d080.md",
+      "sha256": "d24936d55186f2a2bbd223187a648525334cdef8d79d1e97c435ffb2ea06d080",
+      "original_sha256": "530a75612a977d579a603dce6822c4be480b0f417f7dd083eca9ba9f736ee56f",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

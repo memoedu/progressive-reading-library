@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Desacuerdo y respeto--浏览器加工--42c84faa2b.md",
     "sha256": "a7fb755a608b9b41a2ae28c450c2fa38f0acaa79d9bd223864d68d731aab0745"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/62adfdfe479fc5d24bbf0243/reading-c857d387f54836785e1f2c397294e9d050a14adb5decbe94bf51a8f61e5d8798.md",
+      "sha256": "c857d387f54836785e1f2c397294e9d050a14adb5decbe94bf51a8f61e5d8798",
+      "original_sha256": "a7fb755a608b9b41a2ae28c450c2fa38f0acaa79d9bd223864d68d731aab0745",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

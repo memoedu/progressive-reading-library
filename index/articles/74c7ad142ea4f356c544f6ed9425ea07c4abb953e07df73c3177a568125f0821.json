@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/You don't need to work on hard problems--浏览器加工--cfd32ef2ac.md",
     "sha256": "424b123a201b5983bbda3b298a2ddf2f42b17783185e4cfa02c0e810d1528f9b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/74c7ad142ea4f356c544f6ed/reading-18cf78296ec4a8b66f119ffb8a89c00b85e4320108ad78d208da75875ea27531.md",
+      "sha256": "18cf78296ec4a8b66f119ffb8a89c00b85e4320108ad78d208da75875ea27531",
+      "original_sha256": "424b123a201b5983bbda3b298a2ddf2f42b17783185e4cfa02c0e810d1528f9b",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

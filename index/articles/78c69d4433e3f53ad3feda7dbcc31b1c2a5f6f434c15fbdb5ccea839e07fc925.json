@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/They see Anselmo rollin'. They hatin'. Sobre el argumento ontológico.--浏览器加工--74db01e809.md",
     "sha256": "f85fa54155dfa8f8cd3b37f7d502870a5047a29088ba8d3051f2297462cd59e4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/78c69d4433e3f53ad3feda7d/reading-4645a15a647717cb5a5d226d074e624b3b0b36c11b1d1f6a824ea0957ad76744.md",
+      "sha256": "4645a15a647717cb5a5d226d074e624b3b0b36c11b1d1f6a824ea0957ad76744",
+      "original_sha256": "f85fa54155dfa8f8cd3b37f7d502870a5047a29088ba8d3051f2297462cd59e4",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

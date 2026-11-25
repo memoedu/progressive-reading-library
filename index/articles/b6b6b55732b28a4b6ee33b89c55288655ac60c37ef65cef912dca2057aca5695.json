@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Categories of leadership on technical teams--浏览器加工--1f2f1c37df.md",
     "sha256": "b7429e51385f3d55cc45ddf66bcc47e3adac3fcc55a488693def5d6918b3feaf"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b6b6b55732b28a4b6ee33b89/reading-70ff2fabb523ea09e58547c46a60673cca088d2bc78f6643c98fa648848f9abe.md",
+      "sha256": "70ff2fabb523ea09e58547c46a60673cca088d2bc78f6643c98fa648848f9abe",
+      "original_sha256": "b7429e51385f3d55cc45ddf66bcc47e3adac3fcc55a488693def5d6918b3feaf",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Teorías de la autoridad del Estado--浏览器加工--dadda4ae08.md",
     "sha256": "4c4523c80f45fbdfcddabc89cc30aac7ca41e19735f3751e0ba10cfc9f334efc"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6974589f74d5c1fa9dbf2b75/reading-9aabc3eceaba607d5166040c910ec8449a872f3360803a79c2de51429644f2bc.md",
+      "sha256": "9aabc3eceaba607d5166040c910ec8449a872f3360803a79c2de51429644f2bc",
+      "original_sha256": "4c4523c80f45fbdfcddabc89cc30aac7ca41e19735f3751e0ba10cfc9f334efc",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

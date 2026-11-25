@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Open source!--浏览器加工--6506ff7329.md",
     "sha256": "885d9ed1b6f566808537387dd89d823845a3609dae2eaa1e8577a6b2335128aa"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d4210d3ec0ec6315f35a8257/reading-110139eb3f869375918ea38e3eef8a830ce47a1ee5c73914b53c9fb2c6bb4a0b.md",
+      "sha256": "110139eb3f869375918ea38e3eef8a830ce47a1ee5c73914b53c9fb2c6bb4a0b",
+      "original_sha256": "885d9ed1b6f566808537387dd89d823845a3609dae2eaa1e8577a6b2335128aa",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

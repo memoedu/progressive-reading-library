@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Essays on programming I think about a lot--浏览器加工--fafbdcc3d9.md",
     "sha256": "6b6fd6c7fddf12b8d8a409d3967c5072e5dd9f166c81eaf3b0d5d314b6b1cea7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/90d3bad2f94f569e80c2d453/reading-df33c292baddbc40df9ce03d410b287fcf10cf77409d7d16a87fa511f4cb87bc.md",
+      "sha256": "df33c292baddbc40df9ce03d410b287fcf10cf77409d7d16a87fa511f4cb87bc",
+      "original_sha256": "6b6fd6c7fddf12b8d8a409d3967c5072e5dd9f166c81eaf3b0d5d314b6b1cea7",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

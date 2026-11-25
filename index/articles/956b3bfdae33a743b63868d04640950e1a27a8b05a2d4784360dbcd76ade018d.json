@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Downgrading confidence in earning to give--浏览器加工--b104447c16.md",
     "sha256": "b22f0df2d30b59ccad4f0cf101f87cdcf4d91b265bfe2257780ad69b7798ea8d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/956b3bfdae33a743b63868d0/reading-918ea796846c6b878e90b40dc23274dfe49e29ff09d57d7b8703f29d13f48a30.md",
+      "sha256": "918ea796846c6b878e90b40dc23274dfe49e29ff09d57d7b8703f29d13f48a30",
+      "original_sha256": "b22f0df2d30b59ccad4f0cf101f87cdcf4d91b265bfe2257780ad69b7798ea8d",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/The Ethics of Scott Alexander--浏览器加工--83ea196cb7.md",
     "sha256": "38508d26370dfbcdb0b8896a86e7af19cb9cc4cd7bb61505d11139f10b0f2f92"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/571a7d17870fc307844995ed/reading-e82a9bcbe53cc0a2d23fa63886ba08326874ed1c4df0b3ac246fabb401eb1ec9.md",
+      "sha256": "e82a9bcbe53cc0a2d23fa63886ba08326874ed1c4df0b3ac246fabb401eb1ec9",
+      "original_sha256": "38508d26370dfbcdb0b8896a86e7af19cb9cc4cd7bb61505d11139f10b0f2f92",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Methods/Against too many open tabs--浏览器加工--a53b24f998.md",
     "sha256": "2f2dbac0a3b785c2498b7ba26d48a68450aac29f32502ba0714fb062ec328712"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/50754bcccf4e6c55a616376d/reading-99bd98c74a2fbc78942bd4f6d7eee70777459bdc13f9832879e3a7ad98078025.md",
+      "sha256": "99bd98c74a2fbc78942bd4f6d7eee70777459bdc13f9832879e3a7ad98078025",
+      "original_sha256": "2f2dbac0a3b785c2498b7ba26d48a68450aac29f32502ba0714fb062ec328712",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

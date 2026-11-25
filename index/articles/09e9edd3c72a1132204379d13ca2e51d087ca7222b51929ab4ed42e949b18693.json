@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/El ocaso de Rawls (I) Sobre contratos sociales hipotéticos--浏览器加工--2ac8c5d4fc.md",
     "sha256": "1734ca815d34ff71c687aa53c86ad092068e143e4584a6673764dd93fb49526b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/09e9edd3c72a1132204379d1/reading-b35e5d94dcab6e51067273fb4b1f7ac29d1db7763fb43d578e058b94d254fed6.md",
+      "sha256": "b35e5d94dcab6e51067273fb4b1f7ac29d1db7763fb43d578e058b94d254fed6",
+      "original_sha256": "1734ca815d34ff71c687aa53c86ad092068e143e4584a6673764dd93fb49526b",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

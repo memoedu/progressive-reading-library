@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/[Review] Coming Apart, by Charles Murray--浏览器加工--d377a44528.md",
     "sha256": "aced3d9ff86d6153ec2a5c85d2853b2beffe7fe2d7dd260272cf596dcb5656a3"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a460230b46537239144479f8/reading-c33bb7a7c35ab6d5ef148ef4202eaf0e90be107fa570fee155966b46edbccf2f.md",
+      "sha256": "c33bb7a7c35ab6d5ef148ef4202eaf0e90be107fa570fee155966b46edbccf2f",
+      "original_sha256": "aced3d9ff86d6153ec2a5c85d2853b2beffe7fe2d7dd260272cf596dcb5656a3",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

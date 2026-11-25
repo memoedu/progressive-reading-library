@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Por qué el voto obligatorio es una muy mala idea--浏览器加工--33832afad7.md",
     "sha256": "550afdda89feb531ab529eb7154ae14cab7b4adcc8354db6ae1e3470a88c153d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/777ed6ead75a3ddcd9048329/reading-9ea1a81a1f459987aa76833b65fdae860684ab0d62fc1f8fc040ad87b083af4f.md",
+      "sha256": "9ea1a81a1f459987aa76833b65fdae860684ab0d62fc1f8fc040ad87b083af4f",
+      "original_sha256": "550afdda89feb531ab529eb7154ae14cab7b4adcc8354db6ae1e3470a88c153d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

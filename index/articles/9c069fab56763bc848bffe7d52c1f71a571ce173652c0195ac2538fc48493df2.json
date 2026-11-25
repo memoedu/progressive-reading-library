@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Debate ¿Es la moneda fiat un pasivo del banco central--浏览器加工--44f8dc1c0d.md",
     "sha256": "bd96dd37770b0b7118f059fb5f3e8c6db4e7805dc8e266f4b8e1eec872b645ff"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9c069fab56763bc848bffe7d/reading-fdc5fddaa1df8a1b8d473967e93afb69d1a7a19711f923b42dcbefe0d505a8bd.md",
+      "sha256": "fdc5fddaa1df8a1b8d473967e93afb69d1a7a19711f923b42dcbefe0d505a8bd",
+      "original_sha256": "bd96dd37770b0b7118f059fb5f3e8c6db4e7805dc8e266f4b8e1eec872b645ff",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

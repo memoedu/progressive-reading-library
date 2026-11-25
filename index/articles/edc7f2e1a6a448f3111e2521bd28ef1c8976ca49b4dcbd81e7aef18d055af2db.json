@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Abstraction escape hatches--浏览器加工--227a762593.md",
     "sha256": "0dcfbfaa2504b67f7b1be2883484bcc2a61e885f4c350efd22cc46c7144f6ecb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/edc7f2e1a6a448f3111e2521/reading-b42ada931f5c6c0b13951b18f3b5134032f2dbca10a5322886bddc65ee11679e.md",
+      "sha256": "b42ada931f5c6c0b13951b18f3b5134032f2dbca10a5322886bddc65ee11679e",
+      "original_sha256": "0dcfbfaa2504b67f7b1be2883484bcc2a61e885f4c350efd22cc46c7144f6ecb",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

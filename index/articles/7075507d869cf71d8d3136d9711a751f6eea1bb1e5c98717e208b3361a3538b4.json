@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Tracking function dependencies--浏览器加工--49bec621a6.md",
     "sha256": "4880a75f797b314a75f270eda66109e2256fcac743876bb6d33a8a4162db488e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7075507d869cf71d8d3136d9/reading-a141d1aa3c65484b0812d9d89e0fe0d7dbb1483e266aa2d9ed84b1b5af11385c.md",
+      "sha256": "a141d1aa3c65484b0812d9d89e0fe0d7dbb1483e266aa2d9ed84b1b5af11385c",
+      "original_sha256": "4880a75f797b314a75f270eda66109e2256fcac743876bb6d33a8a4162db488e",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

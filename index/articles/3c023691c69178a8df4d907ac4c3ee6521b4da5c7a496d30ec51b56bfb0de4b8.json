@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Innovation/Was World War II good for economic growth--浏览器加工--61d62fb3cb.md",
     "sha256": "619761b448bbc5e007dfafb56bec25bcdb71daea0a1ece3ea359579d5338e09d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3c023691c69178a8df4d907a/reading-33aaf8ffc709b9b0bf2ceff055a0e1be042f49f2eeed9bdc3243e9807f360551.md",
+      "sha256": "33aaf8ffc709b9b0bf2ceff055a0e1be042f49f2eeed9bdc3243e9807f360551",
+      "original_sha256": "619761b448bbc5e007dfafb56bec25bcdb71daea0a1ece3ea359579d5338e09d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

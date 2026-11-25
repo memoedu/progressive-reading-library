@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - El consumismo es anticapitalista--浏览器加工--4c2d0ad01a.md",
     "sha256": "8b8f23a76a4e8d440a173284d1a82ddba6d6a0ee226063291cc3e95ddb966bf7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/df2cefcc6a393f81c163be53/reading-ee3a548e1bda580dfbae6fe92e1945ac3bca599ce1279084d697c7a53e416aeb.md",
+      "sha256": "ee3a548e1bda580dfbae6fe92e1945ac3bca599ce1279084d697c7a53e416aeb",
+      "original_sha256": "8b8f23a76a4e8d440a173284d1a82ddba6d6a0ee226063291cc3e95ddb966bf7",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

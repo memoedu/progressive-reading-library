@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Student group notes #4 navigating bureaucracy--浏览器加工--b78647392b.md",
     "sha256": "bd66124c262221a9171fa9ffdfad54aeddf3c57564304aea0cdd71823a1c5084"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1d1538a2b924ed5b0b76663d/reading-bfc85f0f9fe402824177f26ca82f990b56d7fec606aeec43a8bc46fa1495ff57.md",
+      "sha256": "bfc85f0f9fe402824177f26ca82f990b56d7fec606aeec43a8bc46fa1495ff57",
+      "original_sha256": "bd66124c262221a9171fa9ffdfad54aeddf3c57564304aea0cdd71823a1c5084",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

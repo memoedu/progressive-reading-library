@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Abortocalipsis II El estado del debate--浏览器加工--e8ab3988ff.md",
     "sha256": "5a863a02725a348d407eec077aa396548bd8940c7473a85f02c1f1b719f95ccb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/91d7d9fc32d6669eeeaca1c8/reading-77be0350a4a3edd65d6d53137ea0b44ed3e18850876c56165a0ff20cae598062.md",
+      "sha256": "77be0350a4a3edd65d6d53137ea0b44ed3e18850876c56165a0ff20cae598062",
+      "original_sha256": "5a863a02725a348d407eec077aa396548bd8940c7473a85f02c1f1b719f95ccb",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

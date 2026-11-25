@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Donation bunching for tax savings--浏览器加工--1020a7fea1.md",
     "sha256": "222679cf1241ea3a32c55caf5d9385c401d3a5fb22bdf4842955e3615c477c65"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d6b69bc88685562d98917258/reading-1704761710b6ead70b99e7b1c540f35edc34c402a8b46784304cfcc4aeb13e6e.md",
+      "sha256": "1704761710b6ead70b99e7b1c540f35edc34c402a8b46784304cfcc4aeb13e6e",
+      "original_sha256": "222679cf1241ea3a32c55caf5d9385c401d3a5fb22bdf4842955e3615c477c65",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

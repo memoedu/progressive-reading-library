@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 5 How to Learn From Conversations — Neel Nanda--浏览器加工--f39caafadc.md",
     "sha256": "ec94e8c986032ce6c86c85a421a0f6f70e18effe66f5febbae66311720ade39a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f39caafadc483334818372e3/reading-12e8d121a629f0eaa109bc71751eba020f4bcb58f02133bbcffb95c343c44b6d.md",
+      "sha256": "12e8d121a629f0eaa109bc71751eba020f4bcb58f02133bbcffb95c343c44b6d",
+      "original_sha256": "ec94e8c986032ce6c86c85a421a0f6f70e18effe66f5febbae66311720ade39a",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

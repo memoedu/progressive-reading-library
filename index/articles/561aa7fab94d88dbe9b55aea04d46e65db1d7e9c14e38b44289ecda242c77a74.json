@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Unintended consequences and GDPR (but not the way you think)--浏览器加工--3b48404fdb.md",
     "sha256": "67bb6d654f10811c59d8549ee0b202ba826888935229dd8d5139aeb04bfc52ff"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/561aa7fab94d88dbe9b55aea/reading-0ba46ad3495a0000f232e575d63ff2a73d7b7650530774cd033bfa178463d226.md",
+      "sha256": "0ba46ad3495a0000f232e575d63ff2a73d7b7650530774cd033bfa178463d226",
+      "original_sha256": "67bb6d654f10811c59d8549ee0b202ba826888935229dd8d5139aeb04bfc52ff",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

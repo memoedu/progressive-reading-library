@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/the relationship between science, art, and religion/Notes on the adhan--浏览器加工--8b6fafd303.md",
     "sha256": "fff62d1d80e95f8fd99f604667ee318f14eb5e6d8b0a856e12456cf8defd2dbc"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8b6fafd303f5432eb0d5ca9f/reading-e6b11f5b4127f165d0b0c4bd154ccbbe5c8d411180dad69a8cb09285992e19c5.md",
+      "sha256": "e6b11f5b4127f165d0b0c4bd154ccbbe5c8d411180dad69a8cb09285992e19c5",
+      "original_sha256": "fff62d1d80e95f8fd99f604667ee318f14eb5e6d8b0a856e12456cf8defd2dbc",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

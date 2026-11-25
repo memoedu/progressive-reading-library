@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Seres humanos no persona--浏览器加工--d6f35242fc.md",
     "sha256": "a944f7c554393199509a55809e47c22836fbfcf1674f374eab072a88b510c9d7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/21795d619dd16b544b5b9818/reading-682cf7c7f535595b2bb3c849678486770b2b4da4ea131b30a65defa26bedae34.md",
+      "sha256": "682cf7c7f535595b2bb3c849678486770b2b4da4ea131b30a65defa26bedae34",
+      "original_sha256": "a944f7c554393199509a55809e47c22836fbfcf1674f374eab072a88b510c9d7",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

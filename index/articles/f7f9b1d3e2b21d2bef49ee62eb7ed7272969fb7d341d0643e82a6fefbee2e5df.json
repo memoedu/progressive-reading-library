@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Conversation with Alice Yu on effective environmentalism--浏览器加工--46ddc695cc.md",
     "sha256": "c68a1fb90f85923fbdd63df7fc8f6173e76eeeb7e4e150c15cccee181a214fba"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f7f9b1d3e2b21d2bef49ee62/reading-f20a66cabfc27a4ef3485797e05291daad6cc7c576428626c9f35af4612d39f6.md",
+      "sha256": "f20a66cabfc27a4ef3485797e05291daad6cc7c576428626c9f35af4612d39f6",
+      "original_sha256": "c68a1fb90f85923fbdd63df7fc8f6173e76eeeb7e4e150c15cccee181a214fba",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

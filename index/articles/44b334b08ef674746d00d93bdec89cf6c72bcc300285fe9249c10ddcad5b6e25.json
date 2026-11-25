@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 20 Emotions are Bayesian Evidence — Neel Nanda--浏览器加工--44b334b08e.md",
     "sha256": "c33569c405009c6abd0d14199cb95a20de6500efa99aad7ce3f6384ea4272cc7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/44b334b08ef674746d00d93b/reading-68e96b521fc98d8fe0b4f423e36e5ee5ef3f40a42db4804ce9a537230c440da9.md",
+      "sha256": "68e96b521fc98d8fe0b4f423e36e5ee5ef3f40a42db4804ce9a537230c440da9",
+      "original_sha256": "c33569c405009c6abd0d14199cb95a20de6500efa99aad7ce3f6384ea4272cc7",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

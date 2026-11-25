@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/The St. Petersburg paradox--浏览器加工--a4e0959752.md",
     "sha256": "71aaacc7427acbde65c1b6b6105b480d9eb8982168fea0c08398f4065612711f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0901b3cdbdd3b3863f62361f/reading-94dfef5dbbd3a353ca3589943f4daae4894182350e38921c797b2d8f277cb15d.md",
+      "sha256": "94dfef5dbbd3a353ca3589943f4daae4894182350e38921c797b2d8f277cb15d",
+      "original_sha256": "71aaacc7427acbde65c1b6b6105b480d9eb8982168fea0c08398f4065612711f",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

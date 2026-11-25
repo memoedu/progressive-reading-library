@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Life advice/Nintil - Agencymaxxing--浏览器加工--2c9b0159cc.md",
     "sha256": "a727d4eeb01b1e5adf118727d3cdd8297a8927176f6779aa6ff3d36f3480b1c2"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/296ea64c215e0a0b2dd10124/reading-88c29e7042564a23c6b3fcf3cbe12feb238b2fa7c23a847b8f5e18ada0074dd0.md",
+      "sha256": "88c29e7042564a23c6b3fcf3cbe12feb238b2fa7c23a847b8f5e18ada0074dd0",
+      "original_sha256": "a727d4eeb01b1e5adf118727d3cdd8297a8927176f6779aa6ff3d36f3480b1c2",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

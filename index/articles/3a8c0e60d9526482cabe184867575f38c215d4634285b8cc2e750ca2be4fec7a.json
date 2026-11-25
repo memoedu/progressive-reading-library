@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Software/Nintil - Gutsy Gibbon Impresiones--浏览器加工--084a8ce210.md",
     "sha256": "dc1ff6373790e700963cdd76abe8de4b92c0724ff4b761bfd137d15667871259"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3a8c0e60d9526482cabe1848/reading-ee47a4b582a360fb8395f762fcb90bac9930d53e7042c83ced2aded07504615b.md",
+      "sha256": "ee47a4b582a360fb8395f762fcb90bac9930d53e7042c83ced2aded07504615b",
+      "original_sha256": "dc1ff6373790e700963cdd76abe8de4b92c0724ff4b761bfd137d15667871259",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

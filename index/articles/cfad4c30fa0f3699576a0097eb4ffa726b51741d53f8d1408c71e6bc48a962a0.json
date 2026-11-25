@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/Fund People, not Projects V Fund for longer--浏览器加工--a276b60eb9.md",
     "sha256": "7aa484808a4237f7ca418ec7ecb806c87307660f404d373c2d264f39b4b54d14"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cfad4c30fa0f3699576a0097/reading-f106ae44c2f3417cc6bc2a851fe389980be02a0eabef1f6c0d0da83011144a86.md",
+      "sha256": "f106ae44c2f3417cc6bc2a851fe389980be02a0eabef1f6c0d0da83011144a86",
+      "original_sha256": "7aa484808a4237f7ca418ec7ecb806c87307660f404d373c2d264f39b4b54d14",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

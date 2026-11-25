@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Channel factors--浏览器加工--d0a4aa5636.md",
     "sha256": "7c038f02d3f5b4e6cef31993bb36197ce818d0f0286f8f2370f82b2287158c4f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c3c3be617824a854cb04d3f7/reading-37d61ec7788e9b753c6f787f33b0c1458ad85188fd4efd7167d202342bf7fa47.md",
+      "sha256": "37d61ec7788e9b753c6f787f33b0c1458ad85188fd4efd7167d202342bf7fa47",
+      "original_sha256": "7c038f02d3f5b4e6cef31993bb36197ce818d0f0286f8f2370f82b2287158c4f",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

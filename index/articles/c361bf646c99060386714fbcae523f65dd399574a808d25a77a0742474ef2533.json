@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Análisis del consumismo I el consumo innecesario--浏览器加工--1a76c3585f.md",
     "sha256": "715da7cd2d353118846a7d3b4cb8d435f77873b27be15a4d38fde4de69c3ec7c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c361bf646c99060386714fbc/reading-f87b2be5362d8e41dfe5c644670fdc3a9c8d82af1289d6044ad64f0f2adaff76.md",
+      "sha256": "f87b2be5362d8e41dfe5c644670fdc3a9c8d82af1289d6044ad64f0f2adaff76",
+      "original_sha256": "715da7cd2d353118846a7d3b4cb8d435f77873b27be15a4d38fde4de69c3ec7c",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

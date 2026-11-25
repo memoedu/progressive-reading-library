@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science/Nintil - Darwin-level insights--浏览器加工--110f9a0013.md",
     "sha256": "8bd36910b1002d63ce5b6cd1c5311f09ec41122783dbbe28ada3c215c27d387d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8a360a4433f069438ad5de43/reading-86755540b4152083754a18d6285f3e40544dba1a4452d250fa939267269121d8.md",
+      "sha256": "86755540b4152083754a18d6285f3e40544dba1a4452d250fa939267269121d8",
+      "original_sha256": "8bd36910b1002d63ce5b6cd1c5311f09ec41122783dbbe28ada3c215c27d387d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

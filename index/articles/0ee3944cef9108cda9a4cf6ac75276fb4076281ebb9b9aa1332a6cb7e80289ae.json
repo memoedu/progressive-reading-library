@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Nintil - Applied positive meta-science--浏览器加工--e7a8bb59f5.md",
     "sha256": "819db7a22b9d6b170f4223fd62adee047287fbfe4e3235880cd16f4dfae3a15b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0ee3944cef9108cda9a4cf6a/reading-e2359ab618438131c088faad4bf899723153df07887176cc1a1f71e3a013b4cc.md",
+      "sha256": "e2359ab618438131c088faad4bf899723153df07887176cc1a1f71e3a013b4cc",
+      "original_sha256": "819db7a22b9d6b170f4223fd62adee047287fbfe4e3235880cd16f4dfae3a15b",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

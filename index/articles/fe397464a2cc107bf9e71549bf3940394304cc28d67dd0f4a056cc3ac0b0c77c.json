@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/selected projects/ASI existential risk reconsidering alignment as a goal--浏览器加工--fe397464a2.md",
     "sha256": "fe94fd588ba1d878ba49a4e4ed207bb950604077624020efc502c568660296c5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fe397464a2cc107bf9e71549/reading-87bd8abaff3d2b93a28e0e94b32981edf66cfe0a704d99b3c18fa75a004b60d5.md",
+      "sha256": "87bd8abaff3d2b93a28e0e94b32981edf66cfe0a704d99b3c18fa75a004b60d5",
+      "original_sha256": "fe94fd588ba1d878ba49a4e4ed207bb950604077624020efc502c568660296c5",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

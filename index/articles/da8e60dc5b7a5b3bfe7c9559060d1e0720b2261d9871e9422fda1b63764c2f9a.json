@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/My weekly review habit--浏览器加工--d5e2e3701f.md",
     "sha256": "3db0a22bc5c9deb8c5dfe257b96d123a6d5140f20b338d0bf0265f263dfb2f1a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/da8e60dc5b7a5b3bfe7c9559/reading-704a7aa17c958f9f3063e9a95b6a837769d93ed8dcabe3f0c4cf802e5bb24d12.md",
+      "sha256": "704a7aa17c958f9f3063e9a95b6a837769d93ed8dcabe3f0c4cf802e5bb24d12",
+      "original_sha256": "3db0a22bc5c9deb8c5dfe257b96d123a6d5140f20b338d0bf0265f263dfb2f1a",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - Bitcoin el debate continúa--浏览器加工--365e6ce217.md",
     "sha256": "5fcedb6b38d4861cc6a634f6e0de633bd64bfd20144c5335fabe11a76faf98d6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/897e568103a986e84f2ba407/reading-843fcbc9c481c8ef3d9ee2511070d1812301e881ade4a2c1b385742412b32a77.md",
+      "sha256": "843fcbc9c481c8ef3d9ee2511070d1812301e881ade4a2c1b385742412b32a77",
+      "original_sha256": "5fcedb6b38d4861cc6a634f6e0de633bd64bfd20144c5335fabe11a76faf98d6",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

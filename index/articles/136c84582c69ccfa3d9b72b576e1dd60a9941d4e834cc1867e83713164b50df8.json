@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/El argumento de Michael Huemer--浏览器加工--d5b078b198.md",
     "sha256": "a66fde81fff086333c3e2d5e5a25dd67abeb1a648d6fbe19198ea99ee2e6e4a7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/136c84582c69ccfa3d9b72b5/reading-3c87d609dc73ffc948e4f32536eb18c93f2cd0be294a04c2dbce11456ce1161d.md",
+      "sha256": "3c87d609dc73ffc948e4f32536eb18c93f2cd0be294a04c2dbce11456ce1161d",
+      "original_sha256": "a66fde81fff086333c3e2d5e5a25dd67abeb1a648d6fbe19198ea99ee2e6e4a7",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

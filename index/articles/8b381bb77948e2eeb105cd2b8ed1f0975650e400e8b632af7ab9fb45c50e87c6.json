@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Surviving lots of travel--浏览器加工--35080100fc.md",
     "sha256": "92874ab0b7bece44a15dd3d06a0c3114c27491ba58e2e3019e7dd2989a87e94f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8b381bb77948e2eeb105cd2b/reading-5a65e5d931c81c4ad06b3f987283861f1ad7f003cd70c39fad77308f7e51a868.md",
+      "sha256": "5a65e5d931c81c4ad06b3f987283861f1ad7f003cd70c39fad77308f7e51a868",
+      "original_sha256": "92874ab0b7bece44a15dd3d06a0c3114c27491ba58e2e3019e7dd2989a87e94f",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Software/Docusign's 7000 employees and the iron law of B2B SaaS sales--浏览器加工--bed41d3381.md",
     "sha256": "0f1ecb01a232e021b16e8a3ba1af7e5ac2b21e57949c4b7145c2e6bae63912ee"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0cee02433948b81aa6b4f543/reading-462cd761cc59a485c744e3327142c5a7ce86a0dc7455b315e822d46879ec1c08.md",
+      "sha256": "462cd761cc59a485c744e3327142c5a7ce86a0dc7455b315e822d46879ec1c08",
+      "original_sha256": "0f1ecb01a232e021b16e8a3ba1af7e5ac2b21e57949c4b7145c2e6bae63912ee",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

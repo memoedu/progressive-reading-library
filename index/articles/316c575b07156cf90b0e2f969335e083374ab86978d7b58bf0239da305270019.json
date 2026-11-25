@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/[Link] 50 breakthroughs needed for sustainable global development--浏览器加工--e828388e5e.md",
     "sha256": "67a84372a4731d4ac643d7f2f62b1050a11d5a7dd358249f5126392e936d8e32"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/316c575b07156cf90b0e2f96/reading-8cb9e15d0641dcf59f962ba4a574d5e2f1b7c3e913f8cda07d1e59b4812b84ca.md",
+      "sha256": "8cb9e15d0641dcf59f962ba4a574d5e2f1b7c3e913f8cda07d1e59b4812b84ca",
+      "original_sha256": "67a84372a4731d4ac643d7f2f62b1050a11d5a7dd358249f5126392e936d8e32",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

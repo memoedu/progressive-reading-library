@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/artificial intelligence/Notes on Vitalik Buterin’s techno-optimism--浏览器加工--7cc6a873ed.md",
     "sha256": "5a4f6164a67e7a11d3d9ebc900ef0b19725e8e7dd978c5db2c8e1ac9a21b2ecf"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7cc6a873eda1edea5496a9b6/reading-f080e861fb777d83716229121b253089e04d5caf6f6d0e3854259457e0adbb27.md",
+      "sha256": "f080e861fb777d83716229121b253089e04d5caf6f6d0e3854259457e0adbb27",
+      "original_sha256": "5a4f6164a67e7a11d3d9ebc900ef0b19725e8e7dd978c5db2c8e1ac9a21b2ecf",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/The Slippery Utilitarian--浏览器加工--4eca6c63c2.md",
     "sha256": "f106269de18973cb6ad73d085a73a3f8791abca9b6b9b39eea1e878449c18317"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/363bce62db60019620abacc0/reading-dc636f5ea7dba2a950f0076d8f09de330ddb5d8fec0443927f487844d5534f9e.md",
+      "sha256": "dc636f5ea7dba2a950f0076d8f09de330ddb5d8fec0443927f487844d5534f9e",
+      "original_sha256": "f106269de18973cb6ad73d085a73a3f8791abca9b6b9b39eea1e878449c18317",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

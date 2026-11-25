@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Crocker's revisited--浏览器加工--176ad5f236.md",
     "sha256": "071d170dcb5c8daa56ea660f155d1433109ecd28759deb1b230120eefea15895"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6390011cf74411efa7ff2305/reading-2f80d33163aece90d245f9fbc000c1c5685e35a04bb44c4c0c3f7d965b5b3b97.md",
+      "sha256": "2f80d33163aece90d245f9fbc000c1c5685e35a04bb44c4c0c3f7d965b5b3b97",
+      "original_sha256": "071d170dcb5c8daa56ea660f155d1433109ecd28759deb1b230120eefea15895",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

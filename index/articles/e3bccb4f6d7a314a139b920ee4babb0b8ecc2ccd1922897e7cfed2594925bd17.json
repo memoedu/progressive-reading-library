@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Decision trees for survival analysis--浏览器加工--576ea883fc.md",
     "sha256": "079a1b547c331d5433b6b84183e878c200972d2424dd07865bd6e13605cc8aed"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e3bccb4f6d7a314a139b920e/reading-2cf92e1bdf71da052e5e1f887cdeb821810a0b98f8ced39a8ee4942349b86716.md",
+      "sha256": "2cf92e1bdf71da052e5e1f887cdeb821810a0b98f8ced39a8ee4942349b86716",
+      "original_sha256": "079a1b547c331d5433b6b84183e878c200972d2424dd07865bd6e13605cc8aed",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

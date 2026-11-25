@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/The solution to Pascal's mugging--浏览器加工--00ae7efce3.md",
     "sha256": "6c8fe674cada4e8b2702001445dd9511dbca0db873886200635901e5d2a77932"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/40d02c4490d1bee137225f6d/reading-eafb781c736c7d260b0c72dfff31cb12dcc871a35ad0e02e8884d9e02ebcab27.md",
+      "sha256": "eafb781c736c7d260b0c72dfff31cb12dcc871a35ad0e02e8884d9e02ebcab27",
+      "original_sha256": "6c8fe674cada4e8b2702001445dd9511dbca0db873886200635901e5d2a77932",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

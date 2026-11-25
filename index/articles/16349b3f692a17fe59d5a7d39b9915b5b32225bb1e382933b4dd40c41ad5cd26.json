@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Compilations/Rawls, Harsanyi, Binmore. Una bibliografía.--浏览器加工--2ccee5b128.md",
     "sha256": "a784d7e6ad2572162aa40f41b31ca4af48bfa873c52db42acdbff01911d2b6a3"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/16349b3f692a17fe59d5a7d3/reading-626b5a9799cf215bd90be54c56a0a24428855cd80f1304b74f571f36964cd2ea.md",
+      "sha256": "626b5a9799cf215bd90be54c56a0a24428855cd80f1304b74f571f36964cd2ea",
+      "original_sha256": "a784d7e6ad2572162aa40f41b31ca4af48bfa873c52db42acdbff01911d2b6a3",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

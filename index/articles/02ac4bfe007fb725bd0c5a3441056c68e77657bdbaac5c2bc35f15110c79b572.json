@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Where I'm giving Effective Altruism Policy Analytics--浏览器加工--4e075f778f.md",
     "sha256": "88b24a3e539d7b89566bd59e9361e5d41759c7b05580eb9eae478221f6b2caa4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/02ac4bfe007fb725bd0c5a34/reading-18df751efc67bc1a215467ccc6948375992f0ca8b17fb2e6bba7e23433dbe014.md",
+      "sha256": "18df751efc67bc1a215467ccc6948375992f0ca8b17fb2e6bba7e23433dbe014",
+      "original_sha256": "88b24a3e539d7b89566bd59e9361e5d41759c7b05580eb9eae478221f6b2caa4",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Cálculo económico propiedad privada y socialismo de mercado--浏览器加工--5ed1175596.md",
     "sha256": "632bb77e8d2a72a36401ebb165b860bf3d61af3503b418fa1861db53a88a955b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e535e4207f716b9310abfd89/reading-ac23b7b0cacad96d8ab62ec508ae876271c44fd462d17e3c7ca9422aaef6a00d.md",
+      "sha256": "ac23b7b0cacad96d8ab62ec508ae876271c44fd462d17e3c7ca9422aaef6a00d",
+      "original_sha256": "632bb77e8d2a72a36401ebb165b860bf3d61af3503b418fa1861db53a88a955b",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

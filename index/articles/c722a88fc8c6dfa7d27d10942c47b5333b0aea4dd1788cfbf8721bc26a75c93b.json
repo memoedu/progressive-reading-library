@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Fun linear algebra solutions, part 1--浏览器加工--955f97fb22.md",
     "sha256": "27d1caf7a5627c38920d05a3c3bd3a9ff3c0ffb49fff5c94fb5e4ab60dd83c80"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c722a88fc8c6dfa7d27d1094/reading-bef3090a4d022ae0ccb7278a4fb2abb13155d144e05347bbd42c69c195046c6b.md",
+      "sha256": "bef3090a4d022ae0ccb7278a4fb2abb13155d144e05347bbd42c69c195046c6b",
+      "original_sha256": "27d1caf7a5627c38920d05a3c3bd3a9ff3c0ffb49fff5c94fb5e4ab60dd83c80",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

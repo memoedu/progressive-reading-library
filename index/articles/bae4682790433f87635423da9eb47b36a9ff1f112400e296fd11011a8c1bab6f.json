@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/tools for thought/Building a better memory system--浏览器加工--bae4682790.md",
     "sha256": "f8cdd6db9851e2d278b4d5fcd028a32af47b41968c227429905b3f9db3cce39e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/bae4682790433f87635423da/reading-0fbedbb2c2c15915aa0142effc7a305df14658f10e5b62527d96169edbf5bbeb.md",
+      "sha256": "0fbedbb2c2c15915aa0142effc7a305df14658f10e5b62527d96169edbf5bbeb",
+      "original_sha256": "f8cdd6db9851e2d278b4d5fcd028a32af47b41968c227429905b3f9db3cce39e",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Gender and STEM/Women in STEM The role of the environment, and the case of India--浏览器加工--65a8860c18.md",
     "sha256": "6b18872a3627c6c0e2e4ad5a28e0137dbf53f2d32213d528503508141e708568"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8d7d3d32109e5bce6a567c88/reading-0707ca223efab67afbbd1a2846d65e4781a92ade955c7f57315cd1abc803de84.md",
+      "sha256": "0707ca223efab67afbbd1a2846d65e4781a92ade955c7f57315cd1abc803de84",
+      "original_sha256": "6b18872a3627c6c0e2e4ad5a28e0137dbf53f2d32213d528503508141e708568",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

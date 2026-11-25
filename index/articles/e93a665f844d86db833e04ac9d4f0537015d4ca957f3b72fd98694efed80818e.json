@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Student group notes #6 lessons from the philanthropy fellowship--浏览器加工--8cb793120a.md",
     "sha256": "ba42dc56bb67768ffdbaa578f9fdb21494d3955eacfbe703e4da811c22b394d1"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e93a665f844d86db833e04ac/reading-ca3d8840a64dfe55ae0240d119c94562ff5b61dfee66ad6196aca09ccafc17c2.md",
+      "sha256": "ca3d8840a64dfe55ae0240d119c94562ff5b61dfee66ad6196aca09ccafc17c2",
+      "original_sha256": "ba42dc56bb67768ffdbaa578f9fdb21494d3955eacfbe703e4da811c22b394d1",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

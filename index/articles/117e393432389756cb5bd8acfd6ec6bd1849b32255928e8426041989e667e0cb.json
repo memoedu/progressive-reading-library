@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Fun with code stats--浏览器加工--ca00cf3b3a.md",
     "sha256": "c0b80b87273e3c99f5be7774a9a57ee16a56e6797b128844c0c0e3680ae35f97"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/117e393432389756cb5bd8ac/reading-d9284d562bc3f8c97af4d4f42e5346ec007c6aa6be05cf81a0e11ecc57b99e58.md",
+      "sha256": "d9284d562bc3f8c97af4d4f42e5346ec007c6aa6be05cf81a0e11ecc57b99e58",
+      "original_sha256": "c0b80b87273e3c99f5be7774a9a57ee16a56e6797b128844c0c0e3680ae35f97",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Modern methods for old-school statistics--浏览器加工--15b2b45aea.md",
     "sha256": "eec8d7f16962631c0534dd1161c59aea709a2b0d2e87a263d2e7494c2153388d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f8bc845b60f043f8957cfc59/reading-a814b46e58289ce8fa7708397a930679b5eb162ede2f225aebd1e3e5175d9fa5.md",
+      "sha256": "a814b46e58289ce8fa7708397a930679b5eb162ede2f225aebd1e3e5175d9fa5",
+      "original_sha256": "eec8d7f16962631c0534dd1161c59aea709a2b0d2e87a263d2e7494c2153388d",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

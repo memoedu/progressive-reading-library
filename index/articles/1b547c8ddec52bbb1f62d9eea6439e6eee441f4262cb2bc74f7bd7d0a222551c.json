@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Study recommendations from Coders at Work--浏览器加工--2b33c49df3.md",
     "sha256": "da6170ecd020f47501ad40dad585219658a0f2317fea94a6df9e3da93053779d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1b547c8ddec52bbb1f62d9ee/reading-e48dae7280186677896be80edfd15a3d5ab93ef14d893c720a21d0caff75975b.md",
+      "sha256": "e48dae7280186677896be80edfd15a3d5ab93ef14d893c720a21d0caff75975b",
+      "original_sha256": "da6170ecd020f47501ad40dad585219658a0f2317fea94a6df9e3da93053779d",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

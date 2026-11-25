@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/Was Planck right The effects of aging on the productivity of scientists--浏览器加工--8b4227f3d9.md",
     "sha256": "9548bb6b57aa434831cf0fb251b5b60790854bdfa79c8a978e7ff3756c82a798"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ba64dbb39ca7f5a29101aea1/reading-b184282f0c24f183fd2a0fccdcc0d8d3ec7a30ae1cc75b8b05ded1478b2d6de8.md",
+      "sha256": "b184282f0c24f183fd2a0fccdcc0d8d3ec7a30ae1cc75b8b05ded1478b2d6de8",
+      "original_sha256": "9548bb6b57aa434831cf0fb251b5b60790854bdfa79c8a978e7ff3756c82a798",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

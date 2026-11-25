@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Nintil - El patriotismo, criticado--浏览器加工--ac3eaa6d24.md",
     "sha256": "ae5a96e71d5b1012d083c71823ef4660d1b65fac9a9c78a7176ba9a9f5ac3046"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/51731acafb15af608ba0e839/reading-54c18f6ae19185b24a704379138d22ecf1370ee60f7e54936618bac1016f863f.md",
+      "sha256": "54c18f6ae19185b24a704379138d22ecf1370ee60f7e54936618bac1016f863f",
+      "original_sha256": "ae5a96e71d5b1012d083c71823ef4660d1b65fac9a9c78a7176ba9a9f5ac3046",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Progress Studies/Nintil - Scaling tacit knowledge--浏览器加工--499d7d9dc9.md",
     "sha256": "363054ac4ca8edb7215d8b973c4007367d5fd27951dade73e7fee1801ce18adc"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/00cc72a856595cb2dbee86e7/reading-dd2cc2cee62c352cc4367f08d032ce10f276fd39bb63175702a4ecc9b0e5aa4e.md",
+      "sha256": "dd2cc2cee62c352cc4367f08d032ce10f276fd39bb63175702a4ecc9b0e5aa4e",
+      "original_sha256": "363054ac4ca8edb7215d8b973c4007367d5fd27951dade73e7fee1801ce18adc",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Be less scared of overconfidence--浏览器加工--c4779b68db.md",
     "sha256": "6f41d881eca5633650911f7b358183367720c1668e15f75a8763a7b6df3c8f4d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/25ca78f3d250b403b963a71b/reading-693f2ea87afafa5465399e7d3afa502325f2b2be2812cd1bb6ff27252b651076.md",
+      "sha256": "693f2ea87afafa5465399e7d3afa502325f2b2be2812cd1bb6ff27252b651076",
+      "original_sha256": "6f41d881eca5633650911f7b358183367720c1668e15f75a8763a7b6df3c8f4d",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

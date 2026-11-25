@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/Searching for outliers--浏览器加工--e6860e6af7.md",
     "sha256": "c850356fb4be172077775d62b7d84545fc85f1658665441ef4981e941202af1a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/89693d600a368d6fc6033f6f/reading-254bd4381553f213956677ac0aa210d33477bd8c4dc541efad4411ad01249843.md",
+      "sha256": "254bd4381553f213956677ac0aa210d33477bd8c4dc541efad4411ad01249843",
+      "original_sha256": "c850356fb4be172077775d62b7d84545fc85f1658665441ef4981e941202af1a",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

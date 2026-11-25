@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Soviet Union Series/The Soviet Union Brief remarks on the transition--浏览器加工--47753366ea.md",
     "sha256": "267d47eaaf7c48c5c3f91d76797f843779348186c0ab9c04af220f02abd208a0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e154b820f4db0aba258e85dd/reading-c8c7baeb590e4057b159ed4c3e4f272e64b1e5eb8cc35a4e5af24dc042114bb1.md",
+      "sha256": "c8c7baeb590e4057b159ed4c3e4f272e64b1e5eb8cc35a4e5af24dc042114bb1",
+      "original_sha256": "267d47eaaf7c48c5c3f91d76797f843779348186c0ab9c04af220f02abd208a0",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

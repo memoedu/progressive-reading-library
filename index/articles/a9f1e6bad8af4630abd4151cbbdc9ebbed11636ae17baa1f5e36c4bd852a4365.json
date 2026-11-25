@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/Attention is your scarcest resource--浏览器加工--60d2932732.md",
     "sha256": "4da99822603f074a83f893f5c23f885ad40ba3ff3e935aa47b495f6133220bfd"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a9f1e6bad8af4630abd4151c/reading-193d833f0e16b6539e41b39a82e6949c953eaf3726229e6ec87270048bf69b43.md",
+      "sha256": "193d833f0e16b6539e41b39a82e6949c953eaf3726229e6ec87270048bf69b43",
+      "original_sha256": "4da99822603f074a83f893f5c23f885ad40ba3ff3e935aa47b495f6133220bfd",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

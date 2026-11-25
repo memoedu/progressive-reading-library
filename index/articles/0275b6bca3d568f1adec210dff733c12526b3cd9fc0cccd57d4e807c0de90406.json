@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/How many causes should you give to--浏览器加工--8718cf82fe.md",
     "sha256": "08f8b6d05cb8a37401f2f6ec92adfae5ec8328ea9892ac31708e364a5f41b0d0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0275b6bca3d568f1adec210d/reading-8bfc42815328e39ac234793740fa260300e168e3ae32f1aba8a51ee9643ac12d.md",
+      "sha256": "8bfc42815328e39ac234793740fa260300e168e3ae32f1aba8a51ee9643ac12d",
+      "original_sha256": "08f8b6d05cb8a37401f2f6ec92adfae5ec8328ea9892ac31708e364a5f41b0d0",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

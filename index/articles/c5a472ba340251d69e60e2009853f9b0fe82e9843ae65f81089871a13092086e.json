@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/selected projects/Developing creative identity--浏览器加工--c5a472ba34.md",
     "sha256": "3cff2e755b66695898e22ceb48287daecfbc3f658cc39c85c7ac02cf7c2e6702"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c5a472ba340251d69e60e200/reading-554edef00c3ebfab8a10ecb081b9171261f17e6b48cb5b62f3704ed0f9457c9f.md",
+      "sha256": "554edef00c3ebfab8a10ecb081b9171261f17e6b48cb5b62f3704ed0f9457c9f",
+      "original_sha256": "3cff2e755b66695898e22ceb48287daecfbc3f658cc39c85c7ac02cf7c2e6702",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

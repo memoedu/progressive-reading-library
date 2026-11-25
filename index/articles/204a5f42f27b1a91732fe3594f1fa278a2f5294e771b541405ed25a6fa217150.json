@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Where I'm giving and why, 2016--浏览器加工--61474ee8a2.md",
     "sha256": "44084a16d891f23f22800f49eb0d1c96797c551c1ad66df0fd3bdf56f70b083d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/204a5f42f27b1a91732fe359/reading-d8fc1d6fdcd73d5b16a8dfa6b2eec454f8015cf4a0c3595239ecf30a3c7abe1b.md",
+      "sha256": "d8fc1d6fdcd73d5b16a8dfa6b2eec454f8015cf4a0c3595239ecf30a3c7abe1b",
+      "original_sha256": "44084a16d891f23f22800f49eb0d1c96797c551c1ad66df0fd3bdf56f70b083d",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

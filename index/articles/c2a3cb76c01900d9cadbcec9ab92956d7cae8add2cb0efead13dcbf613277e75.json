@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Surviving an open-plan office--浏览器加工--69eec5fb55.md",
     "sha256": "f8f4ec6772bafd9051fe457da3b1c95d6b47074f2b778136a55cd1592809b5f8"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c2a3cb76c01900d9cadbcec9/reading-4139c6a1a6eeb428f819778be903d87bf00386dc8850335a0720a365804e3286.md",
+      "sha256": "4139c6a1a6eeb428f819778be903d87bf00386dc8850335a0720a365804e3286",
+      "original_sha256": "f8f4ec6772bafd9051fe457da3b1c95d6b47074f2b778136a55cd1592809b5f8",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

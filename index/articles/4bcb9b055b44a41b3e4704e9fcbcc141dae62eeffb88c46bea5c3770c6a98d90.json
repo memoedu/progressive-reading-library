@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Effective Altruism/Nintil - On Reboot's Ineffective Altruism--浏览器加工--bf66a8e08e.md",
     "sha256": "3be792adb9590faa554487deecf23af5953da540659e53ef62996fcf4ed38d29"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4bcb9b055b44a41b3e4704e9/reading-e232d5a22f12df393e658f26fb7c5cdd0bd06ce83bb79b17a56ab66c77c2e712.md",
+      "sha256": "e232d5a22f12df393e658f26fb7c5cdd0bd06ce83bb79b17a56ab66c77c2e712",
+      "original_sha256": "3be792adb9590faa554487deecf23af5953da540659e53ef62996fcf4ed38d29",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

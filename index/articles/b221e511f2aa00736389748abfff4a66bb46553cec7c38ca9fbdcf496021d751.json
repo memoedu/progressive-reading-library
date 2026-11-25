@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Cheap tablets as e-readers--浏览器加工--df8bcf8dbc.md",
     "sha256": "2e9dc40f925ae9799240d4dc20a000155b0439bd64c3460cc2b7adb562b439fb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b221e511f2aa00736389748a/reading-5f5cb3e9eb43af46946c04870d6b8281d0a27fe9e7f9778524db161a529d7c92.md",
+      "sha256": "5f5cb3e9eb43af46946c04870d6b8281d0a27fe9e7f9778524db161a529d7c92",
+      "original_sha256": "2e9dc40f925ae9799240d4dc20a000155b0439bd64c3460cc2b7adb562b439fb",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

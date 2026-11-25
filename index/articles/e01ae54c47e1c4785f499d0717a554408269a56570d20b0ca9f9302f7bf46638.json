@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Deducción, Inducción y Abducción--浏览器加工--06122df00b.md",
     "sha256": "47da8df6cda9c5a5ded3616353cf47ecc69b721252f4cee01b32fa110c86d252"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e01ae54c47e1c4785f499d07/reading-c613816a9f9d912043f8dd4cb593e2fdd9d44cdcb82d481a3fa41e30ef7a1125.md",
+      "sha256": "c613816a9f9d912043f8dd4cb593e2fdd9d44cdcb82d481a3fa41e30ef7a1125",
+      "original_sha256": "47da8df6cda9c5a5ded3616353cf47ecc69b721252f4cee01b32fa110c86d252",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - Austríacos en journals mainstream--浏览器加工--7606a29cc2.md",
     "sha256": "9387acfe977fdcf8c52740e6e21da4ea7d22a2bcdb0f6ea48b2f2ebe2636980d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/346245b27195cac79c056240/reading-ab5d5253a289930aceda009da9bf3bc97bf1e6072f9b0f3a4f82629de39e474b.md",
+      "sha256": "ab5d5253a289930aceda009da9bf3bc97bf1e6072f9b0f3a4f82629de39e474b",
+      "original_sha256": "9387acfe977fdcf8c52740e6e21da4ea7d22a2bcdb0f6ea48b2f2ebe2636980d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

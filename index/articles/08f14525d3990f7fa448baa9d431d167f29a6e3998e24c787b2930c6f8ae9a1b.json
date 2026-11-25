@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Review Surely You're Joking, Mr. Feynman!--浏览器加工--52cf2a16c1.md",
     "sha256": "94892a1f02e042b0723ea09ef6e4972978f7628d688dc900c2053600dc278f3c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/08f14525d3990f7fa448baa9/reading-8b8fdb162e725adb91432b6e9f6cc742c1de9852f2231d604a42d4566e732d2a.md",
+      "sha256": "8b8fdb162e725adb91432b6e9f6cc742c1de9852f2231d604a42d4566e732d2a",
+      "original_sha256": "94892a1f02e042b0723ea09ef6e4972978f7628d688dc900c2053600dc278f3c",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

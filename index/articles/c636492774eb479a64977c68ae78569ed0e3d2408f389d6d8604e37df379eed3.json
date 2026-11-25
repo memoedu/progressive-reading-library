@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/podcast/Questions for Podcasts--浏览器加工--c636492774.md",
     "sha256": "81c0405b86444da8a38a4267d82439ae85d2b1df73fbf1767459b8adc76e6b40"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c636492774eb479a64977c68/reading-6258d67fabf3a31b5609db04b40abc7a393819404c095653876af010eff90a7d.md",
+      "sha256": "6258d67fabf3a31b5609db04b40abc7a393819404c095653876af010eff90a7d",
+      "original_sha256": "81c0405b86444da8a38a4267d82439ae85d2b1df73fbf1767459b8adc76e6b40",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

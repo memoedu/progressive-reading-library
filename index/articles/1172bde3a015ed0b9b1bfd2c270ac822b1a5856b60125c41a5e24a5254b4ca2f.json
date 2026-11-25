@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Fixing Powerline in Emacs 24.5--浏览器加工--61ebeb0106.md",
     "sha256": "9cb3932d79f4bf89345d79015fafe8a28259e996925724e557fb527b150c8d7e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1172bde3a015ed0b9b1bfd2c/reading-16b8c18e0b05dc218bc503f8cd532b760d00f0d179f8326e86a162a9ba6a93b0.md",
+      "sha256": "16b8c18e0b05dc218bc503f8cd532b760d00f0d179f8326e86a162a9ba6a93b0",
+      "original_sha256": "9cb3932d79f4bf89345d79015fafe8a28259e996925724e557fb527b150c8d7e",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

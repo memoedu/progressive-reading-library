@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Humor/Nintil - Manifiesto Ingenierista--浏览器加工--f336798555.md",
     "sha256": "d535aee69164b8bd9ab42a355c30dba8d77dd65f2727ce124119fe07685706c0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/688a1d2fb8b7040938d7ecc1/reading-3e01d68cd7435c577af39b7b1c84f66fdbb3a8f5d64325490a0162666d736b5e.md",
+      "sha256": "3e01d68cd7435c577af39b7b1c84f66fdbb3a8f5d64325490a0162666d736b5e",
+      "original_sha256": "d535aee69164b8bd9ab42a355c30dba8d77dd65f2727ce124119fe07685706c0",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

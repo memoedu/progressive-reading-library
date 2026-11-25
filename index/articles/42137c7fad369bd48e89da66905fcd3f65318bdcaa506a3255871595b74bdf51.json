@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Gender and STEM/On the educational gender-equality paradox--浏览器加工--89d4f2194d.md",
     "sha256": "b342cb03e15476b751669ef1f5a934d639b3742458667bc263d7901a361043d1"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/42137c7fad369bd48e89da66/reading-29025bb48198ebe9d76fcb0481e60f92cd1122dfbb9924bdf7d704870407d76e.md",
+      "sha256": "29025bb48198ebe9d76fcb0481e60f92cd1122dfbb9924bdf7d704870407d76e",
+      "original_sha256": "b342cb03e15476b751669ef1f5a934d639b3742458667bc263d7901a361043d1",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

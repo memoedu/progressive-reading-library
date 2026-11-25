@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/selected projects/Notes on Effective Altruism--浏览器加工--c4391f710a.md",
     "sha256": "e5102131c681034b327d166795e662f1fb9118deca545ca4f80cde9a4d67066b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/76e5dc70f67c3040914c8191/reading-59ae62a2a9b691f98618f5edafb571cd1a31cfdc3f1cbad9f2a6c2b35f64c688.md",
+      "sha256": "59ae62a2a9b691f98618f5edafb571cd1a31cfdc3f1cbad9f2a6c2b35f64c688",
+      "original_sha256": "e5102131c681034b327d166795e662f1fb9118deca545ca4f80cde9a4d67066b",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

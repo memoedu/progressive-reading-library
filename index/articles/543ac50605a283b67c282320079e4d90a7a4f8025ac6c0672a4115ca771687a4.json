@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Links #2--浏览器加工--68aef7f237.md",
     "sha256": "ef7c95b1e7f63ccae0b9cee7e31135f8c9473e4777f1df0f2a1d23c7f9feb2b8"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/543ac50605a283b67c282320/reading-b51efe89e3155e35f7f9bf86a048749d9f508c0f17d6a0eb76141ce5e574e45a.md",
+      "sha256": "b51efe89e3155e35f7f9bf86a048749d9f508c0f17d6a0eb76141ce5e574e45a",
+      "original_sha256": "ef7c95b1e7f63ccae0b9cee7e31135f8c9473e4777f1df0f2a1d23c7f9feb2b8",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

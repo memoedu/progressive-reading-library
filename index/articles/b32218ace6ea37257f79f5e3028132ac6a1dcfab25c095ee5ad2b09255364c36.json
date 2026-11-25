@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 4 Reward the ways you’d like to be treated — Neel Nanda--浏览器加工--b32218ace6.md",
     "sha256": "e9c71b7413186f6d8278dc606fd47bc7604522e586fcce76782af5badee871e9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b32218ace6ea37257f79f5e3/reading-93af16560b86c1628c0a15850c28f4630127bc36e4129166bd6e5ae0a65b3223.md",
+      "sha256": "93af16560b86c1628c0a15850c28f4630127bc36e4129166bd6e5ae0a65b3223",
+      "original_sha256": "e9c71b7413186f6d8278dc606fd47bc7604522e586fcce76782af5badee871e9",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

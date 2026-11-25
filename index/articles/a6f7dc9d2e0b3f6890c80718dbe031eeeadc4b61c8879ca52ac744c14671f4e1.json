@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Fighting conversational death spirals--浏览器加工--a1f3b90d60.md",
     "sha256": "8e643c69bb3adbd11a905d56327fed486399922a7bd745ec0ee5ffcb6b0e255c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a6f7dc9d2e0b3f6890c80718/reading-b860b37d205e81fb99a3993ca17a1a71f41ecdfe5fdeff8512bf1c245bc6dea9.md",
+      "sha256": "b860b37d205e81fb99a3993ca17a1a71f41ecdfe5fdeff8512bf1c245bc6dea9",
+      "original_sha256": "8e643c69bb3adbd11a905d56327fed486399922a7bd745ec0ee5ffcb6b0e255c",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

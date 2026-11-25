@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Dangers of being willing to argue--浏览器加工--33446cc711.md",
     "sha256": "498e0efafc2e27904f0958f093057fd62a16e63a4710c7c3e1100593600806c0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/928697acec056165e926aab1/reading-818c820cc3144648df2345799d0a92d389a4ed36fdbc528a3a18e6ed5f91e5b0.md",
+      "sha256": "818c820cc3144648df2345799d0a92d389a4ed36fdbc528a3a18e6ed5f91e5b0",
+      "original_sha256": "498e0efafc2e27904f0958f093057fd62a16e63a4710c7c3e1100593600806c0",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

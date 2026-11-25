@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/personal/Brief remarks on some of my creative interests--浏览器加工--3ab87b8f22.md",
     "sha256": "f34962747e3853f15c1dfc8b7dd6b459d9ae71fd2bbce96ab19e45a6402e19c7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3ab87b8f2228eab9cd7d5949/reading-2a7c827fd8f40e9b672963f2d3c73c9b850faed6dc8b0da1ab8db27521ec977c.md",
+      "sha256": "2a7c827fd8f40e9b672963f2d3c73c9b850faed6dc8b0da1ab8db27521ec977c",
+      "original_sha256": "f34962747e3853f15c1dfc8b7dd6b459d9ae71fd2bbce96ab19e45a6402e19c7",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

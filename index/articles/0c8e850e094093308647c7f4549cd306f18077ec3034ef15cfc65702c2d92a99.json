@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/I did a meditation and it sort of changed my personality !--浏览器加工--d3085474db.md",
     "sha256": "aa4b72d06a11b84f4b0bef76a5f6c1780b7127ff418fc56cb487bdfd843fc09c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0c8e850e094093308647c7f4/reading-9e1194ba4238e00cc365062ce5bf578eb8bb74b7f380f1da4dd49b539d07ba00.md",
+      "sha256": "9e1194ba4238e00cc365062ce5bf578eb8bb74b7f380f1da4dd49b539d07ba00",
+      "original_sha256": "aa4b72d06a11b84f4b0bef76a5f6c1780b7127ff418fc56cb487bdfd843fc09c",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

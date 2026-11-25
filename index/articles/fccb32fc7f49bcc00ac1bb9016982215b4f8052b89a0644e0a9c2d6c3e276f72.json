@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 6 Stop pressing the Try Harder button — Neel Nanda--浏览器加工--fccb32fc7f.md",
     "sha256": "5b2682f5c5b1987ac5c6289774718754a76aee6fe1e40f20b4a6be573fabef03"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fccb32fc7f49bcc00ac1bb90/reading-2bb3f99d7a1ba8d39cce6c790cb2c317e2099dd45eb5a624f4063737dce6963d.md",
+      "sha256": "2bb3f99d7a1ba8d39cce6c790cb2c317e2099dd45eb5a624f4063737dce6963d",
+      "original_sha256": "5b2682f5c5b1987ac5c6289774718754a76aee6fe1e40f20b4a6be573fabef03",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

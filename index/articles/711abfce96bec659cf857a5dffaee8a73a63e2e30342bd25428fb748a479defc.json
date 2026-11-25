@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Does donation matching work--浏览器加工--730b3e0e4f.md",
     "sha256": "640a0ab44e398c6080f5f09fcede41a363445e01c172778642d3272254cc692a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/711abfce96bec659cf857a5d/reading-df8e93ef4248dec8f4df747414192f0cae70ad5ab07dd434bc72553862f86dca.md",
+      "sha256": "df8e93ef4248dec8f4df747414192f0cae70ad5ab07dd434bc72553862f86dca",
+      "original_sha256": "640a0ab44e398c6080f5f09fcede41a363445e01c172778642d3272254cc692a",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

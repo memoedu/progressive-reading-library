@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Methods/How to give them the Cohen's d--浏览器加工--dce9902b80.md",
     "sha256": "2a7d75a37a8307512c4770905320e5118b6f145e1a0f8ddba23246e4f274a2b4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b70c35e93477e2f91c89c863/reading-9efae265a663539f6eac8a6cd2a063c25aa1ee36448462fc14946ca1a6c3cda7.md",
+      "sha256": "9efae265a663539f6eac8a6cd2a063c25aa1ee36448462fc14946ca1a6c3cda7",
+      "original_sha256": "2a7d75a37a8307512c4770905320e5118b6f145e1a0f8ddba23246e4f274a2b4",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

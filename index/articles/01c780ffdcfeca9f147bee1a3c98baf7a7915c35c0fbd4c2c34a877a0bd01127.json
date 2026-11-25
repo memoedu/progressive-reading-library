@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Escape hatch examples--浏览器加工--807ebdc053.md",
     "sha256": "e44fd97ecdd8649f54b75957210ef3118e84e237ca80777b11459d8344930125"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/01c780ffdcfeca9f147bee1a/reading-2519e9248a03b1c52d9755b666ae622e2411d973c3d92545504091918f5b13fc.md",
+      "sha256": "2519e9248a03b1c52d9755b666ae622e2411d973c3d92545504091918f5b13fc",
+      "original_sha256": "e44fd97ecdd8649f54b75957210ef3118e84e237ca80777b11459d8344930125",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/personal/Notes on creative context--浏览器加工--3d46e1c8b3.md",
     "sha256": "f26648ae5a45bc4be2cea5c61368149c5505c9a0215a6f61051bba8f133e306a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3d46e1c8b3705c1e19dc30ca/reading-0817d034cc77c867e707390b935ca71e733284edb4608dcefa23d96d89fc9a14.md",
+      "sha256": "0817d034cc77c867e707390b935ca71e733284edb4608dcefa23d96d89fc9a14",
+      "original_sha256": "f26648ae5a45bc4be2cea5c61368149c5505c9a0215a6f61051bba8f133e306a",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

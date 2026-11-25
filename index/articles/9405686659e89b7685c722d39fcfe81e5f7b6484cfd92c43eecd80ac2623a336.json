@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/Fund people, not projects III The Newton hypothesis; Is science done by a small elite--浏览器加工--9e52e7b219.md",
     "sha256": "4276ca8da9ec2c26a706079c06cc7bfe4c8b265978e52655934291b4ecbaddba"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9405686659e89b7685c722d3/reading-2cf4dcaa3dceb14df5912a327c699c772bec10701c69d928a32718102e60ecc7.md",
+      "sha256": "2cf4dcaa3dceb14df5912a327c699c772bec10701c69d928a32718102e60ecc7",
+      "original_sha256": "4276ca8da9ec2c26a706079c06cc7bfe4c8b265978e52655934291b4ecbaddba",
+      "processing_sha256": "fabb6b6dd1abc7c744b4013ad784b8c4099e6cb2207d67d4403d0acbd6e9950d",
+      "processor_version": "1.12.16",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

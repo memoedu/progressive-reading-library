@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/El consenso entrecruzado del liberalismo--浏览器加工--2f3d9284cd.md",
     "sha256": "09969c8c988b736950095eb32f96c4749f7e17be8c5f7821e060d345318881b0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b8abb21c63a2a746ae0f3b12/reading-21d4763bb0e0c0efceabc41302557308bbcb77229526df06831b7e80d97d4035.md",
+      "sha256": "21d4763bb0e0c0efceabc41302557308bbcb77229526df06831b7e80d97d4035",
+      "original_sha256": "09969c8c988b736950095eb32f96c4749f7e17be8c5f7821e060d345318881b0",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

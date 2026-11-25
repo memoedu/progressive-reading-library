@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Aclaraciones sobre mi reciente artículo contra el coeficiente de caja del 100%--浏览器加工--6a0549353b.md",
     "sha256": "b00468f5af456fff26a3b4493a0fa07e13e4ef00390cfb63d5096cf6c412686a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5301150140a2925f98194921/reading-bb93d5903edaa468bffa432ad4223797ac1db8106d08b3f9330fe55835a1d926.md",
+      "sha256": "bb93d5903edaa468bffa432ad4223797ac1db8106d08b3f9330fe55835a1d926",
+      "original_sha256": "b00468f5af456fff26a3b4493a0fa07e13e4ef00390cfb63d5096cf6c412686a",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

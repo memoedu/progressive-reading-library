@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Nintil - Does every animal sleep--浏览器加工--cc828a6a0e.md",
     "sha256": "1d7075cdd1b2d297ea06d85519fd54d57bf790a615142cb5f9447afa14715b30"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4453030dfe2d7ad36d269a9d/reading-ab017d19d9ff3e8b2e172d44e8e0c5a35fb10804b8578ff3445e346176ae262d.md",
+      "sha256": "ab017d19d9ff3e8b2e172d44e8e0c5a35fb10804b8578ff3445e346176ae262d",
+      "original_sha256": "1d7075cdd1b2d297ea06d85519fd54d57bf790a615142cb5f9447afa14715b30",
+      "processing_sha256": "fabb6b6dd1abc7c744b4013ad784b8c4099e6cb2207d67d4403d0acbd6e9950d",
+      "processor_version": "1.12.16",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

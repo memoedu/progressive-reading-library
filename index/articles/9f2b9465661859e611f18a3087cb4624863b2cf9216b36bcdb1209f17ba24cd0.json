@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/合集/Interviewing Dad (Howard Nielsen)/Dad Part 8 Stand up, son--浏览器加工--9f2b946566.md",
     "sha256": "23772100d26d28aef3bdc5b4bdb3e01c05f3b0ec3ef4a838ae3bbb8616517fd7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9f2b9465661859e611f18a30/reading-8391dd38c0fdff6a30eaec3bb5cbd5f2c00b8402acd254a6492332ca49bb9a17.md",
+      "sha256": "8391dd38c0fdff6a30eaec3bb5cbd5f2c00b8402acd254a6492332ca49bb9a17",
+      "original_sha256": "23772100d26d28aef3bdc5b4bdb3e01c05f3b0ec3ef4a838ae3bbb8616517fd7",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

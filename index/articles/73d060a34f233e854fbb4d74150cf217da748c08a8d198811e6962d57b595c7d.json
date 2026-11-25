@@ -17,5 +17,16 @@
       "sha256": "0dc371e8c7352f46a5469058facb94346f2b81e038bdb34a74ec5aff0e3d2fa1",
       "path": "加工版本/73d060a34f233e854fbb4d74/reading_guide-0dc371e8c7352f46a5469058facb94346f2b81e038bdb34a74ec5aff0e3d2fa1.md"
     }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/73d060a34f233e854fbb4d74/reading-0dc371e8c7352f46a5469058facb94346f2b81e038bdb34a74ec5aff0e3d2fa1.md",
+      "sha256": "0dc371e8c7352f46a5469058facb94346f2b81e038bdb34a74ec5aff0e3d2fa1",
+      "original_sha256": "42d9ea16be140c6ce305ccc3de07473a6d20b36ba93e5941d186b7a0c71cd711",
+      "processing_sha256": "52c9668ce33c412bf1648c02ba11a6818e50a675cb1b31a7f112b066bd4655c4",
+      "processor_version": "1.12.18",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:guide-coverage/v2",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
   ]
 }

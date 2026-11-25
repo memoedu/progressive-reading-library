@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/What happened to all the non-programmers--浏览器加工--5868d84836.md",
     "sha256": "b33e115da80dbee0e699e093855b116a5bf67b8fa5f94dbd1e468eb1f9f8d49a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d57509440c386a4528cf29cb/reading-26502783608307799b47895f1db7f081efa6e137d7ac4a5fccd1f016aba5f34c.md",
+      "sha256": "26502783608307799b47895f1db7f081efa6e137d7ac4a5fccd1f016aba5f34c",
+      "original_sha256": "b33e115da80dbee0e699e093855b116a5bf67b8fa5f94dbd1e468eb1f9f8d49a",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

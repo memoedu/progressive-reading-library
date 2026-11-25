@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Humor/Nintil - Lord Plenoempleo--浏览器加工--6b5259dd85.md",
     "sha256": "42126e1f127f9f343783e93495dc9d351d6cfefff1965565ce2dd7c16c255387"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/99091c0633828c0a6e794a62/reading-42a7e5003088cd42107ed0270ef2a6c4c2496b96225d03327c6c18ba6ec553ca.md",
+      "sha256": "42a7e5003088cd42107ed0270ef2a6c4c2496b96225d03327c6c18ba6ec553ca",
+      "original_sha256": "42126e1f127f9f343783e93495dc9d351d6cfefff1965565ce2dd7c16c255387",
+      "processing_sha256": "897ec1a8c3dd3076ba98f0ec245dc55caabfc98640bbb2d4a81e82094e7a3d5e",
+      "processor_version": "1.12.18",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

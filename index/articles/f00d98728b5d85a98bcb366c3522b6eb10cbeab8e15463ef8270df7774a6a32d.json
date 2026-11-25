@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 3 Become a person who Actually Does Things — Neel Nanda--浏览器加工--f00d98728b.md",
     "sha256": "01445f0072c4759568c6f4668e7475d02467f3d55cb91401f05328cbab2e7965"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f00d98728b5d85a98bcb366c/reading-c865a4db13aa63edbd7405d030dac9c5981cb7667ff2165d56c7eaab01c62d3a.md",
+      "sha256": "c865a4db13aa63edbd7405d030dac9c5981cb7667ff2165d56c7eaab01c62d3a",
+      "original_sha256": "01445f0072c4759568c6f4668e7475d02467f3d55cb91401f05328cbab2e7965",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

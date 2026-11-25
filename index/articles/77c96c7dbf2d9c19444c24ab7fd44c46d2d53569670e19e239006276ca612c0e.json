@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/An introduction to Alzheimer's Disease--浏览器加工--bb9f503310.md",
     "sha256": "54b08c1ab5a907eea5bb7cff3bb340e693e07c517345f18672bf959568119b7e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/77c96c7dbf2d9c19444c24ab/reading-ee1e1a027ae873f584f0bc1451982fcdb514adbb96279a3af9c6353acbbd5f95.md",
+      "sha256": "ee1e1a027ae873f584f0bc1451982fcdb514adbb96279a3af9c6353acbbd5f95",
+      "original_sha256": "54b08c1ab5a907eea5bb7cff3bb340e693e07c517345f18672bf959568119b7e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

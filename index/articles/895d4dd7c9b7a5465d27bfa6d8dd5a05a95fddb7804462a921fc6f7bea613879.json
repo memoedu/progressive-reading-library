@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/The situational awareness assumption in AI risk discourse, or why people should chill--浏览器加工--8796df0ccb.md",
     "sha256": "803824bfb6ae508eff1d5bbd1e188bb865e8005a8e60d4439d8ff65c2a631255"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/895d4dd7c9b7a5465d27bfa6/reading-5c76a0d6241f582d689aedae29646c2936983c989d79c9103f98ddef893fb1b7.md",
+      "sha256": "5c76a0d6241f582d689aedae29646c2936983c989d79c9103f98ddef893fb1b7",
+      "original_sha256": "803824bfb6ae508eff1d5bbd1e188bb865e8005a8e60d4439d8ff65c2a631255",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

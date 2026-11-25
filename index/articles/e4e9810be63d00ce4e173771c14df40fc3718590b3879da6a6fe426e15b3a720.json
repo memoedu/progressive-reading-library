@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Do your homework!--浏览器加工--2d2c8d8750.md",
     "sha256": "e552a024befab66919075bbb5293204d5a184df05d20f5becc0b3b8212748e2e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e4e9810be63d00ce4e173771/reading-ee719047b89e21140e777964066aaa7a0e44bb68f8fe309ca70c890eb90e0586.md",
+      "sha256": "ee719047b89e21140e777964066aaa7a0e44bb68f8fe309ca70c890eb90e0586",
+      "original_sha256": "e552a024befab66919075bbb5293204d5a184df05d20f5becc0b3b8212748e2e",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Things that have taught me statistics--浏览器加工--88621bbd0a.md",
     "sha256": "252fd336611a92947de08e7dd2d5dc79383af95bb326bc1eacaa2179da753b52"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a33a01720eb5c65962ba72af/reading-a7a38a2b637d5353a1505e58e0555c73f748fcf51742122c1856bd9808696b36.md",
+      "sha256": "a7a38a2b637d5353a1505e58e0555c73f748fcf51742122c1856bd9808696b36",
+      "original_sha256": "252fd336611a92947de08e7dd2d5dc79383af95bb326bc1eacaa2179da753b52",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

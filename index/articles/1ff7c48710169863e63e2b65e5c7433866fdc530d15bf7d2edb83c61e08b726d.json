@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/The surprising Human Development Index of Cuba--浏览器加工--0d7a5bc722.md",
     "sha256": "79a43c7a22daf387ec86eec73304a695942f292c5ed8ef2580df922a58d0571f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1ff7c48710169863e63e2b65/reading-5c3bdc2120363a4476a27e59b8cc684805dfce6bba567fdabd1391b929f0f020.md",
+      "sha256": "5c3bdc2120363a4476a27e59b8cc684805dfce6bba567fdabd1391b929f0f020",
+      "original_sha256": "79a43c7a22daf387ec86eec73304a695942f292c5ed8ef2580df922a58d0571f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

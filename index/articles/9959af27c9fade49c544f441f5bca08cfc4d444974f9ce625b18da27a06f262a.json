@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Links II Epistemology, &c.--浏览器加工--92b24d38ca.md",
     "sha256": "72a8e95d12d1a39b17136fc99258caca182dbbe4569d66fac9027bb89dc67831"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9959af27c9fade49c544f441/reading-62db27abdcc7cc04b6c2d4b82feeedda0e84b904b7ab335ef91ccc8143882054.md",
+      "sha256": "62db27abdcc7cc04b6c2d4b82feeedda0e84b904b7ab335ef91ccc8143882054",
+      "original_sha256": "72a8e95d12d1a39b17136fc99258caca182dbbe4569d66fac9027bb89dc67831",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

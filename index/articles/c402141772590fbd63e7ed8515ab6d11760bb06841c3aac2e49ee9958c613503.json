@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/PSA consider bunching your donations--浏览器加工--7e140378ec.md",
     "sha256": "0e78f39f297e8af1953cc7296ce58c9a9fc7c29d459d346f65805450019c6277"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c402141772590fbd63e7ed85/reading-11c8012f9b7de76bbed8d30e7dcf23abc3a613a2d50a84e0d4e9b975e7deac01.md",
+      "sha256": "11c8012f9b7de76bbed8d30e7dcf23abc3a613a2d50a84e0d4e9b975e7deac01",
+      "original_sha256": "0e78f39f297e8af1953cc7296ce58c9a9fc7c29d459d346f65805450019c6277",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

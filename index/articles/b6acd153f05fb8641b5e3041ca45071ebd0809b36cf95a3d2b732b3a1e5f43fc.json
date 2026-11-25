@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/Fund people, not projects IV Scientific egalitarianism and lotteries--浏览器加工--be4fcd6a80.md",
     "sha256": "32b0dbf6d4433b3cdab4f289c85c49512c45b3e81d07a728b64caa0d4de3eb1e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b6acd153f05fb8641b5e3041/reading-98b4bd13eaa5bacf7067bd42ad4101049fbcadc068e459d89af5ec61764adaae.md",
+      "sha256": "98b4bd13eaa5bacf7067bd42ad4101049fbcadc068e459d89af5ec61764adaae",
+      "original_sha256": "32b0dbf6d4433b3cdab4f289c85c49512c45b3e81d07a728b64caa0d4de3eb1e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

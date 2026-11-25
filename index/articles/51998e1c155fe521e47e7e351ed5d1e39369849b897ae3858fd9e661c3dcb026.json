@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Progress Studies/The Great Stagnation A misleading narrative--浏览器加工--ab26874b79.md",
     "sha256": "4b7bbc9beba54adf9e2ee18fec8f07ff6c73bdc186422651daca4d0e4ef04c17"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/51998e1c155fe521e47e7e35/reading-6de179dbf5344733052662ed0f9c5d31de3cf87b7ecadb92c1e69a3eaf2dd039.md",
+      "sha256": "6de179dbf5344733052662ed0f9c5d31de3cf87b7ecadb92c1e69a3eaf2dd039",
+      "original_sha256": "4b7bbc9beba54adf9e2ee18fec8f07ff6c73bdc186422651daca4d0e4ef04c17",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

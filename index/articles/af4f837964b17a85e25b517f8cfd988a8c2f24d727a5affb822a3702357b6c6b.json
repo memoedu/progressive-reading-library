@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Apple, a parasite The ethics of the Entrepreneurial State--浏览器加工--89203edd32.md",
     "sha256": "4e05c5ce878e26c3202187a5f1bd5039cf03c482c57e1effa7e5583578bff3df"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/af4f837964b17a85e25b517f/reading-cfef293627b78a70c97ec6c65642042b97fd4c993f12cadf590c06dae65af299.md",
+      "sha256": "cfef293627b78a70c97ec6c65642042b97fd4c993f12cadf590c06dae65af299",
+      "original_sha256": "4e05c5ce878e26c3202187a5f1bd5039cf03c482c57e1effa7e5583578bff3df",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

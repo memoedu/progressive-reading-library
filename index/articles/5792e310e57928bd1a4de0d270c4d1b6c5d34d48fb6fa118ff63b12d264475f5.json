@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Set Sail For Fail On AI risk--浏览器加工--2d25d0428d.md",
     "sha256": "2e2cf893ce2f7cbeed028e3b94c7c1b115434d2bc4c57e7bef505ff3cba5dee5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5792e310e57928bd1a4de0d2/reading-a92c8e23f756abd4159ae079b290e89fe2c82df6aba66073f4d5cb6f26423af0.md",
+      "sha256": "a92c8e23f756abd4159ae079b290e89fe2c82df6aba66073f4d5cb6f26423af0",
+      "original_sha256": "2e2cf893ce2f7cbeed028e3b94c7c1b115434d2bc4c57e7bef505ff3cba5dee5",
+      "processing_sha256": "fabb6b6dd1abc7c744b4013ad784b8c4099e6cb2207d67d4403d0acbd6e9950d",
+      "processor_version": "1.12.16",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

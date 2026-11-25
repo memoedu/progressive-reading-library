@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/How programmers start projects--浏览器加工--57a244b88c.md",
     "sha256": "0ecac35162e7bc54f0e832024d6fa0745b76135c88424212a9d241f1c3785229"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5ccf1f48fc9bf2e366e826af/reading-5488b12486e56806de8562e8fc29612b7d887ca9cb920c98999feff1ee461cec.md",
+      "sha256": "5488b12486e56806de8562e8fc29612b7d887ca9cb920c98999feff1ee461cec",
+      "original_sha256": "0ecac35162e7bc54f0e832024d6fa0745b76135c88424212a9d241f1c3785229",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

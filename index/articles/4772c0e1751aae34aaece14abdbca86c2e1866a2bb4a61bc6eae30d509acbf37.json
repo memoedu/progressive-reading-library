@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/A critique of effective altruism--浏览器加工--03ae617838.md",
     "sha256": "48fd39d4963236987ab42e5e448830d8c4271d23daa9fd70383081e21539cc00"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4772c0e1751aae34aaece14a/reading-686436aa973bc59d1ee3291814ef31a28e52b712ee428f6a348dcc4e76cd6d29.md",
+      "sha256": "686436aa973bc59d1ee3291814ef31a28e52b712ee428f6a348dcc4e76cd6d29",
+      "original_sha256": "48fd39d4963236987ab42e5e448830d8c4271d23daa9fd70383081e21539cc00",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Nintil - Metascience invariants and evidence--浏览器加工--46957148ef.md",
     "sha256": "94f263ab2e849c213e698d4d0d2b4c32c313dfc6f22b46c927beffc4047ce88f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/eedf6d1323b100e460b9b3e1/reading-ffc6305a9d41d89303759b7bbdcefb5795947a88f590016e970750ed7d11cee9.md",
+      "sha256": "ffc6305a9d41d89303759b7bbdcefb5795947a88f590016e970750ed7d11cee9",
+      "original_sha256": "94f263ab2e849c213e698d4d0d2b4c32c313dfc6f22b46c927beffc4047ce88f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

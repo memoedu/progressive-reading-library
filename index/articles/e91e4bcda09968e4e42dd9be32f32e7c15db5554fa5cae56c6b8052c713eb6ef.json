@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Post 31 Noticing and Overcoming Bias — Neel Nanda--浏览器加工--e91e4bcda0.md",
     "sha256": "edf9b885f330f7ec3a3f1415083413460bd72faebce77897f464728208cff621"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e91e4bcda09968e4e42dd9be/reading-97cee58c108ffb6fcebc2ca5a83769364457ebbd1734f9ee87d5ff656e49f067.md",
+      "sha256": "97cee58c108ffb6fcebc2ca5a83769364457ebbd1734f9ee87d5ff656e49f067",
+      "original_sha256": "edf9b885f330f7ec3a3f1415083413460bd72faebce77897f464728208cff621",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

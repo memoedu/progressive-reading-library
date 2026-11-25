@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/The failure of monoclonal antibody therapy for Alzheimer's Disease, implications for the Amyloid Cascade Hypothesis--浏览器加工--1a7e27ad3c.md",
     "sha256": "752b032f977aa4963f01e6dcf56092424bd60469af204dc521b1b2992aa8d1f9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/12124cde4b3ca88a066491c2/reading-ad912dfe89763bea7568310488200e2f347d515c30d0d97f655f41f177e7ceb7.md",
+      "sha256": "ad912dfe89763bea7568310488200e2f347d515c30d0d97f655f41f177e7ceb7",
+      "original_sha256": "752b032f977aa4963f01e6dcf56092424bd60469af204dc521b1b2992aa8d1f9",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

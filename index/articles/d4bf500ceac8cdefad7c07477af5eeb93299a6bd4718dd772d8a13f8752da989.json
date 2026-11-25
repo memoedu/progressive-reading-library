@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Me/Changes in my experience after 2 years of meditation practice--浏览器加工--84bdf0b185.md",
     "sha256": "6706e22bd84e919386ecd06c60c21f11256362b80667af845d26b2a1ca810bac"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d4bf500ceac8cdefad7c0747/reading-750d5686e6551127e10afe7bf9aa4a61903cd629c8d8a8de14cfc4a4775d5946.md",
+      "sha256": "750d5686e6551127e10afe7bf9aa4a61903cd629c8d8a8de14cfc4a4775d5946",
+      "original_sha256": "6706e22bd84e919386ecd06c60c21f11256362b80667af845d26b2a1ca810bac",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

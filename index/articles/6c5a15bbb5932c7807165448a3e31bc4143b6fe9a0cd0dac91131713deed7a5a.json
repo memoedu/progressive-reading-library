@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Two interesting GiveWell updates--浏览器加工--02bf068fa4.md",
     "sha256": "b3dd20be073604c746af7281b392070fc43c952360d746a4b9a3eccd32bfecb2"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6c5a15bbb5932c7807165448/reading-007f0fcbe4533f1168e5ad51c8c8aaf97fe8b0469be776f1c4a85d59f7ef8d5d.md",
+      "sha256": "007f0fcbe4533f1168e5ad51c8c8aaf97fe8b0469be776f1c4a85d59f7ef8d5d",
+      "original_sha256": "b3dd20be073604c746af7281b392070fc43c952360d746a4b9a3eccd32bfecb2",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

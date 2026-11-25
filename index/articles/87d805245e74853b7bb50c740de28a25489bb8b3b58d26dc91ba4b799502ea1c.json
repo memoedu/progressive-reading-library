@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 19 On systems - Living a life of zero willpower — Neel Nanda--浏览器加工--87d805245e.md",
     "sha256": "473a3f174dad95cd172e05052ca2562ee62f557d493ccb689236568983d10626"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/87d805245e74853b7bb50c74/reading-9880312cabd588143abe23ad7aac161413fc23072ade76667d6e8276b87b8a5b.md",
+      "sha256": "9880312cabd588143abe23ad7aac161413fc23072ade76667d6e8276b87b8a5b",
+      "original_sha256": "473a3f174dad95cd172e05052ca2562ee62f557d493ccb689236568983d10626",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

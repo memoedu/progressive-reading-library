@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Lord Keynes, Rallo, Finegold, Vernengo y la teoría austriaca del ciclo--浏览器加工--368f92c359.md",
     "sha256": "3d54237ff57747669c305bc0cba25eb60b7178c30a9bbae8394ad37a40db2d6d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c9606d2196e5032e6e4a3be1/reading-7da76c5b8dad248fa3aa08d09d56abbbe7feae99ab981b92b9e31c095412fa91.md",
+      "sha256": "7da76c5b8dad248fa3aa08d09d56abbbe7feae99ab981b92b9e31c095412fa91",
+      "original_sha256": "3d54237ff57747669c305bc0cba25eb60b7178c30a9bbae8394ad37a40db2d6d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

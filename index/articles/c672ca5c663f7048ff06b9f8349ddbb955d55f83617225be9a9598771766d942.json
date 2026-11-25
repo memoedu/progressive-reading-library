@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Software/Nintil - Ubuntu 7.10 Gutsy Gibbon--浏览器加工--85e8ad44d4.md",
     "sha256": "8368f6e11d0a9a922930b81fb7901176949f880829e54c438d7e5a9af54f6163"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c672ca5c663f7048ff06b9f8/reading-864952b430fb19a0e1b4d57ffd1bdd3eac66c0f2177cfbb0dee1f2faccc4e2a6.md",
+      "sha256": "864952b430fb19a0e1b4d57ffd1bdd3eac66c0f2177cfbb0dee1f2faccc4e2a6",
+      "original_sha256": "8368f6e11d0a9a922930b81fb7901176949f880829e54c438d7e5a9af54f6163",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

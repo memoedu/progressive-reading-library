@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Law/Nintil - Brunel sobre las patentes--浏览器加工--54be91edd0.md",
     "sha256": "ac3a25c1db98afa2b8ab8bf5a33fede113383c6e09a21eb794a7abc3f2353b52"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f3d565484710bd17e16b3ab4/reading-144f402e79468fc2a4a71a063afa7dfe85d1fd99ca894241e6552a92024f3d23.md",
+      "sha256": "144f402e79468fc2a4a71a063afa7dfe85d1fd99ca894241e6552a92024f3d23",
+      "original_sha256": "ac3a25c1db98afa2b8ab8bf5a33fede113383c6e09a21eb794a7abc3f2353b52",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

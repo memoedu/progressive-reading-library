@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Fiction/Nintil - Rojo,Reloj,Ciertamente--浏览器加工--a4fac973af.md",
     "sha256": "cbd382fb078f2c979ea322cbde155de2f102da8ecaa04b0332ffd01eab9b7887"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/feebf61effc0850574a40e84/reading-fac5bbfde2d9189ca765e9ba311d84ab8c9464d163f7e645732c021b4beac3d5.md",
+      "sha256": "fac5bbfde2d9189ca765e9ba311d84ab8c9464d163f7e645732c021b4beac3d5",
+      "original_sha256": "cbd382fb078f2c979ea322cbde155de2f102da8ecaa04b0332ffd01eab9b7887",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

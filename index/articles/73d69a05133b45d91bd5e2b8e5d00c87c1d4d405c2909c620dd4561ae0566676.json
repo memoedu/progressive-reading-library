@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Grad school is worse for public health than STDs--浏览器加工--a288c934bc.md",
     "sha256": "0ccc523c219cb34aba3f118b6b6733e9e5621810df6c3348dcaea25fb1f229a5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/73d69a05133b45d91bd5e2b8/reading-66440a94f5e6070b429c47b72e62d17491c4ecf418ff3831d0880e9eb0bfd47d.md",
+      "sha256": "66440a94f5e6070b429c47b72e62d17491c4ecf418ff3831d0880e9eb0bfd47d",
+      "original_sha256": "0ccc523c219cb34aba3f118b6b6733e9e5621810df6c3348dcaea25fb1f229a5",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

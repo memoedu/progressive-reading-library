@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/More on civilizational inadequacy--浏览器加工--e27579e627.md",
     "sha256": "19d20cfbc26dea5d34fa1778b0ab861f5e2b17822ce9758f819caa87af3ddbd2"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c44f687785406144670f4926/reading-faf63b7676eca6964977fd5412b5808aa2ea42b25c8a83fe2f2cb07581976e4b.md",
+      "sha256": "faf63b7676eca6964977fd5412b5808aa2ea42b25c8a83fe2f2cb07581976e4b",
+      "original_sha256": "19d20cfbc26dea5d34fa1778b0ab861f5e2b17822ce9758f819caa87af3ddbd2",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

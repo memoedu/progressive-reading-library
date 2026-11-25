@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/How useful is data science--浏览器加工--94b6d564e9.md",
     "sha256": "dc85758bb9264788d6546cf32ee2877cf8e8484d928435d983dbba6080a4455d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ebb4299cebec02e6bd0a4088/reading-bcddba1860d977bddb2395933c4882e3fed8c2c0602e895396f247e7923c63c0.md",
+      "sha256": "bcddba1860d977bddb2395933c4882e3fed8c2c0602e895396f247e7923c63c0",
+      "original_sha256": "dc85758bb9264788d6546cf32ee2877cf8e8484d928435d983dbba6080a4455d",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

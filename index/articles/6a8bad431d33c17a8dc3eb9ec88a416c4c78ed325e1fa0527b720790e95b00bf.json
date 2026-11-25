@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Road to Ancaplandia (I) La ilegitimidad de la autoridad política.--浏览器加工--1b601ca572.md",
     "sha256": "6381f4b1f5c6438af5fb74599104482fe89c41f07c255623da230cfdca169d4f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6a8bad431d33c17a8dc3eb9e/reading-a2ac57dd071915a883efd34cbcf706321025049a7affeacd618cd7dd54a234a3.md",
+      "sha256": "a2ac57dd071915a883efd34cbcf706321025049a7affeacd618cd7dd54a234a3",
+      "original_sha256": "6381f4b1f5c6438af5fb74599104482fe89c41f07c255623da230cfdca169d4f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

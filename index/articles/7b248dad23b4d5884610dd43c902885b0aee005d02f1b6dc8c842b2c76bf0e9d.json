@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Ration your judgment--浏览器加工--e33f64fe29.md",
     "sha256": "affcbe595b0c0f693b01cc134bb836483ac30f5bd348eb722385a391e87d5fe6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7b248dad23b4d5884610dd43/reading-a6ba343dd9cd1db0cc06319cf1e90499cde5db9a77ec908b2dfb4606eeb8365e.md",
+      "sha256": "a6ba343dd9cd1db0cc06319cf1e90499cde5db9a77ec908b2dfb4606eeb8365e",
+      "original_sha256": "affcbe595b0c0f693b01cc134bb836483ac30f5bd348eb722385a391e87d5fe6",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

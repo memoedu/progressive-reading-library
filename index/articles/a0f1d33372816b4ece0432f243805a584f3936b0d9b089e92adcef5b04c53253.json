@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Compilations/Nintil - Less Wrong shibboleths--浏览器加工--72d68091aa.md",
     "sha256": "8275bbc4f3a140b265621851fdc591f806bee85788736e0eb02be4e8d4d429e5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a0f1d33372816b4ece0432f2/reading-4e84da587487a8fb2e3922806c7f2945db620216427e7ded42ccc8909a414fdb.md",
+      "sha256": "4e84da587487a8fb2e3922806c7f2945db620216427e7ded42ccc8909a414fdb",
+      "original_sha256": "8275bbc4f3a140b265621851fdc591f806bee85788736e0eb02be4e8d4d429e5",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

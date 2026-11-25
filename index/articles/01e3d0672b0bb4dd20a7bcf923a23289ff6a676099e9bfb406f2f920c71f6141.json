@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Links/Algunos sitios interesantes que suelo leer--浏览器加工--56478e91a3.md",
     "sha256": "a9ad92c094a520d5fc96db2eecda64d41265f9369654f4c866f9c321a21042c0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/01e3d0672b0bb4dd20a7bcf9/reading-ee871163d7211cbe64fc79ff4aee85ee2fc7d19b976150b716f0427243187387.md",
+      "sha256": "ee871163d7211cbe64fc79ff4aee85ee2fc7d19b976150b716f0427243187387",
+      "original_sha256": "a9ad92c094a520d5fc96db2eecda64d41265f9369654f4c866f9c321a21042c0",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Engineering/El Brayton Ready Engine, la primera 'turbina de gas'--浏览器加工--bd149fe026.md",
     "sha256": "c1c4470444ad28ee0b1e268e77dbc9f924eb3f00363788c48dfa4056ff6bda8c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7041704d2210e5ebd4159457/reading-f186b1c6475dd546eb8fe067964fd2ba94df35f981beaffb1a84e42f198143d9.md",
+      "sha256": "f186b1c6475dd546eb8fe067964fd2ba94df35f981beaffb1a84e42f198143d9",
+      "original_sha256": "c1c4470444ad28ee0b1e268e77dbc9f924eb3f00363788c48dfa4056ff6bda8c",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

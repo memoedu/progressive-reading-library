@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/合集/Interviewing Dad (Howard Nielsen)/Dad Part 7 Optimism, health, death, Stuart and soccer--浏览器加工--ee2f74ee9f.md",
     "sha256": "064be17ee8131d7e2ac09d9c806b4a6003f2ebdf39936ca3a8ec97614c2cf05a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ee2f74ee9f1c23035a9357ff/reading-73187c0c207b82a034fe4f9a4d2a8b2a61239a86ab8acdfdb26099891b903a22.md",
+      "sha256": "73187c0c207b82a034fe4f9a4d2a8b2a61239a86ab8acdfdb26099891b903a22",
+      "original_sha256": "064be17ee8131d7e2ac09d9c806b4a6003f2ebdf39936ca3a8ec97614c2cf05a",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

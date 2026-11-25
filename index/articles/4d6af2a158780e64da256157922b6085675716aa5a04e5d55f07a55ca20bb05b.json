@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Progress Studies/US Science leadership, the rise of China, and French mathematics--浏览器加工--b16175c0e9.md",
     "sha256": "80e1415a80129c866601f03c7459442eab17ab03ce47c3b2923738cfd8f88a74"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4d6af2a158780e64da256157/reading-aeb8984cd754f286c45cedde303be16b1424a201ab05369e59085763a32bab5e.md",
+      "sha256": "aeb8984cd754f286c45cedde303be16b1424a201ab05369e59085763a32bab5e",
+      "original_sha256": "80e1415a80129c866601f03c7459442eab17ab03ce47c3b2923738cfd8f88a74",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

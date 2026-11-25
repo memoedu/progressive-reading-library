@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Avoiding bugs in machine learning code--浏览器加工--812fed2cfe.md",
     "sha256": "935960e7434ecd279c100e15f4228827b64348899d7b4f1224e1894a67f65aa4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0f44718e680b2bf6a59a868e/reading-12c2d742cf6fab8fe688517f3fbf65717e10bcba336dae7f3e8ff5320b290679.md",
+      "sha256": "12c2d742cf6fab8fe688517f3fbf65717e10bcba336dae7f3e8ff5320b290679",
+      "original_sha256": "935960e7434ecd279c100e15f4228827b64348899d7b4f1224e1894a67f65aa4",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

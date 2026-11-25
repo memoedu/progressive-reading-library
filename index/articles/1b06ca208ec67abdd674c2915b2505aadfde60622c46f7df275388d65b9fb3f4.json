@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Links/Enlaces de la semana III--浏览器加工--4dc9ae1476.md",
     "sha256": "6237527ee9a20ec8138bc9a0b7a4f956a3be24c36b208c2e4e040c9fd0a5e380"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1b06ca208ec67abdd674c291/reading-1c73b6a71084192f4974d48a8262c727deaecd573e1acbc1eca7d7a667a17283.md",
+      "sha256": "1c73b6a71084192f4974d48a8262c727deaecd573e1acbc1eca7d7a667a17283",
+      "original_sha256": "6237527ee9a20ec8138bc9a0b7a4f956a3be24c36b208c2e4e040c9fd0a5e380",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

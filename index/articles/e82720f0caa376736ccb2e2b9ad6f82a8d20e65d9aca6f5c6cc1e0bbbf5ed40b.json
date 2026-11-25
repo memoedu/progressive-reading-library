@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/selected projects/Cosmos working notes, 1--浏览器加工--e82720f0ca.md",
     "sha256": "4c4f90a53871ddbdfad430fe0e473fee2b6bef5b7cbb5d2ef6a180c3f1f438d0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e82720f0caa376736ccb2e2b/reading-dfeecd6091b31c780969a408e2a1114f9cab96225f5cd42fad855fa77ec3f594.md",
+      "sha256": "dfeecd6091b31c780969a408e2a1114f9cab96225f5cd42fad855fa77ec3f594",
+      "original_sha256": "4c4f90a53871ddbdfad430fe0e473fee2b6bef5b7cbb5d2ef6a180c3f1f438d0",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Nintil - What is aging--浏览器加工--067b7904c9.md",
     "sha256": "e0cc2a6db2bd0165a4708ddea6fc394095076f5461e2a472569db1c95a65b5d2"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e00e2ea1a611cb37731c80cc/reading-bd1dd19f69304de542c582c9f2d5c85791bc5585d197bd995c9219d397bd6499.md",
+      "sha256": "bd1dd19f69304de542c582c9f2d5c85791bc5585d197bd995c9219d397bd6499",
+      "original_sha256": "e0cc2a6db2bd0165a4708ddea6fc394095076f5461e2a472569db1c95a65b5d2",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

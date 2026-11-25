@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/All aboard the Turing Submarine--浏览器加工--31fa186f45.md",
     "sha256": "edabce35f7858596fc76375e1e8471a99881e8aeb777a790ba35b0890c5c110f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1ebac94c89714a600dadbb04/reading-2ffa010dc73207d76c8db248615fd6d187a2999c7922bebfb88c3d6455d5ad62.md",
+      "sha256": "2ffa010dc73207d76c8db248615fd6d187a2999c7922bebfb88c3d6455d5ad62",
+      "original_sha256": "edabce35f7858596fc76375e1e8471a99881e8aeb777a790ba35b0890c5c110f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Innovation/Nintil - Is (useful) physics over--浏览器加工--a0545dd176.md",
     "sha256": "9e0406c8db4e97a3d32a708d4d83f5032c06ce30fc9586d1795130e30a49327e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5013c56623350b41cb7f788f/reading-233eb153851a93e4f4c224fc3bb259489b6c000ca94c053aa3d7ed3a141d7ea6.md",
+      "sha256": "233eb153851a93e4f4c224fc3bb259489b6c000ca94c053aa3d7ed3a141d7ea6",
+      "original_sha256": "9e0406c8db4e97a3d32a708d4d83f5032c06ce30fc9586d1795130e30a49327e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

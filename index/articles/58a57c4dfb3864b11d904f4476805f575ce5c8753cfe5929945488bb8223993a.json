@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/The song remains the same Una refutación de los principales argumentos de los defensores del coeficiente de caja del 100--浏览器加工--8419f1288c.md",
     "sha256": "9a796c5f5a7ee1341225acc8728ee15b40ac53eb3649c6ed933867845e983d9b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/58a57c4dfb3864b11d904f44/reading-b865d68952f98b8ed555d56284ac7c34df7ad3c61ee7507ab841cbac12234c99.md",
+      "sha256": "b865d68952f98b8ed555d56284ac7c34df7ad3c61ee7507ab841cbac12234c99",
+      "original_sha256": "9a796c5f5a7ee1341225acc8728ee15b40ac53eb3649c6ed933867845e983d9b",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

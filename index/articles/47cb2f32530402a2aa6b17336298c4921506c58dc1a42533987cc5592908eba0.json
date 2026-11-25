@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Variación absoluta y relativa de los PGE--浏览器加工--a60dc9a9f7.md",
     "sha256": "19d74121eabc1977608c0af9264c8053e4dbe9daeecb2b85b41621454923e5b4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/47cb2f32530402a2aa6b1733/reading-816bb4da4b4c7325539a12203d7d25c690f1c419bba458d8ae7e6278414e8cb6.md",
+      "sha256": "816bb4da4b4c7325539a12203d7d25c690f1c419bba458d8ae7e6278414e8cb6",
+      "original_sha256": "19d74121eabc1977608c0af9264c8053e4dbe9daeecb2b85b41621454923e5b4",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

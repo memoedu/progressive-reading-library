@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - Decálogo MMT--浏览器加工--6bac452df2.md",
     "sha256": "6fdab7ae458befcb3f5200f6b42a52b1ceae1876bc8ea663003e37426359b492"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f064a159a717a5c88b68b229/reading-53440fe48322d6b427fb02027e683d2c9d28a5fe3339f9739f21902756ffe708.md",
+      "sha256": "53440fe48322d6b427fb02027e683d2c9d28a5fe3339f9739f21902756ffe708",
+      "original_sha256": "6fdab7ae458befcb3f5200f6b42a52b1ceae1876bc8ea663003e37426359b492",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

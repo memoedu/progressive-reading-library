@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/On the express acceptance and rejection of beliefs--浏览器加工--e7ac615dc3.md",
     "sha256": "9ddd11264778e42cf5c7c642c1531f90c9fb0b2d1e71aa43e7c47a2cbe7b890a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a1f356ebbc4aae0b35a3be8a/reading-d3e9bd405ee56fbb1fb110b47fd2ced72989efabf764ab29f16464f8305d35ff.md",
+      "sha256": "d3e9bd405ee56fbb1fb110b47fd2ced72989efabf764ab29f16464f8305d35ff",
+      "original_sha256": "9ddd11264778e42cf5c7c642c1531f90c9fb0b2d1e71aa43e7c47a2cbe7b890a",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

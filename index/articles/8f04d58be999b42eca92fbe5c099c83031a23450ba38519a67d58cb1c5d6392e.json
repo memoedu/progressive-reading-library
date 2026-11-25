@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 26 Having an accurate self-image — Neel Nanda--浏览器加工--8f04d58be9.md",
     "sha256": "c871c59c4d45cb70325dfbc61ca4daf94f045b6211340970bb15c6c465f5fda6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8f04d58be999b42eca92fbe5/reading-e3bf09f2ab25ad03c04fae87eb8bc71bacd6ef173ed650da0b8e6049199238ec.md",
+      "sha256": "e3bf09f2ab25ad03c04fae87eb8bc71bacd6ef173ed650da0b8e6049199238ec",
+      "original_sha256": "c871c59c4d45cb70325dfbc61ca4daf94f045b6211340970bb15c6c465f5fda6",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

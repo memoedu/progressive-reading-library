@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 1 The value of experiments — Neel Nanda--浏览器加工--c82cc0ac78.md",
     "sha256": "89bac9afc4d850b3f931bdeb22c8c43dba0b874ec6d8fd73f450df7de1534221"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c82cc0ac781fb0de04c9be15/reading-fb88ca1b01d4daf5133e8f3a6089003bc4df0cf60c86a1475ad2be424a36bfcb.md",
+      "sha256": "fb88ca1b01d4daf5133e8f3a6089003bc4df0cf60c86a1475ad2be424a36bfcb",
+      "original_sha256": "89bac9afc4d850b3f931bdeb22c8c43dba0b874ec6d8fd73f450df7de1534221",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

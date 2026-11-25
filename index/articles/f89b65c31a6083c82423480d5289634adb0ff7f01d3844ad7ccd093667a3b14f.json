@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Reading lately--浏览器加工--072a5aec50.md",
     "sha256": "2da7c4077a59e8eddfffb5ac6d5fabbd1183b795043782bfe460c669501d3994"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f89b65c31a6083c82423480d/reading-abd3be7b266089804a5d6094f0a2dfdf861f6b9cf010bd71413f0b67ecb39c64.md",
+      "sha256": "abd3be7b266089804a5d6094f0a2dfdf861f6b9cf010bd71413f0b67ecb39c64",
+      "original_sha256": "2da7c4077a59e8eddfffb5ac6d5fabbd1183b795043782bfe460c669501d3994",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

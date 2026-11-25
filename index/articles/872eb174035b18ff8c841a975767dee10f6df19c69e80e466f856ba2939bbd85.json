@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/What to care about in a job--浏览器加工--dd8cabeecd.md",
     "sha256": "61584552cdbe8d297afc096dde404711abb4301c53f7f8b6a71ce7aaf5538214"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/872eb174035b18ff8c841a97/reading-a00af7e1b70ee3d99108a04d74bd645c0f0610134798ddaeef26fe2ce61f530d.md",
+      "sha256": "a00af7e1b70ee3d99108a04d74bd645c0f0610134798ddaeef26fe2ce61f530d",
+      "original_sha256": "61584552cdbe8d297afc096dde404711abb4301c53f7f8b6a71ce7aaf5538214",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/Fund people, not projects I The HHMI and the NIH Director's Pioneer Award--浏览器加工--0d1cb88eed.md",
     "sha256": "8426766e84a29a07739aa78bd2b2b0f7b05faf7d4ebf28319aa3efe1333d5788"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/873157b88b5433a2b4bf2944/reading-1a84728476fed0446672753a30a4b7299049efcc008217b27741546ffb981609.md",
+      "sha256": "1a84728476fed0446672753a30a4b7299049efcc008217b27741546ffb981609",
+      "original_sha256": "8426766e84a29a07739aa78bd2b2b0f7b05faf7d4ebf28319aa3efe1333d5788",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

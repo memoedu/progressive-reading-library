@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/People seem very confused about 401(k) loans--浏览器加工--122bfcf205.md",
     "sha256": "4568d45a62885c0d7960329ad1ce6e145e899a8f37f2b0bdfd38d46405a01caa"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d854696b12c5defb3f4dc5e4/reading-a04dd7af54025bffd031bf54f4fdbe0bf18b7dc9bdf8ef92a2039bc7e044f4ab.md",
+      "sha256": "a04dd7af54025bffd031bf54f4fdbe0bf18b7dc9bdf8ef92a2039bc7e044f4ab",
+      "original_sha256": "4568d45a62885c0d7960329ad1ce6e145e899a8f37f2b0bdfd38d46405a01caa",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

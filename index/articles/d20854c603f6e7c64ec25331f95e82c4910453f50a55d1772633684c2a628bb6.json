@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/P-zombies do not imply physicalism is false--浏览器加工--d73b741fd0.md",
     "sha256": "59a9422db833d69049175129b139ea3765190d2935cade0c08778ab2c6405050"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d20854c603f6e7c64ec25331/reading-77ca5fbc22075ba2ae72bf465c0c63d52983e5ad7cb5cba146a6e1e9942fe2ac.md",
+      "sha256": "77ca5fbc22075ba2ae72bf465c0c63d52983e5ad7cb5cba146a6e1e9942fe2ac",
+      "original_sha256": "59a9422db833d69049175129b139ea3765190d2935cade0c08778ab2c6405050",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

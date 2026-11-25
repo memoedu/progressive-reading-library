@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Notes on The Case Against Education--浏览器加工--2e4d9d4a83.md",
     "sha256": "81af7ad60f3ed65087f17cf4bd4af0cd5ca77f9213233ee58fb5dfd0fc2ad0a3"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5603a97955230b6a25c85c5d/reading-4754a3412c13d2b08caf5dda40c6b2a201f8a09218a46b32c06b0511f77b24a9.md",
+      "sha256": "4754a3412c13d2b08caf5dda40c6b2a201f8a09218a46b32c06b0511f77b24a9",
+      "original_sha256": "81af7ad60f3ed65087f17cf4bd4af0cd5ca77f9213233ee58fb5dfd0fc2ad0a3",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

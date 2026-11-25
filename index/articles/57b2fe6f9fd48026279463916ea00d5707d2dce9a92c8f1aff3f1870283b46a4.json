@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Programming tools I've recently tried--浏览器加工--aec2b8ee28.md",
     "sha256": "43012876334f5961df0d2a019c7d5802e909c26ee938262f559e49b936a2c726"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/57b2fe6f9fd4802627946391/reading-3ef05de58f256f5b9de621f95e4f69a8695b1cd6e814004716f5a6f83e0e85d0.md",
+      "sha256": "3ef05de58f256f5b9de621f95e4f69a8695b1cd6e814004716f5a6f83e0e85d0",
+      "original_sha256": "43012876334f5961df0d2a019c7d5802e909c26ee938262f559e49b936a2c726",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

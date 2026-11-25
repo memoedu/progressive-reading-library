@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science/Nintil - Fixing science (Part 1)--浏览器加工--ceeafd524d.md",
     "sha256": "18e7980302596c50451ef855855775a6bbd6c7f53e971be8a5b7aa6e66a6e444"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/044531355a4339f72b527f3e/reading-f41322b05edc793d04f5963e0f3d8002f11614c00d318d0d97f28eb4e341ac93.md",
+      "sha256": "f41322b05edc793d04f5963e0f3d8002f11614c00d318d0d97f28eb4e341ac93",
+      "original_sha256": "18e7980302596c50451ef855855775a6bbd6c7f53e971be8a5b7aa6e66a6e444",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

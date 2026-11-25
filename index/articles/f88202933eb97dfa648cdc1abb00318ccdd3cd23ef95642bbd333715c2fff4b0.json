@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Nintil - Notes on end-to-end biology--浏览器加工--bccab3f612.md",
     "sha256": "18a966a799562cfdb87fa6aaf5ba4128154f60f7d61ecefb4883c103663e2305"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f88202933eb97dfa648cdc1a/reading-78271ac9c3f9990d8551d8722c234ebf243a547a57f9db904fb7fd2a7de94f92.md",
+      "sha256": "78271ac9c3f9990d8551d8722c234ebf243a547a57f9db904fb7fd2a7de94f92",
+      "original_sha256": "18a966a799562cfdb87fa6aaf5ba4128154f60f7d61ecefb4883c103663e2305",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

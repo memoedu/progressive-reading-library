@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Pollyanna über alles A critique of antinatalism--浏览器加工--55140c87d3.md",
     "sha256": "fae207a757b7c79d45ff794678d5e977c2fcb824619791bb27a635bcaf18beac"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ae783ad238f22ad0b1948da7/reading-1f05534db72f1506eb0e59ab2b8a6c1f0495ba89c9ad5032b279a2b949323280.md",
+      "sha256": "1f05534db72f1506eb0e59ab2b8a6c1f0495ba89c9ad5032b279a2b949323280",
+      "original_sha256": "fae207a757b7c79d45ff794678d5e977c2fcb824619791bb27a635bcaf18beac",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

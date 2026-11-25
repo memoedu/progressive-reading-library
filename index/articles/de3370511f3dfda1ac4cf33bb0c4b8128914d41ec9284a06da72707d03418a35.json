@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Probar una proposición negativa, o sobre Pikachu, dados y la existencia de Dios--浏览器加工--bc87b2ddfb.md",
     "sha256": "84aaaa286d0648b11bd2c1e8b49be0466e3585481a723dc49485dbfddcaa57f3"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/de3370511f3dfda1ac4cf33b/reading-079cc3aa2037014247144b0c58aecae9c88d6f85b31c6a534844ead3db35241a.md",
+      "sha256": "079cc3aa2037014247144b0c58aecae9c88d6f85b31c6a534844ead3db35241a",
+      "original_sha256": "84aaaa286d0648b11bd2c1e8b49be0466e3585481a723dc49485dbfddcaa57f3",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

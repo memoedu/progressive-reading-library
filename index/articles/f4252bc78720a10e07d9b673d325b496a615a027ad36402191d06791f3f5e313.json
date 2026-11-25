@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/The Entreprenerial State El caso de Google--浏览器加工--ff9aefea6e.md",
     "sha256": "c5f29e95dbdaace1176cac947fe85a07db2ad4418d46294e8f6b96dd6304ede8"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f4252bc78720a10e07d9b673/reading-7238563858f545ae15fe856e04307781b2a8266d81115bd988356ac9992fa614.md",
+      "sha256": "7238563858f545ae15fe856e04307781b2a8266d81115bd988356ac9992fa614",
+      "original_sha256": "c5f29e95dbdaace1176cac947fe85a07db2ad4418d46294e8f6b96dd6304ede8",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

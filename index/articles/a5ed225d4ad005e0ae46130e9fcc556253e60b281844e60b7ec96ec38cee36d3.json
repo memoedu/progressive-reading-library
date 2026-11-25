@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Actually doing things--浏览器加工--ec45676dbd.md",
     "sha256": "610f0e457af1d8c1b29e2bf2d3736a81c64350757c4dfa1ebbc616a3f96604b5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a5ed225d4ad005e0ae46130e/reading-795b5f399ece70cfdbfbc30bfa9cddced20b030287b8abb68d1f081f221627d5.md",
+      "sha256": "795b5f399ece70cfdbfbc30bfa9cddced20b030287b8abb68d1f081f221627d5",
+      "original_sha256": "610f0e457af1d8c1b29e2bf2d3736a81c64350757c4dfa1ebbc616a3f96604b5",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

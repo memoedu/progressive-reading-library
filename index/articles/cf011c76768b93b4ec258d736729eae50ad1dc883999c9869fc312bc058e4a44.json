@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Why I left Harvard early--浏览器加工--872baa52f6.md",
     "sha256": "4fe68c3be5dcaff7bb8a9fdb5789a902075796dca7002d94348a2f1cbfe7c89a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cf011c76768b93b4ec258d73/reading-6a0c194b3ac4510ece8f8c368d55ad9ee162683638a52b47b90ef46cddc4d0f2.md",
+      "sha256": "6a0c194b3ac4510ece8f8c368d55ad9ee162683638a52b47b90ef46cddc4d0f2",
+      "original_sha256": "4fe68c3be5dcaff7bb8a9fdb5789a902075796dca7002d94348a2f1cbfe7c89a",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

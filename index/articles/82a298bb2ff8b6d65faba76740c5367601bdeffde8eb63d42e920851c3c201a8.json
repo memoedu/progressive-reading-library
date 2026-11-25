@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Education/Massive input and or spaced repetition--浏览器加工--476bf85d51.md",
     "sha256": "9fcf109500456ce14575a2fe53efd683e5e4e1d10df881af32cbd573fb31b0e9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/82a298bb2ff8b6d65faba767/reading-ac3ea73fa5dcd86b202afd5bf13911f0ae5e5af8a6c6a4053d09f7651fff00a1.md",
+      "sha256": "ac3ea73fa5dcd86b202afd5bf13911f0ae5e5af8a6c6a4053d09f7651fff00a1",
+      "original_sha256": "9fcf109500456ce14575a2fe53efd683e5e4e1d10df881af32cbd573fb31b0e9",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

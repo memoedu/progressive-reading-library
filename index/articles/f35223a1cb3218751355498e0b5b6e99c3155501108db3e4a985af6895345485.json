@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Three interesting refrains of Coders at Work--浏览器加工--68cfa6d57b.md",
     "sha256": "97a276a5315a14402d1995a259bd2caaf7d2221709132d3c9383c48fe9fc808f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f35223a1cb3218751355498e/reading-0eb2649312e4515ff002bcc56cd0fa1a2964d9ca207aed2d50f03cde97529ae1.md",
+      "sha256": "0eb2649312e4515ff002bcc56cd0fa1a2964d9ca207aed2d50f03cde97529ae1",
+      "original_sha256": "97a276a5315a14402d1995a259bd2caaf7d2221709132d3c9383c48fe9fc808f",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

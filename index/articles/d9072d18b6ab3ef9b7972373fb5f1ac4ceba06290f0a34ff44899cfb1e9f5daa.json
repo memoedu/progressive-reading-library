@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Me/Nintil - Expresiones típicas--浏览器加工--f6424d50a4.md",
     "sha256": "91fb5f27d1f4489cd4af2c22fedb7a0449afb24e554321758be6a11e82606725"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d9072d18b6ab3ef9b7972373/reading-eb81bc8c7241f07ee7962186374ca4d8ff1bb7d140c577f0aab0bcee98a4c748.md",
+      "sha256": "eb81bc8c7241f07ee7962186374ca4d8ff1bb7d140c577f0aab0bcee98a4c748",
+      "original_sha256": "91fb5f27d1f4489cd4af2c22fedb7a0449afb24e554321758be6a11e82606725",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

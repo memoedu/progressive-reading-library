@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/Staring into the abyss as a core life skill--浏览器加工--63c028778f.md",
     "sha256": "5c22e7548122dfbfcbee4cf414a7e4b74f9e6fa7af4063cc3a45d39e24331442"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/21f34ebdaede3677acd31784/reading-f77cecfed02672c5ad6ceecbe42b1db965323a7ed59c45677612b3b2bc3e0a9f.md",
+      "sha256": "f77cecfed02672c5ad6ceecbe42b1db965323a7ed59c45677612b3b2bc3e0a9f",
+      "original_sha256": "5c22e7548122dfbfcbee4cf414a7e4b74f9e6fa7af4063cc3a45d39e24331442",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

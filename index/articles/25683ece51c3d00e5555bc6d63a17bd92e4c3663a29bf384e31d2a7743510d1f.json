@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Is there R&D spending myopia--浏览器加工--5d316c085f.md",
     "sha256": "ae154faf69e55c7dc701639a795aec26500d57f70e5f1806487c891438e221f0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/25683ece51c3d00e5555bc6d/reading-591464171edd80c939d7f19444895f75a89f51eab0094960e8be4579be86f6da.md",
+      "sha256": "591464171edd80c939d7f19444895f75a89f51eab0094960e8be4579be86f6da",
+      "original_sha256": "ae154faf69e55c7dc701639a795aec26500d57f70e5f1806487c891438e221f0",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

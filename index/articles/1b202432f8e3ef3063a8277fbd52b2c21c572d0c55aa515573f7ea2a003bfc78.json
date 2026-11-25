@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Compilations/Debate ¿Es la Escuela Austríaca una pseudociencia--浏览器加工--b020b8f2a6.md",
     "sha256": "96f16bd99e965fc3508ec79c03958e6ac7d5b1eb716f2e62322dc057e5b7697e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1b202432f8e3ef3063a8277f/reading-19b0c641c570e6cef85d835a6da02b0f7ce91daa2264c9e4047cc1ec97b62316.md",
+      "sha256": "19b0c641c570e6cef85d835a6da02b0f7ce91daa2264c9e4047cc1ec97b62316",
+      "original_sha256": "96f16bd99e965fc3508ec79c03958e6ac7d5b1eb716f2e62322dc057e5b7697e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

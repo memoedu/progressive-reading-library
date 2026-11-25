@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Mitologías minarquistas, o contra la intervención del Estado, unos comentarios--浏览器加工--1c22e86739.md",
     "sha256": "8d4239e964a1b9cf3eed3e8a7cd611e1207cd600928b6ee9bdf5047c2d7c7faa"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/62dd0ba55ad05a891d5c4b5d/reading-096232193ae7bf10baf9b3e155b4f63d203f239b4edcb85f3fa050b88f8c7671.md",
+      "sha256": "096232193ae7bf10baf9b3e155b4f63d203f239b4edcb85f3fa050b88f8c7671",
+      "original_sha256": "8d4239e964a1b9cf3eed3e8a7cd611e1207cd600928b6ee9bdf5047c2d7c7faa",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

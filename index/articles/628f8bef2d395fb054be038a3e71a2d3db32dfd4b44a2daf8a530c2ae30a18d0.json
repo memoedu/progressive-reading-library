@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Hello, world--浏览器加工--0a1a1ca8c7.md",
     "sha256": "cc5bbb5fdaf47ad47b0cb88cd922a88b50cee54eb48664fe9775c11ee17748a0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/628f8bef2d395fb054be038a/reading-82414895f6aa05675116750997ad73d467dc8b6e6406057f2d992cc6014d2a9f.md",
+      "sha256": "82414895f6aa05675116750997ad73d467dc8b6e6406057f2d992cc6014d2a9f",
+      "original_sha256": "cc5bbb5fdaf47ad47b0cb88cd922a88b50cee54eb48664fe9775c11ee17748a0",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

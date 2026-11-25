@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Soviet Union Series/The Soviet Union poverty and inequality--浏览器加工--e03d7b5105.md",
     "sha256": "a2aea156fea88a38cc8f543d8cd9bf9591b1391fcfabd13edaee78d735534584"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3f2c568a1abf854c42a2b109/reading-71c436de638ae83f81ee60932962f99a0708a2ef78fd904f9fd079605441fda9.md",
+      "sha256": "71c436de638ae83f81ee60932962f99a0708a2ef78fd904f9fd079605441fda9",
+      "original_sha256": "a2aea156fea88a38cc8f543d8cd9bf9591b1391fcfabd13edaee78d735534584",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

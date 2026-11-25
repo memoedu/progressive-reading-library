@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Dos retos para los defensores del coeficiente de caja del 100%--浏览器加工--7d62f5a038.md",
     "sha256": "e0f1a1e12d50ee9fa1f674eae38a324bd5ab038d04fd27d7828af6e992d6e366"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a71c9cbc66804d0247259017/reading-a9113ebcccf8715939308dd174a751abbf1d98df1de21cc850aa2036f5b41421.md",
+      "sha256": "a9113ebcccf8715939308dd174a751abbf1d98df1de21cc850aa2036f5b41421",
+      "original_sha256": "e0f1a1e12d50ee9fa1f674eae38a324bd5ab038d04fd27d7828af6e992d6e366",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

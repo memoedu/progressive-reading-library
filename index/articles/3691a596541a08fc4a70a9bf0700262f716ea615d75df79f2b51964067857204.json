@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/How do bubbles work--浏览器加工--9c82176b48.md",
     "sha256": "cf8ff020bc8ec1cbd3e13ead551feb48a04397a8a263a33c9423e7b78a26c974"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3691a596541a08fc4a70a9bf/reading-f52a4d1e68207ba35f6ab4b0763d906ba4b29b830eb79111d16d06fcba5d7e87.md",
+      "sha256": "f52a4d1e68207ba35f6ab4b0763d906ba4b29b830eb79111d16d06fcba5d7e87",
+      "original_sha256": "cf8ff020bc8ec1cbd3e13ead551feb48a04397a8a263a33c9423e7b78a26c974",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Two open-source music books--浏览器加工--b96d6f2101.md",
     "sha256": "5f4762e651d170b47c330d57709e528e44e4891a1acf65edacd94f6520508972"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0ac1f693eee4e38553017a3f/reading-c88c4523a2797a22413b0c7af26c72b805e7db39740451a5c7514365bafeca29.md",
+      "sha256": "c88c4523a2797a22413b0c7af26c72b805e7db39740451a5c7514365bafeca29",
+      "original_sha256": "5f4762e651d170b47c330d57709e528e44e4891a1acf65edacd94f6520508972",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

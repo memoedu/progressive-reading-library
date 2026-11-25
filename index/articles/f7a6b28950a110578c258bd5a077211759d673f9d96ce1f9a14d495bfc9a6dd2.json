@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Oneboxing and twoboxing in Newcomb's dilemma--浏览器加工--f2e4d38e64.md",
     "sha256": "223179ab6b8e8e1df77f9e9dbb114cb7c1890403561baa18537df8174eae145f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f7a6b28950a110578c258bd5/reading-9e3e25ba6c15e1653273796ca9da9dd782602571118344e5a89cbf10cea443cd.md",
+      "sha256": "9e3e25ba6c15e1653273796ca9da9dd782602571118344e5a89cbf10cea443cd",
+      "original_sha256": "223179ab6b8e8e1df77f9e9dbb114cb7c1890403561baa18537df8174eae145f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

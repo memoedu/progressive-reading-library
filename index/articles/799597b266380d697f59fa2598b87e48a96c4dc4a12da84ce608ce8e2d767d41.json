@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Thoughts on outreach--浏览器加工--363ff21601.md",
     "sha256": "98934c6752d115bdac15e5b268bfff0dfa9c79091e20fa80760de2bd6771bae1"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/799597b266380d697f59fa25/reading-c8445abad39ee4869103a1b3f7b62f9335184d2412ad8a693b1f4ea4d308c3cd.md",
+      "sha256": "c8445abad39ee4869103a1b3f7b62f9335184d2412ad8a693b1f4ea4d308c3cd",
+      "original_sha256": "98934c6752d115bdac15e5b268bfff0dfa9c79091e20fa80760de2bd6771bae1",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

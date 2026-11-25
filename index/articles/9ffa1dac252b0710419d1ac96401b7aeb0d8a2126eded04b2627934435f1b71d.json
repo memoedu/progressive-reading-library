@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/To stressed-out altruists--浏览器加工--489e99fbe5.md",
     "sha256": "2873028890864b8d8c44aada732e8073914982e679260b9ed41a9c4ed83704e9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9ffa1dac252b0710419d1ac9/reading-47fe98d7b4c62e78caee42dd27cf640360ffcf642f4b92c16f6c07bd5e8ff97b.md",
+      "sha256": "47fe98d7b4c62e78caee42dd27cf640360ffcf642f4b92c16f6c07bd5e8ff97b",
+      "original_sha256": "2873028890864b8d8c44aada732e8073914982e679260b9ed41a9c4ed83704e9",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

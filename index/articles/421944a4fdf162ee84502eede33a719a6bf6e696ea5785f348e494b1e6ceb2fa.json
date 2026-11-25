@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Frugality for EA-influenced spending patterns--浏览器加工--a605c2b35d.md",
     "sha256": "1503e14a558f204cd36f0a1c5e643ad9333d6941a1afab0058cc5f8f852def19"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/421944a4fdf162ee84502eed/reading-08e7f1cc27c6c12ba483318192d3a6b6539ab0b40512e114b703430c07e4b006.md",
+      "sha256": "08e7f1cc27c6c12ba483318192d3a6b6539ab0b40512e114b703430c07e4b006",
+      "original_sha256": "1503e14a558f204cd36f0a1c5e643ad9333d6941a1afab0058cc5f8f852def19",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

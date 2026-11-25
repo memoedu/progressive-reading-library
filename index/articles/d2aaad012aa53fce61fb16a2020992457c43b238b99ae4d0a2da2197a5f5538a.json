@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Tools for keeping focused--浏览器加工--475c68258a.md",
     "sha256": "23d05c025c85f85207d08524ad6b0b5be4d8105c2fe08712ca4e2fb166b62996"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d2aaad012aa53fce61fb16a2/reading-c3ff44da70a0de298195cbd2607ca76681c59255d283ac0873dd883ae8b1441d.md",
+      "sha256": "c3ff44da70a0de298195cbd2607ca76681c59255d283ac0873dd883ae8b1441d",
+      "original_sha256": "23d05c025c85f85207d08524ad6b0b5be4d8105c2fe08712ca4e2fb166b62996",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

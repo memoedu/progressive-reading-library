@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 12 The Map is not the Territory — Neel Nanda--浏览器加工--501df8155d.md",
     "sha256": "32ab034926364878f85b63fbf8f7e3e48e7337ce9656fda57cc5d6f5edabcd54"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/501df8155d2ffa330f18b5bb/reading-6df2f5318dd6011d939d716e8ded5b6d579a50b17f61960f2469000b2b9a5242.md",
+      "sha256": "6df2f5318dd6011d939d716e8ded5b6d579a50b17f61960f2469000b2b9a5242",
+      "original_sha256": "32ab034926364878f85b63fbf8f7e3e48e7337ce9656fda57cc5d6f5edabcd54",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

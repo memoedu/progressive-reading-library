@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Libertad positiva y negativa--浏览器加工--6249ee27af.md",
     "sha256": "70d0ed0e546ac5dd58b41efad6c623f3060e37750061f8d20c6e3d482fcac38f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5a62f04898a0fc3c494133cc/reading-740a7ff43fa2a2b389331ef3c442d549b03310c1171d1cea3a3f4ba632c6d436.md",
+      "sha256": "740a7ff43fa2a2b389331ef3c442d549b03310c1171d1cea3a3f4ba632c6d436",
+      "original_sha256": "70d0ed0e546ac5dd58b41efad6c623f3060e37750061f8d20c6e3d482fcac38f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/tools for thought/How to make memory systems widespread--浏览器加工--effba4d13c.md",
     "sha256": "81515a2b64b5a6b903aa978de982428b378f41b651a26a4419d7d3491065b9aa"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/effba4d13c158e8e3d340086/reading-f270eee650ca8090e44998a82dbdae3790cc960346ec75d3601d54e0a9160d50.md",
+      "sha256": "f270eee650ca8090e44998a82dbdae3790cc960346ec75d3601d54e0a9160d50",
+      "original_sha256": "81515a2b64b5a6b903aa978de982428b378f41b651a26a4419d7d3491065b9aa",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

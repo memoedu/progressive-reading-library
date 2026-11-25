@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Handbook of the Economics of Innovation Some sort of summary--浏览器加工--cfd13d46fb.md",
     "sha256": "c81cc9431b1f2d4d49a25adad1ae5d3273c1cd5fba2355d19b711124a6615775"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/81e236db4430014b26fdf0df/reading-9857ae8a8c538e51f03793acc670c888b4f48a7b2679573a3c205094f3aafcfa.md",
+      "sha256": "9857ae8a8c538e51f03793acc670c888b4f48a7b2679573a3c205094f3aafcfa",
+      "original_sha256": "c81cc9431b1f2d4d49a25adad1ae5d3273c1cd5fba2355d19b711124a6615775",
+      "processing_sha256": "fabb6b6dd1abc7c744b4013ad784b8c4099e6cb2207d67d4403d0acbd6e9950d",
+      "processor_version": "1.12.16",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

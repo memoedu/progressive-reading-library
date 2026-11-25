@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Análisis del Consumismo III Capitalismo y consumismo--浏览器加工--3061a54362.md",
     "sha256": "880f9c458bdf648242d1fe4e1ade199122984d5ea49aca572a619ca40cc9c7ca"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ac9b94eb7b5e89e5edea43df/reading-d5dae78700f89b66298b2010f2460d92d418203ab520dff00f629f944de9b5ff.md",
+      "sha256": "d5dae78700f89b66298b2010f2460d92d418203ab520dff00f629f944de9b5ff",
+      "original_sha256": "880f9c458bdf648242d1fe4e1ade199122984d5ea49aca572a619ca40cc9c7ca",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Gender and STEM/Stereotypes and discrimination against women in STEM--浏览器加工--71dced0898.md",
     "sha256": "a0ce9d0d8c2fcb6cb6a183950ae0f4e18832e0ef33379391e0f1475a9e4a1f47"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3ca917650cc33e23dfacf78d/reading-290aa7e640608726b2174551b39ba303185ec37a887bce9c4d66cfe7a518740d.md",
+      "sha256": "290aa7e640608726b2174551b39ba303185ec37a887bce9c4d66cfe7a518740d",
+      "original_sha256": "a0ce9d0d8c2fcb6cb6a183950ae0f4e18832e0ef33379391e0f1475a9e4a1f47",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

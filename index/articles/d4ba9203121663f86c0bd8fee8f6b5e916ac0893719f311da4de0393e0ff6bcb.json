@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/The www prefix--浏览器加工--7d6b774fe0.md",
     "sha256": "6e8f09decaf62d78949b5736ee220dd0e537dec980e11e08a6684c17ba9af1c3"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d4ba9203121663f86c0bd8fe/reading-cc5eba1f29a5b72fafdb5f647cfd9fd02fc23067955b1966e7c0a4e5aac1fd0b.md",
+      "sha256": "cc5eba1f29a5b72fafdb5f647cfd9fd02fc23067955b1966e7c0a4e5aac1fd0b",
+      "original_sha256": "6e8f09decaf62d78949b5736ee220dd0e537dec980e11e08a6684c17ba9af1c3",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

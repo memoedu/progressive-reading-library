@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Semester review--浏览器加工--36de6ecf0d.md",
     "sha256": "3fe73f25a4c71139aa0bdc94ca4d3284450d4291eb94f159bd879a73802e08eb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d35b726f638f7d11e81e2629/reading-55c24abf0954aeb4a3990efce22dee8bbc840ac1e2036bef50636404bd2cb487.md",
+      "sha256": "55c24abf0954aeb4a3990efce22dee8bbc840ac1e2036bef50636404bd2cb487",
+      "original_sha256": "3fe73f25a4c71139aa0bdc94ca4d3284450d4291eb94f159bd879a73802e08eb",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

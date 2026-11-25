@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Effective altruism reading material for busy people--浏览器加工--a1fd5e442c.md",
     "sha256": "f4cc54ead99e634a0f4dc4cfaa67365f902328eafe40f656c32b90716ac40dc0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fdfb96b6f4852318cb944cc4/reading-6e2bcbf73cf9f2228019557abe3ad18e1e9983528a48f1134dd4d216ec7c856e.md",
+      "sha256": "6e2bcbf73cf9f2228019557abe3ad18e1e9983528a48f1134dd4d216ec7c856e",
+      "original_sha256": "f4cc54ead99e634a0f4dc4cfaa67365f902328eafe40f656c32b90716ac40dc0",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

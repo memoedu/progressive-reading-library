@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Spanish/Inteligencia, ideología, y Massimo Pigliucci--浏览器加工--22d850d2bc.md",
     "sha256": "f0be2679a5d67cf32bcf97e1b62c87814e03a9b613c0812fbd576c21bab79ed5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/77c18428a17fccb9865de8a9/reading-f084cc0713bfefeddff4450e704851b86fe69080b81de4887c6c8ce3123b4d44.md",
+      "sha256": "f084cc0713bfefeddff4450e704851b86fe69080b81de4887c6c8ce3123b4d44",
+      "original_sha256": "f0be2679a5d67cf32bcf97e1b62c87814e03a9b613c0812fbd576c21bab79ed5",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

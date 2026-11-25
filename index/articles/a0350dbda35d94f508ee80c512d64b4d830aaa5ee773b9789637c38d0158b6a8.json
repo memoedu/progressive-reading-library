@@ -5,5 +5,16 @@
   "original": {
     "path": "订阅/RSS/阮一峰的网络日志/科技爱好者周刊（第 419 期）：机房来了，写字楼走了 - 阮一峰的网络日志--浏览器加工--f6458e3ef2.md",
     "sha256": "bf0f4fb5d841caa98bc92b06684378aa30b77879d99a92ed60b411359880513b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a0350dbda35d94f508ee80c5/reading-bb1c776e95b0f774cbad0e86854c11c42d7e54f605badc138a11142d03c2ec1d.md",
+      "sha256": "bb1c776e95b0f774cbad0e86854c11c42d7e54f605badc138a11142d03c2ec1d",
+      "original_sha256": "bf0f4fb5d841caa98bc92b06684378aa30b77879d99a92ed60b411359880513b",
+      "processing_sha256": "d7d201932ea8eecd66b1a6ad98f6dbc9bd6f73bffd3b495dd298f1e1e29e18bf",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:guide-coverage/v2",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
 }

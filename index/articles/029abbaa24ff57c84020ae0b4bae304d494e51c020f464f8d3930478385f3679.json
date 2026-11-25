@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Effective altruism and growth--浏览器加工--062d8e391b.md",
     "sha256": "b4cd82bffc8243fcd3b5b5aeccc8e5299fc5daee4b0958712609a73b51915dff"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/029abbaa24ff57c84020ae0b/reading-403141d6f5066f89854ac23d1f68b14ef195a9805ece4f2506b11dba9d22708b.md",
+      "sha256": "403141d6f5066f89854ac23d1f68b14ef195a9805ece4f2506b11dba9d22708b",
+      "original_sha256": "b4cd82bffc8243fcd3b5b5aeccc8e5299fc5daee4b0958712609a73b51915dff",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

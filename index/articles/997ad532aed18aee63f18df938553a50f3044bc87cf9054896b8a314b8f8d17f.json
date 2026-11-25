@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 16 Prioritisation Part 1 2 - Finding Goals — Neel Nanda--浏览器加工--997ad532ae.md",
     "sha256": "266e43dc8e5c946832de2592315801128c23416ff0057c77158c84543940fd60"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/997ad532aed18aee63f18df9/reading-e187ef0ef3700a38a29fb5e3c08aa396fe9af280029306d9f8c5ad9902aef08b.md",
+      "sha256": "e187ef0ef3700a38a29fb5e3c08aa396fe9af280029306d9f8c5ad9902aef08b",
+      "original_sha256": "266e43dc8e5c946832de2592315801128c23416ff0057c77158c84543940fd60",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

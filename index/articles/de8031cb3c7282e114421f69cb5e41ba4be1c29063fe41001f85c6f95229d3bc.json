@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Leaving Wave, joining Anthropic--浏览器加工--b9e0591e48.md",
     "sha256": "af6e09edd0374a5f9694b6112da3c1de0f65f6b8cefe66e5d6103f7ca55168c6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/de8031cb3c7282e114421f69/reading-d66796180d261f855203e8c32855d95833ddbfd0941bebc273768f4b52230add.md",
+      "sha256": "d66796180d261f855203e8c32855d95833ddbfd0941bebc273768f4b52230add",
+      "original_sha256": "af6e09edd0374a5f9694b6112da3c1de0f65f6b8cefe66e5d6103f7ca55168c6",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

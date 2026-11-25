@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Links V Art, Aristotle and American Fuzzy Lop--浏览器加工--2dcd645521.md",
     "sha256": "0f05813429991eba882f3ca2d0a6f368690c1a4e59f5a99b2132ca2274bbb4d9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1bea96df0cfebbe431fff525/reading-819980d82c5ce8171686ad00dd0c0bb4583e57c015f7be569e91786483b3c239.md",
+      "sha256": "819980d82c5ce8171686ad00dd0c0bb4583e57c015f7be569e91786483b3c239",
+      "original_sha256": "0f05813429991eba882f3ca2d0a6f368690c1a4e59f5a99b2132ca2274bbb4d9",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

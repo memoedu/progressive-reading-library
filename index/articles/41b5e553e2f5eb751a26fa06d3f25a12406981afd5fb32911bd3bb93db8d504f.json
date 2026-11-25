@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/El sorprendente Índice de Desarrollo Humano de Cuba--浏览器加工--e5bc2236d4.md",
     "sha256": "905f3efd7aa9c14aac1715e68d308c45639934269fb9b194df4cd81f5d5b3268"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/41b5e553e2f5eb751a26fa06/reading-e2126e4d8245e38b4bcce706c476e81a21044afc1d3bd04f957e0e66e58aa21d.md",
+      "sha256": "e2126e4d8245e38b4bcce706c476e81a21044afc1d3bd04f957e0e66e58aa21d",
+      "original_sha256": "905f3efd7aa9c14aac1715e68d308c45639934269fb9b194df4cd81f5d5b3268",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

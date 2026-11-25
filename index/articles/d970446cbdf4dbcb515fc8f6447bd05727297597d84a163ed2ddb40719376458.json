@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Coding/Why numbering should start at one--浏览器加工--4930d42692.md",
     "sha256": "c4e07c8dc740dd6d262d6ecfbc45da6f9cc94b987c9233886f1fe8561a36478b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d970446cbdf4dbcb515fc8f6/reading-0f911c601f99ed40df9c0142b8bf26718933eba56db2410a35577c1fcedf51a4.md",
+      "sha256": "0f911c601f99ed40df9c0142b8bf26718933eba56db2410a35577c1fcedf51a4",
+      "original_sha256": "c4e07c8dc740dd6d262d6ecfbc45da6f9cc94b987c9233886f1fe8561a36478b",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

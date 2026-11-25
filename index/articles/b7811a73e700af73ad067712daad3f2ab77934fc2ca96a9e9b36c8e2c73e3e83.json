@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/The Entrepreneurial State The case of renewable energy--浏览器加工--2e35a381be.md",
     "sha256": "000a1e57e1dae127fcc5c204cf86b63ad66c4b4cdcb368fc8aafa6e3e240516e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b7811a73e700af73ad067712/reading-1dc0c68cc41d3c3a4cdf6dbaa1254410b721f10361838818be85fb0b5ba91a0b.md",
+      "sha256": "1dc0c68cc41d3c3a4cdf6dbaa1254410b721f10361838818be85fb0b5ba91a0b",
+      "original_sha256": "000a1e57e1dae127fcc5c204cf86b63ad66c4b4cdcb368fc8aafa6e3e240516e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

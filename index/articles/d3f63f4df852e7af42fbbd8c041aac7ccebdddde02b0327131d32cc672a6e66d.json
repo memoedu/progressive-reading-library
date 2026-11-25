@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Small company or big company--浏览器加工--65540a6784.md",
     "sha256": "93853b31e9b0d9d4e22d7761a5acfc807d1599e385e52a31c75dbc6eb20b67b6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d3f63f4df852e7af42fbbd8c/reading-71d6c0597396c7ee31c4f77a80624846ca1690086e9c0388cf8240a8fbe96884.md",
+      "sha256": "71d6c0597396c7ee31c4f77a80624846ca1690086e9c0388cf8240a8fbe96884",
+      "original_sha256": "93853b31e9b0d9d4e22d7761a5acfc807d1599e385e52a31c75dbc6eb20b67b6",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

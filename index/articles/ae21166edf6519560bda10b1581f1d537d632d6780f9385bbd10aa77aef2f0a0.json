@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Rawls, redistribución de órganos e ingeniería psíquica--浏览器加工--2802c51aac.md",
     "sha256": "ef87c8e3ad0b15517b08e3760c493e8446d680232248cfc120a0e6666c334701"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ae21166edf6519560bda10b1/reading-9246841f7bb43765a906fbdd64513c7fa9bbf8844abcdf5679a0224016782cc6.md",
+      "sha256": "9246841f7bb43765a906fbdd64513c7fa9bbf8844abcdf5679a0224016782cc6",
+      "original_sha256": "ef87c8e3ad0b15517b08e3760c493e8446d680232248cfc120a0e6666c334701",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

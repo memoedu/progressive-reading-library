@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/tools for thought/How I use memory systems--浏览器加工--4b0b52a875.md",
     "sha256": "be2c4a849e6ae8e6f0d313e779a505e401e1d229f071a3559cc7f531df06fd1c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4b0b52a8754f790138094df3/reading-e2044e11b67869e4c3ed9471ad62245f7def9d5b5801b3df419969e1044a8738.md",
+      "sha256": "e2044e11b67869e4c3ed9471ad62245f7def9d5b5801b3df419969e1044a8738",
+      "original_sha256": "be2c4a849e6ae8e6f0d313e779a505e401e1d229f071a3559cc7f531df06fd1c",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

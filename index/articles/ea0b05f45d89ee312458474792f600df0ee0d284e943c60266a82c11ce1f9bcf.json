@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 22 The world is full of wasted motion — Neel Nanda--浏览器加工--ea0b05f45d.md",
     "sha256": "3eec52bcaab3dedc061fa2a604155e22b5b5a764bf0f5144e1dd3d9300cc19aa"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ea0b05f45d89ee3124584747/reading-c1e4a6014515b8ecd8459f1e3727671b0e1bdbe8d2f016ee008914c2cf83bac2.md",
+      "sha256": "c1e4a6014515b8ecd8459f1e3727671b0e1bdbe8d2f016ee008914c2cf83bac2",
+      "original_sha256": "3eec52bcaab3dedc061fa2a604155e22b5b5a764bf0f5144e1dd3d9300cc19aa",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

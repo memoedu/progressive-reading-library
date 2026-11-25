@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Comentario sobre el debate de la Escuela Austríaca y pseudociencia--浏览器加工--bfea2d223c.md",
     "sha256": "bf33abec673838f0a4039bd8f97165dd26fc6c2f42b7bdefc805f7f93bf2af86"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dd71a8e3a33bdffe72001728/reading-5d14e16791102ffb2fa3670cf344e5d57f080d8f7130f335e40d8b9617e3082d.md",
+      "sha256": "5d14e16791102ffb2fa3670cf344e5d57f080d8f7130f335e40d8b9617e3082d",
+      "original_sha256": "bf33abec673838f0a4039bd8f97165dd26fc6c2f42b7bdefc805f7f93bf2af86",
+      "processing_sha256": "fabb6b6dd1abc7c744b4013ad784b8c4099e6cb2207d67d4403d0acbd6e9950d",
+      "processor_version": "1.12.16",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

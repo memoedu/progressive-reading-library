@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Student group notes #1 have two people--浏览器加工--8514261470.md",
     "sha256": "f823d50693bdcf1552883756b657138acaa30bfc7df834b256fb880e795fb275"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/72588830d343c8d3aa06286c/reading-f747bfcaf3a1e0d52d2419bce5fe3e9c86b06fda4cf37bf4a2718bab16d845c0.md",
+      "sha256": "f747bfcaf3a1e0d52d2419bce5fe3e9c86b06fda4cf37bf4a2718bab16d845c0",
+      "original_sha256": "f823d50693bdcf1552883756b657138acaa30bfc7df834b256fb880e795fb275",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

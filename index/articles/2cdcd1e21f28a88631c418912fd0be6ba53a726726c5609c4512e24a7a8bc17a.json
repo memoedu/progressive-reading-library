@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Nintil - Sobre la pobreza--浏览器加工--2171420dff.md",
     "sha256": "56fe261a407e81ab1b60007f7db3465bdd41889e2717c12e833472c647ea5793"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2cdcd1e21f28a88631c41891/reading-69b74b51362e8ae14b39205dea8f97d65e0da353da0eb6a79e5a7ffb39036d4f.md",
+      "sha256": "69b74b51362e8ae14b39205dea8f97d65e0da353da0eb6a79e5a7ffb39036d4f",
+      "original_sha256": "56fe261a407e81ab1b60007f7db3465bdd41889e2717c12e833472c647ea5793",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

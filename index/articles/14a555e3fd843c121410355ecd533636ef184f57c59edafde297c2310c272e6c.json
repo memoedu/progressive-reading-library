@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Redesign--浏览器加工--bf448aab9b.md",
     "sha256": "017e2c69f336265e18d5fa07932ce0c9b07c0820b5c56974c9574135ff872cbd"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/14a555e3fd843c121410355e/reading-bf016b0d016f298f1ee00e259d4790ce702411394a42510d752b391f440ccfba.md",
+      "sha256": "bf016b0d016f298f1ee00e259d4790ce702411394a42510d752b391f440ccfba",
+      "original_sha256": "017e2c69f336265e18d5fa07932ce0c9b07c0820b5c56974c9574135ff872cbd",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

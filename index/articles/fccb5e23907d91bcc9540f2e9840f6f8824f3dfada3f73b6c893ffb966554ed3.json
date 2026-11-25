@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Los límites de la democracia--浏览器加工--9a0b2b9020.md",
     "sha256": "6b6cac14e6eb38770a31f9b1124e14bef00cc7ea7568455489c3b853b06e3fa1"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fccb5e23907d91bcc9540f2e/reading-574f6c7c1b18cab90c40460bce89605a3eab4a07ca8ceb2b3fd47c36b8c1715f.md",
+      "sha256": "574f6c7c1b18cab90c40460bce89605a3eab4a07ca8ceb2b3fd47c36b8c1715f",
+      "original_sha256": "6b6cac14e6eb38770a31f9b1124e14bef00cc7ea7568455489c3b853b06e3fa1",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

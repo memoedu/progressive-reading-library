@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/How bad are bad fundraising terms--浏览器加工--bbdac48e5a.md",
     "sha256": "3a07bdf1ed81ff2fff86ca44348c6b5c818d8150a9d40722d75bc532d0445fa6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4bba45e63183470191e7b6ea/reading-9ef67e18b8f78920da3422fb1d09e5ad02cd19fecce6540c34883368f3838b97.md",
+      "sha256": "9ef67e18b8f78920da3422fb1d09e5ad02cd19fecce6540c34883368f3838b97",
+      "original_sha256": "3a07bdf1ed81ff2fff86ca44348c6b5c818d8150a9d40722d75bc532d0445fa6",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

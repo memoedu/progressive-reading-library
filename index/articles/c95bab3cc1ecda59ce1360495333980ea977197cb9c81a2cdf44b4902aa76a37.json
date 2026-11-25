@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Don't claw back employee options--浏览器加工--ff095f732f.md",
     "sha256": "3f2fe88f59de91ef2cedca9e38a0d6789ae5a639629e7526811748b6910e3eda"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c95bab3cc1ecda59ce136049/reading-7fc53d9a1cd717dded4859de3df8f25fd9f1923dfffd3f16a6df93afec266622.md",
+      "sha256": "7fc53d9a1cd717dded4859de3df8f25fd9f1923dfffd3f16a6df93afec266622",
+      "original_sha256": "3f2fe88f59de91ef2cedca9e38a0d6789ae5a639629e7526811748b6910e3eda",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

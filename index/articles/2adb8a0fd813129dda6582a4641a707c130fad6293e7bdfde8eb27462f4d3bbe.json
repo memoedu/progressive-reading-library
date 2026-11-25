@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/AI/Images and Words AI in 2026--浏览器加工--d35573c29a.md",
     "sha256": "79c534a8fb524610e32d389b30fd4a6835747c52136772151ad0ec4ea61db5ac"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2adb8a0fd813129dda6582a4/reading-d64ac69fd6d36b42997698a3e8f5ff09e0fb40a993c0b0567312f2e8a3226730.md",
+      "sha256": "d64ac69fd6d36b42997698a3e8f5ff09e0fb40a993c0b0567312f2e8a3226730",
+      "original_sha256": "79c534a8fb524610e32d389b30fd4a6835747c52136772151ad0ec4ea61db5ac",
+      "processing_sha256": "d1f760eb2e0973a4d0ce9bdceae4fb59d1bd698bc3bc54f25127e13c4a72a175",
+      "processor_version": "1.12.17",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

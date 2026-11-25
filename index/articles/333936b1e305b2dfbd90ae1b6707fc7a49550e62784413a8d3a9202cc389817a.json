@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Algunos comentarios a las críticas que no deben ser usadas contra la teoría del valor de Marx--浏览器加工--8ad4d5832b.md",
     "sha256": "c4c485581d35394e02a0ba7a5ef781b04091a1f59d6c116499933d119324af70"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/333936b1e305b2dfbd90ae1b/reading-23aeec389201cfabb0cf5adfdc3479eb2eb5db27e704bf1080e33af0841b3b36.md",
+      "sha256": "23aeec389201cfabb0cf5adfdc3479eb2eb5db27e704bf1080e33af0841b3b36",
+      "original_sha256": "c4c485581d35394e02a0ba7a5ef781b04091a1f59d6c116499933d119324af70",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

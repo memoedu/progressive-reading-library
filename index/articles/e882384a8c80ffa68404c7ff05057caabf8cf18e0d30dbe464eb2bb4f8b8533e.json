@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Blinking lights to slow down Alzheimer's--浏览器加工--881f775cc2.md",
     "sha256": "4aa17771643bf12c5cd0f856453180fc8e1f709e9c346081ff985e496518945f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e882384a8c80ffa68404c7ff/reading-d600590f00b06f414179e105b536804f44ef5b918fb5dfd2253dec107c78dedf.md",
+      "sha256": "d600590f00b06f414179e105b536804f44ef5b918fb5dfd2253dec107c78dedf",
+      "original_sha256": "4aa17771643bf12c5cd0f856453180fc8e1f709e9c346081ff985e496518945f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

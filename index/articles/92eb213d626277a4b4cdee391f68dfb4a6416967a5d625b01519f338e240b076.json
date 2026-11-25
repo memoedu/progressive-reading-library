@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Post 36 My Sense of Aesthetics — Neel Nanda--浏览器加工--92eb213d62.md",
     "sha256": "a52a89ac1865fd7b6693bdbccad74f0931e36e7d0331a35e855310c7e02d597b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/92eb213d626277a4b4cdee39/reading-41e77f64158e7c85d801e8e6ce112a862b2716796d1d07f5ebfade6f6b45591c.md",
+      "sha256": "41e77f64158e7c85d801e8e6ce112a862b2716796d1d07f5ebfade6f6b45591c",
+      "original_sha256": "a52a89ac1865fd7b6693bdbccad74f0931e36e7d0331a35e855310c7e02d597b",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

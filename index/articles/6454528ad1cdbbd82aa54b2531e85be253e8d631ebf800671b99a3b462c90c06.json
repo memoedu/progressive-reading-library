@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Ética experimental ¿A quién matarías--浏览器加工--67e7284d14.md",
     "sha256": "068355da6a8ed4738586e868aeac5943a25d09a6e47cfa422adf467b79bc804c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6454528ad1cdbbd82aa54b25/reading-d3b5a7c76a7df918a034cd4992377c2c097d91060573b864a9e410425e53afce.md",
+      "sha256": "d3b5a7c76a7df918a034cd4992377c2c097d91060573b864a9e410425e53afce",
+      "original_sha256": "068355da6a8ed4738586e868aeac5943a25d09a6e47cfa422adf467b79bc804c",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

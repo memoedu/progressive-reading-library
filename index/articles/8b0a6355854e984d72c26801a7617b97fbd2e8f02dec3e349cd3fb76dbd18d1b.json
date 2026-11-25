@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Rise and fall of Rawlsianism--浏览器加工--4bbdb24b42.md",
     "sha256": "6b2ac5ed1cd9a511976809311ad7c6514412be0a23a2db9cc04f3a9214f80ee0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8b0a6355854e984d72c26801/reading-47c5c16051c77536b9627d72a012f0146bbdead6872797da45e72bd8992c9287.md",
+      "sha256": "47c5c16051c77536b9627d72a012f0146bbdead6872797da45e72bd8992c9287",
+      "original_sha256": "6b2ac5ed1cd9a511976809311ad7c6514412be0a23a2db9cc04f3a9214f80ee0",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

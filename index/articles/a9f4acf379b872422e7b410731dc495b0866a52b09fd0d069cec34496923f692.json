@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Writing to clarify thoughts--浏览器加工--4e54ab324e.md",
     "sha256": "59f6392926beeee0991c37d6995e9a538398f10d38429b11624cff08197891c9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a9f4acf379b872422e7b4107/reading-0241ab25a32d43283c1fcf60b5ee9b29c5155b99ecff6875d138a094b98ae29c.md",
+      "sha256": "0241ab25a32d43283c1fcf60b5ee9b29c5155b99ecff6875d138a094b98ae29c",
+      "original_sha256": "59f6392926beeee0991c37d6995e9a538398f10d38429b11624cff08197891c9",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

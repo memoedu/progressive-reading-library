@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/College advice for people who are exactly like me--浏览器加工--819295fb61.md",
     "sha256": "f3a9e17049afc1aaf9225a92ff8bd3bd84ce9f933b73c02c9815cc3d4ef7926a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8100d19a3d4000122578590d/reading-94737728b8009e2c4ac49d0b1bc0e8fe4750c658f4ebd26f94dfb7e4dd4d3b99.md",
+      "sha256": "94737728b8009e2c4ac49d0b1bc0e8fe4750c658f4ebd26f94dfb7e4dd4d3b99",
+      "original_sha256": "f3a9e17049afc1aaf9225a92ff8bd3bd84ce9f933b73c02c9815cc3d4ef7926a",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

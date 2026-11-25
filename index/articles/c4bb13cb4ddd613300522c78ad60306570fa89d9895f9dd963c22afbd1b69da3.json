@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Una recopilación de otras críticas a Mazzucato--浏览器加工--ed340e1cf6.md",
     "sha256": "fa1fe3b49334c26e86a6c8e2b7b6929fa7eeb3251600becf3827054cbb9b52a0"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c4bb13cb4ddd613300522c78/reading-86269a30a004cb496932de9e2618de442ac9f7bbd3dd4b3e3bfbddafab583a86.md",
+      "sha256": "86269a30a004cb496932de9e2618de442ac9f7bbd3dd4b3e3bfbddafab583a86",
+      "original_sha256": "fa1fe3b49334c26e86a6c8e2b7b6929fa7eeb3251600becf3827054cbb9b52a0",
+      "processing_sha256": "897ec1a8c3dd3076ba98f0ec245dc55caabfc98640bbb2d4a81e82094e7a3d5e",
+      "processor_version": "1.12.18",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

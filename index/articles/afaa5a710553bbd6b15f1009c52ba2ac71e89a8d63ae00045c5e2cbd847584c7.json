@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/República, Monarquía y el olor de la mierda.--浏览器加工--ad922b00e5.md",
     "sha256": "d5a560eca0d529a5ec9c3a53a713676986425844344e38917e6f7403ec217689"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/afaa5a710553bbd6b15f1009/reading-7e3bf0b775b7cc77a0dc9f2f80f7f5b78b194a8eed802ad819572e29c036cf17.md",
+      "sha256": "7e3bf0b775b7cc77a0dc9f2f80f7f5b78b194a8eed802ad819572e29c036cf17",
+      "original_sha256": "d5a560eca0d529a5ec9c3a53a713676986425844344e38917e6f7403ec217689",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

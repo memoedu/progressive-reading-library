@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Mazzucato y el iPhone (ii) El mito del Estado emprendedor--浏览器加工--f619c17c85.md",
     "sha256": "1bf70c474f4ac24ea8145f5ac02f5ae980db275f0788578b3beb7c0d45b5ad37"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/02748eeab25720cab59d7912/reading-fe16af0a1f7e83ca1c1983d65012fed679db0d718cabbe9d1f9874bea3521989.md",
+      "sha256": "fe16af0a1f7e83ca1c1983d65012fed679db0d718cabbe9d1f9874bea3521989",
+      "original_sha256": "1bf70c474f4ac24ea8145f5ac02f5ae980db275f0788578b3beb7c0d45b5ad37",
+      "processing_sha256": "fabb6b6dd1abc7c744b4013ad784b8c4099e6cb2207d67d4403d0acbd6e9950d",
+      "processor_version": "1.12.16",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

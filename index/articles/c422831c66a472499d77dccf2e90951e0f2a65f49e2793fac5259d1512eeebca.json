@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Don't optimize multiple things at once--浏览器加工--b6e8ded0dd.md",
     "sha256": "112d3f29b36c41ebff9ef7f6566fc463ca42ab04ebb8efaddd0a9f7e19f108f4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c422831c66a472499d77dccf/reading-71ee2d8e2b666afb2345d5b54b1078d7b8738daf38c8f568f1b1b489a3639ec9.md",
+      "sha256": "71ee2d8e2b666afb2345d5b54b1078d7b8738daf38c8f568f1b1b489a3639ec9",
+      "original_sha256": "112d3f29b36c41ebff9ef7f6566fc463ca42ab04ebb8efaddd0a9f7e19f108f4",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/10x (engineer, context) pairs--浏览器加工--d91fd68800.md",
     "sha256": "326f18dc18c28f55caad08f1bbd68a40ed3852b32993d9630abf0129ca8db0e9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5717cfa9f40257644fdf0f15/reading-088963fa99c326f8ec478025d3675b6a16f4e4396d18376db2c6781c2a1cdcef.md",
+      "sha256": "088963fa99c326f8ec478025d3675b6a16f4e4396d18376db2c6781c2a1cdcef",
+      "original_sha256": "326f18dc18c28f55caad08f1bbd68a40ed3852b32993d9630abf0129ca8db0e9",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Soviet Union Series/The Soviet Union The Food consumption puzzle--浏览器加工--b009e77600.md",
     "sha256": "eedd093c1c5ea781fb08583ed59f4c61e29a7c69de1c85708f0801b4faf3c0b6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/894465f549697e11e702d210/reading-ee5c4e3fead02126fada7231015dfc27a3aa3dd10e794ee9b686da97638fe0a9.md",
+      "sha256": "ee5c4e3fead02126fada7231015dfc27a3aa3dd10e794ee9b686da97638fe0a9",
+      "original_sha256": "eedd093c1c5ea781fb08583ed59f4c61e29a7c69de1c85708f0801b4faf3c0b6",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Student group notes #5 outside support--浏览器加工--4c6c3400fc.md",
     "sha256": "0a5af663848e9d6e10bb1457ad8d2ee215013844d44b7d2d33842e81c8a50ca2"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/90ee42ea50ece3ba5079c824/reading-279ab941b26495b8d1e4b57967be6e45d9729c839decbe6e79430a82769e7abb.md",
+      "sha256": "279ab941b26495b8d1e4b57967be6e45d9729c839decbe6e79430a82769e7abb",
+      "original_sha256": "0a5af663848e9d6e10bb1457ad8d2ee215013844d44b7d2d33842e81c8a50ca2",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

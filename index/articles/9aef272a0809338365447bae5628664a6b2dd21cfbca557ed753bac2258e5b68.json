@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Fact-check/El mito de la huida báltica--浏览器加工--c58d0d99e6.md",
     "sha256": "ca01dc5654cbc99909f53459aef27fbb3869f5b27c3d65e38f3dddd3d700630e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9aef272a0809338365447bae/reading-8afe05b3983b60790f43f71f6b0fea501b618619324757e1942a9c7ed258df1d.md",
+      "sha256": "8afe05b3983b60790f43f71f6b0fea501b618619324757e1942a9c7ed258df1d",
+      "original_sha256": "ca01dc5654cbc99909f53459aef27fbb3869f5b27c3d65e38f3dddd3d700630e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

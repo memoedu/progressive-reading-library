@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/The unreasonable effectiveness of one-on-ones--浏览器加工--4eda4ad80d.md",
     "sha256": "b8ae0e7ba58d16b36c30ca130f8fd1d958244dac59d337ff4935dc3143ac9d97"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/852470ade9565ba5e154c156/reading-b8d8c6d75da662f21a208471b2afa8dfb01188b528e9a850f91d455c1f5b2ae8.md",
+      "sha256": "b8d8c6d75da662f21a208471b2afa8dfb01188b528e9a850f91d455c1f5b2ae8",
+      "original_sha256": "b8ae0e7ba58d16b36c30ca130f8fd1d958244dac59d337ff4935dc3143ac9d97",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

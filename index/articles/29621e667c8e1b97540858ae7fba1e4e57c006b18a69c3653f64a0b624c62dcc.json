@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Nintil - On criticising communism--浏览器加工--27ee3084c1.md",
     "sha256": "423130111f716340457fecabdf8c6c29e060329247315f6d4da3a03a64966b74"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/29621e667c8e1b97540858ae/reading-cd5f0630719062e490532161aa4c7773f624e41bd2d88e4a4efdf0805fecd753.md",
+      "sha256": "cd5f0630719062e490532161aa4c7773f624e41bd2d88e4a4efdf0805fecd753",
+      "original_sha256": "423130111f716340457fecabdf8c6c29e060329247315f6d4da3a03a64966b74",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

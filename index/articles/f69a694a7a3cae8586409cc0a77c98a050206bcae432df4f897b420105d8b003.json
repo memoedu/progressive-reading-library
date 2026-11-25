@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Soviet Union Series/Nintil - The Soviet Union Healthcare--浏览器加工--40dd557fb6.md",
     "sha256": "36e16cf60889adf0085cc00b722041924e99128ed2d1af74d11ade0e721d35df"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f69a694a7a3cae8586409cc0/reading-31e817abea9216c5bc1c6321e690f0b41149e45e22bdd8c66e0e5695116284f8.md",
+      "sha256": "31e817abea9216c5bc1c6321e690f0b41149e45e22bdd8c66e0e5695116284f8",
+      "original_sha256": "36e16cf60889adf0085cc00b722041924e99128ed2d1af74d11ade0e721d35df",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Politics/Nintil - El patriotismo, definido--浏览器加工--f5e9ca6e68.md",
     "sha256": "115456d2788d51f45a2ef8af8ba74746c358b316cb32e28f2faf9404d46b8e48"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/202c45a56a22708dfde9b300/reading-a6c82e620791d2e7c5c2d8f6ff6d4621d82c195970e0a1c5124765d9df427dcf.md",
+      "sha256": "a6c82e620791d2e7c5c2d8f6ff6d4621d82c195970e0a1c5124765d9df427dcf",
+      "original_sha256": "115456d2788d51f45a2ef8af8ba74746c358b316cb32e28f2faf9404d46b8e48",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

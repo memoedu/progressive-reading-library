@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/De-noising the inbox--浏览器加工--5a442f9544.md",
     "sha256": "803c8e116fc23aff5c8c5492194c235f505c25a4e8869cf39e53ae4f690d2f73"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/620f08244f405535d6446199/reading-926fc2813d95522f87910e26dc3d7fc100f65780a05619d12df39e7b1c776375.md",
+      "sha256": "926fc2813d95522f87910e26dc3d7fc100f65780a05619d12df39e7b1c776375",
+      "original_sha256": "803c8e116fc23aff5c8c5492194c235f505c25a4e8869cf39e53ae4f690d2f73",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

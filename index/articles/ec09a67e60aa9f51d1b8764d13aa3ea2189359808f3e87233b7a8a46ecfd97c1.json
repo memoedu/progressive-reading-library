@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Miscellaneous interesting quotes from Coders at Work--浏览器加工--1e8082bb0f.md",
     "sha256": "8cd559dfa83d57be691e56b7084044a2ffd8edb3a6074af0ab5524fd7a75bed4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ec09a67e60aa9f51d1b8764d/reading-a2cb84a99107227fa96e7f0a90368d3cfe4ffbe8d2784f81acf68190994b168b.md",
+      "sha256": "a2cb84a99107227fa96e7f0a90368d3cfe4ffbe8d2784f81acf68190994b168b",
+      "original_sha256": "8cd559dfa83d57be691e56b7084044a2ffd8edb3a6074af0ab5524fd7a75bed4",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

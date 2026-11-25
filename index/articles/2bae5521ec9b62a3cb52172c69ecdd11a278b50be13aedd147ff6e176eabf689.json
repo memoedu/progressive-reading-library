@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/What I've been doing instead of writing--浏览器加工--f29be5dbbf.md",
     "sha256": "26aade569aaa1d5c493b5d507835fc4402108ee545b6b18d03cdf5c0f6401b8d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2bae5521ec9b62a3cb52172c/reading-488a407d4528ecb53e6bc1923ca7d4f09293e0b19ae2aa45f59dd132b98182f0.md",
+      "sha256": "488a407d4528ecb53e6bc1923ca7d4f09293e0b19ae2aa45f59dd132b98182f0",
+      "original_sha256": "26aade569aaa1d5c493b5d507835fc4402108ee545b6b18d03cdf5c0f6401b8d",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

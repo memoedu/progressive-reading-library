@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/合集/Interviewing Dad (Howard Nielsen)/Dad Part 5 Croydon, Schools Commission, Approach to Work (cut off)--浏览器加工--15f7273eaa.md",
     "sha256": "6b4fedf40683badc41ca338bc30a87036fe074afab187f1e08f5b4029a1495d5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/15f7273eaada30f7b500a9d0/reading-32ca792c0b9edf1fdaf22ee0e07834a156f052fc2231796dd9aa8f2f373dcedd.md",
+      "sha256": "32ca792c0b9edf1fdaf22ee0e07834a156f052fc2231796dd9aa8f2f373dcedd",
+      "original_sha256": "6b4fedf40683badc41ca338bc30a87036fe074afab187f1e08f5b4029a1495d5",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

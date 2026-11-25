@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Links/Links (15) & some words on Pinker--浏览器加工--e9d1e1da5e.md",
     "sha256": "badac08897e603791884c692e7baec1eeb100e7e999eb14aa686275cf5dfacf9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9e91bf6d16092a221b71e7b2/reading-d4e80f027c6d28dd7ed5b3b832d57e0a02cad01514d67240e593eddcc7ce8ca4.md",
+      "sha256": "d4e80f027c6d28dd7ed5b3b832d57e0a02cad01514d67240e593eddcc7ce8ca4",
+      "original_sha256": "badac08897e603791884c692e7baec1eeb100e7e999eb14aa686275cf5dfacf9",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

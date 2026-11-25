@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Student group notes #2 don't be embarrassed--浏览器加工--980ec9b2c9.md",
     "sha256": "4c22661c2caa05a675f7a4f8868be29f1a676312b67ddc48ed866a3edc304d1a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2cf004df3ff8ed0bf90c4d43/reading-9da41b30c09a455002d2bfd01392fba7925f11fa20c034ce6106007543d28e65.md",
+      "sha256": "9da41b30c09a455002d2bfd01392fba7925f11fa20c034ce6106007543d28e65",
+      "original_sha256": "4c22661c2caa05a675f7a4f8868be29f1a676312b67ddc48ed866a3edc304d1a",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

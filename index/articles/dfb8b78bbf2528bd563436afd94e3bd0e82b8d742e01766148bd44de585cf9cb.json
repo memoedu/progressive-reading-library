@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Where, why and how I donated in 2017--浏览器加工--e6ce17f83b.md",
     "sha256": "a8f6e93dd69d8d35e6005722e37ab61924710915f9a369edbcd8f43fcf9bdcba"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dfb8b78bbf2528bd563436af/reading-1ca95780752891312befeb75bc0126407dc2976345196ef66cdb0a1d738d14b5.md",
+      "sha256": "1ca95780752891312befeb75bc0126407dc2976345196ef66cdb0a1d738d14b5",
+      "original_sha256": "a8f6e93dd69d8d35e6005722e37ab61924710915f9a369edbcd8f43fcf9bdcba",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

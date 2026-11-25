@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/The best RSS reader is Kindle4RSS--浏览器加工--61156df586.md",
     "sha256": "aa718e699cad8c5c870eaa2ca25daccad8e663e0e82c2b930e509d2b3cf9a3f9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/00925cab7345d62dcfb9fb31/reading-4af0cbb3a3e16f0051b3dab951351468d4281f907c1826c4d1af4aee77643164.md",
+      "sha256": "4af0cbb3a3e16f0051b3dab951351468d4281f907c1826c4d1af4aee77643164",
+      "original_sha256": "aa718e699cad8c5c870eaa2ca25daccad8e663e0e82c2b930e509d2b3cf9a3f9",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

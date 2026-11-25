@@ -5,5 +5,16 @@
   "original": {
     "path": "masterhowtolearn.com/Why I No Longer Tell My Friends about Anki SuperMemo--浏览器加工--85f28a5756.md",
     "sha256": "5fe69316d1cc69e3fbda1b639b770e9d91e8a9c54b9c22d92b70bf1c6bbaea34"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/249230544acfeb00bede17b5/reading-c04ac3581f23a52d4f9899fbc0d86626139a38a3250396cdd4fb9413bc5a204e.md",
+      "sha256": "c04ac3581f23a52d4f9899fbc0d86626139a38a3250396cdd4fb9413bc5a204e",
+      "original_sha256": "5fe69316d1cc69e3fbda1b639b770e9d91e8a9c54b9c22d92b70bf1c6bbaea34",
+      "processing_sha256": "52c9668ce33c412bf1648c02ba11a6818e50a675cb1b31a7f112b066bd4655c4",
+      "processor_version": "1.12.18",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:guide-coverage/v2",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
 }

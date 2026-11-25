@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Sobre normas universales, simétricas y funcionales--浏览器加工--93476569d0.md",
     "sha256": "f81b71bf34e65b0314aa8e0ff48910506b45636a31c8475a00d9d4b21a9793ab"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/28a53e7d55da2b7d84d3759a/reading-bb630ca45ef27c684a18c420222dfab2370ec035b6bb908c9f6beb255d8b3cbc.md",
+      "sha256": "bb630ca45ef27c684a18c420222dfab2370ec035b6bb908c9f6beb255d8b3cbc",
+      "original_sha256": "f81b71bf34e65b0314aa8e0ff48910506b45636a31c8475a00d9d4b21a9793ab",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

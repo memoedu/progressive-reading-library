@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Links/Nintil - Links (48)--浏览器加工--e985346ff4.md",
     "sha256": "941bed0657864aeb0d446b75bd686d3cdfbca359c2ca9b558e693f22984afd40"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/57b54b49107437e9692b39e4/reading-f3518ccc9db9330d0141358ab0c159b66cc74cc88b64a1a82449836c80ee3cf3.md",
+      "sha256": "f3518ccc9db9330d0141358ab0c159b66cc74cc88b64a1a82449836c80ee3cf3",
+      "original_sha256": "941bed0657864aeb0d446b75bd686d3cdfbca359c2ca9b558e693f22984afd40",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

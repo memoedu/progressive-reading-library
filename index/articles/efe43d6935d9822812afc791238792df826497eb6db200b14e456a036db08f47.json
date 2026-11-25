@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/La información es el problema del planificador, no la propiedad--浏览器加工--fac245cd90.md",
     "sha256": "cb33394351e0952735c3dee236237b27155f29380111b74df2a076a83dbd53dc"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/efe43d6935d9822812afc791/reading-225a3545e8aa53aa722c880317a608b2a0dc6aadeec9212427db8fb4e9eba1a3.md",
+      "sha256": "225a3545e8aa53aa722c880317a608b2a0dc6aadeec9212427db8fb4e9eba1a3",
+      "original_sha256": "cb33394351e0952735c3dee236237b27155f29380111b74df2a076a83dbd53dc",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

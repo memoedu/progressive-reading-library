@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Notes Effective Altruism or Mobilization for Institutional Reform--浏览器加工--32c82b9d99.md",
     "sha256": "115fe70ee034a1ce2641838cae87837e34ca657b3271e40bf86431eaa44f08fc"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ffb8e94ae6e6eca2a0cb4e67/reading-db80de6d92f03012001c48561d92a36330e088068d638b02b96b24d2a25c24ea.md",
+      "sha256": "db80de6d92f03012001c48561d92a36330e088068d638b02b96b24d2a25c24ea",
+      "original_sha256": "115fe70ee034a1ce2641838cae87837e34ca657b3271e40bf86431eaa44f08fc",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

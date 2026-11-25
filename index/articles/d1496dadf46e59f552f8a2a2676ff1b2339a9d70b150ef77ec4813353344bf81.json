@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Book review Scientific Freedom, the elixir of civilization--浏览器加工--45b1e790b4.md",
     "sha256": "b8f4f04e8af59e53a747bea23d5a5ac82164197deb3e54f976c796e099f3f134"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d1496dadf46e59f552f8a2a2/reading-d56518ba4fec8d9efe24243bcac5c45eb89a4bcd81ab64d86d93fad69edea2f6.md",
+      "sha256": "d56518ba4fec8d9efe24243bcac5c45eb89a4bcd81ab64d86d93fad69edea2f6",
+      "original_sha256": "b8f4f04e8af59e53a747bea23d5a5ac82164197deb3e54f976c796e099f3f134",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

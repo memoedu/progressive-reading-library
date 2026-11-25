@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Un breve comentario sobre el euro €_€--浏览器加工--ad2a19d62f.md",
     "sha256": "a81857e46d4508bb926ba84caea8e5d66ec1697149a540017514d6e21b457332"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0c25fcc40da9d3b7a1d8217b/reading-c20b00c956f2ab45d57560fef6902b30918b8b8bebdb78912ecd45bf7c2b323b.md",
+      "sha256": "c20b00c956f2ab45d57560fef6902b30918b8b8bebdb78912ecd45bf7c2b323b",
+      "original_sha256": "a81857e46d4508bb926ba84caea8e5d66ec1697149a540017514d6e21b457332",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

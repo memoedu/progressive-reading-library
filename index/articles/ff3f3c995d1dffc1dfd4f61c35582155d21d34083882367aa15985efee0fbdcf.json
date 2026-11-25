@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - The Non-Non-Libertarian FAQ--浏览器加工--732c916d62.md",
     "sha256": "0d76bfe72e2d046b963bb5bf21a32e71b529a911b5dbc1d89401db1ee7c8e984"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ff3f3c995d1dffc1dfd4f61c/reading-58942bfaccfe1fa39397d418d2cc52fe0023fbae8286d70a2ffb07f1af04b81c.md",
+      "sha256": "58942bfaccfe1fa39397d418d2cc52fe0023fbae8286d70a2ffb07f1af04b81c",
+      "original_sha256": "0d76bfe72e2d046b963bb5bf21a32e71b529a911b5dbc1d89401db1ee7c8e984",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

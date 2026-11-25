@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/The levers of NIH Paths to reform--浏览器加工--ff9e52bb3f.md",
     "sha256": "5da4e055a85c81a7ecb0dc80da14312d2d5d5578b938a7f8442a3e53ff9aacf8"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/48daf74fc70f9ad1fb45fe9e/reading-bf06af6c64256052386ca9527442e9cda38f2909a2d56573bc2d005e26f61d0d.md",
+      "sha256": "bf06af6c64256052386ca9527442e9cda38f2909a2d56573bc2d005e26f61d0d",
+      "original_sha256": "5da4e055a85c81a7ecb0dc80da14312d2d5d5578b938a7f8442a3e53ff9aacf8",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

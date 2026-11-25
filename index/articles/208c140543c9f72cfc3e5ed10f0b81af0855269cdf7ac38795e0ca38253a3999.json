@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Refutando y defendiendo la ética de la libertad--浏览器加工--535347663e.md",
     "sha256": "b84ee6663b7da1f60dfa25c229d890d79327f2af7d8ed56019dd431d16af861f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/208c140543c9f72cfc3e5ed1/reading-3bb217b57d47542f0eed37390bd4a4dfe223a3e8c3018b94ecfab087e16f11d1.md",
+      "sha256": "3bb217b57d47542f0eed37390bd4a4dfe223a3e8c3018b94ecfab087e16f11d1",
+      "original_sha256": "b84ee6663b7da1f60dfa25c229d890d79327f2af7d8ed56019dd431d16af861f",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/Donation matching survey--浏览器加工--6bea04e720.md",
     "sha256": "54b066114b518d14b13f0fd3065d1c6b032263d29e6c3d7fa635a130da0911cc"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/79965a85eb370d9687460198/reading-0126af6273e9335f23d1402bf945b75960bb079e1c8e8f67a40aced69bf9149d.md",
+      "sha256": "0126af6273e9335f23d1402bf945b75960bb079e1c8e8f67a40aced69bf9149d",
+      "original_sha256": "54b066114b518d14b13f0fd3065d1c6b032263d29e6c3d7fa635a130da0911cc",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

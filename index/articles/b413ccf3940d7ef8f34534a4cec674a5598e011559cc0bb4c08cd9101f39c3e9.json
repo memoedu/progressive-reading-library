@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/[Link] Criticism of the Gates Foundation--浏览器加工--81b2c161fe.md",
     "sha256": "a226160d0646754c739a815ae113e6410aa2605866ff21b19f534c0c3d40f515"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b413ccf3940d7ef8f34534a4/reading-164d24c4ad00b8a625a13380a7264ab4e31ea0db860a44cb6408e246d434b2f1.md",
+      "sha256": "164d24c4ad00b8a625a13380a7264ab4e31ea0db860a44cb6408e246d434b2f1",
+      "original_sha256": "a226160d0646754c739a815ae113e6410aa2605866ff21b19f534c0c3d40f515",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

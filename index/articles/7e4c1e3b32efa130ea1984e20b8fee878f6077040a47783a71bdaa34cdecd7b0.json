@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Links/Top 10 de posts en el Blog de Artir, edición 2014--浏览器加工--ebbcb5fcc8.md",
     "sha256": "98102b7350a3b1c9ecf1ad470aa0914a84d1cee1b6273b46ada33963f9a4026e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7e4c1e3b32efa130ea1984e2/reading-013174649ac048097dab4e2350dbfec252c271ccd7480283a05d0e4e17ae4c35.md",
+      "sha256": "013174649ac048097dab4e2350dbfec252c271ccd7480283a05d0e4e17ae4c35",
+      "original_sha256": "98102b7350a3b1c9ecf1ad470aa0914a84d1cee1b6273b46ada33963f9a4026e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

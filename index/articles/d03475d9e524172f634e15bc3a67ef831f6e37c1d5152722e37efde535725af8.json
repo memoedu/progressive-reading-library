@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/Building skyscrapers, and spending on major projects--浏览器加工--9c96bd3baf.md",
     "sha256": "86eef4b0e5426bfbe27e78852f71e40310e8a9ef31118ee715b42eeff79fb110"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d03475d9e524172f634e15bc/reading-db547dc880d99ef0f34fe050cc8043e076d3e9a579ceea9926463e8b8869b354.md",
+      "sha256": "db547dc880d99ef0f34fe050cc8043e076d3e9a579ceea9926463e8b8869b354",
+      "original_sha256": "86eef4b0e5426bfbe27e78852f71e40310e8a9ef31118ee715b42eeff79fb110",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

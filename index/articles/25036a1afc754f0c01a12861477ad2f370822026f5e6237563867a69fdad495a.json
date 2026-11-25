@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Réplica a 'El Estado no es necesario'--浏览器加工--768a778f99.md",
     "sha256": "e995ac18c8a3f858908afac4c38be2dab7869a556c9c4d5445b3b5c6393a4fad"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/25036a1afc754f0c01a12861/reading-78e4b36326bc4fdb13b5554ed60953823865672441c36ac73de6554797a83a10.md",
+      "sha256": "78e4b36326bc4fdb13b5554ed60953823865672441c36ac73de6554797a83a10",
+      "original_sha256": "e995ac18c8a3f858908afac4c38be2dab7869a556c9c4d5445b3b5c6393a4fad",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

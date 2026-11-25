@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - The crumbling public private distinction--浏览器加工--ade926dfbb.md",
     "sha256": "5411ee8fa062416ae52d53918f7b361401018a3acd77c103fbf29a1653824926"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1837895f87dfb7a3d734b12d/reading-84ae4c15b5a959a41323a6296e80a219a3bf040a755d723156da9cb35281167c.md",
+      "sha256": "84ae4c15b5a959a41323a6296e80a219a3bf040a755d723156da9cb35281167c",
+      "original_sha256": "5411ee8fa062416ae52d53918f7b361401018a3acd77c103fbf29a1653824926",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

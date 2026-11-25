@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/essay/Autocomplete as an interface--浏览器加工--d9e7b35522.md",
     "sha256": "e5d4ee4831f44f26c60fa3669418e1fab39979e22eb9d8971b79c19ce6526480"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b7705928083a8442ada4c57c/reading-38f915105569b0fcef05f003f5ff6b8c69f90e519295f686e42f90562cd9a3f9.md",
+      "sha256": "38f915105569b0fcef05f003f5ff6b8c69f90e519295f686e42f90562cd9a3f9",
+      "original_sha256": "e5d4ee4831f44f26c60fa3669418e1fab39979e22eb9d8971b79c19ce6526480",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

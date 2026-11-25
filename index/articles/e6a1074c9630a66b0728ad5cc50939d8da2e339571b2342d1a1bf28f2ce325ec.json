@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/My current plans--浏览器加工--419a9e28b0.md",
     "sha256": "0d1f25c0b1aba848e8d511093193203361b7088da12199e3322e3016d89dfe7b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e6a1074c9630a66b0728ad5c/reading-f3a57422ab4e3daa35b01a72aac5bc8a948aa3da05af749d5ee8cc452c15a362.md",
+      "sha256": "f3a57422ab4e3daa35b01a72aac5bc8a948aa3da05af749d5ee8cc452c15a362",
+      "original_sha256": "0d1f25c0b1aba848e8d511093193203361b7088da12199e3322e3016d89dfe7b",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

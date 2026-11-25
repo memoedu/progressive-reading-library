@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Progress Studies/Nintil - Cozy futurism--浏览器加工--22d24cd890.md",
     "sha256": "40d7bacc8926da404f0cef356ca327706337f6678e8cabfa2e95b9eed53ad5cc"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2fffc07b718172eac7162e8a/reading-164db372fd8622b2c575d78519a0e521419595bc665b01fce2aa246a1de59839.md",
+      "sha256": "164db372fd8622b2c575d78519a0e521419595bc665b01fce2aa246a1de59839",
+      "original_sha256": "40d7bacc8926da404f0cef356ca327706337f6678e8cabfa2e95b9eed53ad5cc",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

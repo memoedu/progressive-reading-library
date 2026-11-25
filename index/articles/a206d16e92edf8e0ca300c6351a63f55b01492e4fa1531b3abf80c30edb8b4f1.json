@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Guest posts/[Guest post] How Substack Became Milquetoast--浏览器加工--934132be63.md",
     "sha256": "4748b030384560c0e8c470e105a5740fc69eea770c1694a82ac497c6cec914dd"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a206d16e92edf8e0ca300c63/reading-60b0add0ec34c2ef7c991da028ead0ca8b78c1dd9c0e3efe39ba2bfcc217e028.md",
+      "sha256": "60b0add0ec34c2ef7c991da028ead0ca8b78c1dd9c0e3efe39ba2bfcc217e028",
+      "original_sha256": "4748b030384560c0e8c470e105a5740fc69eea770c1694a82ac497c6cec914dd",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Biology/Some thoughts on causality in biological systems--浏览器加工--0e52931104.md",
     "sha256": "af5cc90e66f4c492de4101e1c755078572232b3f76e2035c301b15b813c29dd7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/054e48a27b2fca331eb22070/reading-0af1201991dc353d715af536f6320a9ccf5cac764c7a6969d6e413541b09ce4d.md",
+      "sha256": "0af1201991dc353d715af536f6320a9ccf5cac764c7a6969d6e413541b09ce4d",
+      "original_sha256": "af5cc90e66f4c492de4101e1c755078572232b3f76e2035c301b15b813c29dd7",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

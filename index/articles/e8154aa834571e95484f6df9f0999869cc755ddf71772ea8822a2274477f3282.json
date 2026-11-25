@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Learning J--浏览器加工--4314f0d6c7.md",
     "sha256": "dd9ec474e1ea9cf4fbd024821fcf9fff2e8a5f999912e291ba9b27f92fd73284"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e8154aa834571e95484f6df9/reading-91a433d1c8c69b88d19caef15e1c52a7cb1aaf3df7a87a62472c67819e725c6b.md",
+      "sha256": "91a433d1c8c69b88d19caef15e1c52a7cb1aaf3df7a87a62472c67819e725c6b",
+      "original_sha256": "dd9ec474e1ea9cf4fbd024821fcf9fff2e8a5f999912e291ba9b27f92fd73284",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

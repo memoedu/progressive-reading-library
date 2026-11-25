@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/US Federal R&D spending decline a breakdown--浏览器加工--315cf7942f.md",
     "sha256": "7045d93ed8b67270c566aeb09f658ba34e47042e30b3a9d1373301493e10f9d1"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a48b9660c693fbe40affd04d/reading-29d964f0e4c4a4f782b70c9dbade2d1ab8412bef60016ec978e56415a9820bc5.md",
+      "sha256": "29d964f0e4c4a4f782b70c9dbade2d1ab8412bef60016ec978e56415a9820bc5",
+      "original_sha256": "7045d93ed8b67270c566aeb09f658ba34e47042e30b3a9d1373301493e10f9d1",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

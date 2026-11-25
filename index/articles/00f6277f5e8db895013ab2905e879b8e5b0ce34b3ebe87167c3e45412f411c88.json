@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/The role of capitalists in capitalism--浏览器加工--7c078cf12a.md",
     "sha256": "f8468efb064e000e9057fcc940e9b824c39cf7b0d8a1fb6528bb43dffea04ef6"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/00f6277f5e8db895013ab290/reading-fda66d6e15289e54922050793036456d4dcfb7f93de94a2bb5707858136b5e60.md",
+      "sha256": "fda66d6e15289e54922050793036456d4dcfb7f93de94a2bb5707858136b5e60",
+      "original_sha256": "f8468efb064e000e9057fcc940e9b824c39cf7b0d8a1fb6528bb43dffea04ef6",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

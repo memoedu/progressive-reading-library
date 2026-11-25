@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/合集/Interviewing Dad (Howard Nielsen)/Conversations with Dad--浏览器加工--1d368f0ebb.md",
     "sha256": "dc160c034395f8af883d56ecff3f53a2089dcbc54a991a66da16b5b02d832178"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1d368f0ebb78c6483b63163c/reading-5611844049e001e5ef3b77e82f12678877d7be4a403769ab629545d3c44bd6ae.md",
+      "sha256": "5611844049e001e5ef3b77e82f12678877d7be4a403769ab629545d3c44bd6ae",
+      "original_sha256": "dc160c034395f8af883d56ecff3f53a2089dcbc54a991a66da16b5b02d832178",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

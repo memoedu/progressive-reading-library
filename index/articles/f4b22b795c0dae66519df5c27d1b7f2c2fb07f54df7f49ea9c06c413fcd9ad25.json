@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/the relationship between science, art, and religion/Meaningful places--浏览器加工--f4b22b795c.md",
     "sha256": "101379e68fbe9335df7774fa408079b562a104d94ba0088d51de71515c51a2d2"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f4b22b795c0dae66519df5c2/reading-40df8c48eee6de7c504b36ae0c2d1f9e98e3272c12c64e937caea3583303958e.md",
+      "sha256": "40df8c48eee6de7c504b36ae0c2d1f9e98e3272c12c64e937caea3583303958e",
+      "original_sha256": "101379e68fbe9335df7774fa408079b562a104d94ba0088d51de71515c51a2d2",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

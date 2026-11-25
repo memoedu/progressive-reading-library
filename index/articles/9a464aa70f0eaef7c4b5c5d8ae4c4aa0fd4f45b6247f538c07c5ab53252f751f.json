@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/I apparently got 50% better at my job last month--浏览器加工--259559ae03.md",
     "sha256": "6a506bea47b7a2a4ca98414c9f7fbc730b627e3ab10e8086007d7176fd930582"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9a464aa70f0eaef7c4b5c5d8/reading-c402900d414bb9bd892fa73ad2db5dee94c08e48e0335cc73ad628bf4a1ea7e8.md",
+      "sha256": "c402900d414bb9bd892fa73ad2db5dee94c08e48e0335cc73ad628bf4a1ea7e8",
+      "original_sha256": "6a506bea47b7a2a4ca98414c9f7fbc730b627e3ab10e8086007d7176fd930582",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Neel Nanda/Mini Blog Post 23 Taking Social Initiative — Neel Nanda--浏览器加工--4f9ca82096.md",
     "sha256": "c9630547f6f00dafc2faca27f9f1e3d52d8ddc9d066880dec5fb8aeac085f11c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4f9ca8209638ce75b4e27e62/reading-23465a339ba1726418699737db94cf05b2015f0665d84361009f5f5caff2df1b.md",
+      "sha256": "23465a339ba1726418699737db94cf05b2015f0665d84361009f5f5caff2df1b",
+      "original_sha256": "c9630547f6f00dafc2faca27f9f1e3d52d8ddc9d066880dec5fb8aeac085f11c",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

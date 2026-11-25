@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Michael Nielsen/标签/tools for thought/How to use a personal website to enhance your ability to think and create--浏览器加工--b3e34ca29f.md",
     "sha256": "1531e58f7d3708b00799fdb2f18f683240d077214dc8875a34ca34cc17a977db"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b3e34ca29fb25198a7dd89f0/reading-83f45afa6059e07ffbaa1a1ae4b9278aa53be8e83955e854ea2e6b9c2130a5e3.md",
+      "sha256": "83f45afa6059e07ffbaa1a1ae4b9278aa53be8e83955e854ea2e6b9c2130a5e3",
+      "original_sha256": "1531e58f7d3708b00799fdb2f18f683240d077214dc8875a34ca34cc17a977db",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

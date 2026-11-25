@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Methods/Nintil - On writing--浏览器加工--69c9c88df4.md",
     "sha256": "910f3a5631e4af64bf060bb57c70578f4398dcd7bbd53812a76e67da3b3b2902"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/60e954107a7e458b3296c320/reading-be9742b30c6f750451630e7279de45be7826da1f21865a54982d9d7662e55f08.md",
+      "sha256": "be9742b30c6f750451630e7279de45be7826da1f21865a54982d9d7662e55f08",
+      "original_sha256": "910f3a5631e4af64bf060bb57c70578f4398dcd7bbd53812a76e67da3b3b2902",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

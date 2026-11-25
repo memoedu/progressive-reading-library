@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/New Models for Funding and Organizing Science--浏览器加工--5386b3bdeb.md",
     "sha256": "4d3bb043a3a2de1a4e7c5a9faac4493517ddc816eb032fb11e21baf42a3bc800"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/725b78ce25acc3fa47d316cd/reading-4fa4f682793ab0a3b9e6e6c5ca641f7861ea93b181aa3b384f7c85a8d89c9039.md",
+      "sha256": "4fa4f682793ab0a3b9e6e6c5ca641f7861ea93b181aa3b384f7c85a8d89c9039",
+      "original_sha256": "4d3bb043a3a2de1a4e7c5a9faac4493517ddc816eb032fb11e21baf42a3bc800",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

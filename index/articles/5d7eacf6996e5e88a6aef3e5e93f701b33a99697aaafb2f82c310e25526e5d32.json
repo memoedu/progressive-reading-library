@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - Abortocalipsis III Definiciones--浏览器加工--19ed9cd133.md",
     "sha256": "9191a9383e9129b65cac513e53726e23d30f6f37f5bdbd302def14f8eadb1a81"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5d7eacf6996e5e88a6aef3e5/reading-1b9964ccd2f0a65260d2f007bcfa3ea40ea431310633b987c6144a79c732a2eb.md",
+      "sha256": "1b9964ccd2f0a65260d2f007bcfa3ea40ea431310633b987c6144a79c732a2eb",
+      "original_sha256": "9191a9383e9129b65cac513e53726e23d30f6f37f5bdbd302def14f8eadb1a81",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Críticas a The Entrepreneurial State--浏览器加工--d0e814972b.md",
     "sha256": "0d64cb389a6a117ad4cfbd1cab76adc868f9e6dc272dcb1ed6626f068d726331"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b7df8b589edc445afe339912/reading-d01e3523d5c356467dcd5ac26ae32417a6fb72c22dc8b1345a74ccb0a24cbd9b.md",
+      "sha256": "d01e3523d5c356467dcd5ac26ae32417a6fb72c22dc8b1345a74ccb0a24cbd9b",
+      "original_sha256": "0d64cb389a6a117ad4cfbd1cab76adc868f9e6dc272dcb1ed6626f068d726331",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

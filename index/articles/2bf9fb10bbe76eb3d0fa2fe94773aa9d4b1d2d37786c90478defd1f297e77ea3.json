@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/Gasto público y libertad económica--浏览器加工--02bb8d8bb5.md",
     "sha256": "5c483fe51925e9c03831d9f61eca4108e83b5c2f160d4f5e28be155b5952bbb5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2bf9fb10bbe76eb3d0fa2fe9/reading-afa68015ab1be61d807765a3f6f14b83878c61fd22a60ad90e2ae009a4757a53.md",
+      "sha256": "afa68015ab1be61d807765a3f6f14b83878c61fd22a60ad90e2ae009a4757a53",
+      "original_sha256": "5c483fe51925e9c03831d9f61eca4108e83b5c2f160d4f5e28be155b5952bbb5",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/Stating the Entrepreneurial State thesis--浏览器加工--958337afd8.md",
     "sha256": "ba1c24ca0bf2f9bde06ed335977c171373a95c1514e3df837112e0bab5e4407e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/274877be83c119e6a901d2cd/reading-5cbb2483317d8a780e3d80ede0ad953d55715a04fc1d18b69767b82a88dbf3bf.md",
+      "sha256": "5cbb2483317d8a780e3d80ede0ad953d55715a04fc1d18b69767b82a88dbf3bf",
+      "original_sha256": "ba1c24ca0bf2f9bde06ed335977c171373a95c1514e3df837112e0bab5e4407e",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/I just sold half of a blog post--浏览器加工--515fcd7272.md",
     "sha256": "222b256540c377ab61b105168e83d533355d8b17ad68420f42a42aa8a24a838f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/210c6cd48483e5348099df8f/reading-fa39bef3cd9a7da5843bde19e56f55ef6b45d494842bb4d8a63857c0c29af79b.md",
+      "sha256": "fa39bef3cd9a7da5843bde19e56f55ef6b45d494842bb4d8a63857c0c29af79b",
+      "original_sha256": "222b256540c377ab61b105168e83d533355d8b17ad68420f42a42aa8a24a838f",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

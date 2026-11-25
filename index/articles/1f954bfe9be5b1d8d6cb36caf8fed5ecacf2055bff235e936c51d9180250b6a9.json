@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/AI/Nintil - Future challenges for AI--浏览器加工--2c09f70454.md",
     "sha256": "72b6946f3d43a528f4530bded20262ba92a4a6b4add5020c3091c72ef7465b40"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1f954bfe9be5b1d8d6cb36ca/reading-661d2f8445fef2d6d374bbcdc6b4a50e71a7aef270e674b5fc6fff62083ba730.md",
+      "sha256": "661d2f8445fef2d6d374bbcdc6b4a50e71a7aef270e674b5fc6fff62083ba730",
+      "original_sha256": "72b6946f3d43a528f4530bded20262ba92a4a6b4add5020c3091c72ef7465b40",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

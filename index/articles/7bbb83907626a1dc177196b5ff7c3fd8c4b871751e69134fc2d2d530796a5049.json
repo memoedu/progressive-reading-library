@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Me/Yearly review 2016 in Nintil.com--浏览器加工--1d31b91bd0.md",
     "sha256": "9587632d2b42196a64fece41738e060c3f61050baec32de626d972321c0645eb"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7bbb83907626a1dc177196b5/reading-9a6ef64d34d8a5a5f919db270b922c61ca36b6a350146f0daa96067a859baae3.md",
+      "sha256": "9a6ef64d34d8a5a5f919db270b922c61ca36b6a350146f0daa96067a859baae3",
+      "original_sha256": "9587632d2b42196a64fece41738e060c3f61050baec32de626d972321c0645eb",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

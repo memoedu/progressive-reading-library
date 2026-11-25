@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Healthcare/Kenneth Arrow on the welfare economics of medical care, a critical assessment--浏览器加工--93e9213925.md",
     "sha256": "3bb5abcab9767e6200812953a074499266c6018edc015e2cb55d817846603e5d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b5effa6518b6e24664c0a19b/reading-c4badcfd0a158b8049a3bbd711d092f6e7fdfc200178b324f1205370df7c607c.md",
+      "sha256": "c4badcfd0a158b8049a3bbd711d092f6e7fdfc200178b324f1205370df7c607c",
+      "original_sha256": "3bb5abcab9767e6200812953a074499266c6018edc015e2cb55d817846603e5d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Book reviews/The Entrepreneurial State el caso de las renovables--浏览器加工--ab4bef6506.md",
     "sha256": "b89b161fcb7bd0830be25b6577a7c81ad751e111a3516fd7fdb36b3cfe61ea4d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/aedcf284a86a0d182d1e3499/reading-e850820109f05afff40943395006c4ef1266b062d5d3a69a96cb55920e3792a3.md",
+      "sha256": "e850820109f05afff40943395006c4ef1266b062d5d3a69a96cb55920e3792a3",
+      "original_sha256": "b89b161fcb7bd0830be25b6577a7c81ad751e111a3516fd7fdb36b3cfe61ea4d",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

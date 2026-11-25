@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Science funding/Nintil - Peer rejection in science--浏览器加工--30bb85bd8b.md",
     "sha256": "91ade1ebdae095cbb181d984b07233007adb0d2524283c4cba258e9b53eed74b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b4022a7b2ce92ebf3171e0a3/reading-c8d37ef4956888a460493a7159dba8a0dc03079a336f15560c821b44956498d2.md",
+      "sha256": "c8d37ef4956888a460493a7159dba8a0dc03079a336f15560c821b44956498d2",
+      "original_sha256": "91ade1ebdae095cbb181d984b07233007adb0d2524283c4cba258e9b53eed74b",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

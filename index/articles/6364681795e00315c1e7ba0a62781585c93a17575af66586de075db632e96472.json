@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/altruism/Common objections to earning to give--浏览器加工--85566ef527.md",
     "sha256": "db4af2026ca293081fb2804bcc51ebffdba4a6d3b9afb9bf2806495879a2511d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6364681795e00315c1e7ba0a/reading-d9c569f8489a9afe3ca293930c1d567efc95699e0df8a69253ce0b02476640e2.md",
+      "sha256": "d9c569f8489a9afe3ca293930c1d567efc95699e0df8a69253ce0b02476640e2",
+      "original_sha256": "db4af2026ca293081fb2804bcc51ebffdba4a6d3b9afb9bf2806495879a2511d",
+      "processing_sha256": "c3a2ab37ad63e5003dbc6b4750792b01f4f809b7a3ab7558ca90633cfbd41559",
+      "processor_version": "1.12.7",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

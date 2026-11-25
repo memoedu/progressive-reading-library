@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/scraps/Effective altruism and quantitative estimates--浏览器加工--bcce5745f7.md",
     "sha256": "d6398aaffb35e1457018c3663be350f3c92acaecc170dc03ebc11c78fd367418"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d1f966f138bc20ae84948906/reading-fe78401b24349f12c75ef400c43f02e3b68c0a11b4d46f2fd4f5140e0fb3ad03.md",
+      "sha256": "fe78401b24349f12c75ef400c43f02e3b68c0a11b4d46f2fd4f5140e0fb3ad03",
+      "original_sha256": "d6398aaffb35e1457018c3663be350f3c92acaecc170dc03ebc11c78fd367418",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

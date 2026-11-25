@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/DIY server-only analytics with almost no code--浏览器加工--1271ddb364.md",
     "sha256": "cee3d30c501dfe5bcc3acaf787a7f0e541be776c05d0935252379949ab4cb867"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4a483d71d7dbc731d7df8743/reading-4203d3b4d4301ee9ad79a5e8d8413746d79bb769f9c9ccc3362344cf43b710d6.md",
+      "sha256": "4203d3b4d4301ee9ad79a5e8d8413746d79bb769f9c9ccc3362344cf43b710d6",
+      "original_sha256": "cee3d30c501dfe5bcc3acaf787a7f0e541be776c05d0935252379949ab4cb867",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

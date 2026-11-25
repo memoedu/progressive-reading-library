@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/misc/The is-ought problem--浏览器加工--ae02a833b4.md",
     "sha256": "1e54daf5101d8198d406bb2f46346e26f0c050101df009aecbe79cd3d927485e"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/adc9b36617fde4e5c4cab505/reading-9b19890cd0726ae00d37534658d6c21d01974c87a11283a2fb81d54c3b91e1e5.md",
+      "sha256": "9b19890cd0726ae00d37534658d6c21d01974c87a11283a2fb81d54c3b91e1e5",
+      "original_sha256": "1e54daf5101d8198d406bb2f46346e26f0c050101df009aecbe79cd3d927485e",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

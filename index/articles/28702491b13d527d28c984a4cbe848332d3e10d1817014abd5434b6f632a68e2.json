@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Research/From chaos, order On the nature and measurement of biological aging--浏览器加工--6e42935c37.md",
     "sha256": "0c006a344990aa0e50b901eedc166d59fe7ebabae996ddb1f7cec5a824007572"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/28702491b13d527d28c984a4/reading-9cc93aee2b66358cba1d878b24311d5f3d8436dffa64607078210eaf66078c25.md",
+      "sha256": "9cc93aee2b66358cba1d878b24311d5f3d8436dffa64607078210eaf66078c25",
+      "original_sha256": "0c006a344990aa0e50b901eedc166d59fe7ebabae996ddb1f7cec5a824007572",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

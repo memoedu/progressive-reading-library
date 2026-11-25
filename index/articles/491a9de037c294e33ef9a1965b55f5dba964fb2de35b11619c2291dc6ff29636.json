@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Economics/A side note to the gold is money debate--浏览器加工--a3c2190040.md",
     "sha256": "2f8b194828537fa9a5cec799a18fd551cc7f28c67559ca843495f5879a2064f3"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/491a9de037c294e33ef9a196/reading-6986bb997313f26a043959412b80414bc63ab4c742ffc328d5d74c2fb5433542.md",
+      "sha256": "6986bb997313f26a043959412b80414bc63ab4c742ffc328d5d74c2fb5433542",
+      "original_sha256": "2f8b194828537fa9a5cec799a18fd551cc7f28c67559ca843495f5879a2064f3",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

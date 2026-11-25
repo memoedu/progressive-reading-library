@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Nintil/分类/Philosophy/Nintil - The antonymical fallacy--浏览器加工--dece335f28.md",
     "sha256": "a77927776deb69d33ed577f7b441b8ba1bb2445f944017e8aae46c4e6e8a1f7c"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e3154498c33e3ce83eab9501/reading-f42941a10c918295df84fff330109672d5d341b57bd75ea779def9527f0949fd.md",
+      "sha256": "f42941a10c918295df84fff330109672d5d341b57bd75ea779def9527f0949fd",
+      "original_sha256": "a77927776deb69d33ed577f7b441b8ba1bb2445f944017e8aae46c4e6e8a1f7c",
+      "processing_sha256": "aa9d549c4d4e98c2283f6c379f48370fba54b4786c5425d9e03e8bc993651511",
+      "processor_version": "1.12.9",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v15-code-math-citations:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

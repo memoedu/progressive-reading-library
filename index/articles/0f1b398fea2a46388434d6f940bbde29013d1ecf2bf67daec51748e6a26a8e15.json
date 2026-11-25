@@ -5,5 +5,16 @@
   "original": {
     "path": "整站/Ben Kuhn/分类/tech/Don't run code at import time--浏览器加工--31b90248cc.md",
     "sha256": "74d1fc459c45cf3bc68418af368c7f2ecf4255bc533f064b833a2c0b9a55a9ec"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0f1b398fea2a46388434d6f9/reading-795f5adcf681114f2637c5549b2647b214c489a4f71904231cc4801a4efa45a1.md",
+      "sha256": "795f5adcf681114f2637c5549b2647b214c489a4f71904231cc4801a4efa45a1",
+      "original_sha256": "74d1fc459c45cf3bc68418af368c7f2ecf4255bc533f064b833a2c0b9a55a9ec",
+      "processing_sha256": "5ccceb654a09ea6b270781f38785cb2c92556ec2e68c93d48495d59b680f6156",
+      "processor_version": "1.12.6",
+      "prompt_version": "source-translation-v2.2-five-level-judgments:semantic-continuous-v14-bibliography-section-labels:c4ccaab7fac2501740a39e34aeda21344e7e503acfa73f8cce7c683c67597296",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

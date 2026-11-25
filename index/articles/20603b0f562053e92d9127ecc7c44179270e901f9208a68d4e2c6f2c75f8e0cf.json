@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://mp.weixin.qq.com/s/PIOh_aXVuNUT27G5UoKCkw",
+  "title": "独家对话谢赛宁：逃出硅谷！",
+  "original": {
+    "path": "原稿/20603b0f562053e92d9127ec/be23a6999927c34611797ce1fee9e581e64d9e37697b3c205a4b6eefd6b4c1fe.md",
+    "sha256": "be23a6999927c34611797ce1fee9e581e64d9e37697b3c205a4b6eefd6b4c1fe"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/20603b0f562053e92d9127ec/reading-a6f9135641f4c27811fb9add2bec8e007169b02629275eafb163b59edc1bed31.md",
+      "sha256": "a6f9135641f4c27811fb9add2bec8e007169b02629275eafb163b59edc1bed31",
+      "original_sha256": "be23a6999927c34611797ce1fee9e581e64d9e37697b3c205a4b6eefd6b4c1fe",
+      "processing_sha256": "c74ed2635f7e8827b2ceebc64ba37efb34e9602044fcbcfe417af9c571dfe528"
+    }
+  ]
+}

@@ -5,5 +5,12 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/0b0fedbbe857d94f4836bd66.md",
     "sha256": "ae07c36c49a257b4a3759463a6f69649eff0a45391d4b48ff898d27927a0d6f2"
-  }
+  },
+  "versions": [
+    {
+      "kind": "translation",
+      "sha256": "3aedc5480d92299f7c5ed095a462db264cd26805904e2792db820bfea70c519c",
+      "path": "加工版本/0b0fedbbe857d94f4836bd66/translation-3aedc5480d92299f7c5ed095a462db264cd26805904e2792db820bfea70c519c.md"
+    }
+  ]
 }

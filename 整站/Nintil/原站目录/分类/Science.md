@@ -1,0 +1,22 @@
+# Science
+
+[原站](<https://nintil.com/categories/science/>)
+
+-   [Telomeres: everything you always wanted to know](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/8bef3fa02cdedf7be165778f/reading-17e1d57c904edb652ba79be946052666cbe1a9f1f376b7b5946829f1589a6f28.md>)
+-   [Bryan Johnson's Blueprint](<../../%E5%88%86%E7%B1%BB/Aging/Nintil%20-%20Bryan%20Johnson's%20Blueprint--%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A0%E5%B7%A5--546441797f.md>)
+-   [Aging is already solved in vitro. What comes next?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/6bb1de7d32e7476faffe5586/reading-47251ad86310af0579a654680111c0334071dcf9f1f4624b1a58f24d3c2c5903.md>)
+-   [Beyond lifespan as a metric in aging research: why reprogramming is promising](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/43d6e283e1f381a2b2f487fb/reading-f73bfd8964db34123d48d2a4294e419c066525407932e479d4fc9e917b791c16.md>)
+-   [Scaling tacit knowledge](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/00cc72a856595cb2dbee86e7/reading-dd2cc2cee62c352cc4367f08d032ce10f276fd39bb63175702a4ecc9b0e5aa4e.md>)
+-   [A better Google Scholar](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/b06428aa1047d5c6e19d9ffa/reading-9a4e76721e806634188dee77fc40821243538a9932c1a32c6b130f96744d46d1.md>)
+-   [What is aging?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/e00e2ea1a611cb37731c80cc/reading-bd1dd19f69304de542c582c9f2d5c85791bc5585d197bd995c9219d397bd6499.md>)
+-   [Darwin-level insights](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/8a360a4433f069438ad5de43/reading-86755540b4152083754a18d6285f3e40544dba1a4452d250fa939267269121d8.md>)
+-   [Longevity — what we know so far (video)](<../../%E5%88%86%E7%B1%BB/Aging/Longevity%20%E2%80%94%20what%20we%20know%20so%20far%20(video)--%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A0%E5%B7%A5--f0fe2a9bb1.md>)
+-   [Science — The Ending and Endless Frontier(s)](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/184450498b5a51b093bbd6bc/reading-7cc29e41f87ca1c80941214e17c1dbdf6b7272c4e78088b76a90b9992b000e85.md>)
+-   [Epigenetic clocks: A review](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/e686fc05b5c83496d3e7dfb1/reading-5b027894bad8e7e709d04e63f589e516f33889f5c693b99c703f633d4a00d044.md>)
+-   [Better Science: A Reader](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/e05b30e9be7615ec5a82261a/reading-4c41939c425d2d2a7479df08c27532c1203e8269adcd57bb33705aafceb68800.md>)
+-   [Does every animal sleep?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/4453030dfe2d7ad36d269a9d/reading-ab017d19d9ff3e8b2e172d44e8e0c5a35fb10804b8578ff3445e346176ae262d.md>)
+-   [The Longevity FAQ: Making of](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/0abea77cc027fd8c392e0b21/reading-2a01ae4ffa5409d93614f9d2e6644f1cfeb090cf16f719d69b4f4c1f7e197c1f.md>)
+-   [The Longevity FAQ](<../../%E5%88%86%E7%B1%BB/Research/Nintil%20-%20The%20Longevity%20FAQ--%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A0%E5%B7%A5--a64b14b424.md>)
+-   [What useful fundamental physics are we missing?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/5bbe434123ca11450fd22e47/reading-040851d9fb40d9fd8df77e84c8c02f74946526a50dc727bb6dc5fa486db3016f.md>)
+-   [Fixing science (Part 1)](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/044531355a4339f72b527f3e/reading-f41322b05edc793d04f5963e0f3d8002f11614c00d318d0d97f28eb4e341ac93.md>)
+-   [Is (useful) physics over?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/5013c56623350b41cb7f788f/reading-233eb153851a93e4f4c224fc3bb259489b6c000ca94c053aa3d7ed3a141d7ea6.md>)

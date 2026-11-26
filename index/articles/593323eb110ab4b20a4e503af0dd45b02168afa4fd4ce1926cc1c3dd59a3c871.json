@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://gwern.net/spfn",
+  "title": "Symbolic PFNs (SPFNs): Training LLMs for Symbolic Bayesian Inference by Reversing Stan · Gwern.net",
+  "original": {
+    "path": "原稿/593323eb110ab4b20a4e503a/73585cf7179e0b719343940460b0e9d6f51c6d17e7d97b149418abbfdb9cfd84.md",
+    "sha256": "73585cf7179e0b719343940460b0e9d6f51c6d17e7d97b149418abbfdb9cfd84"
+  }
+}

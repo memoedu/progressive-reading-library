@@ -1,0 +1,21 @@
+# Science Funding
+
+[原站](<https://nintil.com/categories/science-funding/>)
+
+-   [Limits and Possibilities of Metascience](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/1cf949c6fa421405bb5ade67/reading-652bfa1e0158c9280934bc522cac4c2e3c896af66ce90f2cc2be1819dffa6927.md>)
+-   [New Science's NIH report: highlights](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/4dd46ed0588dac452869b9b9/reading-cee4cb17222532b2df088d20514b55195d4e778596d286a01238d8746d8c62b3.md>)
+-   [Applied positive meta-science](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/0ee3944cef9108cda9a4cf6a/reading-e2359ab618438131c088faad4bf899723153df07887176cc1a1f71e3a013b4cc.md>)
+-   [Metascience: invariants and evidence](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/eedf6d1323b100e460b9b3e1/reading-ffc6305a9d41d89303759b7bbdcefb5795947a88f590016e970750ed7d11cee9.md>)
+-   [Evidence and the design and reform of scientific institutions](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/cd63d023d0771f2daea26d89/reading-efbb28ad0e17c6c4bb765593f836b4160e8075fbdc9dc5306de40e3bb7fd66bc.md>)
+-   [US Science leadership, the rise of China, and French mathematics](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/4d6af2a158780e64da256157/reading-aeb8984cd754f286c45cedde303be16b1424a201ab05369e59085763a32bab5e.md>)
+-   [New Models for Funding and Organizing Science](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/725b78ce25acc3fa47d316cd/reading-4fa4f682793ab0a3b9e6e6c5ca641f7861ea93b181aa3b384f7c85a8d89c9039.md>)
+-   [The levers of NIH: Paths to reform](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/48daf74fc70f9ad1fb45fe9e/reading-bf06af6c64256052386ca9527442e9cda38f2909a2d56573bc2d005e26f61d0d.md>)
+-   [US Federal R&D spending decline: a breakdown](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/a48b9660c693fbe40affd04d/reading-29d964f0e4c4a4f782b70c9dbade2d1ab8412bef60016ec978e56415a9820bc5.md>)
+-   [Fund People, not Projects V: Fund for longer?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/cfad4c30fa0f3699576a0097/reading-f106ae44c2f3417cc6bc2a851fe389980be02a0eabef1f6c0d0da83011144a86.md>)
+-   [Fund people, not projects IV: Scientific egalitarianism and lotteries](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/b6acd153f05fb8641b5e3041/reading-98b4bd13eaa5bacf7067bd42ad4101049fbcadc068e459d89af5ec61764adaae.md>)
+-   [Fund people, not projects III: The Newton hypothesis; Is science done by a small elite?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/9405686659e89b7685c722d3/reading-2cf4dcaa3dceb14df5912a327c699c772bec10701c69d928a32718102e60ecc7.md>)
+-   [Fund people, not projects II: Does pre-grant peer review work?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/f001b8c83822c05c109e9140/reading-f19930bffaa17fb0e4d5612d09ff5ea5908e61fd82ec3b834d75531b2fbea0b1.md>)
+-   [Fund people, not projects I: The HHMI and the NIH Director's Pioneer Award](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/873157b88b5433a2b4bf2944/reading-1a84728476fed0446672753a30a4b7299049efcc008217b27741546ffb981609.md>)
+-   [Was Planck right? The effects of aging on the productivity of scientists](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/ba64dbb39ca7f5a29101aea1/reading-b184282f0c24f183fd2a0fccdcc0d8d3ec7a30ae1cc75b8b05ded1478b2d6de8.md>)
+-   [Peer rejection in science](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/b4022a7b2ce92ebf3171e0a3/reading-c8d37ef4956888a460493a7159dba8a0dc03079a336f15560c821b44956498d2.md>)
+-   [Are ideas getting harder to find?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/8b2811ed3a37403b3fe8a070/reading-be153c932035b855d84e7a7a1db720d8ad844dc7c2aa5994a2c23c68829fb1d1.md>)

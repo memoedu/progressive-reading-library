@@ -1,0 +1,275 @@
+# Michael Nielsen · Projects by date
+
+[原站](<https://michaelnotebook.com/projects.html>)
+
+This list is incomplete, but aspires to be a list of my public projects. Projects in bold are more substantive. Note that some items in the list are the work of just a few hours – quick notes, Twitter threads, interviews I like, and so on – while others are the work of years.
+
+-   [Experiments as portals](<https://substack.com/@michaelnielsen1/note/c-394340234>) 2026-11-22
+-   [AI ennui](<https://substack.com/@michaelnielsen1/note/c-394204741>) 2026-11-22
+-   [Moral imagination and effective altruism: a reply to Toby Ord](<https://substack.com/@michaelnielsen1/note/c-329683212>) 2026-09-04
+-   [Meaningful places](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/f4b22b795c0dae66519df5c2/reading-40df8c48eee6de7c504b36ae0c2d1f9e98e3272c12c64e937caea3583303958e.md>) 2026-09-04
+-   [The cupcake incident](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/8080e401bfc04f227ae5aeb4/reading-6b7f0f252b8b9d5b4cf6c9e69d2c0b412a10733b75be7251ca56d69abd4631e4.md>) 2026-08-17
+-   [Bear confusion](<https://michaelnotebook.com/bear_confusion/>) 2026-08-15
+-   [Bear madness](<https://michaelnotebook.com/bear_madness/>) 2026-08-15
+-   [The Bear on the Endless Stair](<https://michaelnotebook.com/escher_bear/>) 2026-08-14
+-   **[Projects timeline](<https://michaelnotebook.com/projects_timeline/>)** 2026-08-05
+-   **[The Unimagined Good](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/0dae77ef6ab134c98b8c745d/reading-ea9c2aaf23f12636fa510d838828e9d64b283d7b7b9be500daa8c8114f27c2b2.md>)** (Michael Nielsen) 2026-07-31
+-   [Tim Hwang – Redesigning the Tarot, Touring Nuclear Plants, and the Religious Impact of AI (Good Conversation Project)](<https://www.goodconversationproject.com/tim-hwang>) 2026-07-23
+-   [Why write a book or essay rather than makes videos, reels etc?](<https://substack.com/@michaelnielsen1/note/c-265531656>) 2026-05-26
+-   **[Notes on Tanya M. Luhrmann's book 'How God Becomes Real'](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/16e5266afbc673163abe141c/reading-d5e8f60d2630e37ba2738c80ec54bade5f845d84f656b373a352e6ce06586e4c.md>)** (Michael Nielsen) 2026-05-07
+-   [Interviewing Dad (Howard Nielsen)](<https://michaelnotebook.com/dad/>) 2026-05-02
+-   [Joe Carlsmith – Deep Atheism, Death, and Sincerity (Good Conversation Project)](<https://www.goodconversationproject.com/joe-carlsmith>) 2026-04-14
+-   [Michael Nielsen –- How science actually progresses (Dwarkesh podcast)](<https://www.dwarkesh.com/p/michael-nielsen>) 2026-04-07
+-   **[Developing creative identity](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/c5a472ba340251d69e60e200/reading-554edef00c3ebfab8a10ecb081b9171261f17e6b48cb5b62f3704ed0f9457c9f.md>)** (Michael Nielsen) 2026-03-25
+-   **[Which Future?](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/a6f1b1f843264918ac15d3b2/reading-bcc7ffe2b6bf43ba9e521e57679cb7a801416d76e81e64f71be2bb570d4715b2.md>)** (Michael Nielsen) 2026-02-17
+-   [Believing in Moral Imagination (podcast)](<https://believingin.buzzsprout.com/2171537/episodes/18426777-s4-e3-believing-in-moral-imagination>) 2026-01-22
+-   [Rough note: why "it can't all 'just' be matter" is so wrong. Hints of transcendence in the material viewpoint](<https://substack.com/@michaelnielsen1/note/c-182500911>) (Michael Nielsen) 2025-11-29
+-   [Rough note: On creativity, unselfing, and the diminishment of the selfish impulse](<https://substack.com/@michaelnielsen1/note/c-178433508>) (Michael Nielsen) 2025-11-17
+-   **[Personal Library](<https://michaelnotebook.com/michaelhome/library/gallery/>)** 2025-09-01
+-   **[The Sacrifices We Choose to Make](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/70b75373e35d41b9a5cd0dc9/reading-537f1b123ef03cfa0dcec0825ec248794871ffa3b1ade269d5e2e34fb6cda149.md>)** (Michael Nielsen) 2025-07-13
+-   [Could Powerful AI Break Our Fragile World? (Future of Life Institute podcast)](<https://futureoflife.org/podcast/could-powerful-ai-break-our-fragile-world-with-michael-nielsen/>) 2025-06-06
+-   **[Notes on deep atheism](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/38304ca20f7f32d8c49698f9/reading-24d688decbca7594e854fed505e6c49516c146e57894f195c3daa0b1fba17b67.md>)** (Michael Nielsen) 2025-05-19
+-   **[ASI existential risk: reconsidering alignment as a goal](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/fe397464a2cc107bf9e71549/reading-87bd8abaff3d2b93a28e0e94b32981edf66cfe0a704d99b3c18fa75a004b60d5.md>)** (Michael Nielsen) 2025-04-18
+-   [Pale Blue Dot Redux](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/4b66a7cf8017c23ab35426db/reading-0871eb8f878776a56980fe54e97603765244630c4ce53a6ccc1a7e690516b60c.md>) 2025-04-08
+-   [Michael Nielsen on being a wise optimist about science and technology (Into the Bytecode podcast)](<https://www.intothebytecode.com/52-michael-nielsen/>) 2025-03-27
+-   [Notes on the Tao Te Ching](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/9255168cf60f0bf2cc2453f7/reading-0e80b48c145a0ae53c4c764982ee9f63e087960cc21072e32e565aadeee56df1.md>) 2024-12-02
+-   **[How to be a wise optimist about science and technology?](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/acc8de3da388e9dd37959ce1/reading-47eede86da83f390bd3b2b1c415f4bf04319e541095f728099ed7f86acb73d21.md>)** 2024-12-01
+-   [The trouble with 'big-picture' books: avoiding the curse of the generalist](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/63f276b46bf1d56592e4ca14/reading-849e7160e6797d21f0ecab33f49f421a55a4a775ad66e27cf86b0ec8ed4e1bf4.md>) 2024-07-04
+-   [Notes on the persistence of the four largest ancient religions](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/51ed3dc59c94fee27c149b15/reading-1906f140d688fb143c5e1ce5042e5b91c4cf7757ba40a70afe7a5ee071e72cab.md>) 2024-06-18
+-   [Notes on the adhan](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/8b6fafd303f5432eb0d5ca9f/reading-e6b11f5b4127f165d0b0c4bd154ccbbe5c8d411180dad69a8cb09285992e19c5.md>) 2024-06-02
+-   [Michael Nielsen on Collaboration, Quantum Computing, and Civilization's Fragility (Conversations with Tyler, episode 213)](<https://conversationswithtyler.com/episodes/michael-nielsen/>) 2024-05-29
+-   [Questions for Podcasts](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/c636492774eb479a64977c68/reading-6258d67fabf3a31b5609db04b40abc7a393819404c095653876af010eff90a7d.md>) 2024-02-11
+-   [Notes on Differential Technological Development](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/a66ff77bad0c3ee0808c2c84/reading-beb6a8a84f31224caa3e3f647639b9dd7e0eeb499060bc8e78145ccb21ddff6c.md>) (Michael Nielsen) 2024-01-13
+-   [Notes on the Vulnerable World Hypothesis](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/59fea5d2fb85873c451b2edd/reading-2ffbf3a0706fb6c02d061eea1e82901a2e9ac9a2466a18fd53b82a6506f674d5.md>) (Michael Nielsen) 2023-12-16
+-   [Using memory systems to memorize text passages](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/e547bf341f16b81565201700/reading-c05ecaf63a08ddbd998a79fb8b377de8fe5924fc0f261f08db95ac59cad83d50.md>) 2023-12-05
+-   [Notes on Vitalik Buterin's techno-optimism](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/7cc6a873eda1edea5496a9b6/reading-f080e861fb777d83716229121b253089e04d5caf6f6d0e3854259457e0adbb27.md>) 2023-11-29
+-   [Brief remarks on some of my creative interests](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/3ab87b8f2228eab9cd7d5949/reading-2a7c827fd8f40e9b672963f2d3c73c9b850faed6dc8b0da1ab8db27521ec977c.md>) 2023-11-26
+-   **[Notes on Existential Risk from Artificial Superintelligence](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/ed1dd4f90c742ecd93acc5a7/reading-fad09a940271ba3855c56bdf5fdb0dcaf33d651f0ff9c2c6a07379837d5bbdeb.md>)** 2023-09-18
+-   [Prefatory remarks on 'Oppenheimer'](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/4efd5b8f41f18ca2591c8f75/reading-3430b15307013ef32f62a7ce2700130b23b3862f68ac589af7c7010691df3daa.md>) 2023-08-30
+-   [How I use memory systems](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/4b0b52a8754f790138094df3/reading-e2044e11b67869e4c3ed9471ad62245f7def9d5b5801b3df419969e1044a8738.md>) 2023-07-20
+-   [Quick thoughts on research](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/71f132d53ec046f0efa376a5/reading-313ec059f12436a3561553f9be18efa48c45862775f441c3ba00b38a3665f874.md>) 2023-07-20
+-   [How is AI impacting science?](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/59d2e640b6848af628218351/reading-152854ed981ad1bcf9211ce59b0ce60f42eef17579c7a1c027d59b5da3b38e3c.md>) 2023-05-14
+-   [On the status of Occam's razor](<https://twitter.com/michael_nielsen/status/1654194179935961090>) 2023-04-04
+-   [How to make memory systems widespread?](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/effba4d13c158e8e3d340086/reading-f270eee650ca8090e44998a82dbdae3790cc960346ec75d3601d54e0a9160d50.md>) 2023-02-13
+-   [Notes on Commandments to live by](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/1d93648a6bda3d20e7944aee/reading-23875c96835ec4a136cc360a7be63ad9a87ff74ccaa11579aa7cf97c40d183a7.md>) 2023-01-15
+-   [Reflections on diminishing returns in science (Twitter thread)](<https://twitter.com/michael_nielsen/status/1612540928304246785>) 2023-01-09
+-   [Discovery fiction](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/7095b7d88db3aca3469628f5/reading-5c8926cc1aac4867a86e8ba073f4d4d3615acb448ed66aa43058e644cf502dbc.md>) 2023-01-03
+-   [Exploratory notes: Community as the unit of scientific contribution](<https://scienceplusplus.org/cusc/index.html>) 2022-12-09
+-   [Michael Nielsen on Metascience (on the Jim Rutt Show)](<https://www.jimruttshow.com/currents-michael-nielsen/>) (Michael Nielsen and Jim Rutt) 2022-12-05
+-   [Myth and religion, 'social technology', and deeply held belief](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/c022f7945eb99dc95e8420cc/reading-b1de940d0d593adfe461d70f0ee344b04de0fc24403401a83a08cc44abbe82c0.md>) 2022-12-01
+-   [Interview with David Zierler for the Caltech Heritage Project](<https://heritageproject.caltech.edu/interviews-updates/michael-nielsen>) (Michael Nielsen and David Zierler) 2022-11-25
+-   [Building a better memory system](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/bae4682790433f87635423da/reading-0fbedbb2c2c15915aa0142effc7a305df14658f10e5b62527d96169edbf5bbeb.md>) 2022-11-22
+-   [Michael Nielsen: Metascience, How To Improve Science, Open Science (Benjamin Yeoh's podcast)](<https://www.thendobetter.com/arts/2022/11/15/michael-nielsen-metascience-how-to-improve-science-open-science-podcast>) (Michael Nielsen and Benjamin Yeoh) 2022-11-16
+-   **[A Vision of Metascience: An Engine of Improvement for the Social Processes of Science](<https://scienceplusplus.org/metascience/index.html>)** (Michael Nielsen and Kanjun Qiu) 2022-10-18
+-   [Conversation with Ajeya Cotra and Spencer Greenberg about Effective Altruism](<https://clearerthinkingpodcast.com/episode/118>) (Ajeya Cotra, Spencer Greenberg, and Michael Nielsen) 2022-08-19
+-   [Notes on creative context](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/3d46e1c8b3705c1e19dc30ca/reading-0817d034cc77c867e707390b935ca71e733284edb4608dcefa23d96d89fc9a14.md>) 2022-08-04
+-   [Email thoughts on metascience](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/de01b18071b549bdeb1a2d16/reading-786d97d193e766f1df23ca79a0b6e98506e78007cc8ed089b63622d473c54ca7.md>) 2022-07-18
+-   [Quick notes on the Las Vegas Strip](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/42e3f5c7786c6f8ca497f630/reading-c90e4b6c46c5af77846ef5301a2c32f94342bff1ae1c9ad27b8d639dada9bd7d.md>) 2022-07-07
+-   **[Notes on Effective Altruism](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/76e5dc70f67c3040914c8191/reading-59ae62a2a9b691f98618f5edafb571cd1a31cfdc3f1cbad9f2a6c2b35f64c688.md>)** 2022-06-02
+-   [On the role of design in science (Twitter thread)](<https://twitter.com/michael_nielsen/status/1530577220992872448>) 2022-05-28
+-   [Working notes on the role of vision papers in basic science](<https://scienceplusplus.org/visions/index.html>) 2022-05-28
+-   [Slow](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/7a528214645ba4ea886b1b4d/reading-0cd9f31965fb4cdd20e813ba1de0e4abd408dfbe7a74ba8085668dbcaf3ea359.md>) 2022-02-20
+-   **[Cosmos: working notes, 1](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/e82720f0caa376736ccb2e2b/reading-dfeecd6091b31c780969a408e2a1114f9cab96225f5cd42fad855fa77ec3f594.md>)** 2022-02-16
+-   **[The trouble in comparing different approaches to science funding](<https://scienceplusplus.org/trouble_with_rcts/index.html>)** (Michael Nielsen and Kanjun Qiu) 2022-02-09
+-   [Workshop template](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/41163662d5ff694d4976e295/reading-13c6a73ffd12e69cdf60340cfa125d9983387643a5edc4c6dad7b1bfe6d2b3d5.md>) 2022-02-04
+-   [In what sense is the science of science a science?](<https://scienceplusplus.org/what_is_sos/index.html>) 2022-01-13
+-   [Surprising things believed by extraordinary scientists](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/689fd5e5822d39801aafcf9e/reading-259bcb9f908c85c4d765e25ad99edf2902819282839d7a581d18bc263d649b71.md>) 2022-01-01
+-   [Working notes on the Dirac equation](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/410a49a21d91fe28b230c9b2/reading-c7266d5c9253e68ae9b4b249dc837d0a736173815292b4f71dd563ae3934dc99.md>) 2021-11-19
+-   [How to use a personal website to enhance your ability to think and create?](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/b3e34ca29fb25198a7dd89f0/reading-83f45afa6059e07ffbaa1a1ae4b9278aa53be8e83955e854ea2e6b9c2130a5e3.md>) 2021-10-11
+-   [Sporadica](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/01cea99aa9e38c8ec081d20d/reading-5acf42b6d93f6c5d0a86438dd855db73fc96e276e3f20899ca024df0939e2f16.md>) 2021-10-01
+-   [Rough working notes on the Alcubierre 'warp drive' spacetime](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/1e0c2704c3f9d4ce334cd279/reading-af0d93b00d0cb5eda723c45921eddec146d0e77f80f8de8801597bce816b2f13.md>) 2021-09-30
+-   [Reflections on 'The Bitter Lesson'](<https://cognitivemedium.com/bitter-lesson>) 2021-07-22
+-   [What's more fundamental than the laws of physics? (Twitter thread)](<https://twitter.com/michael_nielsen/status/1377793211431673857>) 2021-04-01
+-   **[Maps of Matter](<https://futureofmatter.com/maps_of_matter.html>)** 2021-02-01
+-   [How do scanning tunnelling microscopes work?](<https://futureofmatter.com/stm.html>) 2021-02-01
+-   [Spencer Greenberg: Scientific Progress and Political Feedback Loops with Michael Nielsen](<https://clearerthinkingpodcast.com/episode/016>) 2020-11-25
+-   [The impact of direct air carbon capture on climate change](<https://cognitivemedium.com/dac-notes>) 2019-11-21
+-   **[How can we develop transformative tools for thought?](<https://numinous.productions/ttft/>)** (Andy Matuschak and Michael Nielsen) 2019-10-03
+-   [Scattered notes on writing I](<https://cognitivemedium.com/scattered-notes-writing-1>) 2019-09-26
+-   [Discovery fiction for Hindu-Arabic numerals](<https://twitter.com/michael_nielsen/status/1174420006907473920>) 2019-09-18
+-   [Discovery fiction for quantum teleportation](<https://twitter.com/michael_nielsen/status/1132063254849527808>) 2019-05-24
+-   [Erik Torenberg: What Michael Nielsen Thinks About Basically Everything](<https://podcastaddict.com/episode/119292695>) 2019-04-25
+-   **[Quantum Country](<https://quantum.country/>)** (Andy Matuschak and Michael Nielsen) 2019-03-19
+-   [Using spaced repetition systems to see through a piece of mathematics](<https://cognitivemedium.com/srs-mathematics>) 2019-01-12
+-   [What does the quantum state mean?](<https://cognitivemedium.com/qm-interpretation>) 2018-12-13
+-   [In what sense is quantum computing a science?](<http://cognitivemedium.com/qc-a-science>) 2018-12-12
+-   **[Science is getting less bang for its buck](<https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/>)** (Patrick Collison and Michael Nielsen) 2018-11-15
+-   [On the units of bipartite entanglement: Is sixteen ounces of entanglement always equal to one pound?](<https://arxiv.org/abs/quant-ph/0011063>) 2018-10-29
+-   [Twitter thread on the velocity of discovery](<https://twitter.com/michael_nielsen/status/1052294547861118979>) 2018-10-16
+-   [What if we had oracles for common machine learning problems?](<https://cognitivemedium.com/what-if-oracles-ml>) 2018-09-30
+-   [The varieties of material existence](<https://cognitivemedium.com/vme>) 2018-09-18
+-   [David Perell: Michael Nielsen: Tools for Thought](<https://perell.com/podcast/michael-nielsen/>) 2018-07-09
+-   **[Augmenting Long-term Memory](<http://augmentingcognition.com/ltm.html>)** 2018-07-05
+-   [Twitter thread on spaced repetition memory systems](<https://twitter.com/michael_nielsen/status/957763229454774272>) 2018-01-28
+-   **[Using Artificial Intelligence to Augment Human Intelligence](<https://distill.pub/2017/aia/>)** (Shan Carter and Michael Nielsen) 2017-12-04
+-   **[Thought as a Technology](<http://cognitivemedium.com/tat/index.html>)** 2017-11-29
+-   [RMNIST with annealing and ensembling](<https://cognitivemedium.com/rmnist_anneal_ensemble>) 2017-11-26
+-   [Reduced MNIST: how well can machines learn from small data?](<https://cognitivemedium.com/rmnist>) 2017-11-15
+-   **[Magic Paper](<http://cognitivemedium.com/magic_paper/index.html>)** 2017-11-05
+-   [Working notes on Chalktalk](<https://cognitivemedium.com/interfaces-1/index.html>) 2017-09-01
+-   [Volitional Philanthropy](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/9d799b6165f1aef3f85e24e7/reading-b7eadb7ef1df6c35a42e1ae80913fd5de8a67ef9f5c4f613964fea719ca82650.md>) 2017-04-11
+-   [How much do our elite know about human progress?](<../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/63d5efed4bf0ec19758ff7da/reading-f8dbb65f0be5f781b9501bd489a395dfd2ce8d9bd808ac7b2655a2171cf10d37.md>) 2016-12-28
+-   [The trouble with definitions](<https://cognitivemedium.com/trouble_with_definitions/index.html>) 2016-12-02
+-   [Making invisible understanding visible](<https://cognitivemedium.com/invisible_visible/invisible_visible.html>) 2016-04-01
+-   [Is AlphaGo Really Such a Big Deal?](<https://www.quantamagazine.org/20160329-why-alphago-is-really-such-a-big-deal/>) 2016-03-29
+-   [Striking user interfaces](<https://cognitivemedium.com/striking_ui/striking_ui.html>) 2016-03-01
+-   [Notes on the Dynabook](<http://mnielsen.github.io/notes/kay/dynabook.html>) 2016-03-01
+-   **[Toward an Exploratory Medium for Mathematics](<http://cognitivemedium.com/emm/emm.html>)** 2016-02-28
+-   [The Physical Origin of Universal Computing](<https://www.quantamagazine.org/20151027-the-physical-origin-of-universal-computing/>) 2015-10-27
+-   [Engelbart: "Augmenting Human Intellect"](<http://mnielsen.github.io/notes/engelbart/engelbart.html>) 2015-08-10
+-   [The Rise of Computer-Aided Explanation](<https://www.quantamagazine.org/the-rise-of-computer-aided-explanation-20150723/>) 2015-07-23
+-   **[Reinventing Explanation](<http://michaelnielsen.org/reinventing_explanation/index.html>)** 2014-01-31
+-   [How the Bitcoin protocol actually works](<https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/>) 2013-12-06
+-   **[Neural Networks and Deep Learning](<https://neuralnetworksanddeeplearning.com/>)** 2013-11-25
+-   **[The Artist and the Machine](<http://michaelnielsen.org/blog/the-artist-and-the-machine/>)** 2013-02-06
+-   [Why Bloom filters work the way they do](<https://michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/>) 2012-09-26
+-   [How to crawl a quarter billion webpages in 40 hours](<https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/>) 2012-08-10
+-   [Using evaluation to improve our question-answering system](<https://michaelnielsen.org/ddi/using-evaluation-to-improve-our-question-answering-system/>) 2012-06-30
+-   [How to answer a question: a simple system](<https://michaelnielsen.org/ddi/how-to-answer-a-question-a-simple-system/>) 2012-06-13
+-   **[Lisp as the Maxwell's equations of software](<https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/>)** 2012-04-11
+-   [How changing the structure of the web changes PageRank](<https://michaelnielsen.org/ddi/how-changing-the-structure-of-the-web-changes-pagerank/>) 2012-03-05
+-   [How to combine multiple notions of relevance in search?](<https://michaelnielsen.org/ddi/how-to-combine-multiple-notions-of-relevance-in-search/>) 2012-02-04
+-   [On Elsevier](<https://michaelnielsen.org/blog/on-elsevier/>) 2012-01-25
+-   **[If correlation doesn't imply causation, then what does?](<https://michaelnielsen.org/ddi/if-correlation-doesnt-imply-causation-then-what-does/>)** 2012-01-23
+-   [Open Access: a Short Summary](<https://michaelnielsen.org/blog/open-access-a-short-summary/>) 2011-11-30
+-   [Open science now!](<https://www.ted.com/talks/michael_nielsen_open_science_now>) 2011-11-01
+-   [The New Einsteins Will be Scientists Who Share (short op-ed)](<https://www.wsj.com/articles/SB10001424052970204644504576653573191370088>) 2011-10-29
+-   **[Reinventing Discovery: the New Era of Networked Science](<https://www.amazon.com/gp/product/B07ZHPBK5M/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1>)** 2011-10-23
+-   [Documents as geometric objects: how to rank documents for full-text search](<https://michaelnielsen.org/ddi/documents-as-geometric-objects-how-to-rank-documents-for-full-text-search/>) 2011-07-07
+-   [Quantum computing for the determined (video series)](<https://michaelnielsen.org/blog/quantum-computing-for-the-determined/>) 2011-06-10
+-   [What should a reasonable person believe about the Singularity?](<https://michaelnielsen.org/blog/what-should-a-reasonable-person-believe-about-the-singularity/>) 2011-01-12
+-   [How hard is space travel, in principle?](<https://michaelnielsen.org/blog/how-hard-is-space-travel-in-principle/>) 2010-11-30
+-   [The Mismeasurement of Science](<https://michaelnielsen.org/blog/the-mismeasurement-of-science/>) 2010-11-29
+-   [Introduction to the Polymath project and \`density Hales-Jewett and Moser numbers'](<https://link.springer.com/chapter/10.1007/978-3-642-14444-8_20>) 2010-01-01
+-   [A guide to the day of big data](<https://www.nature.com/articles/462722a>) 2009-12-09
+-   [Pessimism as hubris](<https://michaelnielsen.org/blog/pessimism-as-hubris/>) 2009-12-05
+-   **[Massively collaborative mathematics](<https://michaelnielsen.org/papers/mcm.pdf>)** (Tim Gowers and Michael Nielsen) 2009-10-15
+-   [There is no single future for scientific journals](<https://michaelnielsen.org/blog/there-is-no-single-future-for-scientific-journals/>) 2009-09-23
+-   **[Is Scientific Publishing About to Be Disrupted?](<https://michaelnielsen.org/blog/is-scientific-publishing-about-to-be-disrupted/>)** 2009-06-29
+-   [Conscious modularity and scaling open collaboration](<https://michaelnielsen.org/blog/conscious-modularity-and-scaling-open-collaboration/>) 2009-03-30
+-   [The Polymath project: scope of participation](<https://michaelnielsen.org/blog/the-polymath-project-scope-of-participation/>) 2009-03-20
+-   **[Doing Science Online](<https://michaelnielsen.org/blog/doing-science-online/>)** 2009-01-26
+-   [When can the long tail be leveraged?](<https://michaelnielsen.org/blog/when-can-the-long-tail-be-leveraged/>) 2009-01-22
+-   [Three Myths about Scientific Peer Review](<https://michaelnielsen.org/blog/three-myths-about-scientific-peer-review/>) 2009-01-08
+-   [The economics of scientific collaboration](<https://michaelnielsen.org/blog/the-economics-of-scientific-collaboration/>) 2008-12-29
+-   [The Google Technology Stack](<https://michaelnielsen.org/blog/lecture-course-the-google-technology-stack/>) 2008-12-02
+-   [Five problems with doing research in the open](<https://michaelnielsen.org/blog/five-problems-with-doing-research-in-the-open/>) 2008-11-03
+-   [Why Augmenting Collective Intelligence is Easier than Augmenting Individual Intelligence](<https://michaelnielsen.org/blog/why-augmenting-collective-intelligence-is-easier-than-augmenting-individual-intelligence/>) 2008-10-24
+-   [Suppress innovation, but claim the credit](<https://michaelnielsen.org/blog/suppress-innovation-but-claim-the-credit/>) 2008-10-22
+-   [Science beyond individual understanding](<https://michaelnielsen.org/blog/science-beyond-individual-understanding/>) 2008-09-24
+-   [Science in the 21st Century: Science, Society, and Information Technology](<https://pirsa.org/c08021>) 2008-09-08
+-   [More really is different](<https://arxiv.org/abs/0809.0151>) (Mile Gu, Christian Weedbrook, Alvaro Perales, and Michael A. Nielsen) 2008-08-31
+-   [Quantum Computing for Everyone](<http://michaelnielsen.org/blog/quantum-computing-for-everyone/>) 2008-08-28
+-   [Quantum control via geometry: An explicit example](<https://arxiv.org/abs/0808.3212>) (Mile Gu, Andrew Doherty, and Michael A. Nielsen) 2008-08-23
+-   [Six Rules for Rewriting](<https://michaelnielsen.org/blog/six-rules-for-rewriting/>) 2008-08-19
+-   [Why the World Needs Quantum Mechanics](<http://michaelnielsen.org/blog/why-the-world-needs-quantum-mechanics/>) 2008-08-04
+-   [Why I'd rather be an optimist than a pessimist](<https://michaelnielsen.org/blog/why-id-rather-be-an-optimist-than-a-pessimist/>) 2008-07-30
+-   [Shirky's Law and why (most) social software fails](<https://michaelnielsen.org/blog/shirkys-law-and-why-most-social-software-fails/>) 2008-07-24
+-   **[The future of science](<https://michaelnielsen.org/blog/the-future-of-science-2/>)** 2008-07-17
+-   [Notes on Andrew Odlyzko's "The Economics of Electronic Journals"](<https://michaelnielsen.org/blog/notes-on-andrew-odlyzkos-the-economics-of-electronic-journals/>) 2008-05-29
+-   [Rough notes on the Budapest Open Access Initiative](<https://michaelnielsen.org/blog/rough-notes-on-the-budapest-open-access-initiative/>) 2008-05-29
+-   [Science and Wikipedia](<https://michaelnielsen.org/blog/science-and-wikipedia/>) 2008-05-21
+-   [Open Science](<https://michaelnielsen.org/blog/open-science/>) 2008-05-13
+-   [Interrupting Google Search](<https://michaelnielsen.org/blog/interrupting-google-search/>) 2008-04-26
+-   [SciBarCamp](<https://michaelnielsen.org/blog/scibarcamp-opening-night/>) 2008-03-15
+-   [Investing in undervalued human capital: the Y Combinator model](<https://michaelnielsen.org/blog/investing-in-undervalued-human-capital-the-y-combinator-model/>) 2008-03-13
+-   [The curse of busy-ness](<https://michaelnielsen.org/blog/the-curse-of-busy-ness/>) 2008-03-13
+-   [Creative collaboration: ideals and reality](<https://michaelnielsen.org/blog/creative-collaboration-ideals-and-reality/>) 2008-03-11
+-   [Criticism is overrated](<https://michaelnielsen.org/blog/criticism-is-overrated/>) 2008-02-27
+-   [Why isn't University free?](<https://michaelnielsen.org/blog/why-arent-universities-free/>) 2008-02-25
+-   [Intellectual property, automated contracts, and the free flow of information](<https://michaelnielsen.org/blog/intellectual-property-automated-contracts-and-the-free-flow-of-information/>) 2008-02-13
+-   [Why the h-index is little use](<https://michaelnielsen.org/blog/why-the-h-index-is-virtually-no-use/>) 2008-01-31
+-   [The tension between information creators and information organizers](<https://michaelnielsen.org/blog/the-tension-between-information-creators-and-information-organizers/>) 2008-01-24
+-   [APIs and the art of building powerful programs](<https://michaelnielsen.org/blog/apis-and-the-art-of-building-powerful-programs/>) 2008-01-14
+-   [Non-abelian money](<https://michaelnielsen.org/blog/non-abelian-money/>) 2007-08-25
+-   [Kasparov versus the World](<https://michaelnielsen.org/blog/kasparov-versus-the-world/>) 2007-08-21
+-   [Micropublication and open source research](<https://michaelnielsen.org/blog/micropublication-and-open-source-research/>) 2007-08-16
+-   [The Research Funding "Crisis"](<https://michaelnielsen.org/blog/the-research-funding-crisis/>) 2007-08-14
+-   [Open Source Google](<https://michaelnielsen.org/blog/open-source-google/>) 2007-08-08
+-   [What is the Universe made of? Part I](<https://michaelnielsen.org/blog/what-is-the-universe-made-of-part-i/>) 2007-08-02
+-   [An introduction to Yang-Mills theories](<https://michaelnotebook.com/assets/yang_mills_nielsen.pdf>) 2007-05-09
+-   [The Academic Reader](<https://michaelnielsen.org/blog/introducing-the-academic-reader/>) 2007-04-10
+-   **[The geometry of quantum computation](<https://arxiv.org/abs/quant-ph/0701004>)** (Mark R. Dowling and Michael A. Nielsen) 2006-12-31
+-   [Limits to collective decision making: Arrow's theorem](<https://michaelnielsen.org/blog/limits-to-collective-decision-making-arrows-theorem/>) 2006-06-30
+-   [Universal quantum computation with continuous-variable cluster states](<https://arxiv.org/abs/quant-ph/0605198>) (Nicolas C. Menicucci, Peter Van Loock, Mile Gu, Christian Weedbrook, Timothy C. Ralph, and Michael A. Nielsen) 2006-05-23
+-   **[Quantum computation as geometry](<https://arxiv.org/abs/quant-ph/0603161>)** (Michael A. Nielsen, Mark R. Dowling, Mile Gu, and Andrew C. Doherty) 2006-03-19
+-   **[Optimal control, geometry, and quantum computing](<https://arxiv.org/abs/quant-ph/0603160>)** (Michael A. Nielsen, Mark R. Dowling, Mile Gu, and Andrew C. Doherty) 2006-03-19
+-   **[Noise thresholds for optical cluster-state quantum computation](<https://arxiv.org/abs/quant-ph/0601066>)** (Christopher M. Dawson, Henry L. Haselgrove, and Michael A. Nielsen) 2006-01-11
+-   **[Noise thresholds for optical quantum computers](<https://arxiv.org/abs/quant-ph/0509060>)** (Christopher M. Dawson, Henry L. Haselgrove, and Michael A. Nielsen) 2005-09-09
+-   **[The Fermionic canonical commutation relations and the Jordan-Wigner transform](<https://futureofmatter.com/assets/fermions_and_jordan_wigner.pdf>)** 2005-07-29
+-   [Introduction to expander graphs](<https://web.archive.org/web/20120326014959/https://michaelnielsen.org/blog/archive/notes/expander_graphs.pdf>) 2005-06-22
+-   **[Algebraic and information-theoretic conditions for operator quantum error correction](<https://arxiv.org/abs/quant-ph/0506069>)** (Michael A. Nielsen and David Poulin) 2005-06-09
+-   [Optimal photons for quantum-information processing](<https://arxiv.org/abs/quant-ph/0505139>) (Peter P. Rohde, Timothy C. Ralph, and Michael A. Nielsen) 2005-05-19
+-   **[The Solovay-Kitaev algorithm](<https://arxiv.org/abs/quant-ph/0505030>)** (Christopher M. Dawson and Michael A. Nielsen) 2005-05-06
+-   [Small World Networks](<https://michaelnielsen.org/blog/small-world-networks/>) 2005-05-05
+-   [Journal club on quantum gravity](<https://michaelnielsen.org/blog/journal-club-on-quantum-gravity/>) 2005-04-15
+-   **[Cluster-state quantum computation](<https://arxiv.org/abs/quant-ph/0504097>)** 2005-04-13
+-   [Summer School Lectures on Quantum Information and Computation](<https://web.archive.org/web/20070626131608/http://www.qinfo.org:80/people/nielsen/blog/?page_id=198>) 2005-04-08
+-   [A geometric approach to quantum circuit lower bounds](<https://arxiv.org/abs/quant-ph/0502070>) 2005-02-11
+-   [A simple proof of the strong subadditivity inequality](<https://arxiv.org/abs/quant-ph/0408130>) (Michael A. Nielsen and Denés Petz) 2004-08-20
+-   **[Quantum computing and polynomial equations over the finite field Z2](<https://arxiv.org/abs/quant-ph/0408129>)** (Christopher M. Dawson, Henry L. Haselgrove, Andrew P. Hines, Duncan Mortimer, Michael A. Nielsen, and Tobias J. Osborne) 2004-08-20
+-   [What's wrong with those quantum cryptosystems](<https://michaelnielsen.org/blog/whats-wrong-with-those-quantum-cryptosystems/>) 2004-08-17
+-   **[Distance measures to compare real and ideal quantum processes](<https://arxiv.org/abs/quant-ph/0408063>)** (Alexei Gilchrist, Nathan K. Langford, and Michael A. Nielsen) 2004-08-10
+-   [Principles of Effective Research](<https://michaelnielsen.org/blog/principles-of-effective-research/>) 2004-07-27
+-   [Operator monotone and operator convex functions: a survey](<https://web.archive.org/web/20090619213809/http://www.qinfo.org/people/nielsen/blog/archive/notes/0403.pdf>) 2004-06-29
+-   [Bloch's theorem and Bravais lattices](<https://web.archive.org/web/20091222020413/http://www.qinfo.org:80/people/nielsen/blog/archive/notes/0402.pdf>) 2004-06-10
+-   [Technical notes on linear matrix equations](<https://web.archive.org/web/20090619213659/http://www.qinfo.org/people/nielsen/blog/archive/notes/0401.pdf>) 2004-06-06
+-   **[Fault-tolerant quantum computation with cluster states](<https://arxiv.org/abs/quant-ph/0405134>)** (Michael A. Nielsen and Christopher M. Dawson) 2004-05-23
+-   **[Simulating Hamiltonian dynamics using many-qudit Hamiltonians and local unitary control](<https://arxiv.org/abs/quant-ph/0405115>)** (Michael J. Bremner, Dave Bacon, and Michael A. Nielsen) 2004-05-20
+-   [Unified derivations of measurement-based schemes for quantum computation](<https://arxiv.org/abs/quant-ph/0404132>) (Andrew M. Childs, Debbie W. Leung, and Michael A. Nielsen) 2004-04-23
+-   **[Interesting problems: The Church-Turing-Deutsch Principle](<https://michaelnielsen.org/blog/interesting-problems-the-church-turing-deutsch-principle/>)** 2004-04-16
+-   **[Optical quantum computation using cluster states](<https://arxiv.org/abs/quant-ph/0402005>)** 2004-02-02
+-   [Frustration, interaction strength, and ground-state entanglement in complex quantum systems](<https://arxiv.org/abs/quant-ph/0401061>) (Christopher M. Dawson and Michael A. Nielsen) 2004-01-12
+-   [The bits that make up the Universe](<https://www.nature.com/articles/427016b>) 2004-01-01
+-   [Journal club notes on the cluster-state model of quantum computation](<https://web.archive.org/web/20070316012311/http://www.qinfo.org:80/qc-by-measurement/cluster-state.pdf>) 2003-11-29
+-   **[Extreme Thinking](<https://michaelnielsen.org/blog/tough-learning-part-4-final-draft/>)** 2003-09-07
+-   [Entanglement, correlations, and the energy gap in many-body quantum systems](<https://arxiv.org/abs/quant-ph/0308083>) (Henry L. Haselgrove, Michael A. Nielsen, and Tobias J. Osborne) 2003-08-14
+-   [Lower bounds on the complexity of simulating quantum gates](<https://arxiv.org/abs/quant-ph/0307190>) (Andrew M. Childs, Henry L. Haselgrove, and Michael A. Nielsen) 2003-07-25
+-   **[Fungible dynamics: There are only two types of entangling multiple-qubit interactions](<https://arxiv.org/abs/quant-ph/0307148>)** (Michael J. Bremner, Jennifer L. Dodd, Michael A. Nielsen, and Dave Bacon) 2003-07-21
+-   [Practicality of time-optimal two-qubit Hamiltonian simulation](<https://arxiv.org/abs/quant-ph/0303070>) (Henry L. Haselgrove, Michael A. Nielsen, and Tobias J. Osborne) 2003-03-11
+-   [Ancilla-assisted quantum process tomography](<https://arxiv.org/abs/quant-ph/0303038>) (Joseph B. Altepeter, David Branning, Evan Jeffrey, T. C. Wei, Paul G. Kwiat, Robert T. Thew, Jeremy L. O'Brien, Michael A. Nielsen, Andrew G. White) 2003-03-07
+-   [Quantum states far from the energy eigenstates of any local Hamiltonian](<https://arxiv.org/abs/quant-ph/0303022>) (Henry L. Haselgrove, Michael A. Nielsen, and Tobias J. Osborne) 2003-03-04
+-   [Robustness of quantum gates in the presence of noise](<https://arxiv.org/abs/quant-ph/0301108>) (Aram W. Harrow and Michael A. Nielsen) 2003-01-21
+-   **[Simple Rules for a Complex Quantum World](<https://michaelnielsen.org/papers/SciAmSimpleRules.pdf>)** 2002-11-01
+-   **[An introduction to majorization and its applications to quantum mechanics (draft of a book)](<https://michaelnielsen.org/papers/maj-book-notes.pdf>)** 2002-10-18
+-   [Quantum information science and complex quantum systems](<https://arxiv.org/abs/quant-ph/0210005>) 2002-10-01
+-   [Quantum dynamics as a physical resource](<https://arxiv.org/abs/quant-ph/0208077>) (Michael A. Nielsen, Christopher M. Dawson, Jennifer L. Dodd, Alexei Gilchrist, Duncan Mortimer, Tobias J. Osborne, Michael J. Bremner, Aram W. Harrow, and Andrew Hines) 2002-08-13
+-   [Quantum information science as an approach to complex quantum systems](<https://arxiv.org/abs/quant-ph/0208078>) 2002-08-13
+-   [Practical scheme for quantum computation with any two-qubit entangling gate](<https://arxiv.org/abs/quant-ph/0207072>) (Michael J. Bremner, Christopher M. Dawson, Jennifer L. Dodd, Alexei Gilchrist, Aram W. Harrow, Duncan Mortimer, Michael A. Nielsen, and Tobias J. Osborne) 2002-07-12
+-   **[Universal simulation of Hamiltonian dynamics for quantum systems with finite-dimensional state spaces](<https://arxiv.org/abs/quant-ph/0109064>)** (Michael A. Nielsen, Michael J. Bremner, Jennifer L. Dodd, Andrew M. Childs, and Christopher M. Dawson) 2002-05-31
+-   [A simple formula for the average gate fidelity of a quantum dynamical operation](<https://arxiv.org/abs/quant-ph/0205035>) 2002-05-07
+-   [Entanglement in a simple quantum phase transition](<https://arxiv.org/abs/quant-ph/0202162>) (Tobias J. Osborne and Michael A. Nielsen) 2002-02-27
+-   [Entanglement monotone derived from Grover’s algorithm](<https://arxiv.org/abs/quant-ph/0112097>) (Ofer Biham, Michael A. Nielsen, and Tobias J. Osborne) 2001-12-17
+-   [A simple operational interpretation of the fidelity](<https://arxiv.org/abs/quant-ph/0111053>) (Jennifer L. Dodd and Michael A. Nielsen) 2001-11-08
+-   **[Entanglement, quantum phase transitions, and density matrix renormalization](<https://arxiv.org/abs/quant-ph/0109024>)** (Tobias J. Osborne and Michael A. Nielsen) 2001-09-05
+-   [Quantum computation by measurement and quantum memory](<https://arxiv.org/abs/quant-ph/0108020>) 2001-08-06
+-   [ROM-based computation: quantum versus classical](<https://arxiv.org/abs/quant-ph/0109016>) (Benjamin C. Travaglione, Michael A. Nielsen, Howard M. Wiseman, and Andris Ambainis) 2001-08-04
+-   [Causal and localizable quantum operations](<https://arxiv.org/abs/quant-ph/0102043>) (David Beckman, Daniel Gottesman, Michael A. Nielsen, and John Preskill) 2001-06-14
+-   **[Universal quantum computation and simulation using any entangling Hamiltonian and local unitaries](<https://arxiv.org/abs/quant-ph/0106064>)** (Jennifer L. Dodd, Michael A. Nielsen, Michael J. Bremner, and Robert T. Thew) 2001-06-12
+-   **[Majorization and the interconversion of bipartite states](<https://www.rintonpress.com/journals/qic-1-1/vidal.pdf>)** (Michael A. Nielsen and Guifré Vidal) 2001-05-28
+-   **[Separable states are more disordered globally than locally](<https://arxiv.org/abs/quant-ph/0011117>)** (Michael A. Nielsen and Julia Kempe) 2000-11-30
+-   [Introduction to quantum information theory](<https://arxiv.org/abs/quant-ph/0011064>) 2000-11-15
+-   [Quantum information processing](<https://arxiv.org/abs/quant-ph/0010058>) (E. H. Nielsen and M. A. Nielsen) 2000-10-17
+-   [Theory of quantum computation](<https://arxiv.org/abs/quant-ph/0010057>) (E. H. Knill and M. A. Nielsen) 2000-10-17
+-   **[Quantum Computation and Quantum Information](<http://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176>)** (Michael A. Nielsen and Isaac L. Chuang) 2000-10-01
+-   **[Characterizing mixing and measurement in quantum mechanics](<https://arxiv.org/abs/quant-ph/0008073>)** 2000-08-16
+-   [Approximate transformations and robust manipulation of bipartite pure-state entanglement](<https://arxiv.org/abs/quant-ph/9910099>) (Guifré Vidal, Daniel Jonathan, and M. A. Nielsen) 1999-10-23
+-   [Probability distributions consistent with a mixed state](<https://arxiv.org/abs/quant-ph/9909020>) 1999-09-06
+-   [Continuity bounds for entanglement](<https://arxiv.org/abs/quant-ph/9908086>) 1999-08-30
+-   **[Conditions for a class of entanglement transformations](<https://arxiv.org/abs/quant-ph/9811053>)** 1998-11-20
+-   **[Complete quantum teleportation using nuclear magnetic resonance](<https://arxiv.org/abs/quant-ph/9811020>)** (Michael A. Nielsen, Emanuel Knill, and Raymond Laflamme) 1998-11-08
+-   **[Quantum information theory (PhD dissertation)](<https://arxiv.org/abs/quant-ph/0011036>)** 1998-08-15
+-   [On quantum fidelities and channel capacities](<https://arxiv.org/abs/quant-ph/9809010>) (Howard Barnum, Emanuel Knill, and Michael A. Nielsen) 1998-08-04
+-   [Quantum entanglement and the communication complexity of the inner product function](<https://arxiv.org/abs/quant-ph/9708019>) (Richard Cleve, Wim van Dam, Michael Nielsen, and Alain Tapp) 1997-08-11
+-   [What makes quantum computers powerful?](<https://michaelnotebook.com/assets/qc_manifesto.pdf>) (The Quantum Computation Collective) 1997-07-10
+-   [Information-theoretic approach to quantum error correction and reversible measurement](<https://arxiv.org/abs/quant-ph/9706064>) (M. A. Nielsen, Carlton M. Caves, Benjamin Schumacher, and Howard Barnum) 1997-06-30
+-   [Computable functions, quantum measurements, and quantum dynamics](<https://arxiv.org/abs/quant-ph/9706006>) 1997-06-03
+-   [Approximate quantum error correction can lead to better codes](<https://arxiv.org/abs/quant-ph/9704002>) (D. W. Leung, M. A. Nielsen, I. L. Chuang, and Y. Yamamoto) 1997-04-02
+-   [Reversible quantum operations and their application to teleportation](<https://arxiv.org/abs/quant-ph/9608001>) (M. A. Nielsen and Carlton M. Caves) 1997-04-01
+-   **[Programmable Quantum Gate Arrays](<https://arxiv.org/abs/quant-ph/9703032>)** (M. A. Nielsen and Isaac L. Chuang) 1997-03-18
+-   **[Information transmission through a noisy quantum channel](<https://arxiv.org/abs/quant-ph/9702049>)** (Howard Barnum, Michael A. Nielsen, and Benjamin Schumacher) 1997-02-26
+-   [Prescription for experimental determination of the dynamics of a quantum black box](<https://arxiv.org/abs/quant-ph/9610001>) (Isaac L. Chuang and Michael A. Nielsen) 1996-10-01
+-   **[Quantum data processing and error correction](<https://arxiv.org/abs/quant-ph/9604022>)** (Benjamin Schumacher and M. A. Nielsen) 1996-10-01
+-   [Properties of quantum trajectories for counting measurements](<https://iopscience.iop.org/article/10.1088/1355-5111/8/1/017/meta>) 1996-08-01
+-   [The entanglement fidelity and quantum error correction](<https://arxiv.org/abs/quant-ph/9606012>) 1996-06-13
+-   [Chaos in the quantum measurement record](<https://arxiv.org/abs/quant-ph/9512009>) 1995-12-09

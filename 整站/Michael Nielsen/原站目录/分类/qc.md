@@ -1,0 +1,49 @@
+# qc
+
+[原站](<https://michaelnotebook.com/tag/qc.html>)
+
+-   [Interview with David Zierler for the Caltech Heritage Project](<https://heritageproject.caltech.edu/interviews-updates/michael-nielsen>) (Michael Nielsen and David Zierler) 2022-11-25
+-   [What's more fundamental than the laws of physics? (Twitter thread)](<https://twitter.com/michael_nielsen/status/1377793211431673857>) 2021-04-01
+-   **[Quantum Country](<https://quantum.country/>)** (Andy Matuschak and Michael Nielsen) 2019-03-19
+-   [In what sense is quantum computing a science?](<http://cognitivemedium.com/qc-a-science>) 2018-12-12
+-   [The Physical Origin of Universal Computing](<https://www.quantamagazine.org/20151027-the-physical-origin-of-universal-computing/>) 2015-10-27
+-   [Quantum computing for the determined (video series)](<https://michaelnielsen.org/blog/quantum-computing-for-the-determined/>) 2011-06-10
+-   [Quantum Computing for Everyone](<http://michaelnielsen.org/blog/quantum-computing-for-everyone/>) 2008-08-28
+-   [Quantum control via geometry: An explicit example](<https://arxiv.org/abs/0808.3212>) (Mile Gu, Andrew Doherty, and Michael A. Nielsen) 2008-08-23
+-   **[The geometry of quantum computation](<https://arxiv.org/abs/quant-ph/0701004>)** (Mark R. Dowling and Michael A. Nielsen) 2006-12-31
+-   [Universal quantum computation with continuous-variable cluster states](<https://arxiv.org/abs/quant-ph/0605198>) (Nicolas C. Menicucci, Peter Van Loock, Mile Gu, Christian Weedbrook, Timothy C. Ralph, and Michael A. Nielsen) 2006-05-23
+-   **[Quantum computation as geometry](<https://arxiv.org/abs/quant-ph/0603161>)** (Michael A. Nielsen, Mark R. Dowling, Mile Gu, and Andrew C. Doherty) 2006-03-19
+-   **[Optimal control, geometry, and quantum computing](<https://arxiv.org/abs/quant-ph/0603160>)** (Michael A. Nielsen, Mark R. Dowling, Mile Gu, and Andrew C. Doherty) 2006-03-19
+-   **[Noise thresholds for optical cluster-state quantum computation](<https://arxiv.org/abs/quant-ph/0601066>)** (Christopher M. Dawson, Henry L. Haselgrove, and Michael A. Nielsen) 2006-01-11
+-   **[Noise thresholds for optical quantum computers](<https://arxiv.org/abs/quant-ph/0509060>)** (Christopher M. Dawson, Henry L. Haselgrove, and Michael A. Nielsen) 2005-09-09
+-   **[Algebraic and information-theoretic conditions for operator quantum error correction](<https://arxiv.org/abs/quant-ph/0506069>)** (Michael A. Nielsen and David Poulin) 2005-06-09
+-   [Optimal photons for quantum-information processing](<https://arxiv.org/abs/quant-ph/0505139>) (Peter P. Rohde, Timothy C. Ralph, and Michael A. Nielsen) 2005-05-19
+-   **[The Solovay-Kitaev algorithm](<https://arxiv.org/abs/quant-ph/0505030>)** (Christopher M. Dawson and Michael A. Nielsen) 2005-05-06
+-   **[Cluster-state quantum computation](<https://arxiv.org/abs/quant-ph/0504097>)** 2005-04-13
+-   [Summer School Lectures on Quantum Information and Computation](<https://web.archive.org/web/20070626131608/http://www.qinfo.org:80/people/nielsen/blog/?page_id=198>) 2005-04-08
+-   [A geometric approach to quantum circuit lower bounds](<https://arxiv.org/abs/quant-ph/0502070>) 2005-02-11
+-   **[Quantum computing and polynomial equations over the finite field Z2](<https://arxiv.org/abs/quant-ph/0408129>)** (Christopher M. Dawson, Henry L. Haselgrove, Andrew P. Hines, Duncan Mortimer, Michael A. Nielsen, and Tobias J. Osborne) 2004-08-20
+-   [What's wrong with those quantum cryptosystems](<https://michaelnielsen.org/blog/whats-wrong-with-those-quantum-cryptosystems/>) 2004-08-17
+-   **[Fault-tolerant quantum computation with cluster states](<https://arxiv.org/abs/quant-ph/0405134>)** (Michael A. Nielsen and Christopher M. Dawson) 2004-05-23
+-   **[Simulating Hamiltonian dynamics using many-qudit Hamiltonians and local unitary control](<https://arxiv.org/abs/quant-ph/0405115>)** (Michael J. Bremner, Dave Bacon, and Michael A. Nielsen) 2004-05-20
+-   [Unified derivations of measurement-based schemes for quantum computation](<https://arxiv.org/abs/quant-ph/0404132>) (Andrew M. Childs, Debbie W. Leung, and Michael A. Nielsen) 2004-04-23
+-   **[Optical quantum computation using cluster states](<https://arxiv.org/abs/quant-ph/0402005>)** 2004-02-02
+-   [Journal club notes on the cluster-state model of quantum computation](<https://web.archive.org/web/20070316012311/http://www.qinfo.org:80/qc-by-measurement/cluster-state.pdf>) 2003-11-29
+-   [Lower bounds on the complexity of simulating quantum gates](<https://arxiv.org/abs/quant-ph/0307190>) (Andrew M. Childs, Henry L. Haselgrove, and Michael A. Nielsen) 2003-07-25
+-   [Ancilla-assisted quantum process tomography](<https://arxiv.org/abs/quant-ph/0303038>) (Joseph B. Altepeter, David Branning, Evan Jeffrey, T. C. Wei, Paul G. Kwiat, Robert T. Thew, Jeremy L. O'Brien, Michael A. Nielsen, Andrew G. White) 2003-03-07
+-   [Robustness of quantum gates in the presence of noise](<https://arxiv.org/abs/quant-ph/0301108>) (Aram W. Harrow and Michael A. Nielsen) 2003-01-21
+-   [Practical scheme for quantum computation with any two-qubit entangling gate](<https://arxiv.org/abs/quant-ph/0207072>) (Michael J. Bremner, Christopher M. Dawson, Jennifer L. Dodd, Alexei Gilchrist, Aram W. Harrow, Duncan Mortimer, Michael A. Nielsen, and Tobias J. Osborne) 2002-07-12
+-   **[Universal simulation of Hamiltonian dynamics for quantum systems with finite-dimensional state spaces](<https://arxiv.org/abs/quant-ph/0109064>)** (Michael A. Nielsen, Michael J. Bremner, Jennifer L. Dodd, Andrew M. Childs, and Christopher M. Dawson) 2002-05-31
+-   [A simple formula for the average gate fidelity of a quantum dynamical operation](<https://arxiv.org/abs/quant-ph/0205035>) 2002-05-07
+-   [Entanglement monotone derived from Grover’s algorithm](<https://arxiv.org/abs/quant-ph/0112097>) (Ofer Biham, Michael A. Nielsen, and Tobias J. Osborne) 2001-12-17
+-   [Quantum computation by measurement and quantum memory](<https://arxiv.org/abs/quant-ph/0108020>) 2001-08-06
+-   [ROM-based computation: quantum versus classical](<https://arxiv.org/abs/quant-ph/0109016>) (Benjamin C. Travaglione, Michael A. Nielsen, Howard M. Wiseman, and Andris Ambainis) 2001-08-04
+-   **[Universal quantum computation and simulation using any entangling Hamiltonian and local unitaries](<https://arxiv.org/abs/quant-ph/0106064>)** (Jennifer L. Dodd, Michael A. Nielsen, Michael J. Bremner, and Robert T. Thew) 2001-06-12
+-   [Theory of quantum computation](<https://arxiv.org/abs/quant-ph/0010057>) (E. H. Knill and M. A. Nielsen) 2000-10-17
+-   **[Quantum Computation and Quantum Information](<http://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176>)** (Michael A. Nielsen and Isaac L. Chuang) 2000-10-01
+-   **[Quantum information theory (PhD dissertation)](<https://arxiv.org/abs/quant-ph/0011036>)** 1998-08-15
+-   [What makes quantum computers powerful?](<https://michaelnotebook.com/assets/qc_manifesto.pdf>) (The Quantum Computation Collective) 1997-07-10
+-   [Information-theoretic approach to quantum error correction and reversible measurement](<https://arxiv.org/abs/quant-ph/9706064>) (M. A. Nielsen, Carlton M. Caves, Benjamin Schumacher, and Howard Barnum) 1997-06-30
+-   [Approximate quantum error correction can lead to better codes](<https://arxiv.org/abs/quant-ph/9704002>) (D. W. Leung, M. A. Nielsen, I. L. Chuang, and Y. Yamamoto) 1997-04-02
+-   **[Programmable Quantum Gate Arrays](<https://arxiv.org/abs/quant-ph/9703032>)** (M. A. Nielsen and Isaac L. Chuang) 1997-03-18
+-   [Prescription for experimental determination of the dynamics of a quantum black box](<https://arxiv.org/abs/quant-ph/9610001>) (Isaac L. Chuang and Michael A. Nielsen) 1996-10-01

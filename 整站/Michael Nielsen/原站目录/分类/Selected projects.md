@@ -1,0 +1,70 @@
+# Selected projects
+
+[原站](<https://michaelnotebook.com/tag/display.html>)
+
+-   [Projects timeline](<https://michaelnotebook.com/projects_timeline/>) 2026-08-05
+-   [The Unimagined Good](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/0dae77ef6ab134c98b8c745d/reading-ea9c2aaf23f12636fa510d838828e9d64b283d7b7b9be500daa8c8114f27c2b2.md>) (Michael Nielsen) 2026-07-31
+-   [Notes on Tanya M. Luhrmann's book 'How God Becomes Real'](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/16e5266afbc673163abe141c/reading-d5e8f60d2630e37ba2738c80ec54bade5f845d84f656b373a352e6ce06586e4c.md>) (Michael Nielsen) 2026-05-07
+-   [Developing creative identity](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/c5a472ba340251d69e60e200/reading-554edef00c3ebfab8a10ecb081b9171261f17e6b48cb5b62f3704ed0f9457c9f.md>) (Michael Nielsen) 2026-03-25
+-   [Which Future?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/a6f1b1f843264918ac15d3b2/reading-bcc7ffe2b6bf43ba9e521e57679cb7a801416d76e81e64f71be2bb570d4715b2.md>) (Michael Nielsen) 2026-02-17
+-   [Personal Library](<https://michaelnotebook.com/michaelhome/library/gallery/>) 2025-09-01
+-   [The Sacrifices We Choose to Make](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/70b75373e35d41b9a5cd0dc9/reading-537f1b123ef03cfa0dcec0825ec248794871ffa3b1ade269d5e2e34fb6cda149.md>) (Michael Nielsen) 2025-07-13
+-   [Notes on deep atheism](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/38304ca20f7f32d8c49698f9/reading-24d688decbca7594e854fed505e6c49516c146e57894f195c3daa0b1fba17b67.md>) (Michael Nielsen) 2025-05-19
+-   [ASI existential risk: reconsidering alignment as a goal](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/fe397464a2cc107bf9e71549/reading-87bd8abaff3d2b93a28e0e94b32981edf66cfe0a704d99b3c18fa75a004b60d5.md>) (Michael Nielsen) 2025-04-18
+-   [How to be a wise optimist about science and technology?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/acc8de3da388e9dd37959ce1/reading-47eede86da83f390bd3b2b1c415f4bf04319e541095f728099ed7f86acb73d21.md>) 2024-12-01
+-   [Notes on Existential Risk from Artificial Superintelligence](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/ed1dd4f90c742ecd93acc5a7/reading-fad09a940271ba3855c56bdf5fdb0dcaf33d651f0ff9c2c6a07379837d5bbdeb.md>) 2023-09-18
+-   [A Vision of Metascience: An Engine of Improvement for the Social Processes of Science](<https://scienceplusplus.org/metascience/index.html>) (Michael Nielsen and Kanjun Qiu) 2022-10-18
+-   [Notes on Effective Altruism](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/76e5dc70f67c3040914c8191/reading-59ae62a2a9b691f98618f5edafb571cd1a31cfdc3f1cbad9f2a6c2b35f64c688.md>) 2022-06-02
+-   [Cosmos: working notes, 1](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/e82720f0caa376736ccb2e2b/reading-dfeecd6091b31c780969a408e2a1114f9cab96225f5cd42fad855fa77ec3f594.md>) 2022-02-16
+-   [The trouble in comparing different approaches to science funding](<https://scienceplusplus.org/trouble_with_rcts/index.html>) (Michael Nielsen and Kanjun Qiu) 2022-02-09
+-   [Maps of Matter](<https://futureofmatter.com/maps_of_matter.html>) 2021-02-01
+-   [How can we develop transformative tools for thought?](<https://numinous.productions/ttft/>) (Andy Matuschak and Michael Nielsen) 2019-10-03
+-   [Quantum Country](<https://quantum.country/>) (Andy Matuschak and Michael Nielsen) 2019-03-19
+-   [Science is getting less bang for its buck](<https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/>) (Patrick Collison and Michael Nielsen) 2018-11-15
+-   [Augmenting Long-term Memory](<http://augmentingcognition.com/ltm.html>) 2018-07-05
+-   [Using Artificial Intelligence to Augment Human Intelligence](<https://distill.pub/2017/aia/>) (Shan Carter and Michael Nielsen) 2017-12-04
+-   [Thought as a Technology](<http://cognitivemedium.com/tat/index.html>) 2017-11-29
+-   [Magic Paper](<http://cognitivemedium.com/magic_paper/index.html>) 2017-11-05
+-   [Toward an Exploratory Medium for Mathematics](<http://cognitivemedium.com/emm/emm.html>) 2016-02-28
+-   [Reinventing Explanation](<http://michaelnielsen.org/reinventing_explanation/index.html>) 2014-01-31
+-   [Neural Networks and Deep Learning](<https://neuralnetworksanddeeplearning.com/>) 2013-11-25
+-   [The Artist and the Machine](<http://michaelnielsen.org/blog/the-artist-and-the-machine/>) 2013-02-06
+-   [Lisp as the Maxwell's equations of software](<https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/>) 2012-04-11
+-   [If correlation doesn't imply causation, then what does?](<https://michaelnielsen.org/ddi/if-correlation-doesnt-imply-causation-then-what-does/>) 2012-01-23
+-   [Reinventing Discovery: the New Era of Networked Science](<https://www.amazon.com/gp/product/B07ZHPBK5M/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1>) 2011-10-23
+-   [Massively collaborative mathematics](<https://michaelnielsen.org/papers/mcm.pdf>) (Tim Gowers and Michael Nielsen) 2009-10-15
+-   [Is Scientific Publishing About to Be Disrupted?](<https://michaelnielsen.org/blog/is-scientific-publishing-about-to-be-disrupted/>) 2009-06-29
+-   [Doing Science Online](<https://michaelnielsen.org/blog/doing-science-online/>) 2009-01-26
+-   [The future of science](<https://michaelnielsen.org/blog/the-future-of-science-2/>) 2008-07-17
+-   [The geometry of quantum computation](<https://arxiv.org/abs/quant-ph/0701004>) (Mark R. Dowling and Michael A. Nielsen) 2006-12-31
+-   [Quantum computation as geometry](<https://arxiv.org/abs/quant-ph/0603161>) (Michael A. Nielsen, Mark R. Dowling, Mile Gu, and Andrew C. Doherty) 2006-03-19
+-   [Optimal control, geometry, and quantum computing](<https://arxiv.org/abs/quant-ph/0603160>) (Michael A. Nielsen, Mark R. Dowling, Mile Gu, and Andrew C. Doherty) 2006-03-19
+-   [Noise thresholds for optical cluster-state quantum computation](<https://arxiv.org/abs/quant-ph/0601066>) (Christopher M. Dawson, Henry L. Haselgrove, and Michael A. Nielsen) 2006-01-11
+-   [Noise thresholds for optical quantum computers](<https://arxiv.org/abs/quant-ph/0509060>) (Christopher M. Dawson, Henry L. Haselgrove, and Michael A. Nielsen) 2005-09-09
+-   [The Fermionic canonical commutation relations and the Jordan-Wigner transform](<https://futureofmatter.com/assets/fermions_and_jordan_wigner.pdf>) 2005-07-29
+-   [Algebraic and information-theoretic conditions for operator quantum error correction](<https://arxiv.org/abs/quant-ph/0506069>) (Michael A. Nielsen and David Poulin) 2005-06-09
+-   [The Solovay-Kitaev algorithm](<https://arxiv.org/abs/quant-ph/0505030>) (Christopher M. Dawson and Michael A. Nielsen) 2005-05-06
+-   [Cluster-state quantum computation](<https://arxiv.org/abs/quant-ph/0504097>) 2005-04-13
+-   [Quantum computing and polynomial equations over the finite field Z2](<https://arxiv.org/abs/quant-ph/0408129>) (Christopher M. Dawson, Henry L. Haselgrove, Andrew P. Hines, Duncan Mortimer, Michael A. Nielsen, and Tobias J. Osborne) 2004-08-20
+-   [Distance measures to compare real and ideal quantum processes](<https://arxiv.org/abs/quant-ph/0408063>) (Alexei Gilchrist, Nathan K. Langford, and Michael A. Nielsen) 2004-08-10
+-   [Fault-tolerant quantum computation with cluster states](<https://arxiv.org/abs/quant-ph/0405134>) (Michael A. Nielsen and Christopher M. Dawson) 2004-05-23
+-   [Simulating Hamiltonian dynamics using many-qudit Hamiltonians and local unitary control](<https://arxiv.org/abs/quant-ph/0405115>) (Michael J. Bremner, Dave Bacon, and Michael A. Nielsen) 2004-05-20
+-   [Interesting problems: The Church-Turing-Deutsch Principle](<https://michaelnielsen.org/blog/interesting-problems-the-church-turing-deutsch-principle/>) 2004-04-16
+-   [Optical quantum computation using cluster states](<https://arxiv.org/abs/quant-ph/0402005>) 2004-02-02
+-   [Extreme Thinking](<https://michaelnielsen.org/blog/tough-learning-part-4-final-draft/>) 2003-09-07
+-   [Fungible dynamics: There are only two types of entangling multiple-qubit interactions](<https://arxiv.org/abs/quant-ph/0307148>) (Michael J. Bremner, Jennifer L. Dodd, Michael A. Nielsen, and Dave Bacon) 2003-07-21
+-   [Simple Rules for a Complex Quantum World](<https://michaelnielsen.org/papers/SciAmSimpleRules.pdf>) 2002-11-01
+-   [An introduction to majorization and its applications to quantum mechanics (draft of a book)](<https://michaelnielsen.org/papers/maj-book-notes.pdf>) 2002-10-18
+-   [Universal simulation of Hamiltonian dynamics for quantum systems with finite-dimensional state spaces](<https://arxiv.org/abs/quant-ph/0109064>) (Michael A. Nielsen, Michael J. Bremner, Jennifer L. Dodd, Andrew M. Childs, and Christopher M. Dawson) 2002-05-31
+-   [Entanglement, quantum phase transitions, and density matrix renormalization](<https://arxiv.org/abs/quant-ph/0109024>) (Tobias J. Osborne and Michael A. Nielsen) 2001-09-05
+-   [Universal quantum computation and simulation using any entangling Hamiltonian and local unitaries](<https://arxiv.org/abs/quant-ph/0106064>) (Jennifer L. Dodd, Michael A. Nielsen, Michael J. Bremner, and Robert T. Thew) 2001-06-12
+-   [Majorization and the interconversion of bipartite states](<https://www.rintonpress.com/journals/qic-1-1/vidal.pdf>) (Michael A. Nielsen and Guifré Vidal) 2001-05-28
+-   [Separable states are more disordered globally than locally](<https://arxiv.org/abs/quant-ph/0011117>) (Michael A. Nielsen and Julia Kempe) 2000-11-30
+-   [Quantum Computation and Quantum Information](<http://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176>) (Michael A. Nielsen and Isaac L. Chuang) 2000-10-01
+-   [Characterizing mixing and measurement in quantum mechanics](<https://arxiv.org/abs/quant-ph/0008073>) 2000-08-16
+-   [Conditions for a class of entanglement transformations](<https://arxiv.org/abs/quant-ph/9811053>) 1998-11-20
+-   [Complete quantum teleportation using nuclear magnetic resonance](<https://arxiv.org/abs/quant-ph/9811020>) (Michael A. Nielsen, Emanuel Knill, and Raymond Laflamme) 1998-11-08
+-   [Quantum information theory (PhD dissertation)](<https://arxiv.org/abs/quant-ph/0011036>) 1998-08-15
+-   [Programmable Quantum Gate Arrays](<https://arxiv.org/abs/quant-ph/9703032>) (M. A. Nielsen and Isaac L. Chuang) 1997-03-18
+-   [Information transmission through a noisy quantum channel](<https://arxiv.org/abs/quant-ph/9702049>) (Howard Barnum, Michael A. Nielsen, and Benjamin Schumacher) 1997-02-26
+-   [Quantum data processing and error correction](<https://arxiv.org/abs/quant-ph/9604022>) (Benjamin Schumacher and M. A. Nielsen) 1996-10-01

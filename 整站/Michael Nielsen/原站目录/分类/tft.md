@@ -1,0 +1,41 @@
+# tft
+
+[原站](<https://michaelnotebook.com/tag/tft.html>)
+
+-   **[Developing creative identity](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/c5a472ba340251d69e60e200/reading-554edef00c3ebfab8a10ecb081b9171261f17e6b48cb5b62f3704ed0f9457c9f.md>)** (Michael Nielsen) 2026-03-25
+-   [Using memory systems to memorize text passages](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/e547bf341f16b81565201700/reading-c05ecaf63a08ddbd998a79fb8b377de8fe5924fc0f261f08db95ac59cad83d50.md>) 2023-12-05
+-   [How I use memory systems](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/4b0b52a8754f790138094df3/reading-e2044e11b67869e4c3ed9471ad62245f7def9d5b5801b3df419969e1044a8738.md>) 2023-07-20
+-   [How to make memory systems widespread?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/effba4d13c158e8e3d340086/reading-f270eee650ca8090e44998a82dbdae3790cc960346ec75d3601d54e0a9160d50.md>) 2023-02-13
+-   [Discovery fiction](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/7095b7d88db3aca3469628f5/reading-5c8926cc1aac4867a86e8ba073f4d4d3615acb448ed66aa43058e644cf502dbc.md>) 2023-01-03
+-   [Building a better memory system](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/bae4682790433f87635423da/reading-0fbedbb2c2c15915aa0142effc7a305df14658f10e5b62527d96169edbf5bbeb.md>) 2022-11-22
+-   [How to use a personal website to enhance your ability to think and create?](<../../../../%E5%8A%A0%E5%B7%A5%E7%89%88%E6%9C%AC/b3e34ca29fb25198a7dd89f0/reading-83f45afa6059e07ffbaa1a1ae4b9278aa53be8e83955e854ea2e6b9c2130a5e3.md>) 2021-10-11
+-   **[How can we develop transformative tools for thought?](<https://numinous.productions/ttft/>)** (Andy Matuschak and Michael Nielsen) 2019-10-03
+-   [Discovery fiction for Hindu-Arabic numerals](<https://twitter.com/michael_nielsen/status/1174420006907473920>) 2019-09-18
+-   **[Quantum Country](<https://quantum.country/>)** (Andy Matuschak and Michael Nielsen) 2019-03-19
+-   [Using spaced repetition systems to see through a piece of mathematics](<https://cognitivemedium.com/srs-mathematics>) 2019-01-12
+-   [David Perell: Michael Nielsen: Tools for Thought](<https://perell.com/podcast/michael-nielsen/>) 2018-07-09
+-   **[Augmenting Long-term Memory](<http://augmentingcognition.com/ltm.html>)** 2018-07-05
+-   [Twitter thread on spaced repetition memory systems](<https://twitter.com/michael_nielsen/status/957763229454774272>) 2018-01-28
+-   **[Using Artificial Intelligence to Augment Human Intelligence](<https://distill.pub/2017/aia/>)** (Shan Carter and Michael Nielsen) 2017-12-04
+-   **[Thought as a Technology](<http://cognitivemedium.com/tat/index.html>)** 2017-11-29
+-   **[Magic Paper](<http://cognitivemedium.com/magic_paper/index.html>)** 2017-11-05
+-   [Working notes on Chalktalk](<https://cognitivemedium.com/interfaces-1/index.html>) 2017-09-01
+-   [Making invisible understanding visible](<https://cognitivemedium.com/invisible_visible/invisible_visible.html>) 2016-04-01
+-   [Striking user interfaces](<https://cognitivemedium.com/striking_ui/striking_ui.html>) 2016-03-01
+-   [Notes on the Dynabook](<http://mnielsen.github.io/notes/kay/dynabook.html>) 2016-03-01
+-   **[Toward an Exploratory Medium for Mathematics](<http://cognitivemedium.com/emm/emm.html>)** 2016-02-28
+-   [Engelbart: "Augmenting Human Intellect"](<http://mnielsen.github.io/notes/engelbart/engelbart.html>) 2015-08-10
+-   **[Reinventing Explanation](<http://michaelnielsen.org/reinventing_explanation/index.html>)** 2014-01-31
+-   **[Neural Networks and Deep Learning](<https://neuralnetworksanddeeplearning.com/>)** 2013-11-25
+-   **[The Artist and the Machine](<http://michaelnielsen.org/blog/the-artist-and-the-machine/>)** 2013-02-06
+-   [How to crawl a quarter billion webpages in 40 hours](<https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/>) 2012-08-10
+-   **[Reinventing Discovery: the New Era of Networked Science](<https://www.amazon.com/gp/product/B07ZHPBK5M/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1>)** 2011-10-23
+-   [The economics of scientific collaboration](<https://michaelnielsen.org/blog/the-economics-of-scientific-collaboration/>) 2008-12-29
+-   [The Google Technology Stack](<https://michaelnielsen.org/blog/lecture-course-the-google-technology-stack/>) 2008-12-02
+-   [Why Augmenting Collective Intelligence is Easier than Augmenting Individual Intelligence](<https://michaelnielsen.org/blog/why-augmenting-collective-intelligence-is-easier-than-augmenting-individual-intelligence/>) 2008-10-24
+-   [Science beyond individual understanding](<https://michaelnielsen.org/blog/science-beyond-individual-understanding/>) 2008-09-24
+-   [Shirky's Law and why (most) social software fails](<https://michaelnielsen.org/blog/shirkys-law-and-why-most-social-software-fails/>) 2008-07-24
+-   [The tension between information creators and information organizers](<https://michaelnielsen.org/blog/the-tension-between-information-creators-and-information-organizers/>) 2008-01-24
+-   [Non-abelian money](<https://michaelnielsen.org/blog/non-abelian-money/>) 2007-08-25
+-   [Kasparov versus the World](<https://michaelnielsen.org/blog/kasparov-versus-the-world/>) 2007-08-21
+-   [Micropublication and open source research](<https://michaelnielsen.org/blog/micropublication-and-open-source-research/>) 2007-08-16

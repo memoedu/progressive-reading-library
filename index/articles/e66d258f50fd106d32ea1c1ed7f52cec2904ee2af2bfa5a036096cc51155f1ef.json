@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://gwern.net/haskell/run-length-encoding",
+  "title": "Golfing Run Length Encoding in Haskell · Gwern.net",
+  "original": {
+    "path": "原稿/e66d258f50fd106d32ea1c1e/492d10739c0d91bbf3ea57f7cb0aee30c1c4e9900db7a9aa054732931f8ee8ed.md",
+    "sha256": "492d10739c0d91bbf3ea57f7cb0aee30c1c4e9900db7a9aa054732931f8ee8ed"
+  }
+}

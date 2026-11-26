@@ -1,0 +1,20 @@
+# Neel Nanda · Mechanistic Interpretability
+
+[原站](<https://www.neelnanda.io/mechanistic-interpretability>)
+
+-   [Tiny Mech Interp Projects: Emergent Positional Embeddings of Words](<https://www.neelnanda.io/mechanistic-interpretability/emergent-pos>)
+-   [Actually, Othello-GPT Has A Linear Emergent World Representation](<https://www.neelnanda.io/mechanistic-interpretability/othello>)
+-   [Paper Replication Walkthrough: Reverse-Engineering Modular Addition](<https://www.neelnanda.io/mechanistic-interpretability/modular-addition-walkthrough>)
+-   [Attribution Patching: Activation Patching At Industrial Scale](<https://www.neelnanda.io/mechanistic-interpretability/attribution-patching>)
+-   [Mech Interp Project Advising Call: Memorisation in GPT-2 Small](<https://www.neelnanda.io/mechanistic-interpretability/project-advising-call>)
+-   [Mechanistic Interpretability Quickstart Guide](<https://www.neelnanda.io/mechanistic-interpretability/quickstart-old>)
+-   [A Walkthrough of Toy Models of Superposition](<https://www.neelnanda.io/mechanistic-interpretability/toy-model-walkthrough>)
+-   [Analogies between Software Reverse Engineering and Mechanistic Interpretability](<https://www.neelnanda.io/mechanistic-interpretability/reverse-engineering>)
+-   [Concrete Steps to Get Started in Transformer Mechanistic Interpretability](<https://www.neelnanda.io/mechanistic-interpretability/getting-started-old>)
+-   [A Comprehensive Mechanistic Interpretability Explainer & Glossary](<https://www.neelnanda.io/mechanistic-interpretability/glossary>)
+-   [A Walkthrough of In-Context Learning and Induction Heads (w/ Charles Frye) Part 1 of 2](<https://www.neelnanda.io/mechanistic-interpretability/induction-heads-walkthrough-1>)
+-   [A Walkthrough of Interpretability in the Wild (w/ authors Kevin Wang, Arthur Conmy & Alexandre Variengien)](<https://www.neelnanda.io/mechanistic-interpretability/walkthrough-ioi>)
+-   [Real-Time Research Recording: Can a Transformer Re-Derive Positional Info?](<https://www.neelnanda.io/mechanistic-interpretability/rederive-positional>)
+-   [A Barebones Guide to Mechanistic Interpretability Prerequisites](<https://www.neelnanda.io/mechanistic-interpretability/prereqs>)
+-   [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers](<https://www.neelnanda.io/mechanistic-interpretability/favourite-papers-old>)
+-   [A Walkthrough of A Mathematical Framework for Transformer Circuits](<https://www.neelnanda.io/mechanistic-interpretability/a-walkthrough-of-a-mathematical-framework-for-transformer-circuits>)

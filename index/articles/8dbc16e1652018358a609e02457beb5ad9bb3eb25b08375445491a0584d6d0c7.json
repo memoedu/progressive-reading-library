@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=xr1BoXa13To",
+  "title": "开始收费：关于商业化、势能与同行者",
+  "original": {
+    "path": "原稿/8dbc16e1652018358a609e02/54db609b2c843c81f1e15994fea1eeb87a47f2311f984b66f188f62b5dd5a16d.md",
+    "sha256": "54db609b2c843c81f1e15994fea1eeb87a47f2311f984b66f188f62b5dd5a16d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8dbc16e1652018358a609e02/reading-1888558de237a0d48e2410ddbd97ec19036813fb2403150bb45db12857f04af5.md",
+      "sha256": "1888558de237a0d48e2410ddbd97ec19036813fb2403150bb45db12857f04af5",
+      "original_sha256": "54db609b2c843c81f1e15994fea1eeb87a47f2311f984b66f188f62b5dd5a16d",
+      "processing_sha256": "3f15eb1fd00f2747747890664d1fbf58f89cf7db9214f876c1693bf257167233",
+      "options_sha256": "09386f84b6144c41110cd0938d4b7551bf879ee325f967798e03c0a63d4ccda8"
+    }
+  ]
+}

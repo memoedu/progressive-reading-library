@@ -5,5 +5,14 @@
   "original": {
     "path": "订阅/RSS/阮一峰的网络日志/9ffe23eb5a6f943a8029d133.md",
     "sha256": "1b7862a0d4c98e2af44f56dda285e237de3ac402dcd9f26517065e3f98a55838"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9ffe23eb5a6f943a8029d133/reading-3b924e0bf29a5e43576d65a2c0654241d9eaaa8eafcc5a9343ae2123d6a6eb66.md",
+      "sha256": "3b924e0bf29a5e43576d65a2c0654241d9eaaa8eafcc5a9343ae2123d6a6eb66",
+      "original_sha256": "1b7862a0d4c98e2af44f56dda285e237de3ac402dcd9f26517065e3f98a55838",
+      "processing_sha256": "474d0def537c88b03d6dd9022005199f3635d86000560e0287a00fcf04d4dfc7",
+      "options_sha256": "a515210ac39dc741b066a86a8cb9971bba66021653c23ee96097b3ebfd93c7fe"
+    }
+  ]
 }

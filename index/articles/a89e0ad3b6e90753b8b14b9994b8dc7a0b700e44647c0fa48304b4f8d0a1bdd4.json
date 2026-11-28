@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2008/10/30/is-reading-making-you-stupid",
+  "title": "Is Reading Making You Stupid? - Scott H Young",
+  "original": {
+    "path": "原稿/a89e0ad3b6e90753b8b14b99/f9fe13b9c37e6a934d2ca0739911ca1a09a47c1df987d5dcf044a8207e6bc844.md",
+    "sha256": "f9fe13b9c37e6a934d2ca0739911ca1a09a47c1df987d5dcf044a8207e6bc844"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a89e0ad3b6e90753b8b14b99/reading-73362dffb1cddc732488751add04520d339267503301159f1cafee4849ba7d04.md",
+      "sha256": "73362dffb1cddc732488751add04520d339267503301159f1cafee4849ba7d04",
+      "original_sha256": "f9fe13b9c37e6a934d2ca0739911ca1a09a47c1df987d5dcf044a8207e6bc844",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

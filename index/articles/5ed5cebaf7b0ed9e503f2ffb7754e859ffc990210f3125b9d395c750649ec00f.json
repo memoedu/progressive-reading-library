@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=316",
+  "title": "elasticsearch 文档型数据库 es 的安装和使用",
+  "original": {
+    "path": "原稿/5ed5cebaf7b0ed9e503f2ffb/486ec68996d1ffb52b998965d898b862b82725b36e804ccb65f6f559a5211cca.md",
+    "sha256": "486ec68996d1ffb52b998965d898b862b82725b36e804ccb65f6f559a5211cca"
+  }
+}

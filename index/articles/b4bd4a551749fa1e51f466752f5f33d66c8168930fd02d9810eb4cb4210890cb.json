@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+  "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+  "original": {
+    "path": "原稿/b4bd4a551749fa1e51f46675/1e0e8247b9412a31647edbaca28d72fc0e7223f91358166abf9d214e31e400f5.md",
+    "sha256": "1e0e8247b9412a31647edbaca28d72fc0e7223f91358166abf9d214e31e400f5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b4bd4a551749fa1e51f46675/reading-0959cc8d6961c0e0eb07176dd0e66b9cd6f0ebf19f556fd2db5d6c538eb3f8d1.md",
+      "sha256": "0959cc8d6961c0e0eb07176dd0e66b9cd6f0ebf19f556fd2db5d6c538eb3f8d1",
+      "original_sha256": "1e0e8247b9412a31647edbaca28d72fc0e7223f91358166abf9d214e31e400f5",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

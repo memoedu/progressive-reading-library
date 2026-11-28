@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=152",
+  "title": "使用 voxelmorph 进行医学图像配准",
+  "original": {
+    "path": "原稿/070ac4191891e7a5a5102d13/4b9322edd93040b3c910ff112b1064ec37fbbf8196ef949242753195e476373c.md",
+    "sha256": "4b9322edd93040b3c910ff112b1064ec37fbbf8196ef949242753195e476373c"
+  }
+}

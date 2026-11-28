@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2019/05/20/fantasizing-about-retirement-heres-how-to-build-a-career-you-wont-want-to-quit",
+  "title": "Fantasizing About Retirement? Here's How to Build a Career You Won't Want to Quit - Scott H Young",
+  "original": {
+    "path": "原稿/55ba996c80181ec4fb6331c3/da70df5284bea41357a6a61784f9a0da650273aa6673542e57a72cd436761c4c.md",
+    "sha256": "da70df5284bea41357a6a61784f9a0da650273aa6673542e57a72cd436761c4c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/55ba996c80181ec4fb6331c3/reading-e2505c9c5946e9399531c354dbb0b1ebda5819feef822d64c02ae7f05d7527b1.md",
+      "sha256": "e2505c9c5946e9399531c354dbb0b1ebda5819feef822d64c02ae7f05d7527b1",
+      "original_sha256": "da70df5284bea41357a6a61784f9a0da650273aa6673542e57a72cd436761c4c",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

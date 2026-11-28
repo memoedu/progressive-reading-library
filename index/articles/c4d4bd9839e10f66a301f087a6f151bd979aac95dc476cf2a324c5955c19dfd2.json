@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=70",
+  "title": "超级好用的Javascript/Typescript单元测试框架——mocha简易教程",
+  "original": {
+    "path": "原稿/c4d4bd9839e10f66a301f087/5c8334562c9b8765e516bd1d38b76eab820880b48dc96b0b6bd56e76cd398ccd.md",
+    "sha256": "5c8334562c9b8765e516bd1d38b76eab820880b48dc96b0b6bd56e76cd398ccd"
+  }
+}

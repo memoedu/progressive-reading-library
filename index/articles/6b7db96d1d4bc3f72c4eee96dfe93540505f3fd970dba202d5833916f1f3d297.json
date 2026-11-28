@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=78",
+  "title": "使用python进行音频IO和重采样",
+  "original": {
+    "path": "原稿/6b7db96d1d4bc3f72c4eee96/46f865a4ed1d42647f15c87d9f7dc1feaa8f72ededd9530535502466e28f96a2.md",
+    "sha256": "46f865a4ed1d42647f15c87d9f7dc1feaa8f72ededd9530535502466e28f96a2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=285",
+  "title": "Yosys 与 wasi 协议",
+  "original": {
+    "path": "原稿/b5d35216a46392ef7ca1d87e/7e026a15086f818991f394273271b5080cfe9993f2097961c247e1894f705a3f.md",
+    "sha256": "7e026a15086f818991f394273271b5080cfe9993f2097961c247e1894f705a3f"
+  }
+}

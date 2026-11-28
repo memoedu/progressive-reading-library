@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/08/06/recent-reading-3",
+  "title": "Recent Reading - Scott H Young",
+  "original": {
+    "path": "原稿/dd698308f8e1c20a589ab215/7c88e684a4b2db071f0d910bd09433f0b5017aa4e11b24b66b0d47b8e0f3bc69.md",
+    "sha256": "7c88e684a4b2db071f0d910bd09433f0b5017aa4e11b24b66b0d47b8e0f3bc69"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dd698308f8e1c20a589ab215/reading-15f5bdc8bf668a804d1d2c21d0438cf3af50604c8787983112dee4428b2bfb0e.md",
+      "sha256": "15f5bdc8bf668a804d1d2c21d0438cf3af50604c8787983112dee4428b2bfb0e",
+      "original_sha256": "7c88e684a4b2db071f0d910bd09433f0b5017aa4e11b24b66b0d47b8e0f3bc69",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

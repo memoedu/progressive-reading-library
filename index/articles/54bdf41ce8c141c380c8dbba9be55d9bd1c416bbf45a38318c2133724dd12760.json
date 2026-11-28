@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=25",
+  "title": "进程同步",
+  "original": {
+    "path": "原稿/54bdf41ce8c141c380c8dbba/958ae1fceb5b1f64d7f692497369d258b108ca2ee5b01af11ad9bc98550cd883.md",
+    "sha256": "958ae1fceb5b1f64d7f692497369d258b108ca2ee5b01af11ad9bc98550cd883"
+  }
+}

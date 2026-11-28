@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2018/02/09/rethinking-discipline",
+  "title": "Rethinking Discipline - Scott H Young",
+  "original": {
+    "path": "原稿/05342c9526c96d78553a76a0/04452fb628153394ccf832de8687414d856d373af26c43fd55f086cf08749f7c.md",
+    "sha256": "04452fb628153394ccf832de8687414d856d373af26c43fd55f086cf08749f7c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/05342c9526c96d78553a76a0/reading-8cc986a2d139bd1c9b88716daa7dc37758d588ee4c255cfe62b0d26cc86defad.md",
+      "sha256": "8cc986a2d139bd1c9b88716daa7dc37758d588ee4c255cfe62b0d26cc86defad",
+      "original_sha256": "04452fb628153394ccf832de8687414d856d373af26c43fd55f086cf08749f7c",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

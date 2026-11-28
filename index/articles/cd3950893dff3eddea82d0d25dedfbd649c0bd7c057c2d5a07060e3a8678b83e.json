@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=236",
+  "title": "python 类型标注的延迟解析",
+  "original": {
+    "path": "原稿/cd3950893dff3eddea82d0d2/3f8c24d0b44fea599723a95851a9a597e4e029a1958961f5e34e400d090e1417.md",
+    "sha256": "3f8c24d0b44fea599723a95851a9a597e4e029a1958961f5e34e400d090e1417"
+  }
+}

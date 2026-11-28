@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=20",
+  "title": "linux下用C语言实现ping",
+  "original": {
+    "path": "原稿/60c47abec064e42d08e6fb20/beb5f5badebad93f68d90b52127069573617b2a7d575f18237b3acccc5b75d00.md",
+    "sha256": "beb5f5badebad93f68d90b52127069573617b2a7d575f18237b3acccc5b75d00"
+  }
+}

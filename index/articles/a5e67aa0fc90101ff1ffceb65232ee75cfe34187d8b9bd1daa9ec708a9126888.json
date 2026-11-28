@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2008/04/08/how-to-finish-your-work-one-bite-at-a-time",
+  "title": "How to Finish Your Work, One Bite at a Time - Scott H Young",
+  "original": {
+    "path": "原稿/a5e67aa0fc90101ff1ffceb6/55ad79e532a4c5e19c94a980f155479be33c789e707e3d5317b80fc1c147c43c.md",
+    "sha256": "55ad79e532a4c5e19c94a980f155479be33c789e707e3d5317b80fc1c147c43c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a5e67aa0fc90101ff1ffceb6/reading-d0c5f3f4f4f770fa3e7ebfcf7f299361b749e3a6442c027c0b3c8408901c64e7.md",
+      "sha256": "d0c5f3f4f4f770fa3e7ebfcf7f299361b749e3a6442c027c0b3c8408901c64e7",
+      "original_sha256": "55ad79e532a4c5e19c94a980f155479be33c789e707e3d5317b80fc1c147c43c",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

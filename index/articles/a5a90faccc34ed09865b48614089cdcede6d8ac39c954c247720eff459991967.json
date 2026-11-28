@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2019/07/11/learning-and-frustration",
+  "title": "The Hardest Part About Learning Hard Things - Scott H Young",
+  "original": {
+    "path": "原稿/a5a90faccc34ed09865b4861/ac128f07e9068aa45e30885eb91b1a051e1b18542c280418c86d5ade66842299.md",
+    "sha256": "ac128f07e9068aa45e30885eb91b1a051e1b18542c280418c86d5ade66842299"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a5a90faccc34ed09865b4861/reading-3e9e6f35f9953ed5f7152c365b1abf98ebcb0114ed5b09c541dbf497c5287c08.md",
+      "sha256": "3e9e6f35f9953ed5f7152c365b1abf98ebcb0114ed5b09c541dbf497c5287c08",
+      "original_sha256": "ac128f07e9068aa45e30885eb91b1a051e1b18542c280418c86d5ade66842299",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

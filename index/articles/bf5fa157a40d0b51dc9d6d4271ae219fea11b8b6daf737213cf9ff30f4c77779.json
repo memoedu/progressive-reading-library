@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=43",
+  "title": "如何优雅地在你的QQ中部署openai（类chatgpt）的服务",
+  "original": {
+    "path": "原稿/bf5fa157a40d0b51dc9d6d42/8ea3990e77017cbf69a42be6807a75df07d0562613a21ae9fd72fdebef3ab225.md",
+    "sha256": "8ea3990e77017cbf69a42be6807a75df07d0562613a21ae9fd72fdebef3ab225"
+  }
+}

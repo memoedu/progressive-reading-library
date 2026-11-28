@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=147",
+  "title": "一阶低通滤波器的截止频率计算",
+  "original": {
+    "path": "原稿/24f4e22f8b2336695f6dbb14/21891a1a2c7be170bb1ad10a023cbfd3f9ae993125ece506750a7b66506cedb5.md",
+    "sha256": "21891a1a2c7be170bb1ad10a023cbfd3f9ae993125ece506750a7b66506cedb5"
+  }
+}

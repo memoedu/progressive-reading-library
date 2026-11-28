@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+  "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+  "original": {
+    "path": "原稿/f86a15396cfdbc0a19bdba9d/44d8303ae8e11745ca8f1d68e0584d682af6b0c906aca2c1050f024ac79cecc0.md",
+    "sha256": "44d8303ae8e11745ca8f1d68e0584d682af6b0c906aca2c1050f024ac79cecc0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f86a15396cfdbc0a19bdba9d/reading-b189162a7bbec383e228338ae945ad34f8873ecba9715b31f87b21f143e7741c.md",
+      "sha256": "b189162a7bbec383e228338ae945ad34f8873ecba9715b31f87b21f143e7741c",
+      "original_sha256": "44d8303ae8e11745ca8f1d68e0584d682af6b0c906aca2c1050f024ac79cecc0",
+      "processing_sha256": "d7d201932ea8eecd66b1a6ad98f6dbc9bd6f73bffd3b495dd298f1e1e29e18bf",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=234",
+  "title": "浅入浅出——从装饰器的角度谈谈 python 和 typescript 中的依赖注入",
+  "original": {
+    "path": "原稿/e24e6abd08f47f4a9ce9a521/65f344716e77bfda4d04d1af374ae1e103989290620aa9bce84cd945f2032aeb.md",
+    "sha256": "65f344716e77bfda4d04d1af374ae1e103989290620aa9bce84cd945f2032aeb"
+  }
+}

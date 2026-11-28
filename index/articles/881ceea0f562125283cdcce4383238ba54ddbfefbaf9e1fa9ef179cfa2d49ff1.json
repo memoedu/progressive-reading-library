@@ -5,5 +5,11 @@
   "original": {
     "path": "订阅/GitHub仓库/Thoughts Memo 翻译合集/andy/note/mnemonic-medium/将助记媒介应用于非技术性文章的经验教训--浏览器加工--881ceea0f5.md",
     "sha256": "f38d3ebadec44bbc34256f19acb4795aa39492347406a47643ff0b4d9a739772"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/881ceea0f562125283cdcce4/f19ad201b0b893b1223a87f39c698e7e909142ffa2e804e1f29a45e1efa2d0bf.md",
+      "sha256": "f19ad201b0b893b1223a87f39c698e7e909142ffa2e804e1f29a45e1efa2d0bf"
+    }
+  ]
 }

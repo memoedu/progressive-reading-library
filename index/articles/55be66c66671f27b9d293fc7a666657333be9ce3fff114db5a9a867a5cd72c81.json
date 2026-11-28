@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=125",
+  "title": "img2col 算法 循环向量化写法",
+  "original": {
+    "path": "原稿/55be66c66671f27b9d293fc7/39bd47fb6999b8907b92e477831e27c3a7e449c0192013e7f16f08b1a9151f38.md",
+    "sha256": "39bd47fb6999b8907b92e477831e27c3a7e449c0192013e7f16f08b1a9151f38"
+  }
+}

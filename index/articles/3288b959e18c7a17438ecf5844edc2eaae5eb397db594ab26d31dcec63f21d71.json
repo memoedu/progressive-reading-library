@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=127",
+  "title": "WSL2 使用宿主的网络代理",
+  "original": {
+    "path": "原稿/3288b959e18c7a17438ecf58/328d30ba2c26692e8f161289804e63057b141ffb94731824cf3ae80f5569b240.md",
+    "sha256": "328d30ba2c26692e8f161289804e63057b141ffb94731824cf3ae80f5569b240"
+  }
+}

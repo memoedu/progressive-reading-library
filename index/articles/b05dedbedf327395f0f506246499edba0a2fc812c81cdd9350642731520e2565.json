@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=51",
+  "title": "使用python和go进行http请求发送",
+  "original": {
+    "path": "原稿/b05dedbedf327395f0f50624/7bb3767d8bb792b5b89fd10f7eca48c9f33cd8a1fa8f47890d25fd09d7820d68.md",
+    "sha256": "7bb3767d8bb792b5b89fd10f7eca48c9f33cd8a1fa8f47890d25fd09d7820d68"
+  }
+}

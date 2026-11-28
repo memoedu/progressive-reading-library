@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=226",
+  "title": "input 标签可以被聚焦，但是无法输入文本",
+  "original": {
+    "path": "原稿/64b42f2660bc090bb76b4018/4c6dbfec826fc1d017403baebf08006dd95d06b909ecdc24b8f4b9136096b053.md",
+    "sha256": "4c6dbfec826fc1d017403baebf08006dd95d06b909ecdc24b8f4b9136096b053"
+  }
+}

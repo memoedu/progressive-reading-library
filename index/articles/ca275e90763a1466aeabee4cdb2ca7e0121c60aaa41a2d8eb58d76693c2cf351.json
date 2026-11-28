@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=197",
+  "title": "升级 Linux 服务器的 gcc 和 make",
+  "original": {
+    "path": "原稿/ca275e90763a1466aeabee4c/cfa37c4868753b38f09795dd08fcbb1367be4bb58a31878c0c1a744eefc6153e.md",
+    "sha256": "cfa37c4868753b38f09795dd08fcbb1367be4bb58a31878c0c1a744eefc6153e"
+  }
+}

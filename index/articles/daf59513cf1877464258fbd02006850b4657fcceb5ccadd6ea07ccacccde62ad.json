@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2019/01/07/mih-action-intention-gap",
+  "title": "Why It's So Hard to Stick to Your Goals (and How to Make it Easy) - Scott H Young",
+  "original": {
+    "path": "原稿/daf59513cf1877464258fbd0/6d47833338b7d9aac64370879fd971e058ec27f74263deba0770090daabd2b44.md",
+    "sha256": "6d47833338b7d9aac64370879fd971e058ec27f74263deba0770090daabd2b44"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/daf59513cf1877464258fbd0/reading-de8fef7d046d2d9e0b41910a6830548b1554c9594686dcb8c82bdba9105ac3d1.md",
+      "sha256": "de8fef7d046d2d9e0b41910a6830548b1554c9594686dcb8c82bdba9105ac3d1",
+      "original_sha256": "6d47833338b7d9aac64370879fd971e058ec27f74263deba0770090daabd2b44",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

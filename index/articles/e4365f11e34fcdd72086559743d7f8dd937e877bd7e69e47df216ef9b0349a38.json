@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=267",
+  "title": "stm32学习（五）EXTI 中断",
+  "original": {
+    "path": "原稿/e4365f11e34fcdd720865597/c6096f3a6fc8dd775b963acf4d7f12fc17a6545cc4bb48fd467386b80b4a3528.md",
+    "sha256": "c6096f3a6fc8dd775b963acf4d7f12fc17a6545cc4bb48fd467386b80b4a3528"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=240",
+  "title": "图说USB",
+  "original": {
+    "path": "原稿/e5a8c26cd8516a5941f6f11f/3d77ba641d3a4dced8d43df27200cbc921f36e4681c2f32e171271f5d4eb5406.md",
+    "sha256": "3d77ba641d3a4dced8d43df27200cbc921f36e4681c2f32e171271f5d4eb5406"
+  }
+}

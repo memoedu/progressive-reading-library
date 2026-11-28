@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=277",
+  "title": "Rust 中 Stack Overflow 了怎么办",
+  "original": {
+    "path": "原稿/eddc88e50fd740a3d418f5bd/370a2d66f2c4a26ba1afadf7bf429110fd2c91ded907f17d0aa9818da5f641df.md",
+    "sha256": "370a2d66f2c4a26ba1afadf7bf429110fd2c91ded907f17d0aa9818da5f641df"
+  }
+}

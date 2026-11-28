@@ -5,5 +5,11 @@
   "original": {
     "path": "订阅/GitHub仓库/Thoughts Memo 翻译合集/scott/美国教育系统是否充分满足优秀学生的需求？--浏览器加工--c1db48fd3a.md",
     "sha256": "32d3162ebf5c63826f2d7e6519c203da3fe41d93e801a194189cd3be7336f480"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/c1db48fd3aafea12e9901262/e24e91a4fad9337a61873aef21288fc9d1c78452d60379aca6af6f557cb020f6.md",
+      "sha256": "e24e91a4fad9337a61873aef21288fc9d1c78452d60379aca6af6f557cb020f6"
+    }
+  ]
 }

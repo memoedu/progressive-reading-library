@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=309",
+  "title": "全栈项目的聚合启动脚本—— bash 多线程 与 concurrently 的使用",
+  "original": {
+    "path": "原稿/76d9d1cb8db4b9141a3a303c/67dba1441fd66a42b3f232457e0f36411092d964543ac07bbd7c6c444fe594c5.md",
+    "sha256": "67dba1441fd66a42b3f232457e0f36411092d964543ac07bbd7c6c444fe594c5"
+  }
+}

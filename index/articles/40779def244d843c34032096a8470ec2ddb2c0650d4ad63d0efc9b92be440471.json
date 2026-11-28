@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/07/16/how-to-learn-creative-skills",
+  "title": "How to Learn Creative Skills - Scott H Young",
+  "original": {
+    "path": "原稿/40779def244d843c34032096/f693bb56ae3191fc482807cc1e5e8f59e736f05d0b427d2cbf766454a7a3ff57.md",
+    "sha256": "f693bb56ae3191fc482807cc1e5e8f59e736f05d0b427d2cbf766454a7a3ff57"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/40779def244d843c34032096/reading-d47781b62b669ebdc10efd341ef3c0ad03a75af9fda8665a7a94f998298cc3b6.md",
+      "sha256": "d47781b62b669ebdc10efd341ef3c0ad03a75af9fda8665a7a94f998298cc3b6",
+      "original_sha256": "f693bb56ae3191fc482807cc1e5e8f59e736f05d0b427d2cbf766454a7a3ff57",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

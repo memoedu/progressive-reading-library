@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 47 How I Formed My Own Views About AI Safety — Neel Nanda--浏览器加工--995141844d.md",
     "sha256": "97eb754ec99150c46f7ca6853572489060c302a6e5c2098ae945b61ad5539f09"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/995141844d2c54cbc46b8c56/4ba7efd479df40c81be45df3609ff981c07cdbbaf527c376191aa4669ebfe7c2.md",
+      "sha256": "4ba7efd479df40c81be45df3609ff981c07cdbbaf527c376191aa4669ebfe7c2"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/995141844d2c54cbc46b8c56/reading-b8bc0fc5080ee1436e64df349fe6cada6c6278b6f49f0c200d1cac5e70f2fc54.md",
+      "sha256": "b8bc0fc5080ee1436e64df349fe6cada6c6278b6f49f0c200d1cac5e70f2fc54",
+      "original_sha256": "4ba7efd479df40c81be45df3609ff981c07cdbbaf527c376191aa4669ebfe7c2",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=363",
+  "title": "让你的数据库也变得“可响应”，Supabase Realtime 功能介绍",
+  "original": {
+    "path": "原稿/5e485c55bba4039e219abc37/ccdd42cefcd817a106b8576d49916664b778941ad4534a45bf8ee0c8618872a6.md",
+    "sha256": "ccdd42cefcd817a106b8576d49916664b778941ad4534a45bf8ee0c8618872a6"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=14",
+  "title": "CMake + Vscode",
+  "original": {
+    "path": "原稿/b9cf18806db5a4a952cab503/3c0d4b99c65b006cc46326781fbb46999aa52045cfbbf350d71f3828806ff9cc.md",
+    "sha256": "3c0d4b99c65b006cc46326781fbb46999aa52045cfbbf350d71f3828806ff9cc"
+  }
+}

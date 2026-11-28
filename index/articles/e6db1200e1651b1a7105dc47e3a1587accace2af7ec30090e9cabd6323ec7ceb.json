@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/09/30/deliberate-practice",
+  "title": "Reach the Top 1% of Your Field (Deliberate Practice) - Scott H Young",
+  "original": {
+    "path": "原稿/e6db1200e1651b1a7105dc47/a7e9262e50d7ff676228cd9b181e17d7d780006bff90c6794bb7e60703e3fa65.md",
+    "sha256": "a7e9262e50d7ff676228cd9b181e17d7d780006bff90c6794bb7e60703e3fa65"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e6db1200e1651b1a7105dc47/reading-34f7b3cd98bf566edf217f4342725319b016ade1b2689aba8f66dd73bb3d648a.md",
+      "sha256": "34f7b3cd98bf566edf217f4342725319b016ade1b2689aba8f66dd73bb3d648a",
+      "original_sha256": "a7e9262e50d7ff676228cd9b181e17d7d780006bff90c6794bb7e60703e3fa65",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

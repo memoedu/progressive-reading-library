@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=294",
+  "title": "LSP 协议中的自定义消息 | 以 TowerLSP & vscode-languageclient 为例",
+  "original": {
+    "path": "原稿/15bc8d62bc36d0fc644e8f8e/eb98af4ebfed5f9c17f8bb699c2ae72cc89f54971d2a34eec9452880e84799b9.md",
+    "sha256": "eb98af4ebfed5f9c17f8bb699c2ae72cc89f54971d2a34eec9452880e84799b9"
+  }
+}

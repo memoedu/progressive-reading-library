@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/10/21/the-key-to-creating-learning-projects-youll-finish",
+  "title": "The Key to Creating Learning Projects You’ll Finish - Scott H Young",
+  "original": {
+    "path": "原稿/dc610b71a6ce122c45c16df2/54ec3b6901eca0998a4635923cb2e5fd2aeeb7ce933d1f447689ddf0225172c6.md",
+    "sha256": "54ec3b6901eca0998a4635923cb2e5fd2aeeb7ce933d1f447689ddf0225172c6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dc610b71a6ce122c45c16df2/reading-7911213cc9ccf55008c8f0821177b28fabd2ef6d112aab3c00150a9121b1895b.md",
+      "sha256": "7911213cc9ccf55008c8f0821177b28fabd2ef6d112aab3c00150a9121b1895b",
+      "original_sha256": "54ec3b6901eca0998a4635923cb2e5fd2aeeb7ce933d1f447689ddf0225172c6",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

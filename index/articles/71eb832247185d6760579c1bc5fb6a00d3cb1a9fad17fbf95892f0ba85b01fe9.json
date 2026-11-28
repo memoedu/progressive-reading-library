@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=dBUc-KsKVvs",
+  "title": "立党讲座31：预测中国未来！未来30年中国哪些行业爆发？高考应该如何挑选有增量和红利的专业和行业？从第一性原理出发，中国经济和产业发展应该遵循哪些规律？",
+  "original": {
+    "path": "原稿/71eb832247185d6760579c1b/5e5ab770b8c3b5cb68adadfa2a02d10db4df2d6c1a3ab0ed7a1d38646f771e4a.md",
+    "sha256": "5e5ab770b8c3b5cb68adadfa2a02d10db4df2d6c1a3ab0ed7a1d38646f771e4a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/71eb832247185d6760579c1b/reading-53a8d714a409215f76088e655c76a05d71e4ae18a30f8df423cef1913094a5cf.md",
+      "sha256": "53a8d714a409215f76088e655c76a05d71e4ae18a30f8df423cef1913094a5cf",
+      "original_sha256": "5e5ab770b8c3b5cb68adadfa2a02d10db4df2d6c1a3ab0ed7a1d38646f771e4a",
+      "processing_sha256": "01f05a3ee095432dd21932dad1a1de39c221fb7892d93d2824ac6d88f6b53ad0",
+      "options_sha256": "fba1c4c56608108786d3c7a28977be3375f3a88b7d5cf68fea4213a51ce104c2"
+    }
+  ]
+}

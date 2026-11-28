@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=11",
+  "title": "神经网络（Neural Network）",
+  "original": {
+    "path": "原稿/8780c8bec5857c1d16e36f19/f8df89139e12545f9fa7df3eec01fa53aec414d318015a82457a072a70e9f6a2.md",
+    "sha256": "f8df89139e12545f9fa7df3eec01fa53aec414d318015a82457a072a70e9f6a2"
+  }
+}

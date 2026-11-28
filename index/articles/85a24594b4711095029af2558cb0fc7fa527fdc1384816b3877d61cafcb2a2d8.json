@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=322",
+  "title": "无法通过 openai 库访问 gemini？这不是你的错—— openai 协议访问 gemini 调试日志",
+  "original": {
+    "path": "原稿/85a24594b4711095029af255/5abb46068e11795fe32cb048730cf3a259b869c11869ede5684ccb42be7dc387.md",
+    "sha256": "5abb46068e11795fe32cb048730cf3a259b869c11869ede5684ccb42be7dc387"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=104",
+  "title": "Linux服务器Mirai部署（含Sign Server）",
+  "original": {
+    "path": "原稿/93cebd56827f3a9dbbf04cd5/a5987a9d670ebbcbfcdbcba73f708accc4fda59b235228de1e69a755f8a32fb8.md",
+    "sha256": "a5987a9d670ebbcbfcdbcba73f708accc4fda59b235228de1e69a755f8a32fb8"
+  }
+}

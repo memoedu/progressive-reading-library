@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2050959321190732673",
+  "title": "无标题艺术.十九",
+  "original": {
+    "path": "原稿/ecb9de5a5efb4366d1e05046/21f59e278f06716fe9d23194fefa1797b177f0341e486963aa6336136734795d.md",
+    "sha256": "21f59e278f06716fe9d23194fefa1797b177f0341e486963aa6336136734795d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ecb9de5a5efb4366d1e05046/reading-7ec9cc34d58aabc66cb23139d8229253285f57fb31047e7368378f52be65e0a9.md",
+      "sha256": "7ec9cc34d58aabc66cb23139d8229253285f57fb31047e7368378f52be65e0a9",
+      "original_sha256": "21f59e278f06716fe9d23194fefa1797b177f0341e486963aa6336136734795d",
+      "processing_sha256": "f7065c9bd3eda3dac417ad4c1ec0716a186a4c1dcc683cb25d8826f69f44efb5",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

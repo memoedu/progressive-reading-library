@@ -5,5 +5,11 @@
   "original": {
     "path": "订阅/GitHub仓库/Thoughts Memo 翻译合集/lesswrong/监狱教学笔记--浏览器加工--8c0383a55c.md",
     "sha256": "101c693889e62dd578122022b6a9167f1521cb53f9826e5962fdcf88c75cfb2b"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/8c0383a55c2463d9f98241ca/8e1fb0035f68062e0785e8c27a877a779f2929ce776398fcf1c54bebbf9dabfc.md",
+      "sha256": "8e1fb0035f68062e0785e8c27a877a779f2929ce776398fcf1c54bebbf9dabfc"
+    }
+  ]
 }

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=326",
+  "title": "docker 的镜像源添加与 docker build 时的网络问题",
+  "original": {
+    "path": "原稿/22e7e3d8ceae07e4750516b0/fb8746050495dee2bc42171b14b5ec36c8eed709d4f00a3669b633b2e8f8d679.md",
+    "sha256": "fb8746050495dee2bc42171b14b5ec36c8eed709d4f00a3669b633b2e8f8d679"
+  }
+}

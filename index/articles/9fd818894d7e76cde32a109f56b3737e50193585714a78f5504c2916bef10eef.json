@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=275",
+  "title": "标准 LSP 开发框架",
+  "original": {
+    "path": "原稿/9fd818894d7e76cde32a109f/fbac63a1e7203fa1239af88789b64315d32d9f3d018367bb64761ec2c64d1ddc.md",
+    "sha256": "fbac63a1e7203fa1239af88789b64315d32d9f3d018367bb64761ec2c64d1ddc"
+  }
+}

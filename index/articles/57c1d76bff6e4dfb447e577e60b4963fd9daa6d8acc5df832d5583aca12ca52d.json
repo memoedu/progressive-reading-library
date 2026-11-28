@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://gwern.net/doc/ai/nn/gan/stylegan/anime/2019-02-27-synced-fromfacestokittiestoapartments.html",
+  "title": "From Faces to Kitties to Apartments: GAN Fakes the World",
+  "original": {
+    "path": "原稿/57c1d76bff6e4dfb447e577e/8e64a2c5d27d5fe3175a5cf6a1e0d63f586cd596d15c32d95a0524180bc7ce7f.md",
+    "sha256": "8e64a2c5d27d5fe3175a5cf6a1e0d63f586cd596d15c32d95a0524180bc7ce7f"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=384",
+  "title": "AI Infra 软核教程（一）为什么我们需要 AI Infra",
+  "original": {
+    "path": "原稿/b094d601ae4f88006a0a4a68/b093475b22bb48d17f25db5dd4bcc9221f64fe1856c90d429b7fcab5a007dca8.md",
+    "sha256": "b093475b22bb48d17f25db5dd4bcc9221f64fe1856c90d429b7fcab5a007dca8"
+  }
+}

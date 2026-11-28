@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=53",
+  "title": "django开发笔记",
+  "original": {
+    "path": "原稿/7d1c9d0fb18d9e507958ff39/f01d92245d01b8c0fde5760aeb59336de396d7537ae27b230d61d5e636b29297.md",
+    "sha256": "f01d92245d01b8c0fde5760aeb59336de396d7537ae27b230d61d5e636b29297"
+  }
+}

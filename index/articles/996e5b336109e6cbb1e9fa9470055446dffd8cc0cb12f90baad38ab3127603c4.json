@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 46 Reward Good Bets That Had Bad Outcomes — Neel Nanda--浏览器加工--996e5b3361.md",
     "sha256": "a64769a24b331a7222155856248d26b46157336956e9be81991728c07b24ff26"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/996e5b336109e6cbb1e9fa94/fb5ce30e4db70e3f9d16d135a7d8862840dc3c307925da567509e0876eda4711.md",
+      "sha256": "fb5ce30e4db70e3f9d16d135a7d8862840dc3c307925da567509e0876eda4711"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/996e5b336109e6cbb1e9fa94/reading-0248105d82ca1cf9ffe4cb81bf2a7c60d790816a20d053916103f4979f3412b0.md",
+      "sha256": "0248105d82ca1cf9ffe4cb81bf2a7c60d790816a20d053916103f4979f3412b0",
+      "original_sha256": "fb5ce30e4db70e3f9d16d135a7d8862840dc3c307925da567509e0876eda4711",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

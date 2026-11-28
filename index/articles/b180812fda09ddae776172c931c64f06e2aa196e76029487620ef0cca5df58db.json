@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1931472080639092490",
+  "title": "（一）引论：高温下的RSIP——DA-RSIP",
+  "original": {
+    "path": "原稿/b180812fda09ddae776172c9/061372b15af6a2cfe31906f173068ad09d52d747efe732c651d99e542bcb3234.md",
+    "sha256": "061372b15af6a2cfe31906f173068ad09d52d747efe732c651d99e542bcb3234"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b180812fda09ddae776172c9/reading-aacd7e4488ca53992622bea75f84bced6ba54f0a8ed5d1986a5b34f2c5dbd3a8.md",
+      "sha256": "aacd7e4488ca53992622bea75f84bced6ba54f0a8ed5d1986a5b34f2c5dbd3a8",
+      "original_sha256": "061372b15af6a2cfe31906f173068ad09d52d747efe732c651d99e542bcb3234",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

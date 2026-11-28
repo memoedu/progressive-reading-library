@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=255",
+  "title": "生理学复习笔记",
+  "original": {
+    "path": "原稿/0b184a6aa331ac732e50b5d2/e38f30d09f5e80c40dc525ae383f2b1e080fc00ebe9dbdd0a42d09e05a239afb.md",
+    "sha256": "e38f30d09f5e80c40dc525ae383f2b1e080fc00ebe9dbdd0a42d09e05a239afb"
+  }
+}

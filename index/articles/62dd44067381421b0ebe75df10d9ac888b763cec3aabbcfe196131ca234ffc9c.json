@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=143",
+  "title": "基于主动外观模型 Active Appearance Model 的图像分割——原理与代码实现",
+  "original": {
+    "path": "原稿/62dd44067381421b0ebe75df/72ca1049a40d5db346a8c960b4cdb9bb9c911634e1e4e9073c7459fe901230c8.md",
+    "sha256": "72ca1049a40d5db346a8c960b4cdb9bb9c911634e1e4e9073c7459fe901230c8"
+  }
+}

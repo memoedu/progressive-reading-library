@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=348",
+  "title": "纯 Python 实现简易版本的前向计算图捕获工具 torch.fx.symbolic_trace",
+  "original": {
+    "path": "原稿/a280a9559b6196390dfd2144/163a461e2b53cfa2fb1fcb584151174991e7a52f366c97560b338774cbf88357.md",
+    "sha256": "163a461e2b53cfa2fb1fcb584151174991e7a52f366c97560b338774cbf88357"
+  }
+}

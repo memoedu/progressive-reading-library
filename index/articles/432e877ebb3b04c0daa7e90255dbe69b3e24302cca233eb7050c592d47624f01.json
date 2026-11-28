@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1936913409640763883",
+  "title": "（五）约束与专注：简谈DA-RSIP中的专注问题",
+  "original": {
+    "path": "原稿/432e877ebb3b04c0daa7e902/4406ad14f06e6f1f0cd764abfdbc317d8652f10f3098aa39c4a1cd9b5896946d.md",
+    "sha256": "4406ad14f06e6f1f0cd764abfdbc317d8652f10f3098aa39c4a1cd9b5896946d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/432e877ebb3b04c0daa7e902/reading-7097edbe26e1a987074d7c954429c6b646af2a1f43cb4ddd3e550c5b98f699c9.md",
+      "sha256": "7097edbe26e1a987074d7c954429c6b646af2a1f43cb4ddd3e550c5b98f699c9",
+      "original_sha256": "4406ad14f06e6f1f0cd764abfdbc317d8652f10f3098aa39c4a1cd9b5896946d",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

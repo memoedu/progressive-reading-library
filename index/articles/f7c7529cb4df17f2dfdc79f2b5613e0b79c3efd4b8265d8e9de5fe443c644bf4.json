@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=276",
+  "title": "Rust 中的异步函数的惰性执行 | async/await 的同步执行",
+  "original": {
+    "path": "原稿/f7c7529cb4df17f2dfdc79f2/c639f56d72304b8a5b38f5058df0098b7fce14e0ebdfcb57084c382557983aeb.md",
+    "sha256": "c639f56d72304b8a5b38f5058df0098b7fce14e0ebdfcb57084c382557983aeb"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2006/09/29/introduction-emotional-mastery-series",
+  "title": "Introduction - Emotional Mastery (Series) - Scott H Young",
+  "original": {
+    "path": "原稿/672008ca312e4ec8139e1585/8d961f472f54d3d6d2ff08ab84d05594bde00e7a1a42833ba6a8f05ba15fa179.md",
+    "sha256": "8d961f472f54d3d6d2ff08ab84d05594bde00e7a1a42833ba6a8f05ba15fa179"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/672008ca312e4ec8139e1585/reading-bc7d129dd38a363393ba941ea697ec0ffe6592e375bdd3523e488864108f69f9.md",
+      "sha256": "bc7d129dd38a363393ba941ea697ec0ffe6592e375bdd3523e488864108f69f9",
+      "original_sha256": "8d961f472f54d3d6d2ff08ab84d05594bde00e7a1a42833ba6a8f05ba15fa179",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

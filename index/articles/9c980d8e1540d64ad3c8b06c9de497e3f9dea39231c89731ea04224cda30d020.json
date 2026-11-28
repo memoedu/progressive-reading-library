@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=31",
+  "title": "CPU设计和分布式AI中的流水线思想",
+  "original": {
+    "path": "原稿/9c980d8e1540d64ad3c8b06c/35d769e42bba08a557b4c9fe687c07dcb4ea243e287cc963868d07c2fd1e0a33.md",
+    "sha256": "35d769e42bba08a557b4c9fe687c07dcb4ea243e287cc963868d07c2fd1e0a33"
+  }
+}

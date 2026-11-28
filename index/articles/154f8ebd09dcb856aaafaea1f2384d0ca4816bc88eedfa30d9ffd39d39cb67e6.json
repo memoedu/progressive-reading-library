@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.oneusefulthing.org/p/post-apocalyptic-education",
+  "title": "Post-apocalyptic education",
+  "original": {
+    "path": "原稿/154f8ebd09dcb856aaafaea1/06b52591ce5b30340b659e20c57dc35cbaba0e05cc8c6a0bf4d7ada93d81009d.md",
+    "sha256": "06b52591ce5b30340b659e20c57dc35cbaba0e05cc8c6a0bf4d7ada93d81009d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/154f8ebd09dcb856aaafaea1/reading-47eb37a71bb9a8f801ebbdb2bc6e5685cbaf13b77af8b38a5c6ba92580f9c0c1.md",
+      "sha256": "47eb37a71bb9a8f801ebbdb2bc6e5685cbaf13b77af8b38a5c6ba92580f9c0c1",
+      "original_sha256": "06b52591ce5b30340b659e20c57dc35cbaba0e05cc8c6a0bf4d7ada93d81009d",
+      "processing_sha256": "51fc72691350ab7355d486ecef8fe11f088fc3b6de12af00f35d186c59a2d8ed",
+      "options_sha256": "e77e03ffd1943a3c564d667e21bf3897252cf718d0144e117bff461b40f6630a"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=319",
+  "title": "为什么你的 reactive 不 reactive 了？从 vue3 源码开始的响应式数据 debug",
+  "original": {
+    "path": "原稿/45596280b02cd549bfc3efd9/a17e5ef2b5eaa10a6026ce0a41b2219597c642ec7b51dc6e1dbd3cb3b184cbac.md",
+    "sha256": "a17e5ef2b5eaa10a6026ce0a41b2219597c642ec7b51dc6e1dbd3cb3b184cbac"
+  }
+}

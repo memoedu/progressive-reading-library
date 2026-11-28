@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/27275434865",
+  "title": "向下聊天的一些感想",
+  "original": {
+    "path": "原稿/c1b3492aecb48db0ae88b39a/3418ab335d2b3b6c1dba2f3c942b920db23123c2dc8ad5fd6ffcf1cfc94349de.md",
+    "sha256": "3418ab335d2b3b6c1dba2f3c942b920db23123c2dc8ad5fd6ffcf1cfc94349de"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c1b3492aecb48db0ae88b39a/reading-fd81d477efcfeea8200f1a9de5b23eb9d71f67ff00502367524afb19ca943e31.md",
+      "sha256": "fd81d477efcfeea8200f1a9de5b23eb9d71f67ff00502367524afb19ca943e31",
+      "original_sha256": "3418ab335d2b3b6c1dba2f3c942b920db23123c2dc8ad5fd6ffcf1cfc94349de",
+      "processing_sha256": "e9bc585be32d939d325c5954f0e9707c06450bed8c009ec07fe15e866f00dd69",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

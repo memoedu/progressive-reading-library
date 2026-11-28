@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=123",
+  "title": "使用 Python 发送邮件来设置提醒",
+  "original": {
+    "path": "原稿/95fd3f9088570b11379c2f2a/ffd40b6ef02f47edba7d58d580bf49deee23e5064120d3753324b0e0be03ddaf.md",
+    "sha256": "ffd40b6ef02f47edba7d58d580bf49deee23e5064120d3753324b0e0be03ddaf"
+  }
+}

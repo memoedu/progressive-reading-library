@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=313",
+  "title": "electron 打包体积异常的 bug",
+  "original": {
+    "path": "原稿/2dbf0169486a64533854807a/f3e0e37bd45e86a48f6396239f108cae3ff40c84fc2535bd4c56b2e2a4bb21d1.md",
+    "sha256": "f3e0e37bd45e86a48f6396239f108cae3ff40c84fc2535bd4c56b2e2a4bb21d1"
+  }
+}

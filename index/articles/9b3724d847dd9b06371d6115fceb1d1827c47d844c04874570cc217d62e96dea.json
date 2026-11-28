@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=249",
+  "title": "高级计算机网络——高性能分布式组网策略 Fat-Tree",
+  "original": {
+    "path": "原稿/9b3724d847dd9b06371d6115/0b75253b68835fc54e80a61398ecd3e032919c5b413ba7bac23594394e6f5301.md",
+    "sha256": "0b75253b68835fc54e80a61398ecd3e032919c5b413ba7bac23594394e6f5301"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=201",
+  "title": "发布自己的 JavaScript 库到 npmjs",
+  "original": {
+    "path": "原稿/5f55c4aa59100964a73b0fb8/988502d2f852687cd1b8040a6cbfbfa7f88b1fc65c8be6e7000eda285bc7079e.md",
+    "sha256": "988502d2f852687cd1b8040a6cbfbfa7f88b1fc65c8be6e7000eda285bc7079e"
+  }
+}

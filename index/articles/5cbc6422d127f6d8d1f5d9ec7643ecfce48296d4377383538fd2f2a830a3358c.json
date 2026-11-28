@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=129",
+  "title": "打包并上传 Python 的库到 PyPi",
+  "original": {
+    "path": "原稿/5cbc6422d127f6d8d1f5d9ec/f6d5615c02c5a18f5fbe2670d94ea1af94d7317a57618ab4e687b18cea4b09a5.md",
+    "sha256": "f6d5615c02c5a18f5fbe2670d94ea1af94d7317a57618ab4e687b18cea4b09a5"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=E0qIVEVA2bs",
+  "title": "立党讲座22：为什么文科很伟大，但文科生是垃圾？文科生到底有哪些价值和出路？文科为什么会沦为人人喊打？",
+  "original": {
+    "path": "原稿/dde10705beb51fa6d44cbb7c/167b332a2732cacb00e86e5fdcb429763161fec55a9c9e549045609490c92652.md",
+    "sha256": "167b332a2732cacb00e86e5fdcb429763161fec55a9c9e549045609490c92652"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dde10705beb51fa6d44cbb7c/reading-c7fd7b1b04474590a78787b97544a7ed5f470cd12209454224d713af5a399f4f.md",
+      "sha256": "c7fd7b1b04474590a78787b97544a7ed5f470cd12209454224d713af5a399f4f",
+      "original_sha256": "167b332a2732cacb00e86e5fdcb429763161fec55a9c9e549045609490c92652",
+      "processing_sha256": "310f6e38c7f1614c8927c79db9fff3a556484056b12cc325b359fd492f99eedd",
+      "options_sha256": "fba1c4c56608108786d3c7a28977be3375f3a88b7d5cf68fea4213a51ce104c2"
+    }
+  ]
+}

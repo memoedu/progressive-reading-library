@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=12",
+  "title": "时域卷积网络",
+  "original": {
+    "path": "原稿/60f55f401ff2d0256ca46014/0da3f3f2e6f9497e9cca9057d1bc54e71ab2e5d5f86e38a52aa6922c84c76ea2.md",
+    "sha256": "0da3f3f2e6f9497e9cca9057d1bc54e71ab2e5d5f86e38a52aa6922c84c76ea2"
+  }
+}

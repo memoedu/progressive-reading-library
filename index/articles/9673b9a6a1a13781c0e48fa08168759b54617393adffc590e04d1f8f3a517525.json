@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=225",
+  "title": "跨域 web worker 的构造",
+  "original": {
+    "path": "原稿/9673b9a6a1a13781c0e48fa0/f7ba2e1b99b08101022f63cca78a7a5348258bef4606d881d91fc98a26b5258d.md",
+    "sha256": "f7ba2e1b99b08101022f63cca78a7a5348258bef4606d881d91fc98a26b5258d"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=320",
+  "title": "优雅地使用C++部署你的PyTorch推理模型（一）LibTorch的安装与基本使用",
+  "original": {
+    "path": "原稿/91b8b8d657945b3503e16aa6/5281ecc941aa17ce3e9f7aa047865affc3c18664d92da644d9491a8e62308cb2.md",
+    "sha256": "5281ecc941aa17ce3e9f7aa047865affc3c18664d92da644d9491a8e62308cb2"
+  }
+}

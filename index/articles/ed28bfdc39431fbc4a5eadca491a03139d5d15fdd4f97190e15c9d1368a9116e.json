@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=146",
+  "title": "如何优雅地使用 go 向前端提供临时下载链接",
+  "original": {
+    "path": "原稿/ed28bfdc39431fbc4a5eadca/aeda9532efa7c8f86cadf2bb85c720cfb0129f2ad4743bcbf5d625d87ec5f7ad.md",
+    "sha256": "aeda9532efa7c8f86cadf2bb85c720cfb0129f2ad4743bcbf5d625d87ec5f7ad"
+  }
+}

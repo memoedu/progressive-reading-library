@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=303",
+  "title": "NestJS 快速入门",
+  "original": {
+    "path": "原稿/aae59b4606838fdcc3ea6cf7/b0e35474174f854ed757abcee3b260b09891490979668809c76325e396801055.md",
+    "sha256": "b0e35474174f854ed757abcee3b260b09891490979668809c76325e396801055"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2088334596224054187",
+  "title": "为什么 AI 把功能做完了，系统却被改坏了",
+  "original": {
+    "path": "原稿/a03dc4a432edaefd47778608/09e9b708b5a675eb2651bfda61b11de471ba5c968bd1989e772a2ae96df3e99b.md",
+    "sha256": "09e9b708b5a675eb2651bfda61b11de471ba5c968bd1989e772a2ae96df3e99b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a03dc4a432edaefd47778608/reading-bc4245ede3d5a07a7b5b42c7317f38853fa014992871e120fc9c5e821cb4c2a3.md",
+      "sha256": "bc4245ede3d5a07a7b5b42c7317f38853fa014992871e120fc9c5e821cb4c2a3",
+      "original_sha256": "09e9b708b5a675eb2651bfda61b11de471ba5c968bd1989e772a2ae96df3e99b",
+      "processing_sha256": "9a29430979660f91fed40d887e8a3713890fea78ebbd122fca2ef08a0c49d1cf",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

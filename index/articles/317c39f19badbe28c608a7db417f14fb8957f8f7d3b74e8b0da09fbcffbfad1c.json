@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=176",
+  "title": "vue @mousemove 事件的 bug",
+  "original": {
+    "path": "原稿/317c39f19badbe28c608a7db/9679d79bfa1a4cbab115ecb00c1baf71376351b805c0483bba75eedac5b370c3.md",
+    "sha256": "9679d79bfa1a4cbab115ecb00c1baf71376351b805c0483bba75eedac5b370c3"
+  }
+}

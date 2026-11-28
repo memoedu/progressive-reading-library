@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2019/07/08/learn-to-code",
+  "title": "Learning to Code is Easy: Here's How to Teach Yourself - Scott H Young",
+  "original": {
+    "path": "原稿/1a558b042a7c622ff1a10f87/968f35d50947c95bfd35bfc1b0cbaca3d19849af369c9d18ef16e77266d6cb9b.md",
+    "sha256": "968f35d50947c95bfd35bfc1b0cbaca3d19849af369c9d18ef16e77266d6cb9b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1a558b042a7c622ff1a10f87/reading-26d8e250894c9bf242f86451eee3ddf4fb7be43ad0009cdf07260606a3424a5e.md",
+      "sha256": "26d8e250894c9bf242f86451eee3ddf4fb7be43ad0009cdf07260606a3424a5e",
+      "original_sha256": "968f35d50947c95bfd35bfc1b0cbaca3d19849af369c9d18ef16e77266d6cb9b",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

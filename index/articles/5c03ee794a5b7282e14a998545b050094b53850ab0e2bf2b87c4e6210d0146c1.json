@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=356",
+  "title": "RAG 和 CE 是什么关系？我们真的需要 RAG 吗？",
+  "original": {
+    "path": "原稿/5c03ee794a5b7282e14a9985/744e707701d194ee54dcc83e021d1ecb2bcc3c0124b986b390df033c9a3197c4.md",
+    "sha256": "744e707701d194ee54dcc83e021d1ecb2bcc3c0124b986b390df033c9a3197c4"
+  }
+}

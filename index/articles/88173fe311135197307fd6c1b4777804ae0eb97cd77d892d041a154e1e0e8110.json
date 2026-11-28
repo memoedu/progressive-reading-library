@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1892341596546130648",
+  "title": "复旦之旅的交流---工作流的思考",
+  "original": {
+    "path": "原稿/88173fe311135197307fd6c1/5cc2ca294bfe2f066c4246da71b0962d8fd2b35d64ea42422e2c35fec6faa1ed.md",
+    "sha256": "5cc2ca294bfe2f066c4246da71b0962d8fd2b35d64ea42422e2c35fec6faa1ed"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/88173fe311135197307fd6c1/reading-8d3432764d429673eaf38309d13c307fe7788d67f55f1b88df5e5e0680e1affc.md",
+      "sha256": "8d3432764d429673eaf38309d13c307fe7788d67f55f1b88df5e5e0680e1affc",
+      "original_sha256": "5cc2ca294bfe2f066c4246da71b0962d8fd2b35d64ea42422e2c35fec6faa1ed",
+      "processing_sha256": "e9bc585be32d939d325c5954f0e9707c06450bed8c009ec07fe15e866f00dd69",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

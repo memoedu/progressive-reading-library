@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2013/02/05/two-types-of-growth",
+  "title": "Two Types of Growth - Scott H Young",
+  "original": {
+    "path": "原稿/7a9f8bcdf9d91a280291ae56/92940f4a5640915c101d4d0715ffbd46082a4550ab71d3a438308892a143f671.md",
+    "sha256": "92940f4a5640915c101d4d0715ffbd46082a4550ab71d3a438308892a143f671"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7a9f8bcdf9d91a280291ae56/reading-1d8d2c630f508624c8ebc3dfdaf6da1af6b395d533c8c78cfbd74951ac383acd.md",
+      "sha256": "1d8d2c630f508624c8ebc3dfdaf6da1af6b395d533c8c78cfbd74951ac383acd",
+      "original_sha256": "92940f4a5640915c101d4d0715ffbd46082a4550ab71d3a438308892a143f671",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

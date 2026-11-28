@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1983788908388061225/answer/2074166196237350086",
+  "title": "人为什么只有遭受重大挫折之后，才开始反思以前的行为？ - 星雨月虹 的回答",
+  "original": {
+    "path": "原稿/9c088ffee28f1796dfac65e6/f5097aafb9825226a92b8b3de9925292293e265f3e6312fcca43b0f1fd6e9bef.md",
+    "sha256": "f5097aafb9825226a92b8b3de9925292293e265f3e6312fcca43b0f1fd6e9bef"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9c088ffee28f1796dfac65e6/reading-05dbf6ba4d42b40796f737cb013846a00589055a48ef8f6feb39ccb8daf058ee.md",
+      "sha256": "05dbf6ba4d42b40796f737cb013846a00589055a48ef8f6feb39ccb8daf058ee",
+      "original_sha256": "f5097aafb9825226a92b8b3de9925292293e265f3e6312fcca43b0f1fd6e9bef",
+      "processing_sha256": "ddef28795751611ce33811a7d224b424583c801e275f13fcd20e4c1e05b59fc7",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

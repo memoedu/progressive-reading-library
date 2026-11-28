@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=273",
+  "title": "Jetson AGX Orin 开发板 pytorch 工具链部署",
+  "original": {
+    "path": "原稿/9ab6cf555eac67cc8984be2f/145128b8fa446b633662f5ba90ac9bce7f2acf6b6a8b306b6bd61ad7e41b347b.md",
+    "sha256": "145128b8fa446b633662f5ba90ac9bce7f2acf6b6a8b306b6bd61ad7e41b347b"
+  }
+}

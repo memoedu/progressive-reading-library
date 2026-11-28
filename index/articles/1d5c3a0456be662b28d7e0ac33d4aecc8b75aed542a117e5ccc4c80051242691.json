@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=181",
+  "title": "浏览器请求与响应拦截器实现",
+  "original": {
+    "path": "原稿/1d5c3a0456be662b28d7e0ac/7e3f06d29ec69d9d712a0e622b80791e93a5196f778b7ecb31d08a162d95f3b9.md",
+    "sha256": "7e3f06d29ec69d9d712a0e622b80791e93a5196f778b7ecb31d08a162d95f3b9"
+  }
+}

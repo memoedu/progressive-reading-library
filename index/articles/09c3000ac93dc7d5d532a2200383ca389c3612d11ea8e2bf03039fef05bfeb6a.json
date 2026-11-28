@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=345",
+  "title": "如何约束大模型严格输出指定内容？引导解码器 Guided Decoder 原理讲解 & 实战演示",
+  "original": {
+    "path": "原稿/09c3000ac93dc7d5d532a220/8326139f49e5604c294ca1759ada3b28f9ed86ef26cb6b1b1c3dbba153c6c98f.md",
+    "sha256": "8326139f49e5604c294ca1759ada3b28f9ed86ef26cb6b1b1c3dbba153c6c98f"
+  }
+}

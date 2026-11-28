@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=122",
+  "title": "使用 Python 递归下载 FTP 服务器的文件夹",
+  "original": {
+    "path": "原稿/2d8457a5a067e47b02586512/e33239caf8d0e722a3c60021d90bb4725e5f089ab8af2c6cafd8f9b66b76be9b.md",
+    "sha256": "e33239caf8d0e722a3c60021d90bb4725e5f089ab8af2c6cafd8f9b66b76be9b"
+  }
+}

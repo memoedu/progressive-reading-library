@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://gwern.net/doc/cs/haskell/2008-05-02-lukepalmer-omegamonadenumeratingacontextfreelanguage.html",
+  "title": "Enumerating a context-free language",
+  "original": {
+    "path": "原稿/c10c62d190744813ed9675f8/d1f4a0d4335eb35559c0ed577bf6ba595d09ab94925321fe4e25725dcc67c6ae.md",
+    "sha256": "d1f4a0d4335eb35559c0ed577bf6ba595d09ab94925321fe4e25725dcc67c6ae"
+  }
+}

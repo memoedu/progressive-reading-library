@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=49",
+  "title": "vue3中优雅地呼出弹窗对话框——纯JS调用式阻塞弹窗对话框实现",
+  "original": {
+    "path": "原稿/8f08139dba5c44aeb1634ea9/22fa4577985a1bca04fe0bf3c616d65199e6f4f5449739f51b62b2241621fb05.md",
+    "sha256": "22fa4577985a1bca04fe0bf3c616d65199e6f4f5449739f51b62b2241621fb05"
+  }
+}

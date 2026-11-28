@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=132",
+  "title": "基于位图轮廓提取的矢量图转化算法",
+  "original": {
+    "path": "原稿/546e6ca07ef537ac705876a5/327ecdba16dfa23f45201caf312c3ab87acf959529baa6ea2de2f19fe862dfaa.md",
+    "sha256": "327ecdba16dfa23f45201caf312c3ab87acf959529baa6ea2de2f19fe862dfaa"
+  }
+}

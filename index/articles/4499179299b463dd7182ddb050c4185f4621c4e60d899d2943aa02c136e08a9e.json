@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/03/15/l1-the-human-energy-crisis",
+  "title": "Lesson One: The Human Energy Crisis - Scott H Young",
+  "original": {
+    "path": "原稿/4499179299b463dd7182ddb0/1f5a6b2a098d9d9675a436121d3496be20402f85bac8da2d765e254b91d8b089.md",
+    "sha256": "1f5a6b2a098d9d9675a436121d3496be20402f85bac8da2d765e254b91d8b089"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4499179299b463dd7182ddb0/reading-8399b1772d375f253b08ac4e87909a355a3ae80dc663383f8e25d557d4dcd3f6.md",
+      "sha256": "8399b1772d375f253b08ac4e87909a355a3ae80dc663383f8e25d557d4dcd3f6",
+      "original_sha256": "1f5a6b2a098d9d9675a436121d3496be20402f85bac8da2d765e254b91d8b089",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

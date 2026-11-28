@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.gosupps.com/yfood-poudre-smooth-vanilla-substitut-de-repas-prot-in-this-is-food-26-vitamines-et-min-raux-12-repas-go-t-vanille.html",
+  "title": "YFood Smooth Vanilla Meal Replacement Powder",
+  "original": {
+    "path": "原稿/39644959cf818411108184d1/559e73b30a1cbe8fe9290961057e59f4652cb002e67e99dcbf0ef6330424e49f.md",
+    "sha256": "559e73b30a1cbe8fe9290961057e59f4652cb002e67e99dcbf0ef6330424e49f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/39644959cf818411108184d1/reading-a58bb56b525940cfe515a5a3786089613eb3356b3c1982bf89216e0c40639c72.md",
+      "sha256": "a58bb56b525940cfe515a5a3786089613eb3356b3c1982bf89216e0c40639c72",
+      "original_sha256": "559e73b30a1cbe8fe9290961057e59f4652cb002e67e99dcbf0ef6330424e49f",
+      "processing_sha256": "af663be1b92168de60a93d8ebc46a42fbfcedf365cc4b1c49301e3284b7f0449",
+      "options_sha256": "8e0e7ab3658ba586c5a50c0c35128db6d8f30bd425c82e8668ce7063bbd8199a"
+    }
+  ]
+}

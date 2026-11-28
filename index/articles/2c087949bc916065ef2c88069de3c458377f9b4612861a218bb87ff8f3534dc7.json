@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/04/29/ultralearning-ai",
+  "title": "I Wrote Ultralearning. This is What I’d Change Because of AI - Scott H Young",
+  "original": {
+    "path": "原稿/2c087949bc916065ef2c8806/f774d39c676eb836d5df7721fcf43a316516aaba468baeb7701557748de3aca7.md",
+    "sha256": "f774d39c676eb836d5df7721fcf43a316516aaba468baeb7701557748de3aca7"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2c087949bc916065ef2c8806/reading-540a8e4af398964c1f95d513ae042bd4b3315ac86f6fbb770e5e8d9916675e02.md",
+      "sha256": "540a8e4af398964c1f95d513ae042bd4b3315ac86f6fbb770e5e8d9916675e02",
+      "original_sha256": "f774d39c676eb836d5df7721fcf43a316516aaba468baeb7701557748de3aca7",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

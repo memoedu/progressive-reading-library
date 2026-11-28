@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=144",
+  "title": "基于 Graph Cut 的可交互式图像分割——原理与代码实现",
+  "original": {
+    "path": "原稿/cbe0ff2b8acb189ba14e2fc0/c17a47bbf88d18da101f26f023591fe2decfee8b0c0306a072372911b762f9f9.md",
+    "sha256": "c17a47bbf88d18da101f26f023591fe2decfee8b0c0306a072372911b762f9f9"
+  }
+}

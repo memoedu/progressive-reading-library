@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=369",
+  "title": "OpenMCP 新功能介绍：批量验证与 Debugger MCP，助力自动化 Agent 开发",
+  "original": {
+    "path": "原稿/f4646e3ce06b5c13834315de/50a90558d4164b2190567de91b839b755a07f16e1fc571c42ba85c400b77151b.md",
+    "sha256": "50a90558d4164b2190567de91b839b755a07f16e1fc571c42ba85c400b77151b"
+  }
+}

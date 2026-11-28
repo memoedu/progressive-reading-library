@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=55",
+  "title": "wasm编译器emcc的安装与激活",
+  "original": {
+    "path": "原稿/c1f0f114124758086399f3de/072321a5b5c7caa38e0d8e5d49a323253e0dcdd4d85829d7bc0441fd06bdee4d.md",
+    "sha256": "072321a5b5c7caa38e0d8e5d49a323253e0dcdd4d85829d7bc0441fd06bdee4d"
+  }
+}

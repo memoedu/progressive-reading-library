@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=6",
+  "title": "机器学习诊断法（Machine learning diagnostic）",
+  "original": {
+    "path": "原稿/c91a0844974bec29808e1149/ea875c7d38d75d21ce73d3411b24e300123362c3e82276a772108191034291bf.md",
+    "sha256": "ea875c7d38d75d21ce73d3411b24e300123362c3e82276a772108191034291bf"
+  }
+}

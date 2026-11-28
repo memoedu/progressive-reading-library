@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=386",
+  "title": "Agentic RL 中的 TITO 原则",
+  "original": {
+    "path": "原稿/f7832dd44f0327d395d7e096/84fb0b5d02bad94802e6157b7b413ea4ca3fde47949628e1b7ce633f258ebb8e.md",
+    "sha256": "84fb0b5d02bad94802e6157b7b413ea4ca3fde47949628e1b7ce633f258ebb8e"
+  }
+}

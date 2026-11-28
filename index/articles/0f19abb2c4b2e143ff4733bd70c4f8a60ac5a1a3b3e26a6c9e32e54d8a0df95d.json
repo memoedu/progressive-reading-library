@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+  "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+  "original": {
+    "path": "原稿/0f19abb2c4b2e143ff4733bd/41559ea21f45993cd3885580e69a9fde056de264748a6fda3ec1f599e50bc4ba.md",
+    "sha256": "41559ea21f45993cd3885580e69a9fde056de264748a6fda3ec1f599e50bc4ba"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0f19abb2c4b2e143ff4733bd/reading-ba74382241177f017d80384632b7ac58a19d2995fc78acedd96e88a25cd91236.md",
+      "sha256": "ba74382241177f017d80384632b7ac58a19d2995fc78acedd96e88a25cd91236",
+      "original_sha256": "41559ea21f45993cd3885580e69a9fde056de264748a6fda3ec1f599e50bc4ba",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

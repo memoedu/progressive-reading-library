@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+  "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》 - 阮一峰的网络日志",
+  "original": {
+    "path": "原稿/39ba7da64f75afcc9bfb0c5d/45203dffa696424afadb00e880851f053fa71ee8e00523e34b45bd34b7316acd.md",
+    "sha256": "45203dffa696424afadb00e880851f053fa71ee8e00523e34b45bd34b7316acd"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/39ba7da64f75afcc9bfb0c5d/reading-5f425c23ecb0a150fb860ce670655a5df01fc74e5f7a5a06226ac9a2df76b085.md",
+      "sha256": "5f425c23ecb0a150fb860ce670655a5df01fc74e5f7a5a06226ac9a2df76b085",
+      "original_sha256": "45203dffa696424afadb00e880851f053fa71ee8e00523e34b45bd34b7316acd",
+      "processing_sha256": "d7d201932ea8eecd66b1a6ad98f6dbc9bd6f73bffd3b495dd298f1e1e29e18bf",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

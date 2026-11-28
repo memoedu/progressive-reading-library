@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2026653029177280167",
+  "title": "大一学编程，朋友说“别学古法编程”，还让我养小龙虾，可我连GitHub都不会用，我该怎么办？ - 知乎",
+  "original": {
+    "path": "原稿/80fbec58dd4b6ced6d61ae88/83ce6e537b3b5900489ef43eed54cc9b522f7f9e4b81f3b533e0630ed3ceaa60.md",
+    "sha256": "83ce6e537b3b5900489ef43eed54cc9b522f7f9e4b81f3b533e0630ed3ceaa60"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/80fbec58dd4b6ced6d61ae88/reading-91b65e073e2f01eb0e55d4463a95996781ec75d52bb94f703420e7472a7dd5aa.md",
+      "sha256": "91b65e073e2f01eb0e55d4463a95996781ec75d52bb94f703420e7472a7dd5aa",
+      "original_sha256": "83ce6e537b3b5900489ef43eed54cc9b522f7f9e4b81f3b533e0630ed3ceaa60",
+      "processing_sha256": "5c0f638aee4efbaada88ada326fb5847be781fdd7f1dec96bde117942b081bb4",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

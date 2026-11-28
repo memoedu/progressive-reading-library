@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=116",
+  "title": "使用 AI算法 来给你的朋友修图（修改五官）！Stable Diffusion Inpainting 模型部署与使用",
+  "original": {
+    "path": "原稿/b36ac59a594e31760bafcec5/755106e863b53ea1ec95e9d129790f5df0d6ff83cf2aefd6a50a16ec92ee54b0.md",
+    "sha256": "755106e863b53ea1ec95e9d129790f5df0d6ff83cf2aefd6a50a16ec92ee54b0"
+  }
+}

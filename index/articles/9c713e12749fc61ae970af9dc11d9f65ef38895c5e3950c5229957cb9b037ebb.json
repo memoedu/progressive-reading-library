@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://trinket.strivemath.org/books/thinkjava2/chapter1.html",
+  "title": "Computer Programming | Think Java · Trinket",
+  "original": {
+    "path": "原稿/9c713e12749fc61ae970af9d/29f8beb2b5e6605fb76ebb78d8586971c8c822265b065df9a63330946b5ac111.md",
+    "sha256": "29f8beb2b5e6605fb76ebb78d8586971c8c822265b065df9a63330946b5ac111"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9c713e12749fc61ae970af9d/reading-b4e3802b6b105ce967f59cf6c4a024db745b121785be75b996b3fd81d8ac99a2.md",
+      "sha256": "b4e3802b6b105ce967f59cf6c4a024db745b121785be75b996b3fd81d8ac99a2",
+      "original_sha256": "29f8beb2b5e6605fb76ebb78d8586971c8c822265b065df9a63330946b5ac111",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

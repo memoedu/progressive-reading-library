@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=318",
+  "title": "通过 gh 命令行工具来发布你的 github release",
+  "original": {
+    "path": "原稿/b78531a5c1559bc75b4b40a1/2ccf0f511a998bcb1316141f55437a490af40ae1864ab0d788f908661a91b8ed.md",
+    "sha256": "2ccf0f511a998bcb1316141f55437a490af40ae1864ab0d788f908661a91b8ed"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=221",
+  "title": "Web Worker 使用与 Wasm 的引入",
+  "original": {
+    "path": "原稿/322402c4444fdb7790671d1c/564d7cc9b2f79b1f6e1d17c0206231d3c8901eaedb3162177dcaffd457b5f53d.md",
+    "sha256": "564d7cc9b2f79b1f6e1d17c0206231d3c8901eaedb3162177dcaffd457b5f53d"
+  }
+}

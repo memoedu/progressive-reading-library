@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=30",
+  "title": "使用pre-commit优雅地管理团队代码风格",
+  "original": {
+    "path": "原稿/eba0c0c5b8665288ea0f3d61/c418f4be94a4a42bd06264a1883509523730ff2fb325d7ced3a012cb1f069bb1.md",
+    "sha256": "c418f4be94a4a42bd06264a1883509523730ff2fb325d7ced3a012cb1f069bb1"
+  }
+}

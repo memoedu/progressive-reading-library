@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=z7i4rviqXCo",
+  "title": "立党：传统行业如何用AI提升效率和商业革命？程序员面对AI时代，如何提高竞争力？",
+  "original": {
+    "path": "原稿/8a24a8983a63755a59901c01/99bdb00c19eded9b1b6b77a5f20a8d97f709067b54703df4767df286a9460e18.md",
+    "sha256": "99bdb00c19eded9b1b6b77a5f20a8d97f709067b54703df4767df286a9460e18"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8a24a8983a63755a59901c01/reading-a6a60e4b33039de1ef02dab69e7eab0e239d2ab83888d3578a44ae6114720f35.md",
+      "sha256": "a6a60e4b33039de1ef02dab69e7eab0e239d2ab83888d3578a44ae6114720f35",
+      "original_sha256": "99bdb00c19eded9b1b6b77a5f20a8d97f709067b54703df4767df286a9460e18",
+      "processing_sha256": "5f8c0d51c2c6c6e832891fee9eae2aa5653ecce4b383a9ce590325ccfdae5a0c",
+      "options_sha256": "fba1c4c56608108786d3c7a28977be3375f3a88b7d5cf68fea4213a51ce104c2"
+    }
+  ]
+}

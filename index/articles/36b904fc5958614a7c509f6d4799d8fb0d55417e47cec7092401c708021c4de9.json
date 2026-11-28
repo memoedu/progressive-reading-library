@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=242",
+  "title": "在树莓派上编译和使用 neovim",
+  "original": {
+    "path": "原稿/36b904fc5958614a7c509f6d/651041e5727cc2c3be840827fe15dd026bb99e178aea4a02957c2551802c0699.md",
+    "sha256": "651041e5727cc2c3be840827fe15dd026bb99e178aea4a02957c2551802c0699"
+  }
+}

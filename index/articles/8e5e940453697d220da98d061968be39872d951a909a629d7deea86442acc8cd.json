@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=337",
+  "title": "切换动画 transition 的实现原理 & svelte 中优雅实现切换动画的办法",
+  "original": {
+    "path": "原稿/8e5e940453697d220da98d06/f18ae6d1b08e4ea2d5c595d4843fe7a0d538b62fccf659f84ed7551a674cf424.md",
+    "sha256": "f18ae6d1b08e4ea2d5c595d4843fe7a0d538b62fccf659f84ed7551a674cf424"
+  }
+}

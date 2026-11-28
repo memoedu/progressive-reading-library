@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=169",
+  "title": "文本输入框 <input> CSS 简述",
+  "original": {
+    "path": "原稿/8c80a61f14445453aebed70d/5be3008ac73e43ac7f15d8f2da2acd9b0166d11df391430138a519573482c2da.md",
+    "sha256": "5be3008ac73e43ac7f15d8f2da2acd9b0166d11df391430138a519573482c2da"
+  }
+}

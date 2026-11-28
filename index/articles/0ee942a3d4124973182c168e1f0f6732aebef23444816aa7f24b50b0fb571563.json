@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=9",
+  "title": "线性回归模型（Linear Regression）",
+  "original": {
+    "path": "原稿/0ee942a3d4124973182c168e/5fbb81f162da5f7ebfb66b5226830d12b61efb07dc254bf5aa3208019339ef6d.md",
+    "sha256": "5fbb81f162da5f7ebfb66b5226830d12b61efb07dc254bf5aa3208019339ef6d"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=293",
+  "title": "使用 certbot 客户端来完成免费 SSL 证书的部署！",
+  "original": {
+    "path": "原稿/5d828ce5366076756df614ef/dfa80461a06a2aa2ed498a33870f532301155964eae49737a5048db6eae93f4d.md",
+    "sha256": "dfa80461a06a2aa2ed498a33870f532301155964eae49737a5048db6eae93f4d"
+  }
+}

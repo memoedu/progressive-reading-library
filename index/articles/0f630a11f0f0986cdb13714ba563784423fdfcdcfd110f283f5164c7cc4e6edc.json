@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/28296634968",
+  "title": "写知乎半年：思维后隐藏的工作流的优化",
+  "original": {
+    "path": "原稿/0f630a11f0f0986cdb13714b/c1b975e3166cb38d612f06bcf3154e93c791dd050e20c0765b040201f92317b9.md",
+    "sha256": "c1b975e3166cb38d612f06bcf3154e93c791dd050e20c0765b040201f92317b9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0f630a11f0f0986cdb13714b/reading-21ea50d5a5e286c7b112a543fc3b2aebefea1e38f9526cfb6c1848b2fda9ba78.md",
+      "sha256": "21ea50d5a5e286c7b112a543fc3b2aebefea1e38f9526cfb6c1848b2fda9ba78",
+      "original_sha256": "c1b975e3166cb38d612f06bcf3154e93c791dd050e20c0765b040201f92317b9",
+      "processing_sha256": "e9bc585be32d939d325c5954f0e9707c06450bed8c009ec07fe15e866f00dd69",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=150",
+  "title": "因果推理 Causal Inference",
+  "original": {
+    "path": "原稿/6f1f9a0a34a65953642b9f3d/8be1c652e3e0a190b737cd9a4c288a59f05bef6522bfbe50ea79156733cf58a3.md",
+    "sha256": "8be1c652e3e0a190b737cd9a4c288a59f05bef6522bfbe50ea79156733cf58a3"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2018/12/04/25-thinking-tools",
+  "title": "Twenty-Five Useful Thinking Tools - Scott H Young",
+  "original": {
+    "path": "原稿/f9795cb16ef9553e7871bb9d/c01c6609ba6774101a1ea00c2cc86a502ff9b2007da7bc0979ad04a3bc8e6f31.md",
+    "sha256": "c01c6609ba6774101a1ea00c2cc86a502ff9b2007da7bc0979ad04a3bc8e6f31"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f9795cb16ef9553e7871bb9d/reading-bc7c59058b9f7a281cb77c31ac4ce9034c49aba793a7ea9a2090acaac92d6233.md",
+      "sha256": "bc7c59058b9f7a281cb77c31ac4ce9034c49aba793a7ea9a2090acaac92d6233",
+      "original_sha256": "c01c6609ba6774101a1ea00c2cc86a502ff9b2007da7bc0979ad04a3bc8e6f31",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

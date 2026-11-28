@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=50",
+  "title": "alphaTex简易教程",
+  "original": {
+    "path": "原稿/5f55e220298b97518d05c7ce/0e9915f8625d2d83645f1947a0f4396572eb39402532b29a8b11176ca82b89f1.md",
+    "sha256": "0e9915f8625d2d83645f1947a0f4396572eb39402532b29a8b11176ca82b89f1"
+  }
+}

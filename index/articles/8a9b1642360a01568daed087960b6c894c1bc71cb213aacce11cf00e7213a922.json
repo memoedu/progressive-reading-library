@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=251",
+  "title": "高级计算机网络——高效的动态拥塞窗口调整算法BBR",
+  "original": {
+    "path": "原稿/8a9b1642360a01568daed087/ab8f4cb9b4f8f8fa70c8574053a59325d574df259b22c7fb4d8880f04186f96a.md",
+    "sha256": "ab8f4cb9b4f8f8fa70c8574053a59325d574df259b22c7fb4d8880f04186f96a"
+  }
+}

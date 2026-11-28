@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=128",
+  "title": "如何优雅地在 pytorch 中生成多组多元正态分布",
+  "original": {
+    "path": "原稿/4fa805d24e182fd90fce3761/9037bb8333a62d4149ff4991ed54fd4815a9af54f08dee562ffd9737849f5f55.md",
+    "sha256": "9037bb8333a62d4149ff4991ed54fd4815a9af54f08dee562ffd9737849f5f55"
+  }
+}

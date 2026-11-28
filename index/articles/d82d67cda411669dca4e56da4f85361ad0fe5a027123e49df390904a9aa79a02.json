@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 40 Asking for help — Neel Nanda--浏览器加工--d82d67cda4.md",
     "sha256": "009be46252dfa83e8fee1ed9a52fec94cddb21ef1917a055c3ef95e5081583c0"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/d82d67cda411669dca4e56da/b45ed684c42d3ffcfa353a04381624bc6c94d2463ea20617cd4758680ffc3377.md",
+      "sha256": "b45ed684c42d3ffcfa353a04381624bc6c94d2463ea20617cd4758680ffc3377"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/d82d67cda411669dca4e56da/reading-fb287b17b13cd7d44e69d53b40dee546c83ec80ef82061364034e75b8605f2f1.md",
+      "sha256": "fb287b17b13cd7d44e69d53b40dee546c83ec80ef82061364034e75b8605f2f1",
+      "original_sha256": "b45ed684c42d3ffcfa353a04381624bc6c94d2463ea20617cd4758680ffc3377",
+      "processing_sha256": "04ac4c21e962fed4b85049bee54eca5b5a945ff650d0c943b5a94a6b6cd5c6d5",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
 }

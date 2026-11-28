@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=270",
+  "title": "在 vscode 上编辑你的专辑信息——扩展开发练习 Mp3 Meta Editor",
+  "original": {
+    "path": "原稿/1f3fea2d75afc90e6bc81820/8724b60f9b69fb978ec2a4e5163945ac9dcd53738bf1c0cdf3e76cbcee96075a.md",
+    "sha256": "8724b60f9b69fb978ec2a4e5163945ac9dcd53738bf1c0cdf3e76cbcee96075a"
+  }
+}

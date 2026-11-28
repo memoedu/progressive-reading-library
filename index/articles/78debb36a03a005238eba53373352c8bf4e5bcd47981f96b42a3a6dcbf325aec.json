@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=32",
+  "title": "如何优雅地在没有DOM的情况下使用wavedrom导出SVG图片",
+  "original": {
+    "path": "原稿/78debb36a03a005238eba533/2080312b958bc7331f09bd084e6e243c51f4473c38270ad1b25a56fb93191777.md",
+    "sha256": "2080312b958bc7331f09bd084e6e243c51f4473c38270ad1b25a56fb93191777"
+  }
+}

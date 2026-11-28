@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=325",
+  "title": "大模型调用 MCP 工具 (function calling) 的两种基本方法和原理",
+  "original": {
+    "path": "原稿/820f6cba58fc4f910f9020c5/2c1a2eb61221b1974c1defc70cf8b1ad601e4ba62c923743a9701e0c5ff29363.md",
+    "sha256": "2c1a2eb61221b1974c1defc70cf8b1ad601e4ba62c923743a9701e0c5ff29363"
+  }
+}

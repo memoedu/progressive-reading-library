@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=177",
+  "title": "取消ctrl+鼠标滚轮缩放屏幕——鼠标滚轮与WheelEvent",
+  "original": {
+    "path": "原稿/a52358ebc28fe2e4bacdb924/60507b4635df69531cd6f3c72709d721546ab000a61baa0e48fd96fc1319cb5c.md",
+    "sha256": "60507b4635df69531cd6f3c72709d721546ab000a61baa0e48fd96fc1319cb5c"
+  }
+}

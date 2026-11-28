@@ -5,5 +5,11 @@
   "original": {
     "path": "订阅/GitHub仓库/Thoughts Memo 翻译合集/other/一位数学家的哀歌--浏览器加工--0b0dd652a8.md",
     "sha256": "2e6456ff05754db04c380aa00d003ebf5a615e3989ecf12e0c459e35bd616c38"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/0b0dd652a8f395d07281fc11/d0b60a62f31ee7f912c237674977f78e1a8099e7896c94515bb16858e09a39b2.md",
+      "sha256": "d0b60a62f31ee7f912c237674977f78e1a8099e7896c94515bb16858e09a39b2"
+    }
+  ]
 }

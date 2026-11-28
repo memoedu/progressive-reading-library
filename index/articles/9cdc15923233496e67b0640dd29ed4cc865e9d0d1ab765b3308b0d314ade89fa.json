@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=378",
+  "title": "不会自动爬取电商数据？厌倦了手动填写表单？OpenCLI + AI 智能体瞬间实现浏览器自动化！",
+  "original": {
+    "path": "原稿/9cdc15923233496e67b0640d/aba026f3e762dc8db04a12412b5a0e11ea7de0f484cba9dd32b75ebcc8e7cb7f.md",
+    "sha256": "aba026f3e762dc8db04a12412b5a0e11ea7de0f484cba9dd32b75ebcc8e7cb7f"
+  }
+}

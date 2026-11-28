@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=22",
+  "title": "Faster-RCNN和YOLOv5的反恐精英警匪识别对比实验",
+  "original": {
+    "path": "原稿/311b0aee00ee17ef2789c8d1/1b70aa349c4dcbb267665ddaf034bab7bcf0206ec13d5610da70f78d78ef9c7c.md",
+    "sha256": "1b70aa349c4dcbb267665ddaf034bab7bcf0206ec13d5610da70f78d78ef9c7c"
+  }
+}

@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 45 Simplify EA Pitches to “Holy Shit, X-Risk” — Neel Nanda--浏览器加工--ca4eaee431.md",
     "sha256": "b48305f76aa8d936aad85c749a1b77111670f3e0fd3ac0ef7a025edbc5a21ea0"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/ca4eaee431c95b5b687d3c47/98b60eded56d0dbcef4440914b7c8319dd49d8ec2561aa26d934622113b716c9.md",
+      "sha256": "98b60eded56d0dbcef4440914b7c8319dd49d8ec2561aa26d934622113b716c9"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/ca4eaee431c95b5b687d3c47/reading-6870cfd43c8e6be4c6ef1735aaaf2c834a73a65efdc4a4dbc7a78378c4964ca8.md",
+      "sha256": "6870cfd43c8e6be4c6ef1735aaaf2c834a73a65efdc4a4dbc7a78378c4964ca8",
+      "original_sha256": "98b60eded56d0dbcef4440914b7c8319dd49d8ec2561aa26d934622113b716c9",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

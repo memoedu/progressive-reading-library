@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=208",
+  "title": "webgl2教程（二）着色器程序、缓冲区与数组绘制",
+  "original": {
+    "path": "原稿/e899c6186213d883ce90b6c4/09402f256974605b14fbbada602c865aa5f633483ce9c9f093d310c32c42bfdf.md",
+    "sha256": "09402f256974605b14fbbada602c865aa5f633483ce9c9f093d310c32c42bfdf"
+  }
+}

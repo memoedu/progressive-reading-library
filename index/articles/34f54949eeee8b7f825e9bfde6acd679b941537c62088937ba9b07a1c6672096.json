@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=180",
+  "title": "恢复浏览器默认的标准输出——console.log",
+  "original": {
+    "path": "原稿/34f54949eeee8b7f825e9bfd/1563ad362190618122e2bdfe885ed08a5290b9fc08974c39e2a9330dd9e76946.md",
+    "sha256": "1563ad362190618122e2bdfe885ed08a5290b9fc08974c39e2a9330dd9e76946"
+  }
+}

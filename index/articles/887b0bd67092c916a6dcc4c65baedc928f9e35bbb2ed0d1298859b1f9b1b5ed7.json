@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=131",
+  "title": "vuejs/reactjs 中动态异步装载 CDN 库代码",
+  "original": {
+    "path": "原稿/887b0bd67092c916a6dcc4c6/2583645576a41d46eb55141e23690725e969511db1fee0f4d5161eb553f1f493.md",
+    "sha256": "2583645576a41d46eb55141e23690725e969511db1fee0f4d5161eb553f1f493"
+  }
+}

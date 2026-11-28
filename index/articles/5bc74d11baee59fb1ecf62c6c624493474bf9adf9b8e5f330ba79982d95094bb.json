@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1955952667529545081/answer/1997760379216999507",
+  "title": "认知水平高的人有什么特征？ - 星雨月虹 的回答",
+  "original": {
+    "path": "原稿/5bc74d11baee59fb1ecf62c6/ffbad6cfe2586057ff463ed2df67403f306ac8a29e6a2e5c87a0018823150939.md",
+    "sha256": "ffbad6cfe2586057ff463ed2df67403f306ac8a29e6a2e5c87a0018823150939"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5bc74d11baee59fb1ecf62c6/reading-08b0a90a7a20f4f445c76e595b9b0b237776d443adeaba74d032898b2fee164c.md",
+      "sha256": "08b0a90a7a20f4f445c76e595b9b0b237776d443adeaba74d032898b2fee164c",
+      "original_sha256": "ffbad6cfe2586057ff463ed2df67403f306ac8a29e6a2e5c87a0018823150939",
+      "processing_sha256": "f7065c9bd3eda3dac417ad4c1ec0716a186a4c1dcc683cb25d8826f69f44efb5",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

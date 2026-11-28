@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=77",
+  "title": "ChatRWKV部署流程",
+  "original": {
+    "path": "原稿/12c8e110484f51cc4acfe5ac/db840e55bc8a0551f3290fe3d1a0b4977ed1852aaa14b5fd3619cfaea78c44b4.md",
+    "sha256": "db840e55bc8a0551f3290fe3d1a0b4977ed1852aaa14b5fd3619cfaea78c44b4"
+  }
+}

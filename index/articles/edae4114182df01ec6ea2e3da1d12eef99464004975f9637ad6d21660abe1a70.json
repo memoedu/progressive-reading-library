@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=280",
+  "title": "MongoDB 安装与 Java 中的使用",
+  "original": {
+    "path": "原稿/edae4114182df01ec6ea2e3d/de6dc7a1b96383af20d80c22486cd023608e97bda3f63251c61e0e9529ac3882.md",
+    "sha256": "de6dc7a1b96383af20d80c22486cd023608e97bda3f63251c61e0e9529ac3882"
+  }
+}

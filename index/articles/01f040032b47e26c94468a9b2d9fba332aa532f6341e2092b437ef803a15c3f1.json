@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=239",
+  "title": "stm32学习（一） Keil5开发环境与两种开发模式",
+  "original": {
+    "path": "原稿/01f040032b47e26c94468a9b/8bef47ecf159923d15bf5e11625200ba528433aedf2c61f76981f7d07a82b66f.md",
+    "sha256": "8bef47ecf159923d15bf5e11625200ba528433aedf2c61f76981f7d07a82b66f"
+  }
+}

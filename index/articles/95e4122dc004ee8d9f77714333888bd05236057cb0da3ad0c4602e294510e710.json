@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=296",
+  "title": "通过 wasm-strip 减小 wasm 大小",
+  "original": {
+    "path": "原稿/95e4122dc004ee8d9f777143/46235321b92ec80e35fea4e7540120727969fb0f069acacf97f1dcca08012952.md",
+    "sha256": "46235321b92ec80e35fea4e7540120727969fb0f069acacf97f1dcca08012952"
+  }
+}

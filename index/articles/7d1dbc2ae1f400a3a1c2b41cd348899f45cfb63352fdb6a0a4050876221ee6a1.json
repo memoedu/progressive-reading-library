@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=142",
+  "title": "基于均值漂移法 Mean Shift 的图像分割——原理与代码实现",
+  "original": {
+    "path": "原稿/7d1dbc2ae1f400a3a1c2b41c/8f698bd9454862baa776809c1911d2cf51584f5edfc5eaa249070456b5eb409e.md",
+    "sha256": "8f698bd9454862baa776809c1911d2cf51584f5edfc5eaa249070456b5eb409e"
+  }
+}

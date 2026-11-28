@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 50 Good Research Takes are Not Sufficient for Good Strategic Takes — Neel Nanda--浏览器加工--403a41aaf0.md",
     "sha256": "08d73ba70298e93f69d19786bad6f73c89170ab9e80cf869b3c3f8d7bb9bbd46"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/403a41aaf033ccbd63c033fc/96876c33f864b304d11df4c376c0b3424dc0a7d42364cf837ad3ed9b163442bd.md",
+      "sha256": "96876c33f864b304d11df4c376c0b3424dc0a7d42364cf837ad3ed9b163442bd"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/403a41aaf033ccbd63c033fc/reading-c3e4e57cc1e2b662c40d3b9704a040929697c290f532ffec8baa0c87b4ffbe42.md",
+      "sha256": "c3e4e57cc1e2b662c40d3b9704a040929697c290f532ffec8baa0c87b4ffbe42",
+      "original_sha256": "96876c33f864b304d11df4c376c0b3424dc0a7d42364cf837ad3ed9b163442bd",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
 }

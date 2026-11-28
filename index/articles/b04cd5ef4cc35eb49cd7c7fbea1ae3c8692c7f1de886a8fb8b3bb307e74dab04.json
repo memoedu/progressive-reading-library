@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=235",
+  "title": "基于 Lagrange.Core 的 QQ 机器人框架 Lagrange.onebot",
+  "original": {
+    "path": "原稿/b04cd5ef4cc35eb49cd7c7fb/31f669f986bbd8eb6156e04c4e2390351b33ca6f2950463cebd888dc3f0d5b39.md",
+    "sha256": "31f669f986bbd8eb6156e04c4e2390351b33ca6f2950463cebd888dc3f0d5b39"
+  }
+}

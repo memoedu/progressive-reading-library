@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=266",
+  "title": "stm32学习（四）OLED 屏幕使用",
+  "original": {
+    "path": "原稿/2de43f816976f8565a395c48/9fd6a75ae39e58ef18fd03eb19e12b3e3b6438c948a57ca616bdc9ca89aed88e.md",
+    "sha256": "9fd6a75ae39e58ef18fd03eb19e12b3e3b6438c948a57ca616bdc9ca89aed88e"
+  }
+}

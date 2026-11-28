@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=250",
+  "title": "高级计算机网络——多通道 TCP 传输 MPTCP原理",
+  "original": {
+    "path": "原稿/f7bc8b2384e4d6524b3454c2/9df74e7cfe0f8a7e881978fef68111202c68e04cc28e28509267ded96548f222.md",
+    "sha256": "9df74e7cfe0f8a7e881978fef68111202c68e04cc28e28509267ded96548f222"
+  }
+}

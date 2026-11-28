@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=215",
+  "title": "Vue3 + TypeScript 基础开发规范",
+  "original": {
+    "path": "原稿/7c81eaee40fc680c9e1b9cb0/49d8ef3ed8416b0b6daabf06a6600448c77bb0d2ce8e6e2d6d01078ff0e14658.md",
+    "sha256": "49d8ef3ed8416b0b6daabf06a6600448c77bb0d2ce8e6e2d6d01078ff0e14658"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/11/03/book-recommendation-life-in-perspective",
+  "title": "Book Recommendation: Life in Perspective - Scott H Young",
+  "original": {
+    "path": "原稿/ee8784f420b3a52e4be49c53/7a344d9f32e1a65e74acc81cef078449ad0256773fddee291bf8a78443c85164.md",
+    "sha256": "7a344d9f32e1a65e74acc81cef078449ad0256773fddee291bf8a78443c85164"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ee8784f420b3a52e4be49c53/reading-a8ec482f5c5de1b9aaca82f7b7f655c6ab3b291749b0a192d313fc87110eaeab.md",
+      "sha256": "a8ec482f5c5de1b9aaca82f7b7f655c6ab3b291749b0a192d313fc87110eaeab",
+      "original_sha256": "7a344d9f32e1a65e74acc81cef078449ad0256773fddee291bf8a78443c85164",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

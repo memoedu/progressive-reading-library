@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=205",
+  "title": "Webpack 打包优化",
+  "original": {
+    "path": "原稿/7e0a261363e209e11b49bc51/45deb4f7c8bd31014af743cc7883e0ea70cd7d5a6eb6d65531f584a84277bdc8.md",
+    "sha256": "45deb4f7c8bd31014af743cc7883e0ea70cd7d5a6eb6d65531f584a84277bdc8"
+  }
+}

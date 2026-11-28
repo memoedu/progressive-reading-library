@@ -1,0 +1,311 @@
+-   -   Tweets
+    -   Top Tweets
+    -   Tweets and replies
+    -   Promoted
+    
+    Impressions
+    
+    Engagements
+    
+    Engagement rate
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Oct 26](https://twitter.com/gwern/status/1585234955525050373) You're either cool enough to have a job that will send you or cool enough to not have a job, sorry, I don't make the rules.
+        
+        12,281
+        
+        1,050
+        
+        8.5%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 5](https://twitter.com/gwern/status/1588908213696573441) I always wonder how much foreigners, especially ones in highly autocratic & censored countries like China/Russia, are misled by media coverage of DC/SF to massively underestimate US wealth & capability because they don't understand it is driven by internal politics + openness.
+        
+        9,994
+        
+        316
+        
+        3.2%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 14](https://twitter.com/gwern/status/1592177139138584577) This point makes little sense to me. I should stop worrying about asteroids, AGI, global pandemic, or a few decisionmakers blowing up (the world, not a financial firm) because... I didn't see an Excel spreadsheet backdoor? If it's not apples/oranges, shouldn't that be opposite?
+        
+        9,959
+        
+        384
+        
+        3.9%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Oct 25](https://twitter.com/gwern/status/1584779306429198338) (Look, I'm not saying terminology merits all the bikeshedding it inevitably receives; just that your life is now quantifiably better because I went with "the scaling hypothesis" instead of the alternatives like "the big blob of compute" or "one chonky is all you need".)
+        
+        8,554
+        
+        363
+        
+        4.2%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 9](https://twitter.com/gwern/status/1590521619218243584) Is there really anyone? I would have assumed that [@**ftxfuturefund**](https://twitter.com/ftxfuturefund) had been only promising grants for money they had in the bank from SBF, and that even SBF going to zero would simply mean that they'd spend down their existing endowment (whatever that is) and wind down.
+        
+        8,330
+        
+        261
+        
+        3.1%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        8,253
+        
+        346
+        
+        4.2%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 10](https://twitter.com/gwern/status/1590748735143018496) I don't know who needs to hear this, but if your beloved has 'breath like wine' and 'eyes like the sun', you should probably not kiss her lips but rush her to the emergency room, as her chronic alcoholism has led to end-stage liver disease.
+        
+        8,116
+        
+        79
+        
+        1.0%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 2](https://twitter.com/gwern/status/1587864818626838528) They're just adult kids trying to enforce kid candy norms against the parental cartel exacting horrendous levels of confiscatory candy taxation. Increase the consumer surplus!
+        
+        8,096
+        
+        138
+        
+        1.7%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 13](https://twitter.com/gwern/status/1591945847138586624) \[flashes back to several nasty bugs, particularly in the shell, where changing the name of the function changes its behavior, for a variety of reasons such as bypassing a \*different\* function in the call path or namespace\]
+        
+        7,510
+        
+        123
+        
+        1.6%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 1](https://twitter.com/gwern/status/1587489201079160833) (Is that actually true? I feel like every time someone posts a chihuahua/muffin-type image, it always turns out to only fool a 2014 model or not even real in the first place.)
+        
+        7,457
+        
+        279
+        
+        3.7%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        7,403
+        
+        67
+        
+        0.9%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 8](https://twitter.com/gwern/status/1589984728433639424) Meh: 66 times fewer self-selected people rather than population registry, a weaker IQ test (a quick survey Raven's rather than full-scale draft IQ test), and trading records in a single bull market (everything↑) rather than across a bubble where choices matter most (↑↓↑).
+        
+        7,322
+        
+        199
+        
+        2.7%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 6](https://twitter.com/gwern/status/1589375052822167552) Wonder if it's real? China has a huge problem with fake antiques, and 'private collection' doesn't foster confidence.
+        
+        7,291
+        
+        103
+        
+        1.4%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 15](https://twitter.com/gwern/status/1592723598757986304) I'll give the same reason I gave the last dozen people to suggest this: because those very intelligent dog breeds are \*also\* the ones which are most destructive and neurotic when living in typical urban/suburban conditions. If anything, we should be breeding (even) dumber ones.
+        
+        7,033
+        
+        222
+        
+        3.2%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        6,623
+        
+        550
+        
+        8.3%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        6,135
+        
+        210
+        
+        3.4%
+        
+        View Tweet activity
+        
+    
+-   -   6,109
+        
+        275
+        
+        4.5%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        5,913
+        
+        308
+        
+        5.2%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Nov 11](https://twitter.com/gwern/status/1591081541207093248) This is fake, you know, I don't see it anywhere in [@**Chiquita**](https://twitter.com/Chiquita)'s tweets. But given the scholarly rigor applied to, say, Tay and Cambridge Analytica, I look forward to seeing this and other screenshots for the rest of my life as conventional wisdom in papers about Musk/Twitter...
+        
+        5,892
+        
+        342
+        
+        5.8%
+        
+        View Tweet activity
+        
+    
+-   -   [![](<data:image/svg+xml,\<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"\>\<rect fill-opacity="0"/\>\</svg\>>)](https://twitter.com/gwern)
+        
+        [𝔊𝔴𝔢𝔯𝔫 @gwern](https://twitter.com/gwern) [Oct 31](https://twitter.com/gwern/status/1587237976727248896) "Whether it's the 1980s with 𝘙𝘢𝘯𝘮𝘢 ½ or the 1990s with 𝘛𝘩𝘦 𝘔𝘢𝘵𝘳𝘪𝘹 or the 2010s with 𝘔𝘺 𝘓𝘪𝘵𝘵𝘭𝘦 𝘗𝘰𝘯𝘺: 𝘍𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱 𝘐𝘴 𝘔𝘢𝘨𝘪𝘤, shy nerdy boys want only one thing—and it's 𝗱𝗶𝘀𝗴𝘂𝘀𝘁𝗶𝗻𝗴."
+        
+        5,686
+        
+        101
+        
+        1.8%
+        
+        View Tweet activity
+        
+    
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAUCAYAAAB4d5a9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoyNEZBNEEzMDUwMjA2ODExODA4MzhBNjQwRjU1RjU4NSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo4OTc3MzJGQTIyRjExMUUzOEVDQUVCRTg3Q0NDMjM1QSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo4OTc3MzJGOTIyRjExMUUzOEVDQUVCRTg3Q0NDMjM1QSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NjYxOEM3RTE1NjIwNjgxMTgyMkFGRjUzMUQ2MjM5MEEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MjRGQTRBMzA1MDIwNjgxMTgwODM4QTY0MEY1NUY1ODUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4v82KmAAABOklEQVR42rSVTw7BQBTGq7HnCGVnReIAuAEnoDfgBPQGnEBvgBOoPVEbVsQNzA14L/leUpOpaakv+RLtTP36/sxraX++OiSPfHfyaUSe4lnRmhy0G/WYLw6XG+9RJUBW5B15nhGwBMQkRY7IXVzXBPLEDYZMLIA+Xsomhi3IFVdbGJO3Wgp0DTNGW0U6T65hkcM8kmfYaIokq3yqT+gmCmZ6i0ci/62cjcENEPIPgQTIYVoXLRHd0/lCAuFCxs6f5CbS0y34vyMdEv4hgFiHBAWna01FVzqEb/QKjGhjqonMr1EBgLu0rgkSJ4v1g/y07hINfgTNKYrIBpHa+IYpYO0mAkw+nRPTBPVynole2mIZA09hNjVxKL2cM2r2aUMZgOkXJ/7tK2iDRLC0cCcFqNCBGwAyf65fAgwAVthOyvVUh34AAAAASUVORK5CYII=)
+
+##### Engagements
+
+Showing 28 days with daily frequency
+
+Engagement rate
+
+2.9%
+
+Nov 18
+
+1.2% engagement rate
+
+Link clicks
+
+3.4K
+
+Nov 18
+
+2 link clicks
+
+On average, you earned **120 link clicks** per day
+
+Retweets without comments
+
+1
+
+Nov 18
+
+0 Retweets without comments
+
+On average, you earned **0 Retweets without comments** per day
+
+Likes
+
+5.1K
+
+Nov 18
+
+4 likes
+
+On average, you earned **183 likes** per day
+
+Replies
+
+334
+
+Nov 18
+
+1 reply
+
+On average, you earned **12 replies** per day

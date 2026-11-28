@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=102",
+  "title": "Linux无痛升级glibc",
+  "original": {
+    "path": "原稿/38cafb98928361635c934f24/341e76cae4d09b057464714fde7b211316621706f2123816c603d2de06bc6c2b.md",
+    "sha256": "341e76cae4d09b057464714fde7b211316621706f2123816c603d2de06bc6c2b"
+  }
+}

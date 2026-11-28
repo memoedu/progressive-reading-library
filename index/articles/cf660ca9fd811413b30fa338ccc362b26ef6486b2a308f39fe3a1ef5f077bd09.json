@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2019/02/01/reason",
+  "title": "Unraveling the Enigma of Reason - Scott H Young",
+  "original": {
+    "path": "原稿/cf660ca9fd811413b30fa338/9d50eee9a9f6efcb62deb671e5e854ed3d204af5424cd8d664c03efd177ea4e4.md",
+    "sha256": "9d50eee9a9f6efcb62deb671e5e854ed3d204af5424cd8d664c03efd177ea4e4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cf660ca9fd811413b30fa338/reading-aae4f64d84ef7c7893c9ba527b70cc43cf43d3f400dbb38fe43b6a7824f7a05b.md",
+      "sha256": "aae4f64d84ef7c7893c9ba527b70cc43cf43d3f400dbb38fe43b6a7824f7a05b",
+      "original_sha256": "9d50eee9a9f6efcb62deb671e5e854ed3d204af5424cd8d664c03efd177ea4e4",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

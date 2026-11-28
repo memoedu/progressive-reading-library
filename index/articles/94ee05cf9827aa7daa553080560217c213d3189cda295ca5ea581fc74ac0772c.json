@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=227",
+  "title": "JavaScript 使用生成器实现 await",
+  "original": {
+    "path": "原稿/94ee05cf9827aa7daa553080/f89a700c5ea9bdb6cb4c97885fab9916e3124921d1cf8e2ad81503bfc635259c.md",
+    "sha256": "f89a700c5ea9bdb6cb4c97885fab9916e3124921d1cf8e2ad81503bfc635259c"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=159",
+  "title": "深度学习实验数据管理与可视化平台 wandb",
+  "original": {
+    "path": "原稿/759e564668c111242f21c2c3/03e26d8bacca79f6e49fe803c3af46b9630c83fe687f214129a93dce121d5b73.md",
+    "sha256": "03e26d8bacca79f6e49fe803c3af46b9630c83fe687f214129a93dce121d5b73"
+  }
+}

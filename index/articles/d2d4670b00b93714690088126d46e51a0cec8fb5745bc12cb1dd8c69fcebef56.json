@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=80",
+  "title": "使用pydub进行自适应音频响度增益",
+  "original": {
+    "path": "原稿/d2d4670b00b9371469008812/db0d6c65ce78fde7554e78199ee7d31f4059ae9b115a81db42228f2b3731c644.md",
+    "sha256": "db0d6c65ce78fde7554e78199ee7d31f4059ae9b115a81db42228f2b3731c644"
+  }
+}

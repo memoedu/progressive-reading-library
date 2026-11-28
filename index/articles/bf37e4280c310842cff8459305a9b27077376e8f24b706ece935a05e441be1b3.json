@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=196",
+  "title": "常用包管理器的镜像源（pip npm apt）",
+  "original": {
+    "path": "原稿/bf37e4280c310842cff84593/602cf4f4718d5d0559aebbccdc7ca5274f1445de92b0f3afdfbebfb140874f77.md",
+    "sha256": "602cf4f4718d5d0559aebbccdc7ca5274f1445de92b0f3afdfbebfb140874f77"
+  }
+}

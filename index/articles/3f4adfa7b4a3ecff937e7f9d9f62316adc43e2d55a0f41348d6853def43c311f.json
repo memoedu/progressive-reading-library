@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 42 When You Already Know the Answer — Neel Nanda--浏览器加工--3f4adfa7b4.md",
     "sha256": "262d5a69c452e2b7f779de74a8239afb2f006dcba1b03e7de15c634c855f36fa"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/3f4adfa7b4a3ecff937e7f9d/88dadaef69900423b5100416c562300adc8191425f341a9cda1ace6507deb292.md",
+      "sha256": "88dadaef69900423b5100416c562300adc8191425f341a9cda1ace6507deb292"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/3f4adfa7b4a3ecff937e7f9d/reading-606fd88479153f65b5bbe9fb5a8ae7320570f0f1583f44c643c9e1adf81a371e.md",
+      "sha256": "606fd88479153f65b5bbe9fb5a8ae7320570f0f1583f44c643c9e1adf81a371e",
+      "original_sha256": "88dadaef69900423b5100416c562300adc8191425f341a9cda1ace6507deb292",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

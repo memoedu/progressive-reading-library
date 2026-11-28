@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=286",
+  "title": "wasmtime-wasi 在 Rust 中执行 Wasi 协议的 wasm",
+  "original": {
+    "path": "原稿/8934b7f88972d6836e6dd8db/8469696d86f034a9cf526335f1eae3c08e84504f00d74704f9fec005a005f9cc.md",
+    "sha256": "8469696d86f034a9cf526335f1eae3c08e84504f00d74704f9fec005a005f9cc"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=223",
+  "title": "基于LL文法的增量解析器生成框架 llparse",
+  "original": {
+    "path": "原稿/30239dbdae500019337d7155/32e0a0a8722ff78786fde786690c4992893d84b3af7ffe9969f8fe1cda71ef69.md",
+    "sha256": "32e0a0a8722ff78786fde786690c4992893d84b3af7ffe9969f8fe1cda71ef69"
+  }
+}

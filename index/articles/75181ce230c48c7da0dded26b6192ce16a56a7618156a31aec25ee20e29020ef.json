@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=115",
+  "title": "CT重建算法之 FBP 算法实现",
+  "original": {
+    "path": "原稿/75181ce230c48c7da0dded26/22bf20bf830c31e5d2ebb79323507084e4bdd651f0c139f66c79e356e7feafea.md",
+    "sha256": "22bf20bf830c31e5d2ebb79323507084e4bdd651f0c139f66c79e356e7feafea"
+  }
+}

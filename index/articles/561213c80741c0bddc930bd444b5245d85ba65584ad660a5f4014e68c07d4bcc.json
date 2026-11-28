@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=315",
+  "title": "vscode 和 open vsx 插件发布流程",
+  "original": {
+    "path": "原稿/561213c80741c0bddc930bd4/64fb5258bb33aa68fa97397596205ab6de9ad506295991509273901602147b5c.md",
+    "sha256": "64fb5258bb33aa68fa97397596205ab6de9ad506295991509273901602147b5c"
+  }
+}

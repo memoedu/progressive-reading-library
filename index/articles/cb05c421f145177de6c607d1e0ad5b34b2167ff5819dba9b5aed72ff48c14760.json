@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=357",
+  "title": "为什么我需要设计回流系统？openmcp reflux 用量化指标帮你让你更加了解你的 Agent 系统与 MCP",
+  "original": {
+    "path": "原稿/cb05c421f145177de6c607d1/3480b489cd214932f841b8cf7a27110f1c4f0f84faafe492c1562f458132e39c.md",
+    "sha256": "3480b489cd214932f841b8cf7a27110f1c4f0f84faafe492c1562f458132e39c"
+  }
+}

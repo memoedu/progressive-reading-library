@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://gwern.net/doc/cs/algorithm/information/compression/2010-stevesouder-forcinggzipcompression.html",
+  "title": "Velocity: Forcing Gzip Compression | High Performance Web Sites",
+  "original": {
+    "path": "原稿/a200ea18bf50c60fd1c6d124/528f184f84dd35efbe672fddfacb65f8b724ab034bc2d8fdf3c8b3b2db7e8e82.md",
+    "sha256": "528f184f84dd35efbe672fddfacb65f8b724ab034bc2d8fdf3c8b3b2db7e8e82"
+  }
+}

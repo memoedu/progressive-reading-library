@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 39 On Reflection — Neel Nanda--浏览器加工--43d664da96.md",
     "sha256": "e56b998ea5f60e8ebc62541129f000fc945d053202b84693971424b273bece4d"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/43d664da965db4145053f6e1/a7573ae6d126c10c5952578cf3240d3c72ead534afbe6214a71d2bcd1a19f1b8.md",
+      "sha256": "a7573ae6d126c10c5952578cf3240d3c72ead534afbe6214a71d2bcd1a19f1b8"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/43d664da965db4145053f6e1/reading-b744f3147ccb9f9b0fdfba59c01650cfd334883b3edd2072245a89c30ba632ba.md",
+      "sha256": "b744f3147ccb9f9b0fdfba59c01650cfd334883b3edd2072245a89c30ba632ba",
+      "original_sha256": "a7573ae6d126c10c5952578cf3240d3c72ead534afbe6214a71d2bcd1a19f1b8",
+      "processing_sha256": "70d0120f76d05a7fc89d125f239dfa3e73934351459986cd742e9014498ec8c9",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
 }

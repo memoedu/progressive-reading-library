@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2025/11/03/ai-whats-worth-learning",
+  "title": "What's Still Worth Learning in a World With AI? - Scott H Young",
+  "original": {
+    "path": "原稿/0f3e7c433525b0657471fc09/9572ae7ce1bc2cbd8f95e4634fd58b90df4956dfff56cda5b1f01a15ee5fb06e.md",
+    "sha256": "9572ae7ce1bc2cbd8f95e4634fd58b90df4956dfff56cda5b1f01a15ee5fb06e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0f3e7c433525b0657471fc09/reading-448ee16930b998d04aec6c8cdd53dcca14c01cac5a9d0f37961576beaa6f8ee1.md",
+      "sha256": "448ee16930b998d04aec6c8cdd53dcca14c01cac5a9d0f37961576beaa6f8ee1",
+      "original_sha256": "9572ae7ce1bc2cbd8f95e4634fd58b90df4956dfff56cda5b1f01a15ee5fb06e",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

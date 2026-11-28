@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=67",
+  "title": "Python调取有道词典API进行翻译",
+  "original": {
+    "path": "原稿/51c323de9969fc44ee1befa3/a87a5f9481e24c98b760e84a24f062b829252a9cfce89851837ac18d3f131538.md",
+    "sha256": "a87a5f9481e24c98b760e84a24f062b829252a9cfce89851837ac18d3f131538"
+  }
+}

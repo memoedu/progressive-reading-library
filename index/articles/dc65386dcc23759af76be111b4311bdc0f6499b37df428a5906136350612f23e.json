@@ -1,0 +1,25 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://supermemo.guru/wiki/Pleasure_of_learning",
+  "title": "Pleasure of learning - supermemo.guru",
+  "original": {
+    "path": "原稿/dc65386dcc23759af76be111/102565a692ce2b7f68a3353bbe757246ad0109540f99307cdee10ee86da68470.md",
+    "sha256": "102565a692ce2b7f68a3353bbe757246ad0109540f99307cdee10ee86da68470"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dc65386dcc23759af76be111/reading-dc8e79735cf6e671bd3ae491d2e8d50a58f68d147c4a5098ef5271d744e4a98a.md",
+      "sha256": "dc8e79735cf6e671bd3ae491d2e8d50a58f68d147c4a5098ef5271d744e4a98a",
+      "original_sha256": "102565a692ce2b7f68a3353bbe757246ad0109540f99307cdee10ee86da68470",
+      "processing_sha256": "ace8f00f09a7a6546c8803e62d1cf872e2282e557be1e7f3cf73b0d742d71993",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    },
+    {
+      "path": "加工版本/dc65386dcc23759af76be111/reading-45eec5cf2bb7620cd2c5556ae89a4eaac2cdcaaa7e5f395d101d48b05bb4764a.md",
+      "sha256": "45eec5cf2bb7620cd2c5556ae89a4eaac2cdcaaa7e5f395d101d48b05bb4764a",
+      "original_sha256": "102565a692ce2b7f68a3353bbe757246ad0109540f99307cdee10ee86da68470",
+      "processing_sha256": "ace8f00f09a7a6546c8803e62d1cf872e2282e557be1e7f3cf73b0d742d71993",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

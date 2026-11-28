@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=119",
+  "title": "假设检验与Python实现",
+  "original": {
+    "path": "原稿/442811c6f4612c3805199fc2/c76ce384dd41c839fda36e7601acc86220b449d5bb05d78ef8983313e7608247.md",
+    "sha256": "c76ce384dd41c839fda36e7601acc86220b449d5bb05d78ef8983313e7608247"
+  }
+}

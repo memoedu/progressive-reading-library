@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=312",
+  "title": "请求中 Referer 暴露导致的请求失败",
+  "original": {
+    "path": "原稿/25a34610f4e99fbeece81202/61afdeeb8860fedc97c5ac459d11a0e9eab85da62951d7fe0c3faaf22703d6ab.md",
+    "sha256": "61afdeeb8860fedc97c5ac459d11a0e9eab85da62951d7fe0c3faaf22703d6ab"
+  }
+}

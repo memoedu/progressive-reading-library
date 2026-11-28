@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=289",
+  "title": "Rust 中的过程宏 proc-macro",
+  "original": {
+    "path": "原稿/9832b54bf82a13b5c7248558/06cd27e9593a6917bff87451419bf7381a358659a564774838e89d94688feffb.md",
+    "sha256": "06cd27e9593a6917bff87451419bf7381a358659a564774838e89d94688feffb"
+  }
+}

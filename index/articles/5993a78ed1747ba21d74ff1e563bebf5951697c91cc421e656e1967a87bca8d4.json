@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=300",
+  "title": "Manus 项目结构",
+  "original": {
+    "path": "原稿/5993a78ed1747ba21d74ff1e/a35dd9be2586b7dafefb536388f250c8e8172af29f2fbd09cf789228136c2998.md",
+    "sha256": "a35dd9be2586b7dafefb536388f250c8e8172af29f2fbd09cf789228136c2998"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html",
+  "title": "How Long Contexts Fail",
+  "original": {
+    "path": "原稿/8789b486d06992c15872418a/b873fb2a152a82739763839dc243859fcbc4f10e302456f62af82cf09b795c09.md",
+    "sha256": "b873fb2a152a82739763839dc243859fcbc4f10e302456f62af82cf09b795c09"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8789b486d06992c15872418a/reading-5dcec3f6ecd1e197f0f3e77415fa36f570b5188dc03df2c7d448f968f8e508df.md",
+      "sha256": "5dcec3f6ecd1e197f0f3e77415fa36f570b5188dc03df2c7d448f968f8e508df",
+      "original_sha256": "b873fb2a152a82739763839dc243859fcbc4f10e302456f62af82cf09b795c09",
+      "processing_sha256": "07ddef63592b618c73ac2f730d35bb4d1af50445efc3e2c39921650a54887d88",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

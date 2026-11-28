@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=jhA_ZlCJCcM",
+  "title": "步入老龄化后，中国未来30年有哪些产业风口和挑战？",
+  "original": {
+    "path": "原稿/5d3d63f111fe2fb9b0a5a748/9776a4fe7aaf8a3ec532f2457ca33a0cf6f001e0da5cd416782ee1a5ee977419.md",
+    "sha256": "9776a4fe7aaf8a3ec532f2457ca33a0cf6f001e0da5cd416782ee1a5ee977419"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5d3d63f111fe2fb9b0a5a748/reading-4b4b9f8dbadceb21a74e407fc69be441204be095772b6080307984ac0e58ffd5.md",
+      "sha256": "4b4b9f8dbadceb21a74e407fc69be441204be095772b6080307984ac0e58ffd5",
+      "original_sha256": "9776a4fe7aaf8a3ec532f2457ca33a0cf6f001e0da5cd416782ee1a5ee977419",
+      "processing_sha256": "5f8c0d51c2c6c6e832891fee9eae2aa5653ecce4b383a9ce590325ccfdae5a0c",
+      "options_sha256": "fba1c4c56608108786d3c7a28977be3375f3a88b7d5cf68fea4213a51ce104c2"
+    }
+  ]
+}

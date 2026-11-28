@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Interlude 2 Podcast episode on Effective Altruism — Neel Nanda--浏览器加工--249b1d5e16.md",
     "sha256": "c5379e9911caa264a7e834049538482e2bab7a9e82c12e1cb7a09812682454eb"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/249b1d5e1620a4fdee48cbbf/74de3f2483ca8581aea6232aad92ad8ef32cb59687c0bb88b8c5600f874ef33b.md",
+      "sha256": "74de3f2483ca8581aea6232aad92ad8ef32cb59687c0bb88b8c5600f874ef33b"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/249b1d5e1620a4fdee48cbbf/reading-885920da7e77729c0bb98d0246efcff10cdc936c70ac5185fe007d3d9955dc31.md",
+      "sha256": "885920da7e77729c0bb98d0246efcff10cdc936c70ac5185fe007d3d9955dc31",
+      "original_sha256": "74de3f2483ca8581aea6232aad92ad8ef32cb59687c0bb88b8c5600f874ef33b",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

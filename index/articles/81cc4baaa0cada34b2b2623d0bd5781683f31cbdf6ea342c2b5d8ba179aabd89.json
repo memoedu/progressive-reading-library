@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1977318534276194737",
+  "title": "优先级革命：渐进阅读回来了！supermemo，你终于可以休息了。",
+  "original": {
+    "path": "原稿/81cc4baaa0cada34b2b2623d/a96058a7d5b1e5154abddc4ac401a6ed023b0e86910a48abcf835a1765b76ce0.md",
+    "sha256": "a96058a7d5b1e5154abddc4ac401a6ed023b0e86910a48abcf835a1765b76ce0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/81cc4baaa0cada34b2b2623d/reading-9dc448c099f6d339071930e178178eb8dbefc9aa29c59f02b743b591746e3ca2.md",
+      "sha256": "9dc448c099f6d339071930e178178eb8dbefc9aa29c59f02b743b591746e3ca2",
+      "original_sha256": "a96058a7d5b1e5154abddc4ac401a6ed023b0e86910a48abcf835a1765b76ce0",
+      "processing_sha256": "f7065c9bd3eda3dac417ad4c1ec0716a186a4c1dcc683cb25d8826f69f44efb5",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

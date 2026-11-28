@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=27",
+  "title": "torch.fx symbolic trace流程",
+  "original": {
+    "path": "原稿/d459b778949a7c4952d378f2/cc85c68928671455560cfe781c939dd55f22f6ad2cc8554de5b7196a0c7a9168.md",
+    "sha256": "cc85c68928671455560cfe781c939dd55f22f6ad2cc8554de5b7196a0c7a9168"
+  }
+}

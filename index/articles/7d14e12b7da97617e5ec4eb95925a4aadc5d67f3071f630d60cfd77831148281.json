@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://davidbessis.substack.com/p/attention-is-all-we-have",
+  "title": "Attention is all we have",
+  "original": {
+    "path": "原稿/7d14e12b7da97617e5ec4eb9/2da87c8f1c62ad56564ded1a89b6fd167acfe4e321749f5fc404f7d635327fcb.md",
+    "sha256": "2da87c8f1c62ad56564ded1a89b6fd167acfe4e321749f5fc404f7d635327fcb"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7d14e12b7da97617e5ec4eb9/reading-df37a513bfddec947b80aa14f89d379530d728f6487399c29fa8cf2c5725e588.md",
+      "sha256": "df37a513bfddec947b80aa14f89d379530d728f6487399c29fa8cf2c5725e588",
+      "original_sha256": "2da87c8f1c62ad56564ded1a89b6fd167acfe4e321749f5fc404f7d635327fcb",
+      "processing_sha256": "5a52241991dfff1c79559722d7844191346e56caf06060ea2710ee38aad7b9f5",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

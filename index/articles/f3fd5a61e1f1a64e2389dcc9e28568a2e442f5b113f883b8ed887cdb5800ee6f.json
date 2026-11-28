@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=209",
+  "title": "vue3 组件通信 provide 和 inject 使用与原理",
+  "original": {
+    "path": "原稿/f3fd5a61e1f1a64e2389dcc9/6ca7871d66b769233d183277c49e62a5c4e14e0f832c28f934c96023a4bfb3ee.md",
+    "sha256": "6ca7871d66b769233d183277c49e62a5c4e14e0f832c28f934c96023a4bfb3ee"
+  }
+}

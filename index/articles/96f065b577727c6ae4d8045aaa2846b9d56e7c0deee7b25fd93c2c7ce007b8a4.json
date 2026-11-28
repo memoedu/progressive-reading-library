@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=114",
+  "title": "live2d-render 0.0.1 发布——适用于 Cubism 4.0 的 Live2D Javascript渲染库",
+  "original": {
+    "path": "原稿/96f065b577727c6ae4d8045a/765242d13d247f7d5121774333aa3b1e25bd13fbaea187b0b42d8e462cdd9109.md",
+    "sha256": "765242d13d247f7d5121774333aa3b1e25bd13fbaea187b0b42d8e462cdd9109"
+  }
+}

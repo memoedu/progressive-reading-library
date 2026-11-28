@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=340",
+  "title": "OpenMCP 0.1.9 上线！这次我们更新了工具自检功能，让你能够高度定制化你的 MCP 测试流程",
+  "original": {
+    "path": "原稿/b42a4d3608f99c6bed341535/3b357a2a768126691704cae12e106411fe62dfbebfe297c3270b3e424a320e86.md",
+    "sha256": "3b357a2a768126691704cae12e106411fe62dfbebfe297c3270b3e424a320e86"
+  }
+}

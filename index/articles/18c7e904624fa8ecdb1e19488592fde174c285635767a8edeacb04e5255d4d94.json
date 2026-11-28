@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=302",
+  "title": "通过 SSH 完成端口转发",
+  "original": {
+    "path": "原稿/18c7e904624fa8ecdb1e1948/ddbbdde0448f8d476c636dc36a5f6fab6194f93138264df0cc94f60b951b0274.md",
+    "sha256": "ddbbdde0448f8d476c636dc36a5f6fab6194f93138264df0cc94f60b951b0274"
+  }
+}

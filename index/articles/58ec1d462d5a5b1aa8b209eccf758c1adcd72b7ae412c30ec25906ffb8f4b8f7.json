@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://gwern.net/doc/ai/nn/cnn/2016-goh-opennsfw.html",
+  "title": "Image Synthesis from Yahoo's open_nsfw",
+  "original": {
+    "path": "原稿/58ec1d462d5a5b1aa8b209ec/8b38eb48db630407e046a8677dd03285284aca3c1b2da59c45ca3e624c4a013c.md",
+    "sha256": "8b38eb48db630407e046a8677dd03285284aca3c1b2da59c45ca3e624c4a013c"
+  }
+}

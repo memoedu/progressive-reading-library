@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=8",
+  "title": "中文切词",
+  "original": {
+    "path": "原稿/41067b9334e9e671959a0d55/8f0baa16c583feed8fbe6390b0041ee6b9614d898bf9866e4e7afef56ff61b58.md",
+    "sha256": "8f0baa16c583feed8fbe6390b0041ee6b9614d898bf9866e4e7afef56ff61b58"
+  }
+}

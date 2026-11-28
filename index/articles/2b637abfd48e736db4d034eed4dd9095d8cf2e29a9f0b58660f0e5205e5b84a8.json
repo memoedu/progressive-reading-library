@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.buffalo.edu/research/landing-pages/insights.host.html/content/shared/www/research/venu-essays/the-future-of-assessment-is-a-thousand-years-old.detail.html",
+  "title": "Insights",
+  "original": {
+    "path": "原稿/2b637abfd48e736db4d034ee/aed4a052ec19b7aeefabe058714d6238a0035cfedcbe9d3754a07cbc91d9d7c5.md",
+    "sha256": "aed4a052ec19b7aeefabe058714d6238a0035cfedcbe9d3754a07cbc91d9d7c5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2b637abfd48e736db4d034ee/reading-d7a5ff95aa1f54155e6640a8f3f1aa94b7eb9b34c6733cf4932b25431f540cd1.md",
+      "sha256": "d7a5ff95aa1f54155e6640a8f3f1aa94b7eb9b34c6733cf4932b25431f540cd1",
+      "original_sha256": "aed4a052ec19b7aeefabe058714d6238a0035cfedcbe9d3754a07cbc91d9d7c5",
+      "processing_sha256": "51fc72691350ab7355d486ecef8fe11f088fc3b6de12af00f35d186c59a2d8ed",
+      "options_sha256": "e77e03ffd1943a3c564d667e21bf3897252cf718d0144e117bff461b40f6630a"
+    }
+  ]
+}

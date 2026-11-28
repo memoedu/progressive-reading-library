@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=354",
+  "title": "前端开发想要控制请求的调度顺序？试试写一把 JS 异步锁🔒",
+  "original": {
+    "path": "原稿/886457dcc19f5a00680c3267/ecfce2c9b5f84d6c26d16f3a83779f641585f8ec4afc6e93a053a5d703ba345a.md",
+    "sha256": "ecfce2c9b5f84d6c26d16f3a83779f641585f8ec4afc6e93a053a5d703ba345a"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1931648505082000335",
+  "title": "（二）(DA-)RSIP控制论基础的自然语言阐释与积分系统之引",
+  "original": {
+    "path": "原稿/5b19e9b745447b1e262d630c/e8116a884b3deb9fcd56ca9cb533faa793e1c31f4b484a9971502673544c0f29.md",
+    "sha256": "e8116a884b3deb9fcd56ca9cb533faa793e1c31f4b484a9971502673544c0f29"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5b19e9b745447b1e262d630c/reading-dcf90ced4c7ae0748a364a136b60542beef0582e60ad28e03c39ed1bdd9ba6aa.md",
+      "sha256": "dcf90ced4c7ae0748a364a136b60542beef0582e60ad28e03c39ed1bdd9ba6aa",
+      "original_sha256": "e8116a884b3deb9fcd56ca9cb533faa793e1c31f4b484a9971502673544c0f29",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=279",
+  "title": "go/gin 快速搭建后端服务",
+  "original": {
+    "path": "原稿/07da5e7b69a24236ae4be234/f6fbf68758335af3835eee42a80b8c065bfd3144734c858d27d25624e0dc6b2f.md",
+    "sha256": "f6fbf68758335af3835eee42a80b8c065bfd3144734c858d27d25624e0dc6b2f"
+  }
+}

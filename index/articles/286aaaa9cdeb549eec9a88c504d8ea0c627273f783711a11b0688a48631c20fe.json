@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=135",
+  "title": "neovim 多种编程语言自动补全配置",
+  "original": {
+    "path": "原稿/286aaaa9cdeb549eec9a88c5/a1c5a47c908e2191335208856fb7dda9439dde292dda28ba8ce61188db5f80a6.md",
+    "sha256": "a1c5a47c908e2191335208856fb7dda9439dde292dda28ba8ce61188db5f80a6"
+  }
+}

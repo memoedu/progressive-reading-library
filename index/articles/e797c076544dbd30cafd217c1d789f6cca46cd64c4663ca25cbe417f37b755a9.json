@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=343",
+  "title": "OpenMED: 医疗领域新的开源模型组，提供384个高质量NER模型",
+  "original": {
+    "path": "原稿/e797c076544dbd30cafd217c/5a71c5ec1d8a05b719d232533ac5a6ea2d30089dd50bfbac39b0eb68acc0dc54.md",
+    "sha256": "5a71c5ec1d8a05b719d232533ac5a6ea2d30089dd50bfbac39b0eb68acc0dc54"
+  }
+}

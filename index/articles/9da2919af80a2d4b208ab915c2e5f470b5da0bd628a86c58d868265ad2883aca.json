@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=160",
+  "title": "从信息论重新深入理解交叉熵损失",
+  "original": {
+    "path": "原稿/9da2919af80a2d4b208ab915/50a91f992b64f82bc5a263ba5c6682c27e26c0c1e25b33b8e1d2e3e6b301272d.md",
+    "sha256": "50a91f992b64f82bc5a263ba5c6682c27e26c0c1e25b33b8e1d2e3e6b301272d"
+  }
+}

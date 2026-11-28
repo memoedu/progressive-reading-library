@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=390",
+  "title": "大模型蒸馏损失函数到底选正向 KL 还是反向 KL",
+  "original": {
+    "path": "原稿/96e0867816328e2bd4750715/b5f03fba0ff6c137362902a3083565094b85d7e53ea6f5818dd937c4c6390818.md",
+    "sha256": "b5f03fba0ff6c137362902a3083565094b85d7e53ea6f5818dd937c4c6390818"
+  }
+}

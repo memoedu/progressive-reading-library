@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/05/11/utopia-now",
+  "title": "What if We’re Already Living in Utopia? - Scott H Young",
+  "original": {
+    "path": "原稿/e8d2f1a222b58a85450dbed0/fcb100c3e0a04aafd33b01de91dadcb426119086acd21e9d8e10294f152696c6.md",
+    "sha256": "fcb100c3e0a04aafd33b01de91dadcb426119086acd21e9d8e10294f152696c6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e8d2f1a222b58a85450dbed0/reading-ee52fb8dca39a97b4b2e0d2a19b9a4e42470860936fc87715719eba20ffd41a3.md",
+      "sha256": "ee52fb8dca39a97b4b2e0d2a19b9a4e42470860936fc87715719eba20ffd41a3",
+      "original_sha256": "fcb100c3e0a04aafd33b01de91dadcb426119086acd21e9d8e10294f152696c6",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

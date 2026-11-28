@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 44 What’s Stopping You — Neel Nanda--浏览器加工--eabf6e6ccf.md",
     "sha256": "27cbfaac05460d7ab59ca51741bfd8debaeafc88d43b6bca23a1e3580eaab577"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/eabf6e6ccf502dc850295aec/15e3286305395a51891fe565916ae7a22cebf4fa4e709e4969b77f67bd977fd7.md",
+      "sha256": "15e3286305395a51891fe565916ae7a22cebf4fa4e709e4969b77f67bd977fd7"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/eabf6e6ccf502dc850295aec/reading-060906980974edff3515c2f409670b53b80aca1ba863e326b2a1142f37238dd4.md",
+      "sha256": "060906980974edff3515c2f409670b53b80aca1ba863e326b2a1142f37238dd4",
+      "original_sha256": "15e3286305395a51891fe565916ae7a22cebf4fa4e709e4969b77f67bd977fd7",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

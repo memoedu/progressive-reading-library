@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=64",
+  "title": "diffusion图像去噪毕设研究日志",
+  "original": {
+    "path": "原稿/1b536b06096fe0cb2d115732/1ffc80a47a6af9da4ccc88690c04648fb8d4dbc298d672902259ee134581abdd.md",
+    "sha256": "1ffc80a47a6af9da4ccc88690c04648fb8d4dbc298d672902259ee134581abdd"
+  }
+}

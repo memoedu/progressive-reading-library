@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=139",
+  "title": "Linux 环境变量 LD_LIBRARY_PATH",
+  "original": {
+    "path": "原稿/e06ca68a12412eaa04851195/d7433a3c5e3b442a244052123babca43c479cbf68cc6b5690bd1b2e83927c06c.md",
+    "sha256": "d7433a3c5e3b442a244052123babca43c479cbf68cc6b5690bd1b2e83927c06c"
+  }
+}

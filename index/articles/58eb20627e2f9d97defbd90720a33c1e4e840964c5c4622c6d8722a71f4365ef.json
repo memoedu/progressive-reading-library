@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1932119358966044380",
+  "title": "（三）DA-RSIP的“必要自主问题”与锚（定）理论",
+  "original": {
+    "path": "原稿/58eb20627e2f9d97defbd907/7b31a7b12ad185e69ab8bcab505c522ca25e34a4a2540ab56f2d30dccb537b71.md",
+    "sha256": "7b31a7b12ad185e69ab8bcab505c522ca25e34a4a2540ab56f2d30dccb537b71"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/58eb20627e2f9d97defbd907/reading-1f51b70da81a3d1cc085a8921c4ab2f5034d708975bb193ed9cc1f3ef0177553.md",
+      "sha256": "1f51b70da81a3d1cc085a8921c4ab2f5034d708975bb193ed9cc1f3ef0177553",
+      "original_sha256": "7b31a7b12ad185e69ab8bcab505c522ca25e34a4a2540ab56f2d30dccb537b71",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

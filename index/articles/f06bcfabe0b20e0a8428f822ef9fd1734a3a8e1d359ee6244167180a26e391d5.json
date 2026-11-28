@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 41 Overcoming Helplessness — Neel Nanda--浏览器加工--f06bcfabe0.md",
     "sha256": "8360d5f76335c46d0b37638bdda332e0fe94d9a41e68b4110782c072a583860a"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/f06bcfabe0b20e0a8428f822/cd944fe082c35cd537fd2624253d1e9d60740fe3b24ca89f2f0f395bff20a1c1.md",
+      "sha256": "cd944fe082c35cd537fd2624253d1e9d60740fe3b24ca89f2f0f395bff20a1c1"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/f06bcfabe0b20e0a8428f822/reading-035dd10a6205b71e1ead1162b54c0f6595040a734355e8cac0571598fc6d5882.md",
+      "sha256": "035dd10a6205b71e1ead1162b54c0f6595040a734355e8cac0571598fc6d5882",
+      "original_sha256": "cd944fe082c35cd537fd2624253d1e9d60740fe3b24ca89f2f0f395bff20a1c1",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

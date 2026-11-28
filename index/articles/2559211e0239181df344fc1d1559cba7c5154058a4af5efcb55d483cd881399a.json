@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=230",
+  "title": "网络爬虫进阶（二）更加现代的无头浏览器 puppeteer 安装与使用",
+  "original": {
+    "path": "原稿/2559211e0239181df344fc1d/5503654c0f474ae44d9fe262afaddaed0b9ad27e46be6b32bb92b666c25055ae.md",
+    "sha256": "5503654c0f474ae44d9fe262afaddaed0b9ad27e46be6b32bb92b666c25055ae"
+  }
+}

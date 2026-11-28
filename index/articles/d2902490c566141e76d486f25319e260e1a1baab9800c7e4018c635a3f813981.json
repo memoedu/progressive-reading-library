@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=16",
+  "title": "Centos Nginx基本使用",
+  "original": {
+    "path": "原稿/d2902490c566141e76d486f2/3502a999873b90f176f3d5c2c7899d4cf153a063f73e35e679dc60148bb8a124.md",
+    "sha256": "3502a999873b90f176f3d5c2c7899d4cf153a063f73e35e679dc60148bb8a124"
+  }
+}

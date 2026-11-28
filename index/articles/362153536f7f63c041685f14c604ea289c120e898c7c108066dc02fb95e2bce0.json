@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=283",
+  "title": "typescript + express 最小例程",
+  "original": {
+    "path": "原稿/362153536f7f63c041685f14/28743489761529991f6a29064f061d24e45d567e5ce5c4041183315bf983ae32.md",
+    "sha256": "28743489761529991f6a29064f061d24e45d567e5ce5c4041183315bf983ae32"
+  }
+}

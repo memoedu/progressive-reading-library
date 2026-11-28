@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.diamandis.com/blog/the-mass-extinction-of-universities",
+  "title": "The mass extinction of universities",
+  "original": {
+    "path": "原稿/f24eb148c86f12dad683c39f/6eb695f64d7eca24049a8562556a7a037d9ac0cd902e05853649f96f6ab491f5.md",
+    "sha256": "6eb695f64d7eca24049a8562556a7a037d9ac0cd902e05853649f96f6ab491f5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f24eb148c86f12dad683c39f/reading-f7accc2f8ee1af929b067a305ff94f72d45a74a4b0541f9b94256ae399ada655.md",
+      "sha256": "f7accc2f8ee1af929b067a305ff94f72d45a74a4b0541f9b94256ae399ada655",
+      "original_sha256": "6eb695f64d7eca24049a8562556a7a037d9ac0cd902e05853649f96f6ab491f5",
+      "processing_sha256": "51fc72691350ab7355d486ecef8fe11f088fc3b6de12af00f35d186c59a2d8ed",
+      "options_sha256": "e77e03ffd1943a3c564d667e21bf3897252cf718d0144e117bff461b40f6630a"
+    }
+  ]
+}

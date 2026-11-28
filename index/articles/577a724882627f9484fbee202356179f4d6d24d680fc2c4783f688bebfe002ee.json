@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2025/12/16/the-most-underrated-productivity-technique",
+  "title": "The Most Underrated Productivity Technique - Scott H Young",
+  "original": {
+    "path": "原稿/577a724882627f9484fbee20/986468f8872ad47a42d880da04023f4a74de83623d0ee83cd6118b3b9af2339c.md",
+    "sha256": "986468f8872ad47a42d880da04023f4a74de83623d0ee83cd6118b3b9af2339c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/577a724882627f9484fbee20/reading-a6c594e3168d4680fe707aeb5e7ad8fb9b2e9b2de7823722e83398fc81a318fa.md",
+      "sha256": "a6c594e3168d4680fe707aeb5e7ad8fb9b2e9b2de7823722e83398fc81a318fa",
+      "original_sha256": "986468f8872ad47a42d880da04023f4a74de83623d0ee83cd6118b3b9af2339c",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

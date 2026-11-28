@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=24",
+  "title": "ROS基本使用",
+  "original": {
+    "path": "原稿/5bfa4f3e55241012ff732ec0/da5ffa25eee954d83a3d603aad3841eb678d0c21d0e12a59e2093b1d78bc3c0c.md",
+    "sha256": "da5ffa25eee954d83a3d603aad3841eb678d0c21d0e12a59e2093b1d78bc3c0c"
+  }
+}

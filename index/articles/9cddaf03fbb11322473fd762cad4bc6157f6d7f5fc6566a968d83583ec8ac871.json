@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/06/15/optimal-exercise",
+  "title": "What’s the Ideal Amount of Exercise? - Scott H Young",
+  "original": {
+    "path": "原稿/9cddaf03fbb11322473fd762/795090bb18abdb52b003d519c5597176e3b227e072cc4f364c33ea6f29b1b993.md",
+    "sha256": "795090bb18abdb52b003d519c5597176e3b227e072cc4f364c33ea6f29b1b993"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9cddaf03fbb11322473fd762/reading-96b54e716168ba719c507ea839c9ef7a8601c1e7cf7af5fe681dae8585825f35.md",
+      "sha256": "96b54e716168ba719c507ea839c9ef7a8601c1e7cf7af5fe681dae8585825f35",
+      "original_sha256": "795090bb18abdb52b003d519c5597176e3b227e072cc4f364c33ea6f29b1b993",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

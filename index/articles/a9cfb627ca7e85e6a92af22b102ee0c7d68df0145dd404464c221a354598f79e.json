@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=219",
+  "title": "Java Maven 基础使用",
+  "original": {
+    "path": "原稿/a9cfb627ca7e85e6a92af22b/6c974a4aa3ab81eb6cfeebee1ba5dfca0972186f86a0d0a186bdb581275a83dc.md",
+    "sha256": "6c974a4aa3ab81eb6cfeebee1ba5dfca0972186f86a0d0a186bdb581275a83dc"
+  }
+}

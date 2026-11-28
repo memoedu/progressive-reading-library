@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=154",
+  "title": "EDL（Evidential Deep Learning） 原理与代码实现",
+  "original": {
+    "path": "原稿/d79371b44cc08692604dfd0c/a4f6af61e2dfa49544419df6880a538f4792769328b41ac89bbb8a21c7244b6b.md",
+    "sha256": "a4f6af61e2dfa49544419df6880a538f4792769328b41ac89bbb8a21c7244b6b"
+  }
+}

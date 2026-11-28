@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=157",
+  "title": "基于聚类算法的 pdf 标题提取",
+  "original": {
+    "path": "原稿/f91b6764ea9141d555e970a7/782de346724361b2996aac00fa6e71b136790b50f868d613fd239d698be34f1d.md",
+    "sha256": "782de346724361b2996aac00fa6e71b136790b50f868d613fd239d698be34f1d"
+  }
+}

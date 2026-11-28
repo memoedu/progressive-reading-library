@@ -5,5 +5,20 @@
   "original": {
     "path": "原稿/e2da78fae34ed738f828cb09/99a531e4b1aa728e590daa7ea47f43f4cb731a4fadf7f1fb77cddf54545b6eb3.md",
     "sha256": "99a531e4b1aa728e590daa7ea47f43f4cb731a4fadf7f1fb77cddf54545b6eb3"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/e2da78fae34ed738f828cb09/36df19e12952f8289e69842de46d1ef1afd0643db1adce3acc10d3c86a67aa76.md",
+      "sha256": "36df19e12952f8289e69842de46d1ef1afd0643db1adce3acc10d3c86a67aa76"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/e2da78fae34ed738f828cb09/reading-e6d85e592285e13865afa6267670d71f9f6cf474a0a63b878f4decbd347a8cc4.md",
+      "sha256": "e6d85e592285e13865afa6267670d71f9f6cf474a0a63b878f4decbd347a8cc4",
+      "original_sha256": "36df19e12952f8289e69842de46d1ef1afd0643db1adce3acc10d3c86a67aa76",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
 }

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2007/07/29/what-do-you-want-to-do-with-your-life",
+  "title": "What Do You Want to Do With Your Life? - Scott H Young",
+  "original": {
+    "path": "原稿/f531f35476f7f5a011305418/5ffafc987a081a885f4a3bd2dd2bbe2b8e28c3e22a0da7ab8bbb467c65954962.md",
+    "sha256": "5ffafc987a081a885f4a3bd2dd2bbe2b8e28c3e22a0da7ab8bbb467c65954962"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f531f35476f7f5a011305418/reading-23a75b9829616c3d6d934fa9d0f613519d42dcdc1714707522fd3de35f0dff86.md",
+      "sha256": "23a75b9829616c3d6d934fa9d0f613519d42dcdc1714707522fd3de35f0dff86",
+      "original_sha256": "5ffafc987a081a885f4a3bd2dd2bbe2b8e28c3e22a0da7ab8bbb467c65954962",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

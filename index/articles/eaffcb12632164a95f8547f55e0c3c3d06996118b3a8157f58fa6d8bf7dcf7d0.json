@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/10/13/best-way-take-notes",
+  "title": "The Best Way to Take Notes - Scott H Young",
+  "original": {
+    "path": "原稿/eaffcb12632164a95f8547f5/489eb624043a418b59fd6f0fe1648442746e8b253d9bee09bfc4b56db7d0a669.md",
+    "sha256": "489eb624043a418b59fd6f0fe1648442746e8b253d9bee09bfc4b56db7d0a669"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/eaffcb12632164a95f8547f5/reading-84345b2a8ea4048a4e589ecf39148a1e558b2bcbdb639a4034405a2c1ebfe774.md",
+      "sha256": "84345b2a8ea4048a4e589ecf39148a1e558b2bcbdb639a4034405a2c1ebfe774",
+      "original_sha256": "489eb624043a418b59fd6f0fe1648442746e8b253d9bee09bfc4b56db7d0a669",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

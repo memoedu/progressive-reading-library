@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=284",
+  "title": "常用 HDL 诊断器（icarus, vivado, verible 等）的使用方法",
+  "original": {
+    "path": "原稿/fddd90bbc2011ebb8a600909/53635c224b42f1b12056da9710fabb6e48bd68ffb6c78aeb0321443563e75518.md",
+    "sha256": "53635c224b42f1b12056da9710fabb6e48bd68ffb6c78aeb0321443563e75518"
+  }
+}

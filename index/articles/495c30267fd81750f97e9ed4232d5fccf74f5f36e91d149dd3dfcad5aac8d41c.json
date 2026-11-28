@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 48 Prioritise Tasks by Rating not Sorting — Neel Nanda--浏览器加工--495c30267f.md",
     "sha256": "ce333a38cc3a6334641dad4e510b5c023f94b5b8349dc52ab871788b1b519212"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/495c30267fd81750f97e9ed4/be73577d4d6c945f06cfaf66ea4365359a54f83a13a54243124515e2ef8e0ea8.md",
+      "sha256": "be73577d4d6c945f06cfaf66ea4365359a54f83a13a54243124515e2ef8e0ea8"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/495c30267fd81750f97e9ed4/reading-edafbad7f59e408653121de4d88d5ea73c1c9b00b2584ced85229bde0b9dc983.md",
+      "sha256": "edafbad7f59e408653121de4d88d5ea73c1c9b00b2584ced85229bde0b9dc983",
+      "original_sha256": "be73577d4d6c945f06cfaf66ea4365359a54f83a13a54243124515e2ef8e0ea8",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

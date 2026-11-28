@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 51 Socratic Persuasion Giving Opinionated Yet Truth-Seeking Advice — Neel Nanda--浏览器加工--f9b380bf01.md",
     "sha256": "8135e992111ba8a2f15226b68823fb71bf068081d75d3f38a917d2532017d805"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/f9b380bf01e0607be7037310/2e66e3819b6e17cb2fb1461551cc0dbffe9c5f2fc46ad8009f886ded2b164e93.md",
+      "sha256": "2e66e3819b6e17cb2fb1461551cc0dbffe9c5f2fc46ad8009f886ded2b164e93"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/f9b380bf01e0607be7037310/reading-3500a4e946db3ecfc8675b2b169a8e13507d634a92c1dce572ca3bed2fb44079.md",
+      "sha256": "3500a4e946db3ecfc8675b2b169a8e13507d634a92c1dce572ca3bed2fb44079",
+      "original_sha256": "2e66e3819b6e17cb2fb1461551cc0dbffe9c5f2fc46ad8009f886ded2b164e93",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

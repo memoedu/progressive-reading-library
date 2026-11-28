@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2019/06/18/best-productivity",
+  "title": "The Best Articles on Productivity - Scott H Young",
+  "original": {
+    "path": "原稿/7c736410c4772c97bccdee21/47e44810bfb29def8f4e2643d377fb95e5bcf56865896c6b28a5f35f1c6c19d9.md",
+    "sha256": "47e44810bfb29def8f4e2643d377fb95e5bcf56865896c6b28a5f35f1c6c19d9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7c736410c4772c97bccdee21/reading-d457b55a7207b7a7b1019852958370cc7a84535120270b4166ef40c00bc5b0e7.md",
+      "sha256": "d457b55a7207b7a7b1019852958370cc7a84535120270b4166ef40c00bc5b0e7",
+      "original_sha256": "47e44810bfb29def8f4e2643d377fb95e5bcf56865896c6b28a5f35f1c6c19d9",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

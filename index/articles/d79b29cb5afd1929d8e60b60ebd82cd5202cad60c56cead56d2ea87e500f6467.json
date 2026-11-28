@@ -5,5 +5,11 @@
   "original": {
     "path": "订阅/GitHub仓库/Thoughts Memo 翻译合集/other/内在动机：深度解析--浏览器加工--d79b29cb5a.md",
     "sha256": "4599af7a3c93cf23cc35a63a3b49029e28e10c86b53cd3cd4c35768c9c38b776"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/d79b29cb5afd1929d8e60b60/701765dafe5bcee6cd27b2f0263804cfb0e4b5342b466bc9f264ef0101c5e29d.md",
+      "sha256": "701765dafe5bcee6cd27b2f0263804cfb0e4b5342b466bc9f264ef0101c5e29d"
+    }
+  ]
 }

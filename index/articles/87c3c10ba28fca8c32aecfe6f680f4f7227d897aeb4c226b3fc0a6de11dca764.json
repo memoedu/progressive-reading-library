@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=111",
+  "title": "优雅地在服务器上下载 Google Driver 上的大文件",
+  "original": {
+    "path": "原稿/87c3c10ba28fca8c32aecfe6/5f4141a67a3ff6aa048f3cd95fa12230ada4943cbc8bd18b872de9149bebcf05.md",
+    "sha256": "5f4141a67a3ff6aa048f3cd95fa12230ada4943cbc8bd18b872de9149bebcf05"
+  }
+}

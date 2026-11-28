@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=126",
+  "title": "latex 代码宏包 minted 基本使用",
+  "original": {
+    "path": "原稿/6b929f162ade143fd9048642/4ec4014dd8d97fd14d6be367d3e94209abaae1686d165547ae24f0feeb947c4c.md",
+    "sha256": "4ec4014dd8d97fd14d6be367d3e94209abaae1686d165547ae24f0feeb947c4c"
+  }
+}

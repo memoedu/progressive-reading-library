@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=206",
+  "title": "webgl2 教程（一）渲染模型、图形学基本概念与环境搭建",
+  "original": {
+    "path": "原稿/3a7087e769e659df68f69220/9e3c186869d5ea21510731ed2f7853fc077a5bf16e957f84de7b434ff2fbb19a.md",
+    "sha256": "9e3c186869d5ea21510731ed2f7853fc077a5bf16e957f84de7b434ff2fbb19a"
+  }
+}

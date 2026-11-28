@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=10",
+  "title": "词向量",
+  "original": {
+    "path": "原稿/82be1f1b53edb5749e9cc11d/ac5423b27ba7053747ca0ab381a2dccf4d5c571ef61c3a6ac99c18ef9459e897.md",
+    "sha256": "ac5423b27ba7053747ca0ab381a2dccf4d5c571ef61c3a6ac99c18ef9459e897"
+  }
+}

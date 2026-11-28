@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=26",
+  "title": "数据库关系理论之范式",
+  "original": {
+    "path": "原稿/841adbe23d986e5d4cf0b4fe/684a4d467acac3cb17be116d902cb93da763223c5d28a824b9933e59cc84410a.md",
+    "sha256": "684a4d467acac3cb17be116d902cb93da763223c5d28a824b9933e59cc84410a"
+  }
+}

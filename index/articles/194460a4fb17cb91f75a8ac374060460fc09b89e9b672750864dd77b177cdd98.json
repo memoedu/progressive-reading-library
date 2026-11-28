@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=cnTCm_VahnY",
+  "title": "立党讲座36：AI研究学习完整教程（第二期）AI是如何进行数学革命的？AI如何在网络安全领域爆发？AI能否成为下一个威胁？哪些软件开发工作会被AI替代？AI Agent还有哪些潜在的爆发方向？",
+  "original": {
+    "path": "原稿/194460a4fb17cb91f75a8ac3/573488c0c7d7646584820c2a6548381b580d4b0a069908adee80bb6a3904d580.md",
+    "sha256": "573488c0c7d7646584820c2a6548381b580d4b0a069908adee80bb6a3904d580"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/194460a4fb17cb91f75a8ac3/reading-29ffe359f942a84ef8bcc8caa50e845ed2dee97e457d1de92ece4f975c708af0.md",
+      "sha256": "29ffe359f942a84ef8bcc8caa50e845ed2dee97e457d1de92ece4f975c708af0",
+      "original_sha256": "573488c0c7d7646584820c2a6548381b580d4b0a069908adee80bb6a3904d580",
+      "processing_sha256": "5f8c0d51c2c6c6e832891fee9eae2aa5653ecce4b383a9ce590325ccfdae5a0c",
+      "options_sha256": "fba1c4c56608108786d3c7a28977be3375f3a88b7d5cf68fea4213a51ce104c2"
+    }
+  ]
+}

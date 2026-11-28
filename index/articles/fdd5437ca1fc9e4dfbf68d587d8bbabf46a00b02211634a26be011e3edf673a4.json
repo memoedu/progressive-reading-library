@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=2",
+  "title": "模型蒸馏（Model Distillation）",
+  "original": {
+    "path": "原稿/fdd5437ca1fc9e4dfbf68d58/ab62210f2a58215361f0eb86558d12a53550d3175b695cd0118a7912f0e1430d.md",
+    "sha256": "ab62210f2a58215361f0eb86558d12a53550d3175b695cd0118a7912f0e1430d"
+  }
+}

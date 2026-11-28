@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=204",
+  "title": "nginx 缓存优化与反向代理",
+  "original": {
+    "path": "原稿/85d5d798a12485cf1fccb8aa/4efe4ae47eaa65f92335f96ebb3b9664833ac4752b9306c2a221acb07bae9f03.md",
+    "sha256": "4efe4ae47eaa65f92335f96ebb3b9664833ac4752b9306c2a221acb07bae9f03"
+  }
+}

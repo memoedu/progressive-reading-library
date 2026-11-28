@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=183",
+  "title": "使用 bypy 在 Linux 服务器上下载百度网盘资源",
+  "original": {
+    "path": "原稿/b7ec31fe0214952c1359f407/e7be3395a0a1820d2cf488546f06a77bc3607b8aa9b360e690a6fb735c564763.md",
+    "sha256": "e7be3395a0a1820d2cf488546f06a77bc3607b8aa9b360e690a6fb735c564763"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=263",
+  "title": "stm32学习（二）GPIO输出—— LED流水灯 & 蜂鸣器",
+  "original": {
+    "path": "原稿/13259c997d280981112d2d1d/58f86adddb920616ca8a223d1c5eeb5535654830c8dc87b9bfad85605a9308c7.md",
+    "sha256": "58f86adddb920616ca8a223d1c5eeb5535654830c8dc87b9bfad85605a9308c7"
+  }
+}

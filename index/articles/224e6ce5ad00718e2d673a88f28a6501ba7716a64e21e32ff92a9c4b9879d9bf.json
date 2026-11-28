@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=73",
+  "title": "pipreqs一行命令整理得到当前项目的requirements.txt",
+  "original": {
+    "path": "原稿/224e6ce5ad00718e2d673a88/f1ea4a03d430b765b46b1e9d9c315549f4fe83cb22f96ae40ad7f112a278f5b8.md",
+    "sha256": "f1ea4a03d430b765b46b1e9d9c315549f4fe83cb22f96ae40ad7f112a278f5b8"
+  }
+}

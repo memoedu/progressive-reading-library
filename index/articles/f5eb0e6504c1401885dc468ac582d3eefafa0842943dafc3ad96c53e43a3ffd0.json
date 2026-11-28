@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1935852969460479368",
+  "title": "（四）并非概率云：DA-RSIP中的定式网架构【内文待补，请先收藏】",
+  "original": {
+    "path": "原稿/f5eb0e6504c1401885dc468a/6667cfc3ae131416dab38f0b2e7f598ffc8ae39e2e07a781455f11f39e35cb84.md",
+    "sha256": "6667cfc3ae131416dab38f0b2e7f598ffc8ae39e2e07a781455f11f39e35cb84"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f5eb0e6504c1401885dc468a/reading-447231eaefecc33545a82e39b707ab9385cc7e00e757ad078494240167912093.md",
+      "sha256": "447231eaefecc33545a82e39b707ab9385cc7e00e757ad078494240167912093",
+      "original_sha256": "6667cfc3ae131416dab38f0b2e7f598ffc8ae39e2e07a781455f11f39e35cb84",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

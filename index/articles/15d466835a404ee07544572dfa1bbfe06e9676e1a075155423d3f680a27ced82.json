@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=100",
+  "title": "魔改的一个posh3主题",
+  "original": {
+    "path": "原稿/15d466835a404ee07544572d/0edbfa7fa73b1c15dc9104f096ec290a4a001ec749f5e0f2497d0dbd4a6d7e61.md",
+    "sha256": "0edbfa7fa73b1c15dc9104f096ec290a4a001ec749f5e0f2497d0dbd4a6d7e61"
+  }
+}

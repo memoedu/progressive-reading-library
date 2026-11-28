@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2006/05/09/introduction-habitual-mastery-series",
+  "title": "Introduction - Habitual Mastery (Series) - Scott H Young",
+  "original": {
+    "path": "原稿/5fbe74d55de469430b98e544/df9758db2faa62891d0bd11f6a9a19b3937f1d7b759f6b62e74324be377e7059.md",
+    "sha256": "df9758db2faa62891d0bd11f6a9a19b3937f1d7b759f6b62e74324be377e7059"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5fbe74d55de469430b98e544/reading-32d0f600809e4ca8fdfe8a2f4e069eacf23317309114ca88a5861726e648b46a.md",
+      "sha256": "32d0f600809e4ca8fdfe8a2f4e069eacf23317309114ca88a5861726e648b46a",
+      "original_sha256": "df9758db2faa62891d0bd11f6a9a19b3937f1d7b759f6b62e74324be377e7059",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

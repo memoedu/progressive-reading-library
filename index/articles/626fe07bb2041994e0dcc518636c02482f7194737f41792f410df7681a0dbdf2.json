@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=15",
+  "title": "Neo4j基本使用",
+  "original": {
+    "path": "原稿/626fe07bb2041994e0dcc518/d7128065ef578f29b194a203192c300fc2af69968ec5b58b680b2a50b0940838.md",
+    "sha256": "d7128065ef578f29b194a203192c300fc2af69968ec5b58b680b2a50b0940838"
+  }
+}

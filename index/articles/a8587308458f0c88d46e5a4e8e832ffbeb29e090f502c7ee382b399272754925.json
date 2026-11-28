@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=172",
+  "title": "多叉树的基本操作（C++实现）",
+  "original": {
+    "path": "原稿/a8587308458f0c88d46e5a4e/408f2a65d2cafa4e981b3907807205314f32b102ef9762ce5d632340be7d2a34.md",
+    "sha256": "408f2a65d2cafa4e981b3907807205314f32b102ef9762ce5d632340be7d2a34"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=391",
+  "title": "AI Infra 软核教程（三）通信原语与 NCCL",
+  "original": {
+    "path": "原稿/51190a7e81b9c1e9f3273230/9f70e9f7e84b8306724d8bdeed599c8fd83d9dc86305e53837603c70434c93c8.md",
+    "sha256": "9f70e9f7e84b8306724d8bdeed599c8fd83d9dc86305e53837603c70434c93c8"
+  }
+}

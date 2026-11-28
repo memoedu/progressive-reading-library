@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/08/26/the-paradox-of-burnout",
+  "title": "The Paradox of Burnout - Scott H Young",
+  "original": {
+    "path": "原稿/7cd3cb995a17e4e79def1983/055ceb2d9c905390a55b0594a9dc62ab387c30e2308f3c8a42f76c1fce6f0e86.md",
+    "sha256": "055ceb2d9c905390a55b0594a9dc62ab387c30e2308f3c8a42f76c1fce6f0e86"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7cd3cb995a17e4e79def1983/reading-4517402b106f2fa6bc4302235e974a9ec6e51b282e8d7766f107e3901a1b46cc.md",
+      "sha256": "4517402b106f2fa6bc4302235e974a9ec6e51b282e8d7766f107e3901a1b46cc",
+      "original_sha256": "055ceb2d9c905390a55b0594a9dc62ab387c30e2308f3c8a42f76c1fce6f0e86",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

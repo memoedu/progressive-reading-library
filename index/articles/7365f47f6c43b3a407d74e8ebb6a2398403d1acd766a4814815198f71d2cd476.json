@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=229",
+  "title": "网络爬虫进阶（一）无头浏览器 phantomjs 的安装与使用",
+  "original": {
+    "path": "原稿/7365f47f6c43b3a407d74e8e/17eda34bbb4705bde0b9281df87f4975d1b023c1c29c7752d76394c07d19c21f.md",
+    "sha256": "17eda34bbb4705bde0b9281df87f4975d1b023c1c29c7752d76394c07d19c21f"
+  }
+}

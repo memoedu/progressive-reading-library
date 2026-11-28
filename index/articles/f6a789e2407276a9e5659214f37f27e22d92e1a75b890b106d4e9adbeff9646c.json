@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 43 Intentionally Making Close Friends — Neel Nanda--浏览器加工--f6a789e240.md",
     "sha256": "443b6a700129ea83aa24ba3911d3008185a4b18dceeca4ce42f00edfc486e0b4"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/f6a789e2407276a9e5659214/8ae3173dd77f5ca869afc59562e1285c99da99cf3ca70d8f188578bc81137b85.md",
+      "sha256": "8ae3173dd77f5ca869afc59562e1285c99da99cf3ca70d8f188578bc81137b85"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/f6a789e2407276a9e5659214/reading-b544284fdb260d2b620d12f2bbe31e15591e221cb194a6ca174cf929186c64b8.md",
+      "sha256": "b544284fdb260d2b620d12f2bbe31e15591e221cb194a6ca174cf929186c64b8",
+      "original_sha256": "8ae3173dd77f5ca869afc59562e1285c99da99cf3ca70d8f188578bc81137b85",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=pKfoQvR8MJo",
+  "title": "2026年，千万不要盲目读硕士和考研了！为什么读硕士不会给你带来更好的工作机会？",
+  "original": {
+    "path": "原稿/69f691f6e9c186d3c844bda3/ee1fb4ea8f09819f49d6a06295cb4d7e6515a6bf69bf142948b3338bb0692673.md",
+    "sha256": "ee1fb4ea8f09819f49d6a06295cb4d7e6515a6bf69bf142948b3338bb0692673"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/69f691f6e9c186d3c844bda3/reading-e321aec67db1835318691cdb810ba5dfc6f9eea80b401973440aa23627faef9d.md",
+      "sha256": "e321aec67db1835318691cdb810ba5dfc6f9eea80b401973440aa23627faef9d",
+      "original_sha256": "ee1fb4ea8f09819f49d6a06295cb4d7e6515a6bf69bf142948b3338bb0692673",
+      "processing_sha256": "5f8c0d51c2c6c6e832891fee9eae2aa5653ecce4b383a9ce590325ccfdae5a0c",
+      "options_sha256": "fba1c4c56608108786d3c7a28977be3375f3a88b7d5cf68fea4213a51ce104c2"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=264",
+  "title": "stm32学习（三）GPIO输入—— 按键控制 & 光敏传感器",
+  "original": {
+    "path": "原稿/571f947f52bc10325e2481b2/3a5fc321f1edcccb87bc8490155a5a9e42558f8724d12f8aec37b5c6eba1e3e5.md",
+    "sha256": "3a5fc321f1edcccb87bc8490155a5a9e42558f8724d12f8aec37b5c6eba1e3e5"
+  }
+}

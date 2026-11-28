@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://blog.samaltman.com/the-gentle-singularity",
+  "title": "The Gentle Singularity",
+  "original": {
+    "path": "原稿/2bc0d4251ea0868f58cb8dbd/5a68f3949027c249e0351daec35e9d3471e18c3feb57f1edbc95dd2de3274c0f.md",
+    "sha256": "5a68f3949027c249e0351daec35e9d3471e18c3feb57f1edbc95dd2de3274c0f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2bc0d4251ea0868f58cb8dbd/reading-bc32216c9edcce8386c85e3672dbebe75c499523209c42b2dfcb0e078f4ebc79.md",
+      "sha256": "bc32216c9edcce8386c85e3672dbebe75c499523209c42b2dfcb0e078f4ebc79",
+      "original_sha256": "5a68f3949027c249e0351daec35e9d3471e18c3feb57f1edbc95dd2de3274c0f",
+      "processing_sha256": "51fc72691350ab7355d486ecef8fe11f088fc3b6de12af00f35d186c59a2d8ed",
+      "options_sha256": "e77e03ffd1943a3c564d667e21bf3897252cf718d0144e117bff461b40f6630a"
+    }
+  ]
+}

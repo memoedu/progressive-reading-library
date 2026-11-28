@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=192",
+  "title": "优雅地使用ssh或者http访问内网服务器——frp内网穿透教程",
+  "original": {
+    "path": "原稿/0119c1f1a478d2d9a8bfbc6f/9aea79fe998e407c6d3be0a15c3fd0bbdfeb0ce47db513e03f0223792779a9cc.md",
+    "sha256": "9aea79fe998e407c6d3be0a15c3fd0bbdfeb0ce47db513e03f0223792779a9cc"
+  }
+}

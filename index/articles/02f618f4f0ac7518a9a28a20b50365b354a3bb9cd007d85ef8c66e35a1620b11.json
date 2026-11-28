@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=91",
+  "title": "Brotli压缩算法的vue打包与Nginx配置",
+  "original": {
+    "path": "原稿/02f618f4f0ac7518a9a28a20/0720fcee4d5e0b111ae9569d28415e0be4d85255b8953c31c567c62ed881ed8e.md",
+    "sha256": "0720fcee4d5e0b111ae9569d28415e0be4d85255b8953c31c567c62ed881ed8e"
+  }
+}

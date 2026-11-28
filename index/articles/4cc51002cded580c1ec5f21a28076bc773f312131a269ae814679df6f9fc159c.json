@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=13",
+  "title": "过拟合（Overfitting）",
+  "original": {
+    "path": "原稿/4cc51002cded580c1ec5f21a/1d06aaea1f214ddc952c4a7883a3af28552f19ec8d6bf43a0f7cbf52677e5e60.md",
+    "sha256": "1d06aaea1f214ddc952c4a7883a3af28552f19ec8d6bf43a0f7cbf52677e5e60"
+  }
+}

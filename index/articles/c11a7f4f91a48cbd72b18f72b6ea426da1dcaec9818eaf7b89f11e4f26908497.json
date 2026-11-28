@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=fF8DTGbzWWQ",
+  "title": "深度分析“商业骗局”：元宇宙 具身智能 量子计算 脑机接口 可控核聚变",
+  "original": {
+    "path": "原稿/c11a7f4f91a48cbd72b18f72/fc11d90f2189c172c6ae52a02d6998a928da5c2f4720d2afd41d5679ac77e244.md",
+    "sha256": "fc11d90f2189c172c6ae52a02d6998a928da5c2f4720d2afd41d5679ac77e244"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c11a7f4f91a48cbd72b18f72/reading-64d56b7e9ca81890c95e0f51770abd64f0b2ee959f16843abfe1e9ab3578420a.md",
+      "sha256": "64d56b7e9ca81890c95e0f51770abd64f0b2ee959f16843abfe1e9ab3578420a",
+      "original_sha256": "fc11d90f2189c172c6ae52a02d6998a928da5c2f4720d2afd41d5679ac77e244",
+      "processing_sha256": "5f8c0d51c2c6c6e832891fee9eae2aa5653ecce4b383a9ce590325ccfdae5a0c",
+      "options_sha256": "fba1c4c56608108786d3c7a28977be3375f3a88b7d5cf68fea4213a51ce104c2"
+    }
+  ]
+}

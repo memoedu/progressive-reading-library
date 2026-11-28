@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2026/11/18/make-learning-permanent",
+  "title": "Make Learning Permanent - Scott H Young",
+  "original": {
+    "path": "原稿/53f2063d877a728bf73e14f4/546906075fc2d17b2a1d0652836d7d3e37d4dfc6db9b3a16c1415e45db58989e.md",
+    "sha256": "546906075fc2d17b2a1d0652836d7d3e37d4dfc6db9b3a16c1415e45db58989e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/53f2063d877a728bf73e14f4/reading-4017b89c789fc332725964198027035ac2374cb0ec8a70c2822f9675ad720129.md",
+      "sha256": "4017b89c789fc332725964198027035ac2374cb0ec8a70c2822f9675ad720129",
+      "original_sha256": "546906075fc2d17b2a1d0652836d7d3e37d4dfc6db9b3a16c1415e45db58989e",
+      "processing_sha256": "0bf8b496d881a6c648a8b4221969c7859a633fa6d629bf203bb59bd9ab135793",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
+}

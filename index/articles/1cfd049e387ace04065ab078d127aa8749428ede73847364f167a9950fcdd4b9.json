@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://mp.weixin.qq.com/s/Mlvdtd2LuMTEYxP5P7NPCg",
+  "title": "我在南大做普通人315 | 绿导师征友啦",
+  "original": {
+    "path": "原稿/1cfd049e387ace04065ab078/ac730428f187c604712b4d452f044f67a716f1c9ec8dae079c58cabadf8c7010.md",
+    "sha256": "ac730428f187c604712b4d452f044f67a716f1c9ec8dae079c58cabadf8c7010"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1cfd049e387ace04065ab078/reading-d49c1a5473e6a277b8335e10a48b47196c9eec53aab4ffb8ff86480487c03010.md",
+      "sha256": "d49c1a5473e6a277b8335e10a48b47196c9eec53aab4ffb8ff86480487c03010",
+      "original_sha256": "ac730428f187c604712b4d452f044f67a716f1c9ec8dae079c58cabadf8c7010",
+      "processing_sha256": "f845b341492f2dfd13fc577cd26b365de20267ae36683fb39a9a1c0d62dfc2e6",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

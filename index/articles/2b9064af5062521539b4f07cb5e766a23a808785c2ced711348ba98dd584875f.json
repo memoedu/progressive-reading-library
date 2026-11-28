@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=171",
+  "title": "二叉树的基本操作（C++实现）",
+  "original": {
+    "path": "原稿/2b9064af5062521539b4f07c/c921d61e7aa2baca40590a9f6d91217b5540303f1036c7ea7a7ff89e18721a60.md",
+    "sha256": "c921d61e7aa2baca40590a9f6d91217b5540303f1036c7ea7a7ff89e18721a60"
+  }
+}

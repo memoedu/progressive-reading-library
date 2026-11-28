@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=383",
+  "title": "参数矩阵的低秩：LoRA 与 Agentic RL",
+  "original": {
+    "path": "原稿/844258ba369776a8471f40a8/d626f3db273c5b8058f91b9850b49c8118cd730fde4569494d63750ef5a96f72.md",
+    "sha256": "d626f3db273c5b8058f91b9850b49c8118cd730fde4569494d63750ef5a96f72"
+  }
+}

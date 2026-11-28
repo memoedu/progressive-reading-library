@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=21",
+  "title": "opencv处理视频流的IO模板",
+  "original": {
+    "path": "原稿/9ae557c03e043fc458b7e9b9/aee66db64daed124585cb9b0ba3c74ee56df1562bdd67b297166da0ee1415a2f.md",
+    "sha256": "aee66db64daed124585cb9b0ba3c74ee56df1562bdd67b297166da0ee1415a2f"
+  }
+}

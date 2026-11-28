@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=62",
+  "title": "使用vuepress-reco构建你安静而优雅的文档库",
+  "original": {
+    "path": "原稿/c42f87d1ad026362e0c4871b/2c37718c2e54b5a59df9d5e233ca129e8b49cf6a443360722ad844cbb9d47f3d.md",
+    "sha256": "2c37718c2e54b5a59df9d5e233ca129e8b49cf6a443360722ad844cbb9d47f3d"
+  }
+}

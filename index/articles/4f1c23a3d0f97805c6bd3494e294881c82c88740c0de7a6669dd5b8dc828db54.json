@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Interlude Retrospective on Teaching Rationality Workshops — Neel Nanda--浏览器加工--4f1c23a3d0.md",
     "sha256": "c3c705242e5565041f965d7bf4901817ee8018b456be90a06bf5cdbc970b226c"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/4f1c23a3d0f97805c6bd3494/206403ae8c4a6d7473774421ca95693fa8adba81a740588ab1ca1dd216eba982.md",
+      "sha256": "206403ae8c4a6d7473774421ca95693fa8adba81a740588ab1ca1dd216eba982"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/4f1c23a3d0f97805c6bd3494/reading-3e3d3b992084d322910099463cbb8641ef9d4e913c17336c2d9dde66dd2f03bc.md",
+      "sha256": "3e3d3b992084d322910099463cbb8641ef9d4e913c17336c2d9dde66dd2f03bc",
+      "original_sha256": "206403ae8c4a6d7473774421ca95693fa8adba81a740588ab1ca1dd216eba982",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

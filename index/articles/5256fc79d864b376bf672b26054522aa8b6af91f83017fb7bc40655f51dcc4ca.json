@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=281",
+  "title": "typescript 在 timeout 内完成异步请求 / 前端 CDN 站点的实现",
+  "original": {
+    "path": "原稿/5256fc79d864b376bf672b26/bef6a86106b298e2a88d3ae9b9421c841d4129d553ee99faa10ff2c175436bc1.md",
+    "sha256": "bef6a86106b298e2a88d3ae9b9421c841d4129d553ee99faa10ff2c175436bc1"
+  }
+}

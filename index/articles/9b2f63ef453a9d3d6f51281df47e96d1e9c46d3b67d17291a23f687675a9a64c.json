@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=117",
+  "title": "细致平稳条件与Metropolis-Hastings算法",
+  "original": {
+    "path": "原稿/9b2f63ef453a9d3d6f51281d/1d74f496187f7cad33edfa4a2b121f5932456879ffabf42f609c6dcf224dc1a6.md",
+    "sha256": "1d74f496187f7cad33edfa4a2b121f5932456879ffabf42f609c6dcf224dc1a6"
+  }
+}

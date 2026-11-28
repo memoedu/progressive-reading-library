@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=23",
+  "title": "多目标识别中mAP的计算与实现",
+  "original": {
+    "path": "原稿/1d5d932bbdaeae31e51c31b9/c143da458ac3f6b490ccb7c2529d91a195542dcb740d63ed4f8b9617041a1ddd.md",
+    "sha256": "c143da458ac3f6b490ccb7c2529d91a195542dcb740d63ed4f8b9617041a1ddd"
+  }
+}

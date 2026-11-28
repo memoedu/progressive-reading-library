@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=74",
+  "title": "go语言获取IP对应的国家与城市",
+  "original": {
+    "path": "原稿/08aba6db7165c9abfec7511b/df92bee7393df9ec7a8725852f270af3b0e889a1be6d80e8b72e612cdb2c10d3.md",
+    "sha256": "df92bee7393df9ec7a8725852f270af3b0e889a1be6d80e8b72e612cdb2c10d3"
+  }
+}

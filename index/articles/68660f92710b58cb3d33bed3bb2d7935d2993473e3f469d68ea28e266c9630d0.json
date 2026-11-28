@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=278",
+  "title": "如何优雅地跨平台编译 Rust",
+  "original": {
+    "path": "原稿/68660f92710b58cb3d33bed3/9915c817674fac73f637917434c04a1444bf0e9018f00854ac135f1bb70aeb3e.md",
+    "sha256": "9915c817674fac73f637917434c04a1444bf0e9018f00854ac135f1bb70aeb3e"
+  }
+}

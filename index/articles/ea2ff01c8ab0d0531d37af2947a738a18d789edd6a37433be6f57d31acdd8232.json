@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.scotthyoung.com/blog/2019/07/25/best-thinking-better",
+  "title": "The Best Articles on Thinking Better - Scott H Young",
+  "original": {
+    "path": "原稿/ea2ff01c8ab0d0531d37af29/9caa88a354ce7bc90de5ec89d5cd315d1c8f524caf425de12103817631558f18.md",
+    "sha256": "9caa88a354ce7bc90de5ec89d5cd315d1c8f524caf425de12103817631558f18"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ea2ff01c8ab0d0531d37af29/reading-42432949f4a7be522dac80275e03ab9f2b051c66140f53456ac7b73f3d538bf9.md",
+      "sha256": "42432949f4a7be522dac80275e03ab9f2b051c66140f53456ac7b73f3d538bf9",
+      "original_sha256": "9caa88a354ce7bc90de5ec89d5cd315d1c8f524caf425de12103817631558f18",
+      "processing_sha256": "c7d7900dc3a1a0c7f8d3da3149e0c4798bb5a4b3c7a5e6e27f164e2b727914eb",
+      "options_sha256": "cbe8ac367a3e32dd93faac0f9d62de980b7f3bf788787fb5122df53df436f7ab"
+    }
+  ]
+}

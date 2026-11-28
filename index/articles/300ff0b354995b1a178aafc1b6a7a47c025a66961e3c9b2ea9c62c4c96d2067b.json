@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://magazine.mindplex.ai/post/a-beneficial-agi-manifesto",
+  "title": "A Beneficial AGI Manifesto",
+  "original": {
+    "path": "原稿/300ff0b354995b1a178aafc1/0064255f63eb8851765d7913ba82a4727826bb9989a4d4164611a0f91861ef0b.md",
+    "sha256": "0064255f63eb8851765d7913ba82a4727826bb9989a4d4164611a0f91861ef0b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/300ff0b354995b1a178aafc1/reading-8fe91b450827dd2602ec9caaefe605c47de211f3f39ae8440d79f55b028057f1.md",
+      "sha256": "8fe91b450827dd2602ec9caaefe605c47de211f3f39ae8440d79f55b028057f1",
+      "original_sha256": "0064255f63eb8851765d7913ba82a4727826bb9989a4d4164611a0f91861ef0b",
+      "processing_sha256": "51fc72691350ab7355d486ecef8fe11f088fc3b6de12af00f35d186c59a2d8ed",
+      "options_sha256": "e77e03ffd1943a3c564d667e21bf3897252cf718d0144e117bff461b40f6630a"
+    }
+  ]
+}

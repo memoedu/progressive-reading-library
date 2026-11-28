@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=307",
+  "title": "关于 svelte 中非常坑的几点",
+  "original": {
+    "path": "原稿/88d16cb15d5f1d698045fc71/d5a376d4dc69b0ecff02bb22a1d948aa1ca2480f4a1471060d6337efe0a1903b.md",
+    "sha256": "d5a376d4dc69b0ecff02bb22a1d948aa1ca2480f4a1471060d6337efe0a1903b"
+  }
+}

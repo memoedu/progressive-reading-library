@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=75",
+  "title": "使用python获取中国的城市代码（区划代码）",
+  "original": {
+    "path": "原稿/9709c035d8aed8f101db9529/037c03b8406bfd2c033c0180c676ec4a5f5e78a88b6bcbeee56360a74df2f418.md",
+    "sha256": "037c03b8406bfd2c033c0180c676ec4a5f5e78a88b6bcbeee56360a74df2f418"
+  }
+}

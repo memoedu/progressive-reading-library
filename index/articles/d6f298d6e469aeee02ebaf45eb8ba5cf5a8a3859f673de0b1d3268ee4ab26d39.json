@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.youtube.com/watch?v=34wpQakf0h8",
+  "title": "一小时长聊：AI正在摧毁科技互联网行业，让程序员大批量失业？为什么程序员危机感空前强烈？为什么中国大学计算机专业教育质量太差？大学还有存在的意义吗？",
+  "original": {
+    "path": "原稿/d6f298d6e469aeee02ebaf45/81d1e78b3cb9d0f9b76b987fda692178b9f009d08d1ddb0461226381f1b21fa6.md",
+    "sha256": "81d1e78b3cb9d0f9b76b987fda692178b9f009d08d1ddb0461226381f1b21fa6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d6f298d6e469aeee02ebaf45/reading-6cd451ed1a6bb989d53147449f993721935867c1d055ffb0625957e80ecff972.md",
+      "sha256": "6cd451ed1a6bb989d53147449f993721935867c1d055ffb0625957e80ecff972",
+      "original_sha256": "81d1e78b3cb9d0f9b76b987fda692178b9f009d08d1ddb0461226381f1b21fa6",
+      "processing_sha256": "01f05a3ee095432dd21932dad1a1de39c221fb7892d93d2824ac6d88f6b53ad0",
+      "options_sha256": "fba1c4c56608108786d3c7a28977be3375f3a88b7d5cf68fea4213a51ce104c2"
+    }
+  ]
+}

@@ -5,5 +5,20 @@
   "original": {
     "path": "整站/Neel Nanda/Post 49 Things That Make Me Enjoy Giving Career Advice — Neel Nanda--浏览器加工--dee69b7a85.md",
     "sha256": "5eab60f16a49c2531af0c2b0ce1effcaa5b379fc07254fa09b5a10eabbc13f53"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/dee69b7a8555622cb72d6ab0/08bcc8b629f68c670888a7fdfcee04d721b85056c330d9773f4dba2a2f9007e8.md",
+      "sha256": "08bcc8b629f68c670888a7fdfcee04d721b85056c330d9773f4dba2a2f9007e8"
+    }
+  ],
+  "reading_files": [
+    {
+      "path": "加工版本/dee69b7a8555622cb72d6ab0/reading-019d264576925762c81765c806480c5025626584c0292e4b046bb1cb79ccdd83.md",
+      "sha256": "019d264576925762c81765c806480c5025626584c0292e4b046bb1cb79ccdd83",
+      "original_sha256": "08bcc8b629f68c670888a7fdfcee04d721b85056c330d9773f4dba2a2f9007e8",
+      "processing_sha256": "bb124751cd2ac7079423c1f2c6250e862205849dedf138054b952d20b11ea12a",
+      "options_sha256": "c98a173fddc80460a9ab18399b65a071b633d930b3cdf5684a7f8a7460a0a69a"
+    }
+  ]
 }

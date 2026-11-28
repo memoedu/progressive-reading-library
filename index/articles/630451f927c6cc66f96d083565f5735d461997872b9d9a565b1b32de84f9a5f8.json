@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2005064516342391626",
+  "title": "润滑剂",
+  "original": {
+    "path": "原稿/630451f927c6cc66f96d0835/339938743615ec994e677de6e1d0dacca31c56914754e941c3616adc32d1be3f.md",
+    "sha256": "339938743615ec994e677de6e1d0dacca31c56914754e941c3616adc32d1be3f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/630451f927c6cc66f96d0835/reading-a02a0c311e6feab045ffa1806212080c3b650e1948b3b2429e680642a266f0b2.md",
+      "sha256": "a02a0c311e6feab045ffa1806212080c3b650e1948b3b2429e680642a266f0b2",
+      "original_sha256": "339938743615ec994e677de6e1d0dacca31c56914754e941c3616adc32d1be3f",
+      "processing_sha256": "4a6bbca1a026e695ad0a71e7b00c1416d3d36dd393e74c258919e9970151e5bc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

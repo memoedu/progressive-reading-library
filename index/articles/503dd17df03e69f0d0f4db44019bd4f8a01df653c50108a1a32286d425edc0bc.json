@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=317",
+  "title": "优雅地开发 MCP 服务器（三）go 语言实现 neo4j 的只读 mcp 服务器（SSE 传输版本）",
+  "original": {
+    "path": "原稿/503dd17df03e69f0d0f4db44/f9b71856baf7a18cd1113081d28bf83fe6ef9f205137a7eb7560ed856387bf1b.md",
+    "sha256": "f9b71856baf7a18cd1113081d28bf83fe6ef9f205137a7eb7560ed856387bf1b"
+  }
+}

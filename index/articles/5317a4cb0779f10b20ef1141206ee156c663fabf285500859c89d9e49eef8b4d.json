@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=237",
+  "title": "关于使用大模型进行意图识别的技巧",
+  "original": {
+    "path": "原稿/5317a4cb0779f10b20ef1141/0baac214b01949455274efbb1e8ba171494bff0f01863f49bf89331c8e2546c2.md",
+    "sha256": "0baac214b01949455274efbb1e8ba171494bff0f01863f49bf89331c8e2546c2"
+  }
+}

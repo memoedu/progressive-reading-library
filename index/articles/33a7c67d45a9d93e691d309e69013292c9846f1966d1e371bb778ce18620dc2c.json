@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=1",
+  "title": "Numpy库使用入门",
+  "original": {
+    "path": "原稿/33a7c67d45a9d93e691d309e/70586c1545cb722917f7c65ed737be745f0cd4e6cd6629e1cd241c019b48abc6.md",
+    "sha256": "70586c1545cb722917f7c65ed737be745f0cd4e6cd6629e1cd241c019b48abc6"
+  }
+}

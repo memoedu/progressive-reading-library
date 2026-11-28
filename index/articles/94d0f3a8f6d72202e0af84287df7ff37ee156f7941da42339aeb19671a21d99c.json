@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=365",
+  "title": "笔记本和树莓派直接进行连接的问题",
+  "original": {
+    "path": "原稿/94d0f3a8f6d72202e0af8428/3be55b99258d0ef907e5b484b63e12c31156e216c311a7cda2916916882cd8a2.md",
+    "sha256": "3be55b99258d0ef907e5b484b63e12c31156e216c311a7cda2916916882cd8a2"
+  }
+}

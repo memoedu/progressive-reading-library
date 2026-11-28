@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=48",
+  "title": "网站攻防笔记",
+  "original": {
+    "path": "原稿/ccccf6ec1c646fa20265fee0/96bb62c2a4f928f65b8e50fc994b67a48cd06a73988adb029f8ca7d2cf4b6ddf.md",
+    "sha256": "96bb62c2a4f928f65b8e50fc994b67a48cd06a73988adb029f8ca7d2cf4b6ddf"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=110",
+  "title": "闭环式问答机器人状态机设计",
+  "original": {
+    "path": "原稿/c94d5cd3f3db331f8b1afcef/69d2a69d9c3d21aacc320b26fef88fd2c50e81830a2fbf938c8cdd168db79d06.md",
+    "sha256": "69d2a69d9c3d21aacc320b26fef88fd2c50e81830a2fbf938c8cdd168db79d06"
+  }
+}

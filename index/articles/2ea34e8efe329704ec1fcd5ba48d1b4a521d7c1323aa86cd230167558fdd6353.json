@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=387",
+  "title": "AI Infra 软核教程（二）GPU 集群基本结构与多机组网拓扑",
+  "original": {
+    "path": "原稿/2ea34e8efe329704ec1fcd5b/e890a0511077d8973fbfc4630ff0998acef9ab555993d99ecd32feaf90878e38.md",
+    "sha256": "e890a0511077d8973fbfc4630ff0998acef9ab555993d99ecd32feaf90878e38"
+  }
+}

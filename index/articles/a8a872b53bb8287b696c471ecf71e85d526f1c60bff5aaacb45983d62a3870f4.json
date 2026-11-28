@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=305",
+  "title": "优雅地开发 MCP 服务器（一）MCP 中的 Resources，Prompts，Tools 和基本调试方法",
+  "original": {
+    "path": "原稿/a8a872b53bb8287b696c471e/0f420fa13465ff0f9be4d94f575df1c6ed070a0ce42de1bbe5e98d2ed3105a72.md",
+    "sha256": "0f420fa13465ff0f9be4d94f575df1c6ed070a0ce42de1bbe5e98d2ed3105a72"
+  }
+}

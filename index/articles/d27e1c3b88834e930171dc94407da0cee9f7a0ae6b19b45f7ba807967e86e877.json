@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://kirigaya.cn/api/rss/blog?seq=376",
+  "title": "锦恢的 AI Agent 小白教程（三）提示词原理及其应用：ChatML、工具调用、提示词注入",
+  "original": {
+    "path": "原稿/d27e1c3b88834e930171dc94/93c1474decb750f12675eff471ee90861e84f95223a0e71c646639b3926e94d9.md",
+    "sha256": "93c1474decb750f12675eff471ee90861e84f95223a0e71c646639b3926e94d9"
+  }
+}

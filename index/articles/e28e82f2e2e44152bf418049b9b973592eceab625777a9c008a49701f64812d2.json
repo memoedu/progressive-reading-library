@@ -5,5 +5,11 @@
   "original": {
     "path": "原稿/e28e82f2e2e44152bf418049/485f18113b2e1767bf701227c53d29fd1dd962ae0138b26f9496a84746aec7cb.md",
     "sha256": "485f18113b2e1767bf701227c53d29fd1dd962ae0138b26f9496a84746aec7cb"
-  }
+  },
+  "original_revisions": [
+    {
+      "path": "原稿/e28e82f2e2e44152bf418049/3bb34b7e075855b07edd41f0dd792bce40294c69dc2f68fa6d08a6474f74f0ae.md",
+      "sha256": "3bb34b7e075855b07edd41f0dd792bce40294c69dc2f68fa6d08a6474f74f0ae"
+    }
+  ]
 }

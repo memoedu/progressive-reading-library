@@ -13,6 +13,13 @@
       "original_sha256": "458873651a44d0e51f7fcee57252c5ac812001a2d37408b5c24be28dba67b628",
       "processing_sha256": "94cf7dc11b2cf485c0a700bbfd7ef660158180fc665762f7392a6c1077094ed5",
       "options_sha256": "9abbd3e22bba0df9c09b8aaa36e5364b4e2d645e74557232071b2f650c0b0f1a"
+    },
+    {
+      "path": "加工版本/8d2467e3e055aa4c14852414/reading-fbc52b4d60db5d952815ecff7eaff2f98e2aac2e9f9faada6b7c70c14b20b352.md",
+      "sha256": "fbc52b4d60db5d952815ecff7eaff2f98e2aac2e9f9faada6b7c70c14b20b352",
+      "original_sha256": "458873651a44d0e51f7fcee57252c5ac812001a2d37408b5c24be28dba67b628",
+      "processing_sha256": "7e6d900b3ae9766b0f7f27034790e5587c3ec10b64a3388b9688ff088fad6d7e",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
     }
   ]
 }

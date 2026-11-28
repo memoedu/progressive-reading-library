@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2064331020208493441/answer/2106367887145551763",
+  "title": "可以莫名其妙教一个技能吗？ - 哟 有趣有趣 的回答",
+  "original": {
+    "path": "原稿/fe6892fd8952249387eae5e8/45b4f16415b49c258e29251400a4e0659ce088bf9a1db200f78c60dfa19cf0c8.md",
+    "sha256": "45b4f16415b49c258e29251400a4e0659ce088bf9a1db200f78c60dfa19cf0c8"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fe6892fd8952249387eae5e8/reading-ce2a2004d30bc77e1c18b933ff4776f77b99117147c35001eeadfb9ecfb2b72d.md",
+      "sha256": "ce2a2004d30bc77e1c18b933ff4776f77b99117147c35001eeadfb9ecfb2b72d",
+      "original_sha256": "45b4f16415b49c258e29251400a4e0659ce088bf9a1db200f78c60dfa19cf0c8",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

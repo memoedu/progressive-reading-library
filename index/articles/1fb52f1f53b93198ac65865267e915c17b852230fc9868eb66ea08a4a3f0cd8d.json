@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/282306262/answer/2011472022568464406",
+  "title": "大家暴食的时候都能吃多少东西？ - matrix禁食 的回答",
+  "original": {
+    "path": "原稿/1fb52f1f53b93198ac658652/765fe227a56f42032b48da933f187af4dcfe6a0ff5e0ec295b48264013fc07d6.md",
+    "sha256": "765fe227a56f42032b48da933f187af4dcfe6a0ff5e0ec295b48264013fc07d6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1fb52f1f53b93198ac658652/reading-02e225358599137c56d5d86166ae29a297793cd924d0177bc708fec316bfdf7e.md",
+      "sha256": "02e225358599137c56d5d86166ae29a297793cd924d0177bc708fec316bfdf7e",
+      "original_sha256": "765fe227a56f42032b48da933f187af4dcfe6a0ff5e0ec295b48264013fc07d6",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

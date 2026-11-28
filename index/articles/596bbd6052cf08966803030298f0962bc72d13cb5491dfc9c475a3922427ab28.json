@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://danluu.com/google-sre-book",
+  "title": "Google SRE book",
+  "original": {
+    "path": "原稿/596bbd6052cf089668030302/c85e1c484800e8739d0a717083d01f60cac5ba8c04bdb37f20ef9cbe9c8c3cd3.md",
+    "sha256": "c85e1c484800e8739d0a717083d01f60cac5ba8c04bdb37f20ef9cbe9c8c3cd3"
+  }
+}

@@ -1,0 +1,205 @@
+# 埃隆·马斯克与戴夫·查普尔同台实录｜Transcript of Elon Musk on stage with Dave Chapelle
+
+---
+
+## 正文
+
+这是 Elon Musk 与 Dave Chapelle 同台亮相的视频 transcription，使用了 OpenAI 的 Whisper model，并进行了一些 manual error corrections，以及针对观众声音的 annotations。
+
+与 [Exhibit H Twitter text message release](https://danluu.com/elon-twitter-texts/) 一样，有很多文章引用了其中的只言片语，但这些文章普遍遗漏了许多实际发生的事情，而且经常把事情描绘得颇具误导性。整件事本来就很短，你还不如自己看一看或读一读，而不是去读别人误导性的概述。总体而言，媒体似乎想把 Elon 描绘得极其不堪，结果写出的文章和 virtual tweets 在事实上并不正确。例如，广为流传的一种错误报道声称，在“老子有钱，婊子”那一段，现场播放号角声是为了盖过观众对 Elon 的嘘声；但前一个人说同一句话时，也播放了号角声，而那句话是录下来的内容中获得最多欢呼的一句。Elon 说“老子有钱，婊子”时，观众的声音弱得多，听不清楚，不过听起来像是嘘声和欢呼声混在一起。这很可能已经是 Elon 所有言行中获得的最积极的观众反应了，因此，说播放号角声是为了盖过 Elon 收到的嘘声，似乎至少有两处不准确。另一方面，尽管媒体已经竭力把 Elon 描绘得负面，实际却做得相当差：在其他许多段落中，只需枯燥而准确地记述发生了什么，呈现出的形象就远比那些四处流传的误导性概述更加不堪。
+
+-   [视频 1](https://www.youtube.com/watch?v=CzkreBMHUFY)
+    -   **Dave**: 女士们，先生们，为世界上最有钱的人欢呼吧。
+    -   **观众**: \[欢呼声、掌声和嘘声混杂；几秒钟后，嘘声盖过欢呼声和掌声，并持续到接下来的发言中\]
+    -   **Dave**: 欢呼声和嘘声，我说啊
+    -   **观众**: \[短暂的笑声，嘘声继续盖过观众的其他声音\]
+    -   **Dave**: Elon
+    -   **观众**: \[嘘声持续\]
+    -   **Elon**: 嘿，Dave
+    -   **观众**: \[嘘声增强\]
+    -   **Elon**: \[被嘘声盖住，听不清\]
+    -   **Dave**: 有争议啊，伙计。
+    -   **观众**: \[嘘声持续；能听到一些欢呼声\]
+    -   **Elon**: 没想到会这样吧？
+    -   **Dave**: 听起来，你开除的那些人里，有一些就在观众席上。
+    -   **观众**: \[笑声，能听到一些掌声\]
+    -   **Elon**: \[笑\]
+    -   **观众**: \[嘘声再起\]
+    -   **Dave**: 嘿，等一下。你们那些嘘他的人
+    -   **观众**: \[嘘声增强\]
+    -   **Dave**: 真难啊\[因嘘声而听不清\]听起来像是
+    -   **Elon**: \[立即被 Dave 打断，听不清\]
+    -   **Dave**: 你们知道，有这么一件事。那些人都在嘘。我只是。我只是指出一个显而易见的事实。他们的座位都很烂。\[因观众的声音而听不清\]
+    -   **观众**: \[稀落的笑声\]
+    -   **Dave**: 全都是从上面老——远的地方传来的\[听不清\]最后一刻的非——\[听不清\]n\*\*\*\*\*。嘘。嘘————。
+    -   **观众**: \[安静下来\]
+    -   **Dave**: 听着。
+    -   **观众**: \[嘘声再起\]
+    -   **Dave**: 随便吧。听着，你们这些混蛋。这位 n\*\*\*\* 甚至都没打算死在 earth 上
+    -   **观众**: \[笑声与嘘声混杂，笑声比嘘声响\]
+-   [视频 2](https://www.youtube.com/watch?v=hUkulqjTNpk)
+    -   **Dave**: 他的整个 business model 就是，去他妈的 earth，反正我要走了
+    -   **观众**: \[稀落的笑声，微弱的混杂声\]
+    -   **Dave**: 你们想怎样就怎样。带我一起走吧，n\*\*\*\*，我要去 Mars
+    -   **观众**: \[笑声\]
+    -   **Dave**: 那上面有什么样的妞，我们就玩什么样的
+    -   **观众**: \[稀落的笑声\]
+    -   **Dave**: \[笑\]Anti-gravity 脱衣舞酒吧。追逐你的梦想吧，婊子，钱就会在整个房间里到处飘
+    -   **观众**: \[稀落的笑声\]
+    -   **Elon**: \[笑\]
+    -   **观众**: \[持续的笑声被再次响起的嘘声盖过；能听到一些欢呼声\]
+    -   **Elon**: 谢谢你，呃，谢谢你请我上台。
+    -   **Dave**: 开什么玩笑。我可不会错过这个机会。
+    -   **Elon**: \[听不清，被观众的笑声打断\]
+    -   **观众**: \[笑声\]
+    -   **Elon**: \[听不清，被观众的笑声打断\]
+    -   **Dave**: Mars 上的第一家 comedy club 应该是我的\[停下来等观众笑完\]说定了就是定了，Musk。
+    -   **观众**: \[稀落的笑声和欢呼声\]
+    -   **Elon**: \[听不清\]，是啊
+    -   **Dave**: 你们这些 n\*\*\*\*\* 想怎么嘘就怎么嘘。这位 n\*\*\*\* 去年圣诞节送了我一个 jet pack
+    -   **观众**: \[笑声\]
+    -   **Dave**: 直接从你家门前 Fly 过去。他们冲我这俩蛋嘘去吧\[因这句话引起的笑声而听不清\]
+    -   **Dave**: 我们就喜欢这么消遣，什么破事都干
+    -   **观众**: \[稀落的笑声，逐渐转为观众的交谈声\]
+    -   **Elon**: \[Elon 动了动，像是要对观众说话\]
+    -   **观众**: \[嘘声再起\]
+    -   **Elon**: Dave，我该说什么？
+    -   **观众**: \[嘘声增强\]
+    -   **Dave**: 什么都别说。只会破坏这一刻。你听见那个声音了吗，Elon？那是 civil unrest 即将来临的声音。
+    -   **观众**: \[稀落的笑声，起初能听到一些嘘声；嘘声逐渐增强，直到 Dave 用下一句话打断\]
+    -   **Dave**: 我等不及要看你接下来又要把哪个故事毁掉了，你这混蛋\[听不清\]你们他妈的闭嘴，别嘘了。你们可以做点更好的事。嘘人不是你们能做的最好的事。试试看，n\*\*\*\*。把它变成你想要的样子。我是你们的 ally。我祝这座礼堂里的每一个人都享有 peace，享有感到 free 的喜悦，也愿你们的 pursuit of happiness 能让你们 happy。阿门。非常感谢你们，San Francisco。世上没有哪座城市曾经善待过我。谢谢。晚安。
+-   [视频 3](https://www.youtube.com/watch?v=u1cl8U0UCMQ) \[此时观众席上有许多空座\]
+    -   **Dave**: \[听不清\]尽你所能。你来说更好笑。准备好了吗？说这个\[听不清\]你说。来吧。
+    -   **观众**: \[稀落的笑声\]
+    -   **可能是 Chris Rock？**: 老子有钱，婊子
+    -   **观众**: \[响亮的欢呼声，也能听到舞台上传来响亮的号角声\]
+    -   **身份不明者**: 等等，等等，等等，等等\[把麦克风递给 Elon\]
+    -   **观众**: \[笑声\]
+    -   **Elon**: \[摆姿势\]
+    -   **观众**: \[笑声，开始能听到盖过笑声的嘘声\]
+    -   **Elon**: 老子有钱，婊子
+    -   **观众**: \[有一些声音，但被舞台上传来的号角声盖住，很难听清，随后 DJ 播放的音乐又盖过了观众的声音；听起来有一些嘘声，也有一些欢呼声\]
+-   [视频 4](https://www.youtube.com/watch?v=WSjQ5ojUvnM)
+    -   **Dave**: [Talib Kweli，我的好朋友\[观众欢呼\]，目前被 banned from Twitter。](https://jezebel.com/talib-kwelis-harassment-campaign-shows-how-unprotected-1844483551)
+    -   **观众**: \[笑声\]
+    -   **Dave**: 他回家去\[听不清\]，Kweli。\[把麦克风递给 Elon\]
+    -   **Elon**: 啊，哇。Twitter 的客——客服就在这里。
+    -   **观众**: \[稀落的笑声\]
+    -   **Elon**: 我们马上处理。
+    -   **观众**: \[微弱的嘘声，随着时间推移逐渐增强，持续贯穿下一句发言，直到被 Dave 打断\]
+    -   **Elon**: Dave，你应该用 Twitter。
+    -   **Dave**: 如果你。让我告诉你件事。等等。Radio，你的手机呢？
+    -   **Dave**: 听着。好多年前，这是真的，我给你们简单讲两个 Twitter 的故事，然后我们就回家。
+    -   **观众**: \[稀落的笑声\]
+    -   **Dave**: 好多年前，我去 Twitter 上表达爱意。我把自己的名字输进去，它却说不能用名人的名字。
+    -   **观众**: \[稀落的笑声\]
+    -   **Dave**: 还说我的名字已经有人用了，是真的。
+    -   **Dave**: 于是我就上网看看谁在用我的名字，结果发现是一个假 Dave Chappelle。我当时就想，搞什么鬼？我开始想把他封掉，但我读了那个 n\*\*\*\*\* 的 tweets。这可真让人吃惊。Elon，这个混蛋太搞笑了。
+    -   **观众**: \[稀落的笑声，有人大喊“说得太他妈对了”\]
+    -   **Dave**: 于是我就想，你知道吗，就让他发吧。大家都会以为这些搞笑的屁话是我说的，而我甚至都不用开口。这可太棒了。每天早上，我醒来喝点咖啡，读着假 Dave Chappelle 的 tweets 发笑。
+    -   **Dave**: 可后来
+    -   **观众**: \[很大的声响，能听到有人说“哇”\]
+    -   **Dave**: \[用手挡住舞台灯光，好看清观众席，朝观众席望去\]打架。你们能不能别他妈闹了，你们这些 anti-\[听不清；很多人说这里说的是 facist，这有可能，也就是说这句话是在说“anti-facists”\] n\*\*\*\*\*？
+    -   **观众**: \[很大的声响，能听到一些起哄声和嘘声\]
+
+---
+
+## 原文
+
+This is a transcription of videos Elon Musk's appearance on stage with Dave Chapelle using OpenAI's Whisper model with some manual error corrections and annotations for crowd noise.
+
+As with the [Exhibit H Twitter text message release](https://danluu.com/elon-twitter-texts/), there are a lot of articles that quote bits of this, but the articles generally missing a lot of what happened and often paint a misleading picture of happened and the entire thing is short enough that you might as well watch or read it instead of reading someone's misleading summary. In general, the media seems to want to paint a highly unflattering picture of Elon, resulting in articles and virtual tweets that are factually incorrect. For example, it's been widely incorrectly reported that, during the "I'm rich, bitch" part, horns were played to drown out the crowd's booing of Elon, but the horn sounds were played when the previous person said the same thing, which was the most cheered statement that was recorded. The sounds are much weaker when Elon says "I'm rich, bitch" and can't be heard clearly, but it sounds like a mix of booing and cheering. It was probably the most positive crowd response that Elon got from anything and it seems inaccurate in at least two ways to say that horns were played to drown out the booing Elon was receiving. On the other hand, even though the media has tried to paint as negative a picture of Elon as possible, it's done quite a poor job and a boring, accurate, accounting of what happened in many of other sections are much less flattering than the misleading summaries that are being passed around.
+
+-   [Video 1](https://www.youtube.com/watch?v=CzkreBMHUFY)
+    -   **Dave**: Ladies and gentlemen, make some noise for the richest man in the world.
+    -   **Crowd**: \[mixed cheering, clapping, and boos; boos drown out cheering and clapping after a couple of seconds and continue into next statements\]
+    -   **Dave**: Cheers and boos, I say
+    -   **Crowd**: \[brief laugh, boos continue to drown out other crowd noise\]
+    -   **Dave**: Elon
+    -   **Crowd**: \[booing continues\]
+    -   **Elon**: Hey Dave
+    -   **Crowd**: \[booing intensifies\]
+    -   **Elon**: \[unintelligible over booing\]
+    -   **Dave**: Controversy, buddy.
+    -   **Crowd**: \[booing continues; some cheering can be heard\]
+    -   **Elon**: Weren't expecting this, were ya?
+    -   **Dave**: It sounds like some of them people you fired are in the audience.
+    -   **Crowd**: \[laughs, some clapping can be heard\]
+    -   **Elon**: \[laughs\]
+    -   **Crowd**: \[booing resumes\]
+    -   **Dave**: Hey, wait a minute. Those of you booing
+    -   **Crowd**: \[booing intensifies\]
+    -   **Dave**: Tough \[unintelligible due to booing\] sounds like
+    -   **Elon**: \[unintelligible due to being immediately cut off by Dave\]
+    -   **Dave**: You know there's one thing. All those people are booing. I'm just. I'm just pointing out the obvious. They have terrible seats. \[unintelligible due to crowd noise\]
+    -   **Crowd**: \[weak laughter\]
+    -   **Dave**: All coming from wayyy up there \[unintelligible\] last minute non-\[unintelligible\] n\*\*\*\*\*. Booo. Booooooo.
+    -   **Crowd**: \[quiets down\]
+    -   **Dave**: Listen.
+    -   **Crowd**: \[booing resumes\]
+    -   **Dave**: Whatever. Look motherfuckas. This n\*\*\*\* is not even trying to die on earth
+    -   **Crowd**: \[laughter mixed with booing, laughter louder than boos\]
+-   [Video 2](https://www.youtube.com/watch?v=hUkulqjTNpk)
+    -   **Dave**: His whole business model is fuck earth I'm leaving anyway
+    -   **Crowd**: \[weak laughter, weak mixed sounds\]
+    -   **Dave**: Do all you want. Take me with you n\*\*\*\* I'm going to Mars
+    -   **Crowd**: \[laughter\]
+    -   **Dave**: Whatever kind of pussy they got up there, that's what we'll be doin
+    -   **Crowd**: \[weak laughter\]
+    -   **Dave**: \[laughs\] Anti-gravity titty bars. Follow your dreams bitch and the money just flow all over the room
+    -   **Crowd**: \[weak laughter\]
+    -   **Elon**: \[laughs\]
+    -   **Crowd**: \[continued laughter drowned out by resumed booing; some cheering can be heard\]
+    -   **Elon**: Thanks for, uhh, thanks for having me on stage.
+    -   **Dave**: Are you kidding. I wouldn't miss this opportunity.
+    -   **Elon**: \[unintelligible, cut off by crowd laughter\]
+    -   **Crowd**: \[laughter\]
+    -   **Elon**: \[unintelligible, cut off by crowd laughter\]
+    -   **Dave**: The first comedy club on Mars that should be my \[pause for crowd laughter\] a deal's a deal, Musk.
+    -   **Crowd**: \[weak laughter and cheering\]
+    -   **Elon**: \[unintelligible\], yeah
+    -   **Dave**: You n\*\*\*\*\* can boo all you want. This n\*\*\*\* gave me a jet pack last Christmas
+    -   **Crowd**: \[laughter\]
+    -   **Dave**: Fly right past your house. They can boo these nuts \[unintelligible due to laughter at this line\]
+    -   **Dave**: That's how we like to chill, we do all the shit
+    -   **Crowd**: \[weak laughter, shifting to crowd talking\]
+    -   **Elon**: \[Elon shifts, as if to address crowd\]
+    -   **Crowd**: \[booing resumes\]
+    -   **Elon**: Dave, what should I say?
+    -   **Crowd**: \[booing intensifies\]
+    -   **Dave**: Don't say nothin. It'll only spoil the moment. Do you hear that sound Elon? That's the sound of pending civil unrest.
+    -   **Crowd**: \[weak laughter, some booing can initially be heard; booing intensifies until Dave cuts it off with his next line\]
+    -   **Dave**: I can't wait to see which story you decimate next motherfucka \[unintelligible\] you shut the fuck up with your boos. There's something better that you can do. Booing is not the best thing that you can do. Try it n\*\*\*\*. Make it what you want it to be. I am your ally. I wish everybody in this auditorium peace and the joy of feeling free and your pursuit of happiness make you happy. Amen. Thank you very much San Francisco. No city on earth has ever been kind to me. Thank you. Good night.
+-   [Video 3](https://www.youtube.com/watch?v=u1cl8U0UCMQ) \[lots of empty seats in the crowd at this point\]
+    -   **Dave**: \[unintelligible\] as you can. It's funnier when you say it. Are you ready? Say this \[unintelligible\] you say. Go ahead.
+    -   **Crowd**: \[weak laugther\]
+    -   **Maybe Chris Rock?**: I'm rich bitch
+    -   **Crowd**: \[loud cheers, loud horn from stage can be heard as well\]
+    -   **Unknown**: Wait wait wait wait \[hands mic to Elon\]
+    -   **Crowd**: \[laughter\]
+    -   **Elon**: \[poses\]
+    -   **Crowd**: \[laughter, booing starts to be heard over laughter\]
+    -   **Elon**: I'm rich bitch
+    -   **Crowd**: \[some sound, hard to hear over horns from stage followed by music from the DJ drowning out the crowd; sounds like some booing and some cheering\]
+-   [Video 4](https://www.youtube.com/watch?v=WSjQ5ojUvnM)
+    -   **Dave**: [Talib Kweli my good friend \[crowd cheers\] is currently banned from Twitter.](https://jezebel.com/talib-kwelis-harassment-campaign-shows-how-unprotected-1844483551)
+    -   **Crowd**: \[laughter\]
+    -   **Dave**: He goes home to \[unintelligible\], Kweli. \[hands mic to Elon\]
+    -   **Elon**: Ahh waa. Twitter cu-customer service right here.
+    -   **Crowd**: \[weak laughter\]
+    -   **Elon**: We'll get right on that.
+    -   **Crowd**: \[weak booing, gets stronger over time through next statement, until cut off by Dave\]
+    -   **Elon**: Dave, you should be on Twitter.
+    -   **Dave**: If you. Let me tell you something. Wait. Radio, where's your phone?
+    -   **Dave**: Listen. Years ago, this is true, I'll tell you two quick Twitter stories then we'll go home.
+    -   **Crowd**: \[weak laughter\]
+    -   **Dave**: Years ago, I went to love on the Twitter. I put my name in, and it said that you can't use famous people's names.
+    -   **Crowd**: \[weak laughter\]
+    -   **Dave**: And that my name was already in use, it's true.
+    -   **Dave**: So I look online to see who's using my name and it turns out it was a fake Dave Chappelle. And I was like, what the fuck? And I started to shut him down, but I read the n\*\*\*\*\* tweets. And this is shocking. This motherfucker, Elon, was hilarious.
+    -   **Crowd**: \[weak laughter, someone yells out "damn right"\]
+    -   **Dave**: So I figured, you know what, I'm gonna let him drop. And everybody will think I'm saying all this funny shit, and I don't even have to say this stuff. And it was great. Every morning I wake up and get some coffee and laugh at fake Dave Chappelle's tweets.
+    -   **Dave**: But then
+    -   **Crowd**: \[loud sounds, can hear someone say "whoa"\]
+    -   **Dave**: \[blocks stage light with hand so he can see into the crowd, looks into crowd\] Fight. Will you cut that shit out, you anti-\[unintelligible; lots of people are reporting this as facist, which is plausible, making the statement about "anti-facists"\] n\*\*\*\*\*?
+    -   **Crowd**: \[loud sounds, can hear some jeers and boos\]

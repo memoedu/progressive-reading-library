@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How to become so valuable AI will never replace you.md",
     "sha256": "3dadbb47255e4f73f3ffb20c3ef8547006365dedb5b4b184c959cb1161217fea"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ab24aa107eeca25144ee3124/reading-51719eeea1a6da1121ac92231980e8c792a87905c912ce597e40954108df22f6.md",
+      "sha256": "51719eeea1a6da1121ac92231980e8c792a87905c912ce597e40954108df22f6",
+      "original_sha256": "3dadbb47255e4f73f3ffb20c3ef8547006365dedb5b4b184c959cb1161217fea",
+      "processing_sha256": "ce36104d5f6e979991f4d4692c1c3133bb15e88749cbf904c7acdd16b2eebae8"
+    }
+  ]
 }

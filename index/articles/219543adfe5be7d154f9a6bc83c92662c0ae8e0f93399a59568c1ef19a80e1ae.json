@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/Life is a mind game, here's how you win.md",
     "sha256": "fc41f3e89cbab87969b28aed6433e86f044dd266d6d4c345ae08e23d12443ef5"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/219543adfe5be7d154f9a6bc/reading-9d48351de645aae34562f2e5b7e7aec157a51c50ac0ea5def263103a1087aa8d.md",
+      "sha256": "9d48351de645aae34562f2e5b7e7aec157a51c50ac0ea5def263103a1087aa8d",
+      "original_sha256": "fc41f3e89cbab87969b28aed6433e86f044dd266d6d4c345ae08e23d12443ef5",
+      "processing_sha256": "8de47f437fd60220a62897ff6fcd73b93a81ff6b50d6e114580ec3bff094f9df"
+    }
+  ]
 }

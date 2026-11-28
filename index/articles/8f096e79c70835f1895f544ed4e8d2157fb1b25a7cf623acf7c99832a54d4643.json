@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/360517485/answer/1975696727664268592",
+  "title": "如何有效的管理好4-5人团队?",
+  "original": {
+    "path": "原稿/8f096e79c70835f1895f544e/f688f26d3adc2ee266d9e93917b3d9551013d7076723c1764eafcecd3961a54e.md",
+    "sha256": "f688f26d3adc2ee266d9e93917b3d9551013d7076723c1764eafcecd3961a54e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8f096e79c70835f1895f544e/reading-1d7b8467d74dcfafb6f9c72612a15c556b9e1ad47d2dd8b8e82c8f196ebdec44.md",
+      "sha256": "1d7b8467d74dcfafb6f9c72612a15c556b9e1ad47d2dd8b8e82c8f196ebdec44",
+      "original_sha256": "f688f26d3adc2ee266d9e93917b3d9551013d7076723c1764eafcecd3961a54e",
+      "processing_sha256": "8a408fcdfc87992ce3dfce101f2c3056892a1fcaa8cbc4e06941727136c93367"
+    }
+  ]
+}

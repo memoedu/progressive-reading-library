@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2032011984942649735/answer/2032987998745256477",
+  "title": "vibe coding这么久了，大家有没有较好的AI开发模式经验沉淀下来？",
+  "original": {
+    "path": "原稿/11d1c35c55fedbc555674b43/151ea808c210ca6179bf1ce80a049214a7528fbec518b9c606397d24e55ce52e.md",
+    "sha256": "151ea808c210ca6179bf1ce80a049214a7528fbec518b9c606397d24e55ce52e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/11d1c35c55fedbc555674b43/reading-187ef0a4696128cf0d3d757e6b191c52542e18061db7c93d7c03b63f61846af4.md",
+      "sha256": "187ef0a4696128cf0d3d757e6b191c52542e18061db7c93d7c03b63f61846af4",
+      "original_sha256": "151ea808c210ca6179bf1ce80a049214a7528fbec518b9c606397d24e55ce52e",
+      "processing_sha256": "988e76fac8fc92a77b69e09779a7c8adf3bef2bff2bd3004eafa90f002d680df"
+    }
+  ]
+}

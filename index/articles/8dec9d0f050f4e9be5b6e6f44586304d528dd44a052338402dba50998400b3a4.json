@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/33555626/answer/2016118357179519225",
+  "title": "有哪些十分惊艳的书籍值得推荐？",
+  "original": {
+    "path": "原稿/8dec9d0f050f4e9be5b6e6f4/0566042d034011409fcbc2759fccaabd09b0adff97dad48f7f2946cef9a01e49.md",
+    "sha256": "0566042d034011409fcbc2759fccaabd09b0adff97dad48f7f2946cef9a01e49"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8dec9d0f050f4e9be5b6e6f4/reading-f39960ea430fc638bbf35c1991757d86671b5d5bc51e29db5f99a73aa21ea9ac.md",
+      "sha256": "f39960ea430fc638bbf35c1991757d86671b5d5bc51e29db5f99a73aa21ea9ac",
+      "original_sha256": "0566042d034011409fcbc2759fccaabd09b0adff97dad48f7f2946cef9a01e49",
+      "processing_sha256": "1a93bc95f8a1ad853b15bb672af7496d54a62f8a13ff1338b7cef906f9168bb3"
+    }
+  ]
+}

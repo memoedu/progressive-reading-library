@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How to remember everything you read... don't.md",
     "sha256": "eede92f178689b43df20e218b1a986e1ecff0d84c32f760e28e259ee46d9d588"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d87d42ae1bd755c755481c63/reading-b5d7de30287c07c6b8c99008249b17dbd4cac178f19d44579be96ccb2841b27c.md",
+      "sha256": "b5d7de30287c07c6b8c99008249b17dbd4cac178f19d44579be96ccb2841b27c",
+      "original_sha256": "eede92f178689b43df20e218b1a986e1ecff0d84c32f760e28e259ee46d9d588",
+      "processing_sha256": "80c0aa597618d445ca42071564f1c46fa42daf316a589abd09451639c76c9af5"
+    }
+  ]
 }

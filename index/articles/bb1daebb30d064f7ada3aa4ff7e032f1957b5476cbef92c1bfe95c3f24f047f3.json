@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/311672493/answer/67778259803",
+  "title": "高三有哪些相见恨晚的刷题技巧？",
+  "original": {
+    "path": "原稿/bb1daebb30d064f7ada3aa4f/6c044b431ef56af760ca1a9eefcb05a41c1a68f98e9c8d5ed2710b70e31f5b8e.md",
+    "sha256": "6c044b431ef56af760ca1a9eefcb05a41c1a68f98e9c8d5ed2710b70e31f5b8e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/bb1daebb30d064f7ada3aa4f/reading-bcb9d6b0b2f7c74463e31f3d2e1508b50070c59210ce536aaed77fa003e6395e.md",
+      "sha256": "bcb9d6b0b2f7c74463e31f3d2e1508b50070c59210ce536aaed77fa003e6395e",
+      "original_sha256": "6c044b431ef56af760ca1a9eefcb05a41c1a68f98e9c8d5ed2710b70e31f5b8e",
+      "processing_sha256": "4734e976c2f026eb05daf254ac539922cc5b9c560cbe267cccba2a8cfdd2849e"
+    }
+  ]
+}

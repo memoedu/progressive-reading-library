@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/24583681/answer/2032255206692479548",
+  "title": "数学中的「分析」是什么意思？",
+  "original": {
+    "path": "原稿/ca8ef3b1acfa5c450e00aeda/60eb3431d5575b30930b5fbccee307d688acd8e21b87e86fb60811b86b9c6b32.md",
+    "sha256": "60eb3431d5575b30930b5fbccee307d688acd8e21b87e86fb60811b86b9c6b32"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ca8ef3b1acfa5c450e00aeda/reading-d195b5efe776dfdffc482e35e0c103c56902783f2c2fb3271f5e9ed801eb9325.md",
+      "sha256": "d195b5efe776dfdffc482e35e0c103c56902783f2c2fb3271f5e9ed801eb9325",
+      "original_sha256": "60eb3431d5575b30930b5fbccee307d688acd8e21b87e86fb60811b86b9c6b32",
+      "processing_sha256": "a91662d651c16117be837cf05593e09f5083232cee1dfcbef65f86f2519d8f08"
+    }
+  ]
+}

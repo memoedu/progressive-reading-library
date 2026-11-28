@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2038235770272609780",
+  "title": "关于美国和中日韩线下娱乐休闲产业的一些思考",
+  "original": {
+    "path": "原稿/4761e04cedf574a4387ffd5a/1638591d4cc30e083ad4329b76116a6d739da5771f30d59a81f398bff19ac2a7.md",
+    "sha256": "1638591d4cc30e083ad4329b76116a6d739da5771f30d59a81f398bff19ac2a7"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4761e04cedf574a4387ffd5a/reading-b602a5c63da3d982f57ae9e25ce13819d2078cec0bbabc1a233d07ce8c2b4e24.md",
+      "sha256": "b602a5c63da3d982f57ae9e25ce13819d2078cec0bbabc1a233d07ce8c2b4e24",
+      "original_sha256": "1638591d4cc30e083ad4329b76116a6d739da5771f30d59a81f398bff19ac2a7",
+      "processing_sha256": "303ab4cb835e7a2b5847e22b56b1478e0f124c75bcfe61082406dbd6d1922378"
+    }
+  ]
+}

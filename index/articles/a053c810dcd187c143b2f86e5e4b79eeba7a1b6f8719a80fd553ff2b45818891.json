@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Justin Math/Math Academy Success Stories.md",
     "sha256": "f4839a60c3dd6cdf758175b5a821c8e78d358165dbf9cbb0b2ce1c80fa9d2caa"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a053c810dcd187c143b2f86e/reading-1c7a04fec08db6d777f43d5bbaa41cba6eaa3c478289f6c9907e783209e57cc0.md",
+      "sha256": "1c7a04fec08db6d777f43d5bbaa41cba6eaa3c478289f6c9907e783209e57cc0",
+      "original_sha256": "f4839a60c3dd6cdf758175b5a821c8e78d358165dbf9cbb0b2ce1c80fa9d2caa",
+      "processing_sha256": "8d3977bc3496230cff0e529275ce2ba6412d0e1e8ad418d02c23437f884375cd"
+    }
+  ]
 }

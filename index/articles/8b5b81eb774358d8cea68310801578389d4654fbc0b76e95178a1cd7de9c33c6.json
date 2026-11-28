@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/The most lucrative AI business to start in 2027.md",
     "sha256": "849c373e0ed6db13512e99ebe1f7e97d3603de5171584572c501cbe24bf05b1d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8b5b81eb774358d8cea68310/reading-a04c323b962ca6b0d7dc7767b65308e9f5ced68f518a1500754e09cb263e9a67.md",
+      "sha256": "a04c323b962ca6b0d7dc7767b65308e9f5ced68f518a1500754e09cb263e9a67",
+      "original_sha256": "849c373e0ed6db13512e99ebe1f7e97d3603de5171584572c501cbe24bf05b1d",
+      "processing_sha256": "9b969e49ae0067080d3ee5c412d362f0f2238f21294894a63df882cb68b72906"
+    }
+  ]
 }

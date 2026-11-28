@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/18092754009",
+  "title": "深度学习模型和软件架构的联系——宏观核心逻辑的重要性",
+  "original": {
+    "path": "原稿/a5ae1e3d490f10016b813793/d173fd2a8158bdc94878ef4311442f1adaecee9298aa2543b7cd840b2d988b2f.md",
+    "sha256": "d173fd2a8158bdc94878ef4311442f1adaecee9298aa2543b7cd840b2d988b2f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a5ae1e3d490f10016b813793/reading-d7593a33016a3f73002021bbace3559c96b295e96fd65dbb179854fb410731ab.md",
+      "sha256": "d7593a33016a3f73002021bbace3559c96b295e96fd65dbb179854fb410731ab",
+      "original_sha256": "d173fd2a8158bdc94878ef4311442f1adaecee9298aa2543b7cd840b2d988b2f",
+      "processing_sha256": "f97a9c601977770b4d38a5246c75abcf208f76909727aa77cb1834669b4591c1"
+    }
+  ]
+}

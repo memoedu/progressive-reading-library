@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/24240306/answer/2058665101540975266",
+  "title": "有什么技能值得花时间学习？",
+  "original": {
+    "path": "原稿/b3b787ebf3e19664a001d912/3bb0f01f45486231d539162d57bded473bb8ed083bb0366ec306a7d7c6c90cb2.md",
+    "sha256": "3bb0f01f45486231d539162d57bded473bb8ed083bb0366ec306a7d7c6c90cb2"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b3b787ebf3e19664a001d912/reading-b75953dc7ed4ea80ca5923dbc76e6373c3b008d31121ec85c9114f111404d6df.md",
+      "sha256": "b75953dc7ed4ea80ca5923dbc76e6373c3b008d31121ec85c9114f111404d6df",
+      "original_sha256": "3bb0f01f45486231d539162d57bded473bb8ed083bb0366ec306a7d7c6c90cb2",
+      "processing_sha256": "d5fd6cde0a4f03b2ec040e3f4d170633e90f0ecd9ebd711ba72526f325a14948"
+    }
+  ]
+}

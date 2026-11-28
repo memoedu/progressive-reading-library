@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2063813715045114207",
+  "title": "《赛博时代做题家生存指南》：做题家如何找到真爱，显化的力量，迷茫之时的良药：游戏、二次元美少女和数学",
+  "original": {
+    "path": "原稿/4620ade655544958d5b7712f/ede9c898ce86bcddb0420b897f57d23c787287fa9a240ddc99e32ef3a6ff60d4.md",
+    "sha256": "ede9c898ce86bcddb0420b897f57d23c787287fa9a240ddc99e32ef3a6ff60d4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4620ade655544958d5b7712f/reading-25b0418d1dea7ff7f3e5a4abc3a1504a00886065e96ee52dd3014478552a743e.md",
+      "sha256": "25b0418d1dea7ff7f3e5a4abc3a1504a00886065e96ee52dd3014478552a743e",
+      "original_sha256": "ede9c898ce86bcddb0420b897f57d23c787287fa9a240ddc99e32ef3a6ff60d4",
+      "processing_sha256": "852ad237662e2900c1ae427b08edbfd20cdf43e0636b4a8a4afcc4fbd66eb892"
+    }
+  ]
+}

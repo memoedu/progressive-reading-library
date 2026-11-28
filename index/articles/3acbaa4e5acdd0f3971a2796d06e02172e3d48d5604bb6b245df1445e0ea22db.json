@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/writes.html",
+  "title": "Writes and Write-Nots",
+  "original": {
+    "path": "原稿/3acbaa4e5acdd0f3971a2796/230de39388fc74fe709cd180125a2e2e82b1fb545358b2bed2a2b65a362ea941.md",
+    "sha256": "230de39388fc74fe709cd180125a2e2e82b1fb545358b2bed2a2b65a362ea941"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3acbaa4e5acdd0f3971a2796/reading-6fce831631168c4f47eed3735f54109da69bbd8f6a69ff668628d6fc0b2f4a1b.md",
+      "sha256": "6fce831631168c4f47eed3735f54109da69bbd8f6a69ff668628d6fc0b2f4a1b",
+      "original_sha256": "230de39388fc74fe709cd180125a2e2e82b1fb545358b2bed2a2b65a362ea941",
+      "processing_sha256": "137876e726182677edcb18acd85567302a1cc278ed1ab4312b899851ffc725df"
+    }
+  ]
+}

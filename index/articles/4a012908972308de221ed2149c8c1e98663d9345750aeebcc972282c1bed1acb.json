@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/569024071/answer/2011520191645914617",
+  "title": "掌握什么思想会让你的数学水平有质的飞跃?",
+  "original": {
+    "path": "原稿/4a012908972308de221ed214/da5d2d99916c8454f0a1414db8ba32a7829ead63974f694bd7a411e6654e541d.md",
+    "sha256": "da5d2d99916c8454f0a1414db8ba32a7829ead63974f694bd7a411e6654e541d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4a012908972308de221ed214/reading-06fffd61a08ae575bf0f696c0e743e775c373fc4cba5b89283641529342b3c95.md",
+      "sha256": "06fffd61a08ae575bf0f696c0e743e775c373fc4cba5b89283641529342b3c95",
+      "original_sha256": "da5d2d99916c8454f0a1414db8ba32a7829ead63974f694bd7a411e6654e541d",
+      "processing_sha256": "a6ce77d5e1d71a156e0d498780d7999e988285486d02f2214c6d5e9683851c89"
+    }
+  ]
+}

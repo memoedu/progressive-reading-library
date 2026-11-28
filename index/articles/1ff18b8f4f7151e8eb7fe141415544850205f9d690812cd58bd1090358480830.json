@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1998717508845327242",
+  "title": "课上全懂，考试就懵？[Ω.26.01]",
+  "original": {
+    "path": "原稿/1ff18b8f4f7151e8eb7fe141/e565d70dfa582a41978bcc77393c735e1bb7e0e6eace04dbbdc5363778a8eb08.md",
+    "sha256": "e565d70dfa582a41978bcc77393c735e1bb7e0e6eace04dbbdc5363778a8eb08"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1ff18b8f4f7151e8eb7fe141/reading-92367a9d0c53c704bac39ce16a49749daee0117ad816a66369ea668452f0b54d.md",
+      "sha256": "92367a9d0c53c704bac39ce16a49749daee0117ad816a66369ea668452f0b54d",
+      "original_sha256": "e565d70dfa582a41978bcc77393c735e1bb7e0e6eace04dbbdc5363778a8eb08",
+      "processing_sha256": "8ac14e183a07cdd6079c1957071025d5e5a306efc31b8264214b37cc397baebc"
+    }
+  ]
+}

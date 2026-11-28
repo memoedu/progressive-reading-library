@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2021956492085962412",
+  "title": "[硬核分析] 1749 家死掉的创业公司尸检报告",
+  "original": {
+    "path": "原稿/26991b3015bbfd37c3575edf/f495a0045065e87a65d5e39fab282e0717be6a7d8b48aa644a90d4d5c44d916c.md",
+    "sha256": "f495a0045065e87a65d5e39fab282e0717be6a7d8b48aa644a90d4d5c44d916c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/26991b3015bbfd37c3575edf/reading-4e4d0c83a3b82b39f2111e42ee4e70fdd60b21416d8d7ae541885e945f30b55b.md",
+      "sha256": "4e4d0c83a3b82b39f2111e42ee4e70fdd60b21416d8d7ae541885e945f30b55b",
+      "original_sha256": "f495a0045065e87a65d5e39fab282e0717be6a7d8b48aa644a90d4d5c44d916c",
+      "processing_sha256": "1e22457e9dd29017b467844239aa65b649c3e5a7a18b975f71aacc491d8a2a9a"
+    }
+  ]
+}

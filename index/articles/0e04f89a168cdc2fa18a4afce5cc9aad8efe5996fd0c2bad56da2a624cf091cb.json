@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/575674852/answer/1973486410955780970",
+  "title": "你为什么停止健身了？",
+  "original": {
+    "path": "原稿/0e04f89a168cdc2fa18a4afc/858eb2d2e170fe79b7d64bdbb386c737ac2dfa5b570adb6979bba46827950363.md",
+    "sha256": "858eb2d2e170fe79b7d64bdbb386c737ac2dfa5b570adb6979bba46827950363"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0e04f89a168cdc2fa18a4afc/reading-39569079826dac85b78f29f8eb72a296e56f8cce6cb6ed0a095373ffbab1e8e8.md",
+      "sha256": "39569079826dac85b78f29f8eb72a296e56f8cce6cb6ed0a095373ffbab1e8e8",
+      "original_sha256": "858eb2d2e170fe79b7d64bdbb386c737ac2dfa5b570adb6979bba46827950363",
+      "processing_sha256": "495573f4e15b8bcf14b30fb802dbdebb84dba72c5cf365b52dd4a69a536791ae"
+    }
+  ]
+}

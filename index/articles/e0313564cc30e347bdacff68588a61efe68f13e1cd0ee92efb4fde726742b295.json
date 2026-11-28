@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/field.html",
+  "title": "The Shape of the Essay Field",
+  "original": {
+    "path": "原稿/e0313564cc30e347bdacff68/28c619a33490e76713f15a533b8fc589dfab875661e4b59407163083232431c6.md",
+    "sha256": "28c619a33490e76713f15a533b8fc589dfab875661e4b59407163083232431c6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e0313564cc30e347bdacff68/reading-e467299bf3b0db4f8a696f6430ed2954a68e58f611e363994a6ea4b8eced8618.md",
+      "sha256": "e467299bf3b0db4f8a696f6430ed2954a68e58f611e363994a6ea4b8eced8618",
+      "original_sha256": "28c619a33490e76713f15a533b8fc589dfab875661e4b59407163083232431c6",
+      "processing_sha256": "4129537e7e3d3dc220bb79e17aa20f6abcaaa201561a2509a82f3699e05f4a96"
+    }
+  ]
+}

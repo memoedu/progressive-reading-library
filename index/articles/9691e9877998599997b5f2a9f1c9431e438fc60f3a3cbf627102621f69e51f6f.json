@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/The influencer is dead. The Age of Experience is here.md",
     "sha256": "4aca5a793dd6a904cc3b529056064bcd8ea60820b5d0572524ce55c1157ca97a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9691e9877998599997b5f2a9/reading-b1e3cdfb383cb689b954ad784433a747950d12e80e13d55a19413c1ed1de7358.md",
+      "sha256": "b1e3cdfb383cb689b954ad784433a747950d12e80e13d55a19413c1ed1de7358",
+      "original_sha256": "4aca5a793dd6a904cc3b529056064bcd8ea60820b5d0572524ce55c1157ca97a",
+      "processing_sha256": "4ac9975defe44b696ea78cc0e2bdcec06ddca0032dc2039a85aa809fbd7753bd"
+    }
+  ]
 }

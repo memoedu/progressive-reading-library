@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2033334385555010512",
+  "title": "如何用AI学会所有东西：基于Obsidian+Claude Code的个人知识库构建",
+  "original": {
+    "path": "原稿/46d31d8382360372b425c94b/ac44a94f810f29f2cbaa465d84b67951b03dd41eda2e12625433ecf34fb2489e.md",
+    "sha256": "ac44a94f810f29f2cbaa465d84b67951b03dd41eda2e12625433ecf34fb2489e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/46d31d8382360372b425c94b/reading-89d1aef21f9a5ef43576d4553d1dfdddbf51bce40ae128362d77cf7b9637649a.md",
+      "sha256": "89d1aef21f9a5ef43576d4553d1dfdddbf51bce40ae128362d77cf7b9637649a",
+      "original_sha256": "ac44a94f810f29f2cbaa465d84b67951b03dd41eda2e12625433ecf34fb2489e",
+      "processing_sha256": "a16bdc7da64c9cef79a2801556695a9ea38e184e590e75991b3baba68074cc0a"
+    }
+  ]
+}

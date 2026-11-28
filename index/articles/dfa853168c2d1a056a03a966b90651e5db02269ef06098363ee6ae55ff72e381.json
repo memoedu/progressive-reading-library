@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/The future of work when work is meaningless.md",
     "sha256": "6bdf05b48500d4b664fdff9543c045467d9cd7b00a4aa0cd63c26456cf943a96"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dfa853168c2d1a056a03a966/reading-575d0d7a401f2c9e0618a5a1136d9cb4b13f5766a6a87a9df5b0a734a1fbcf16.md",
+      "sha256": "575d0d7a401f2c9e0618a5a1136d9cb4b13f5766a6a87a9df5b0a734a1fbcf16",
+      "original_sha256": "6bdf05b48500d4b664fdff9543c045467d9cd7b00a4aa0cd63c26456cf943a96",
+      "processing_sha256": "c534e373e9d32217093c5a5a7063254ba4c21c7408c7e74a2c1d82c83b399313"
+    }
+  ]
 }

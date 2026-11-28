@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1970539058376717542",
+  "title": "学习的真正引擎：提取、解释与应用",
+  "original": {
+    "path": "原稿/9882b3a0de07a63d2fd339cf/1442ebff89334cda29d9142516aab304bad0c67c7bbe9e79449a8e712b89fee4.md",
+    "sha256": "1442ebff89334cda29d9142516aab304bad0c67c7bbe9e79449a8e712b89fee4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9882b3a0de07a63d2fd339cf/reading-fb6f1e0fe4ecc8b4b8b7eab41bfd9574fa0db3ac264915e3aa6fcef77457095c.md",
+      "sha256": "fb6f1e0fe4ecc8b4b8b7eab41bfd9574fa0db3ac264915e3aa6fcef77457095c",
+      "original_sha256": "1442ebff89334cda29d9142516aab304bad0c67c7bbe9e79449a8e712b89fee4",
+      "processing_sha256": "4d481561109bc4df93ba1e073fffa31b2f69ba73dbc81a7c44afe55a26981cd7"
+    }
+  ]
+}

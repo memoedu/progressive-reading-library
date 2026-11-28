@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/20212941627",
+  "title": "obsidian_to_anki 使用和配置分享——Anki 使用经验分享系列(2)",
+  "original": {
+    "path": "原稿/8b4fd9baa7e1e4bf45006801/23b5d0e7e70af823e70de76a7a5e6fa33dba2858e5301bcd51950ce4f18591eb.md",
+    "sha256": "23b5d0e7e70af823e70de76a7a5e6fa33dba2858e5301bcd51950ce4f18591eb"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8b4fd9baa7e1e4bf45006801/reading-14a6a039b5006cd3b87833e31a363f107cf489f060d7f16b78f7f0735b33245e.md",
+      "sha256": "14a6a039b5006cd3b87833e31a363f107cf489f060d7f16b78f7f0735b33245e",
+      "original_sha256": "23b5d0e7e70af823e70de76a7a5e6fa33dba2858e5301bcd51950ce4f18591eb",
+      "processing_sha256": "844d0bbdd5dd1591305212faf735c3d911234b007ab393613eab8ed1e10aceb3"
+    }
+  ]
+}

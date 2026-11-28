@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2043638580833162518",
+  "title": "增加商务会议的参会价值的底层逻辑（Conference as Information Market）",
+  "original": {
+    "path": "原稿/77c72fc6a4756d40dd2381f5/988bd7fa4353364430717ad2ee0150cf0d9dcd524caed7a77c5086ac6b5d3ba7.md",
+    "sha256": "988bd7fa4353364430717ad2ee0150cf0d9dcd524caed7a77c5086ac6b5d3ba7"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/77c72fc6a4756d40dd2381f5/reading-abd9b5b4b4e1da040b91e81abb37fcbc4032b3b031c0f052221ba6e19611c088.md",
+      "sha256": "abd9b5b4b4e1da040b91e81abb37fcbc4032b3b031c0f052221ba6e19611c088",
+      "original_sha256": "988bd7fa4353364430717ad2ee0150cf0d9dcd524caed7a77c5086ac6b5d3ba7",
+      "processing_sha256": "e2a8d3ec41d6dc8dd7b7e880f7296abb840919f97e3a5ed117082748bfc860a1"
+    }
+  ]
+}

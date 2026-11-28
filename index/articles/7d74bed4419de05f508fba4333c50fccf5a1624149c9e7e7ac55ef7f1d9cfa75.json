@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/641912640/answer/2071210014354755799",
+  "title": "你支持计划经济吗？为什么？",
+  "original": {
+    "path": "原稿/7d74bed4419de05f508fba43/dbd244e1ca8876a306df67b168dba7e1f09c7ca3113ddf53ddf264d30bef0777.md",
+    "sha256": "dbd244e1ca8876a306df67b168dba7e1f09c7ca3113ddf53ddf264d30bef0777"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7d74bed4419de05f508fba43/reading-1773e0e3836f2ba7c2f84020bc907d92f210160e68c34d97b29b83423fbc9e50.md",
+      "sha256": "1773e0e3836f2ba7c2f84020bc907d92f210160e68c34d97b29b83423fbc9e50",
+      "original_sha256": "dbd244e1ca8876a306df67b168dba7e1f09c7ca3113ddf53ddf264d30bef0777",
+      "processing_sha256": "b0d71355a56e8da738f98b464fb0fe24915ceb5ad160b94be30dc5f8a751efc8"
+    }
+  ]
+}

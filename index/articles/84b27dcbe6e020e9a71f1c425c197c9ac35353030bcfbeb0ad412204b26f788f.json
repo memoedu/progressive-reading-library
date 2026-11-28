@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1979332779868176846",
+  "title": "用一张表读完所有论文：我的通用「三层工作流」",
+  "original": {
+    "path": "原稿/84b27dcbe6e020e9a71f1c42/63506c3d3afb358a7f4262ab226a9f2d96a60d35dec259fe6f8b45cef7796247.md",
+    "sha256": "63506c3d3afb358a7f4262ab226a9f2d96a60d35dec259fe6f8b45cef7796247"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/84b27dcbe6e020e9a71f1c42/reading-3d2bd95e0fab6a0e664fb2b1c096a64cc1083118827cf626b48e0f79e8cdbe85.md",
+      "sha256": "3d2bd95e0fab6a0e664fb2b1c096a64cc1083118827cf626b48e0f79e8cdbe85",
+      "original_sha256": "63506c3d3afb358a7f4262ab226a9f2d96a60d35dec259fe6f8b45cef7796247",
+      "processing_sha256": "48d010e757d1953a2c67ead28502243c3ef9dc67eaf20e18cc059b6773aae435"
+    }
+  ]
+}

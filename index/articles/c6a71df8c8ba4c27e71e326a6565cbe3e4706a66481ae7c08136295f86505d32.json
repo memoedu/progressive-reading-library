@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1958166541657962393",
+  "title": "一些想法",
+  "original": {
+    "path": "原稿/c6a71df8c8ba4c27e71e326a/91640d1008394164213afd3469f6af99798acc45fc3883eaceba1a21bc0deb6f.md",
+    "sha256": "91640d1008394164213afd3469f6af99798acc45fc3883eaceba1a21bc0deb6f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c6a71df8c8ba4c27e71e326a/reading-8d8f38eea7a9937bdf7e533826a2e902e5d882f4f972ca54ccf9cedb5be372cf.md",
+      "sha256": "8d8f38eea7a9937bdf7e533826a2e902e5d882f4f972ca54ccf9cedb5be372cf",
+      "original_sha256": "91640d1008394164213afd3469f6af99798acc45fc3883eaceba1a21bc0deb6f",
+      "processing_sha256": "03aaabc975f12082a34cc0a188385a1859301c86a8a51ae40a19acf0345abf9c"
+    }
+  ]
+}

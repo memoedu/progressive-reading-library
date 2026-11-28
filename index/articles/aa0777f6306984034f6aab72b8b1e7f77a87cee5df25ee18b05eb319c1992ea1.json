@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2032134966142836967",
+  "title": "腾讯云+Openclaw+DeepSeek出现request failed排查解决",
+  "original": {
+    "path": "原稿/aa0777f6306984034f6aab72/863839801ca80b1bc182e5ff8ee62458a60005a0d9d279db740d3cc3f5196649.md",
+    "sha256": "863839801ca80b1bc182e5ff8ee62458a60005a0d9d279db740d3cc3f5196649"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/aa0777f6306984034f6aab72/reading-d9833cc3490633ba07186c7433c31392a565e019ad4c27713c670923e34d35d8.md",
+      "sha256": "d9833cc3490633ba07186c7433c31392a565e019ad4c27713c670923e34d35d8",
+      "original_sha256": "863839801ca80b1bc182e5ff8ee62458a60005a0d9d279db740d3cc3f5196649",
+      "processing_sha256": "3258e917c4d2f346697244e8583565dd95632326498bcdba7b7b9b665a03dc10"
+    }
+  ]
+}

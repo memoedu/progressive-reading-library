@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://epress.nus.edu.sg/cpcfutures/9789811852060-5.pdf",
+  "title": "Canonising Xi Jinping Thought: Ideological Engineering and Its Real-world Relevance",
+  "original": {
+    "path": "原稿/279b02f976385347d68f48b2/edea8db75cf4b7d5bd77bf007a28bb8feff8345b6e7c0c9a1339e3df4e993915.md",
+    "sha256": "edea8db75cf4b7d5bd77bf007a28bb8feff8345b6e7c0c9a1339e3df4e993915"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/279b02f976385347d68f48b2/reading-67607412073504dbf6215faff60cfdb734e68d63dec42099be7e8a0600d775e8.md",
+      "sha256": "67607412073504dbf6215faff60cfdb734e68d63dec42099be7e8a0600d775e8",
+      "original_sha256": "edea8db75cf4b7d5bd77bf007a28bb8feff8345b6e7c0c9a1339e3df4e993915",
+      "processing_sha256": "273dc2648ae0cb605cceefc305999f564ca74a3dc112e7190ceff1b2155b9473"
+    }
+  ]
+}

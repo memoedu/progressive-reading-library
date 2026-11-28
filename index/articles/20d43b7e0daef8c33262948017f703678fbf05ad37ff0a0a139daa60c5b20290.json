@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/12788004521/answer/2040582143710122690",
+  "title": "创业需要解决的核心问题是什么？",
+  "original": {
+    "path": "原稿/20d43b7e0daef8c332629480/363159ef9335d28a6f73842d30f5a76890d89cd826382b121feebbf69ed0e24c.md",
+    "sha256": "363159ef9335d28a6f73842d30f5a76890d89cd826382b121feebbf69ed0e24c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/20d43b7e0daef8c332629480/reading-e388063fe7a7e56bb4db4de5ba0e64e969c6e6ef5d33101bf4846c8e66f2798a.md",
+      "sha256": "e388063fe7a7e56bb4db4de5ba0e64e969c6e6ef5d33101bf4846c8e66f2798a",
+      "original_sha256": "363159ef9335d28a6f73842d30f5a76890d89cd826382b121feebbf69ed0e24c",
+      "processing_sha256": "870164d935170573b231a7d6f1ee6b022c2a442c444dad28beeed9705b09ecc5"
+    }
+  ]
+}

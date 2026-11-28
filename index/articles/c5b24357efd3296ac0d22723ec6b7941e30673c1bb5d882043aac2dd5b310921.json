@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2063018270504875519/answer/2063340233513494177",
+  "title": "AI Coding 工具和模型变化这么快，哪些经验不会随着模型升级而过时？",
+  "original": {
+    "path": "原稿/c5b24357efd3296ac0d22723/1cbe20fe5ac38191e11a76babffeaa096bde6d40769133dcddd70257f3e6c0a2.md",
+    "sha256": "1cbe20fe5ac38191e11a76babffeaa096bde6d40769133dcddd70257f3e6c0a2"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c5b24357efd3296ac0d22723/reading-a01cc4b4fe5b1fc335ad7ae5b6dc65a7656c4bc3e1d0707fc350c6362e0b3a5e.md",
+      "sha256": "a01cc4b4fe5b1fc335ad7ae5b6dc65a7656c4bc3e1d0707fc350c6362e0b3a5e",
+      "original_sha256": "1cbe20fe5ac38191e11a76babffeaa096bde6d40769133dcddd70257f3e6c0a2",
+      "processing_sha256": "04ad6263f2d5c7e53c34369408efc07122c2d741b2db109f996c34afd0f3bb7a"
+    }
+  ]
+}

@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How to stand out in the dead internet.md",
     "sha256": "86b5e957259671f18124c1d1070006b322cdfa02c9f91fe14353912397baf069"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7126625bab72dfb3e1a92db5/reading-a4e395562f7e728ff3976d9a5d28c19f7f874714fcee01ed9dacc57037c061ac.md",
+      "sha256": "a4e395562f7e728ff3976d9a5d28c19f7f874714fcee01ed9dacc57037c061ac",
+      "original_sha256": "86b5e957259671f18124c1d1070006b322cdfa02c9f91fe14353912397baf069",
+      "processing_sha256": "4647c6f3fb0c694e911f959d45f217f3101a5b52cf9c26225aded4c5a7688559"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/4318706626/answer/36753193410",
+  "title": "大一计算机新生想玩Linux，收台二手笔记本电脑重装系统是不是最优解?",
+  "original": {
+    "path": "原稿/c34746e583e4bc91ccc211bd/04588628f108179545be7fe72b4530c19ca215c2364a115b9fae6d054de71f5f.md",
+    "sha256": "04588628f108179545be7fe72b4530c19ca215c2364a115b9fae6d054de71f5f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c34746e583e4bc91ccc211bd/reading-5b3e7eb6f329ac7c4e76f988853f36f16897b5e89265fd29423f6e83bfb141d4.md",
+      "sha256": "5b3e7eb6f329ac7c4e76f988853f36f16897b5e89265fd29423f6e83bfb141d4",
+      "original_sha256": "04588628f108179545be7fe72b4530c19ca215c2364a115b9fae6d054de71f5f",
+      "processing_sha256": "034bbc23df8be2b094cbf8ac24587fe75a2c6ad876d5aed16ca452d180a1f982"
+    }
+  ]
+}

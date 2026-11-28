@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/You need to be delusional if you want to succeed.md",
     "sha256": "c3bba129c43b7348f8a4e59e362b7655309b46d50be18aa6cd2739054ad172ed"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7ae4418eef6b962c05abdb82/reading-f3f115b688bcde3545c01c91754d7968a1d4f9b211ecee9456ac5f445af0aaf8.md",
+      "sha256": "f3f115b688bcde3545c01c91754d7968a1d4f9b211ecee9456ac5f445af0aaf8",
+      "original_sha256": "c3bba129c43b7348f8a4e59e362b7655309b46d50be18aa6cd2739054ad172ed",
+      "processing_sha256": "1a1f2a92285c68f65c2561a035fbfed81bd4bd20f7cdd6400908ff25d53215ab"
+    }
+  ]
 }

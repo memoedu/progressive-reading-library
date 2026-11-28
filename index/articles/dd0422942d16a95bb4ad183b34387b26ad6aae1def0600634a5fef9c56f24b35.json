@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2029888609017422176/answer/2035216875630633240",
+  "title": "假设AI蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
+  "original": {
+    "path": "原稿/dd0422942d16a95bb4ad183b/a651bfce722c4e151f937d54770edbd357b1537c1541fc3ef997898a73f57ca3.md",
+    "sha256": "a651bfce722c4e151f937d54770edbd357b1537c1541fc3ef997898a73f57ca3"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dd0422942d16a95bb4ad183b/reading-c8fe09b9929c70643dd2274ec1d165485c844e6586f7c8f5bb482c83bf682411.md",
+      "sha256": "c8fe09b9929c70643dd2274ec1d165485c844e6586f7c8f5bb482c83bf682411",
+      "original_sha256": "a651bfce722c4e151f937d54770edbd357b1537c1541fc3ef997898a73f57ca3",
+      "processing_sha256": "064ccdb78177f6d3452df2572c71debc8558279e485c3f50a8c25a924ed5f85a"
+    }
+  ]
+}

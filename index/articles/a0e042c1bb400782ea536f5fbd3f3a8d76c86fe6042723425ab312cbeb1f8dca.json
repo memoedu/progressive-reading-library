@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/39741102/answer/2034448063541065257",
+  "title": "怎样看待萧沆(齐奥朗)在当代哲学中的地位？",
+  "original": {
+    "path": "原稿/a0e042c1bb400782ea536f5f/d635f0995c7601017d122292614c5e9a517612c04b271f5f3e0ff19e191c4d84.md",
+    "sha256": "d635f0995c7601017d122292614c5e9a517612c04b271f5f3e0ff19e191c4d84"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a0e042c1bb400782ea536f5f/reading-908f15f64f3941fc2c97d04fe5689193a92a51f1c3587194d545bb7c0aad417b.md",
+      "sha256": "908f15f64f3941fc2c97d04fe5689193a92a51f1c3587194d545bb7c0aad417b",
+      "original_sha256": "d635f0995c7601017d122292614c5e9a517612c04b271f5f3e0ff19e191c4d84",
+      "processing_sha256": "39a05f71d60ebf2837474a45939241cde0d8d6fed6ae5d480fb3b7542e3e2452"
+    }
+  ]
+}

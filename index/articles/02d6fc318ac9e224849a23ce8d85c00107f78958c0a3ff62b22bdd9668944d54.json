@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2043767784300078280",
+  "title": "数学系 Codex 教程（一）：Codex + Git + Overleaf 论文写作工作流",
+  "original": {
+    "path": "原稿/02d6fc318ac9e224849a23ce/d8edaefa8d1e1898922f99d90852601f913959961f81d903c4f666fe9b390622.md",
+    "sha256": "d8edaefa8d1e1898922f99d90852601f913959961f81d903c4f666fe9b390622"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/02d6fc318ac9e224849a23ce/reading-4928ef3e5b5cf68c00a5563d572c084ca47ed17f82ef43babd4c484616d5882b.md",
+      "sha256": "4928ef3e5b5cf68c00a5563d572c084ca47ed17f82ef43babd4c484616d5882b",
+      "original_sha256": "d8edaefa8d1e1898922f99d90852601f913959961f81d903c4f666fe9b390622",
+      "processing_sha256": "faa1d7d5252a2ba3171ee0117ff39848d21b180159c144d2910748b7b4576ab8"
+    }
+  ]
+}

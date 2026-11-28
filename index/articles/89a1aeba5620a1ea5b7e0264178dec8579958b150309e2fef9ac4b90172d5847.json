@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/31937124/answer/1891635807669962624",
+  "title": "有哪些你想发明却已经被人发明了的东西？",
+  "original": {
+    "path": "原稿/89a1aeba5620a1ea5b7e0264/3d9f660a08cbebe2a529869480e5c04f54e889a935f8ff54d6850a5f5150e380.md",
+    "sha256": "3d9f660a08cbebe2a529869480e5c04f54e889a935f8ff54d6850a5f5150e380"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/89a1aeba5620a1ea5b7e0264/reading-fc4ff65fee9518fad39fd1472bf3c983514b21eb81f5bfda331e1927fcf9ed8d.md",
+      "sha256": "fc4ff65fee9518fad39fd1472bf3c983514b21eb81f5bfda331e1927fcf9ed8d",
+      "original_sha256": "3d9f660a08cbebe2a529869480e5c04f54e889a935f8ff54d6850a5f5150e380",
+      "processing_sha256": "2e6052184c06b99b711c16c23c152d9bc378e1995b0659e83b2d0e43b052053a"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2044888083099805471",
+  "title": "MLO的分流原则，MLO的轻快使用方式 | MyLifeOrganized",
+  "original": {
+    "path": "原稿/0df0c56518bcd98e43dbcd93/1b17870a2b8e8dc57a4807a27357e56306d4ca73a2278e12054ef2412028a617.md",
+    "sha256": "1b17870a2b8e8dc57a4807a27357e56306d4ca73a2278e12054ef2412028a617"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0df0c56518bcd98e43dbcd93/reading-01a9c3288d0b796e9ca34e22aac2d7325dc545811573738f07044a5e1f9e75aa.md",
+      "sha256": "01a9c3288d0b796e9ca34e22aac2d7325dc545811573738f07044a5e1f9e75aa",
+      "original_sha256": "1b17870a2b8e8dc57a4807a27357e56306d4ca73a2278e12054ef2412028a617",
+      "processing_sha256": "c676c2f5d0baacecd1ea7c65fe3848d40941d83d7298e39d8f6f74d7a14a70a7"
+    }
+  ]
+}

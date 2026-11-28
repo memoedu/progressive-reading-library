@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/31774033794",
+  "title": "NLP 分布式假设在人类语言学习中的应用",
+  "original": {
+    "path": "原稿/349daa39174aad8dcada2e62/ae87a03e0ff7d5ea0c1ffe807cb0005403929bac22e817b0a871def07958ad90.md",
+    "sha256": "ae87a03e0ff7d5ea0c1ffe807cb0005403929bac22e817b0a871def07958ad90"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/349daa39174aad8dcada2e62/reading-0759129a102dca35604bb206c35b3e32cda93799d271a80c8cbae4d04468a80f.md",
+      "sha256": "0759129a102dca35604bb206c35b3e32cda93799d271a80c8cbae4d04468a80f",
+      "original_sha256": "ae87a03e0ff7d5ea0c1ffe807cb0005403929bac22e817b0a871def07958ad90",
+      "processing_sha256": "3bd9ab856efb785d89eca5b0dbcb772c8ccd81599010923aa32c723de8f4dee3"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2062834806409401236",
+  "title": "让外包真正派上用场很难",
+  "original": {
+    "path": "原稿/d404115891fb7203090578e3/d5c234c6ede3aca062f12367c1ff1b7b15e49ed103a9194272c38796da30323a.md",
+    "sha256": "d5c234c6ede3aca062f12367c1ff1b7b15e49ed103a9194272c38796da30323a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d404115891fb7203090578e3/reading-ce9262d48d4e988038f1f9aab844768dc9f7f6dd508e3c8872210d697d8e3591.md",
+      "sha256": "ce9262d48d4e988038f1f9aab844768dc9f7f6dd508e3c8872210d697d8e3591",
+      "original_sha256": "d5c234c6ede3aca062f12367c1ff1b7b15e49ed103a9194272c38796da30323a",
+      "processing_sha256": "4fd09c572a8893bb047605adb464c94b62faf8fe623c70ca0f6a10fb248324d6"
+    }
+  ]
+}

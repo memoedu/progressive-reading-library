@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/Why your life feels fake an antidote to the life you were sold.md",
     "sha256": "e61517fcb7d82a009c9b6df98cf73c0842ff6b4c018fca3c3ba77d193199d4e9"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ae669acca9b10b74548e919c/reading-e54ac5699b996960ca94b2a46c42e70d87422c2e9a1d7d2faa10daf4bcfcc0d2.md",
+      "sha256": "e54ac5699b996960ca94b2a46c42e70d87422c2e9a1d7d2faa10daf4bcfcc0d2",
+      "original_sha256": "e61517fcb7d82a009c9b6df98cf73c0842ff6b4c018fca3c3ba77d193199d4e9",
+      "processing_sha256": "3690ce5e8d1138a2ac78b0205cd1b74389452156e747c8082fe2771d5002e6cd"
+    }
+  ]
 }

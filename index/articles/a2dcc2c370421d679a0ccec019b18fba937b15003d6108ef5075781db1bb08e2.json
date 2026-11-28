@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2106656048673309873",
+  "title": "Open Source Image Generation Model生态通识与大局观（偏二次元向）",
+  "original": {
+    "path": "原稿/a2dcc2c370421d679a0ccec0/b09e0069b6f0c4d334def488a59e92c0443672a162031e9e40a50b590e1c8cfd.md",
+    "sha256": "b09e0069b6f0c4d334def488a59e92c0443672a162031e9e40a50b590e1c8cfd"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a2dcc2c370421d679a0ccec0/reading-9f535ea42e2a2a2f5fdefc4b68e30988c8320f9614bbedc5ee901b2c98ca0776.md",
+      "sha256": "9f535ea42e2a2a2f5fdefc4b68e30988c8320f9614bbedc5ee901b2c98ca0776",
+      "original_sha256": "b09e0069b6f0c4d334def488a59e92c0443672a162031e9e40a50b590e1c8cfd",
+      "processing_sha256": "8bebb6322f3f3a2b7b7d0a9b32f42a51c5903d6874bb6b148828d6bd5be21b89"
+    }
+  ]
+}

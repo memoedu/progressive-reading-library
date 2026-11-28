@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How to start a one-person business in 2026 (things changed).md",
     "sha256": "ae928e9571eb06944ae31175bb0f31c109479c70488d49655bceb24fb880ac6b"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f71dbb18259da79e360665bb/reading-b3f9945ce89a769b7a99d98b781efc79745c5c73000e7d835ff9751f82065945.md",
+      "sha256": "b3f9945ce89a769b7a99d98b781efc79745c5c73000e7d835ff9751f82065945",
+      "original_sha256": "ae928e9571eb06944ae31175bb0f31c109479c70488d49655bceb24fb880ac6b",
+      "processing_sha256": "e0911292d3a5a858ecfb85d07b0e01f5180c1fa6adc6889fb706cde82b73d4d9"
+    }
+  ]
 }

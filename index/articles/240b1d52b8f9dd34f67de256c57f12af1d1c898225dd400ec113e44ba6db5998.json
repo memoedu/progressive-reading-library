@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2063045507048650524",
+  "title": "为什么工科人应该远离某些保研考研区？——关于工科学习的信息源",
+  "original": {
+    "path": "原稿/240b1d52b8f9dd34f67de256/5aebfe0fdeaccf1e4f69c247e4519cd5042d683e85011286841c824b16731f17.md",
+    "sha256": "5aebfe0fdeaccf1e4f69c247e4519cd5042d683e85011286841c824b16731f17"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/240b1d52b8f9dd34f67de256/reading-5627c100b8acc7d7c78ff0f2dae4bbf102c9638d40a8b6b77fc5213239d4d911.md",
+      "sha256": "5627c100b8acc7d7c78ff0f2dae4bbf102c9638d40a8b6b77fc5213239d4d911",
+      "original_sha256": "5aebfe0fdeaccf1e4f69c247e4519cd5042d683e85011286841c824b16731f17",
+      "processing_sha256": "845d1c8444608eb4fd6474364af598bbd97f9d73bc08bde46f21d92486d65023"
+    }
+  ]
+}

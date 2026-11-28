@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1986922284506702637",
+  "title": "退役算法竞赛选手如何学习C++就业",
+  "original": {
+    "path": "原稿/b6b131e4dbf5233ddc07f66e/fa296cde7c052bb384141e234bb98f74e1c6a31add1b3e4aea948a5ad0c02920.md",
+    "sha256": "fa296cde7c052bb384141e234bb98f74e1c6a31add1b3e4aea948a5ad0c02920"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b6b131e4dbf5233ddc07f66e/reading-f8d4faacfdccbf858ec9af2a3023aac0bbf8e756e46cc26cd2abef17044a7861.md",
+      "sha256": "f8d4faacfdccbf858ec9af2a3023aac0bbf8e756e46cc26cd2abef17044a7861",
+      "original_sha256": "fa296cde7c052bb384141e234bb98f74e1c6a31add1b3e4aea948a5ad0c02920",
+      "processing_sha256": "35212bbe6668b6dde669b4543b834a35dcc130bd40a312396505e57965cb86c9"
+    }
+  ]
+}

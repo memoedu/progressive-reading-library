@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/8585154703/answer/1936049269397259620",
+  "title": "我们现在距离实现真正的通用型人工智能还有几步?哪些方面要进一步突破?",
+  "original": {
+    "path": "原稿/05f6bd1804d1c95336744c2d/df04cb78f23bc18865f416a7d750fd8ae8c768c8f8c99245b425b8a521bc8a49.md",
+    "sha256": "df04cb78f23bc18865f416a7d750fd8ae8c768c8f8c99245b425b8a521bc8a49"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/05f6bd1804d1c95336744c2d/reading-4dfd8b9e4a251199b0d53679fbf3250f61b4517428da2e476e171a93df223ffa.md",
+      "sha256": "4dfd8b9e4a251199b0d53679fbf3250f61b4517428da2e476e171a93df223ffa",
+      "original_sha256": "df04cb78f23bc18865f416a7d750fd8ae8c768c8f8c99245b425b8a521bc8a49",
+      "processing_sha256": "71079f4a4603c3bbb5fbd2eefadb4918cfa38677b2d4f196bd4e5b9184acecbe"
+    }
+  ]
+}

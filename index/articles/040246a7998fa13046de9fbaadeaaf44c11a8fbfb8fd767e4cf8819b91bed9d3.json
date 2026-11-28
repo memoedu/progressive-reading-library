@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2033240680684851450",
+  "title": "苏剑林博客自动分类整理仓库",
+  "original": {
+    "path": "原稿/040246a7998fa13046de9fba/9298f728ad7e3c8fe6468d03beac589fe7f092c76b00dc01e13a16f651e6c178.md",
+    "sha256": "9298f728ad7e3c8fe6468d03beac589fe7f092c76b00dc01e13a16f651e6c178"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/040246a7998fa13046de9fba/reading-daf4e23f296d2f484c290fb49dc9b63ab2ae4077d7fb5d880a2a6709ff1aac43.md",
+      "sha256": "daf4e23f296d2f484c290fb49dc9b63ab2ae4077d7fb5d880a2a6709ff1aac43",
+      "original_sha256": "9298f728ad7e3c8fe6468d03beac589fe7f092c76b00dc01e13a16f651e6c178",
+      "processing_sha256": "5cb0df64971ee89efa265870d5771f585df93c387dde09dfce5ff3a761278794"
+    }
+  ]
+}

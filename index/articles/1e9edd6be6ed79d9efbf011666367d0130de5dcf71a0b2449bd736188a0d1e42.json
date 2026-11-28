@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/36066128/answer/3617433490",
+  "title": "为什么总有一些中国人愿意将手机语言设置为英语？",
+  "original": {
+    "path": "原稿/1e9edd6be6ed79d9efbf0116/7f11059297b48e58ec9478c37fc13790995b2a99198b8bc8f5d21aa8a002826a.md",
+    "sha256": "7f11059297b48e58ec9478c37fc13790995b2a99198b8bc8f5d21aa8a002826a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1e9edd6be6ed79d9efbf0116/reading-fd6faa79692d9f5b1cb762e472b6ee94a4b132a4e83fb44404655ea817306421.md",
+      "sha256": "fd6faa79692d9f5b1cb762e472b6ee94a4b132a4e83fb44404655ea817306421",
+      "original_sha256": "7f11059297b48e58ec9478c37fc13790995b2a99198b8bc8f5d21aa8a002826a",
+      "processing_sha256": "144e3fe0e93a2994fcf5310ede43bd8d96a0b10b9d758b0057152374a8e2bfc6"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2091445410556536614",
+  "title": "初入编程语言理论",
+  "original": {
+    "path": "原稿/3cf92ee4af4d8adc51f2f13e/4b520ccc3e8c32cb10e331b40aab03f27dbd1e1d1efc22b0dbecac52020d73ac.md",
+    "sha256": "4b520ccc3e8c32cb10e331b40aab03f27dbd1e1d1efc22b0dbecac52020d73ac"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3cf92ee4af4d8adc51f2f13e/reading-b642dafe1f3a4a520ff6a6f59266e9aaf88148bab29b002b6e662ff80ccd16a6.md",
+      "sha256": "b642dafe1f3a4a520ff6a6f59266e9aaf88148bab29b002b6e662ff80ccd16a6",
+      "original_sha256": "4b520ccc3e8c32cb10e331b40aab03f27dbd1e1d1efc22b0dbecac52020d73ac",
+      "processing_sha256": "64d2d296a91d55d889964ded518ea819092f2f5c71c1da6a39ccf6e341353f6c"
+    }
+  ]
+}

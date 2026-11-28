@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2048893627187861024",
+  "title": "高中物理学讲义",
+  "original": {
+    "path": "原稿/774734821e36659f00f4a5f8/3b553a6682ec82e12addd8ef6fa7c1934a157be9a5ab2790321ff0d5a3065bdf.md",
+    "sha256": "3b553a6682ec82e12addd8ef6fa7c1934a157be9a5ab2790321ff0d5a3065bdf"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/774734821e36659f00f4a5f8/reading-cf26f124825ef4b74f7126476ff2f6d37f98ec3bfd2668426b06ee49d140d737.md",
+      "sha256": "cf26f124825ef4b74f7126476ff2f6d37f98ec3bfd2668426b06ee49d140d737",
+      "original_sha256": "3b553a6682ec82e12addd8ef6fa7c1934a157be9a5ab2790321ff0d5a3065bdf",
+      "processing_sha256": "a6ea3e4987e8f223735a7efccdba5450a7b7e316e833f71448873f70fa971712"
+    }
+  ]
+}

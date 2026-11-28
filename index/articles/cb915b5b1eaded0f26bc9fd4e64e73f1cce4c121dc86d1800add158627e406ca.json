@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/I'm begging you to write more essays.md",
     "sha256": "cb01792e7c4182ad87d8f529c6001aee0a09f8d97847133b67c60eecf3e87582"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cb915b5b1eaded0f26bc9fd4/reading-ff378ddb227aafee2c8f7360ccb6676c7577769c3d9dee93f3cfdfff5f076618.md",
+      "sha256": "ff378ddb227aafee2c8f7360ccb6676c7577769c3d9dee93f3cfdfff5f076618",
+      "original_sha256": "cb01792e7c4182ad87d8f529c6001aee0a09f8d97847133b67c60eecf3e87582",
+      "processing_sha256": "923dbb6167c6a48630478b33fa132801ad923e69b5ed7715027e24f6a62a5795"
+    }
+  ]
 }

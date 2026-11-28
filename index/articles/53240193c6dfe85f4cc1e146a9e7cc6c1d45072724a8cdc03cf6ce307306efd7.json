@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1962083106786903995/answer/2021153069228930340",
+  "title": "对于你而言 学习一门语言是很难的事吗？",
+  "original": {
+    "path": "原稿/53240193c6dfe85f4cc1e146/296f13f28bd037279d429c672c0c2cba7d85bd1f07f8a302c8c92bc71de1735e.md",
+    "sha256": "296f13f28bd037279d429c672c0c2cba7d85bd1f07f8a302c8c92bc71de1735e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/53240193c6dfe85f4cc1e146/reading-d1a2ec92db19e98a31eceacdb733ed25c0e600806a756a7fc89eba7af632787a.md",
+      "sha256": "d1a2ec92db19e98a31eceacdb733ed25c0e600806a756a7fc89eba7af632787a",
+      "original_sha256": "296f13f28bd037279d429c672c0c2cba7d85bd1f07f8a302c8c92bc71de1735e",
+      "processing_sha256": "aa8d75b29f0645dd36c3d0cc7132c0a96178c961b79983e7ba99f08b6b6a45e2"
+    }
+  ]
+}

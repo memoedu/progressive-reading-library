@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/pin/2039103632818352395",
+  "title": "不懂物理就不配Vibe Physics了吗？",
+  "original": {
+    "path": "原稿/1d2f4b60eebf94ac6bc566c8/25139f39d38af0b097b4a88a9d7856cb167067ba3c73f785eaa88de8d37cdea4.md",
+    "sha256": "25139f39d38af0b097b4a88a9d7856cb167067ba3c73f785eaa88de8d37cdea4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1d2f4b60eebf94ac6bc566c8/reading-d3679f198e47924acb01cd3f6bbd95abdf0bb87eff58ca9facd86b3b38864d8d.md",
+      "sha256": "d3679f198e47924acb01cd3f6bbd95abdf0bb87eff58ca9facd86b3b38864d8d",
+      "original_sha256": "25139f39d38af0b097b4a88a9d7856cb167067ba3c73f785eaa88de8d37cdea4",
+      "processing_sha256": "607577c0f626f9957b86c722cbe41c73c4a5d879dc6c9861fd0c3ec192e4eaa8"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2035377744738002853",
+  "title": "CS入门学生不要为自己开过多的新坑",
+  "original": {
+    "path": "原稿/abb1ed28b582b661b22d4d27/5fec9fc3e8e982a9780a92286b9bc2079698fda6ad0b3882d6401bc12580cdd4.md",
+    "sha256": "5fec9fc3e8e982a9780a92286b9bc2079698fda6ad0b3882d6401bc12580cdd4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/abb1ed28b582b661b22d4d27/reading-331ca8c0ab73b39d4155ffec5bfd67c7359d8650987c7844956d06f0bbb314d4.md",
+      "sha256": "331ca8c0ab73b39d4155ffec5bfd67c7359d8650987c7844956d06f0bbb314d4",
+      "original_sha256": "5fec9fc3e8e982a9780a92286b9bc2079698fda6ad0b3882d6401bc12580cdd4",
+      "processing_sha256": "fb5f74b69ca775246808afa44873c47460bdebcf21dd727d658d502ca224b548"
+    }
+  ]
+}

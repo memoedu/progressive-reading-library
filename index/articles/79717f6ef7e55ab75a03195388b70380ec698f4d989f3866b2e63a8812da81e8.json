@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1890122575163663130/answer/2062029257329710992",
+  "title": "怎么评价知乎文学区答主不动的推动者（企鹅）?",
+  "original": {
+    "path": "原稿/79717f6ef7e55ab75a031953/73e4931b66c74a93be2bd4a4b3da28a3c5cb4405fc800e76c388616d85c63ca5.md",
+    "sha256": "73e4931b66c74a93be2bd4a4b3da28a3c5cb4405fc800e76c388616d85c63ca5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/79717f6ef7e55ab75a031953/reading-188d1cac9018354d784a1c71ac58f1c97956e77ac9f8c8ba002819c45edefd9e.md",
+      "sha256": "188d1cac9018354d784a1c71ac58f1c97956e77ac9f8c8ba002819c45edefd9e",
+      "original_sha256": "73e4931b66c74a93be2bd4a4b3da28a3c5cb4405fc800e76c388616d85c63ca5",
+      "processing_sha256": "fd78b86393427d86935dcc3cd63d1801d495deba7a1e5663cfc5214d4c044409"
+    }
+  ]
+}

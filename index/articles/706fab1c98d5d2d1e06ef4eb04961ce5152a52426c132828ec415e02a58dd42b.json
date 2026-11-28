@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2093636680750215695",
+  "title": "编程语言设计第 0 章：形式化",
+  "original": {
+    "path": "原稿/706fab1c98d5d2d1e06ef4eb/4e8258224b3c5af056fe72eefec0fcc2caaf684744930100a5c2b4d15553a75f.md",
+    "sha256": "4e8258224b3c5af056fe72eefec0fcc2caaf684744930100a5c2b4d15553a75f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/706fab1c98d5d2d1e06ef4eb/reading-6766d5ff75d0deb4ab518313896fc312197e171120650124502628051be25d9d.md",
+      "sha256": "6766d5ff75d0deb4ab518313896fc312197e171120650124502628051be25d9d",
+      "original_sha256": "4e8258224b3c5af056fe72eefec0fcc2caaf684744930100a5c2b4d15553a75f",
+      "processing_sha256": "77337b438c191d1171f65c733b907e0c0d2cb358216cd2bcc0f7eb63304772dc"
+    }
+  ]
+}

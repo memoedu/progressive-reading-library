@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/woke.html",
+  "title": "The Origins of Wokeness",
+  "original": {
+    "path": "原稿/c8474e5c6c4e08ed33dff37c/6b93605a3712ad1eef77333352ed2b8e5ae9ca0d13cab8ce474ca0e8326f1e92.md",
+    "sha256": "6b93605a3712ad1eef77333352ed2b8e5ae9ca0d13cab8ce474ca0e8326f1e92"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c8474e5c6c4e08ed33dff37c/reading-f78f567cb11fb90ed8c5dbafd930819dea50384023fd8c5f5eda02b8cf1e61be.md",
+      "sha256": "f78f567cb11fb90ed8c5dbafd930819dea50384023fd8c5f5eda02b8cf1e61be",
+      "original_sha256": "6b93605a3712ad1eef77333352ed2b8e5ae9ca0d13cab8ce474ca0e8326f1e92",
+      "processing_sha256": "684fcb5e75f0628ecb14b1b60adc588331bc1b5a1bfac77e8b278f712620170d"
+    }
+  ]
+}

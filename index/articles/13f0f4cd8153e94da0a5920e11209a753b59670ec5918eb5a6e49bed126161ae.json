@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How to launch into a completely new life.md",
     "sha256": "f9826cdb5dfa40fcecfbd0d08b65ee74c5cf3b943b831b288353629522755ed7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/13f0f4cd8153e94da0a5920e/reading-c21a1681c220d79b672983b8bd9b858c3c5c50dd15a1d0de084922319faea420.md",
+      "sha256": "c21a1681c220d79b672983b8bd9b858c3c5c50dd15a1d0de084922319faea420",
+      "original_sha256": "f9826cdb5dfa40fcecfbd0d08b65ee74c5cf3b943b831b288353629522755ed7",
+      "processing_sha256": "ddd8333e5385392b3a8e8194274965d8a669ad2e9470df8224a662f64ceb6d19"
+    }
+  ]
 }

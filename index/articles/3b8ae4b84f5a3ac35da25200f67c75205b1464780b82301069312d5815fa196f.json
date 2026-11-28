@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How I'd build a one-person business if I started over in 2026.md",
     "sha256": "f091a74a0ac0e750cf27aaca82259a27bb80361ffd7b47ac992f236918ab6030"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3b8ae4b84f5a3ac35da25200/reading-107357a4a79b78a60e024e755e49720f87dd6ef2319bf8fa93ed9ad720985a44.md",
+      "sha256": "107357a4a79b78a60e024e755e49720f87dd6ef2319bf8fa93ed9ad720985a44",
+      "original_sha256": "f091a74a0ac0e750cf27aaca82259a27bb80361ffd7b47ac992f236918ab6030",
+      "processing_sha256": "0f141ec47220c3b5c7f1cea2ef03e932b5920bc0c264151c82dcff132ba961c2"
+    }
+  ]
 }

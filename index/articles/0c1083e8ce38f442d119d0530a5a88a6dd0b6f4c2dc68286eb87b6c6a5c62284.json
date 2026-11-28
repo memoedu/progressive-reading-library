@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/We are in the middle of the digital renaissance, please take advantage of it.md",
     "sha256": "19ec9965c78da70086dfb5b961ea077e2412a95ea15c84b44386bf6bcf969507"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0c1083e8ce38f442d119d053/reading-260e37197d3dfa8c618096be13b1eee55c2f362fbee813af68ec8d35bfe3fb06.md",
+      "sha256": "260e37197d3dfa8c618096be13b1eee55c2f362fbee813af68ec8d35bfe3fb06",
+      "original_sha256": "19ec9965c78da70086dfb5b961ea077e2412a95ea15c84b44386bf6bcf969507",
+      "processing_sha256": "678b9a196a8716f7a3f93457263ab71e4392fb7f5259646d0a42a2937de473ba"
+    }
+  ]
 }

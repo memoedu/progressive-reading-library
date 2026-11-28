@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/668128319/answer/3636373481",
+  "title": "研一刚入学导师让我搭各种LLM的Ai Agent框架，应该往什么方向努力才能出成果呢？",
+  "original": {
+    "path": "原稿/5130e64529f408e19ef11a12/ca2f23856ecaff9f1642cf8a6281c47c8faee29593752544bd99fae8203340b8.md",
+    "sha256": "ca2f23856ecaff9f1642cf8a6281c47c8faee29593752544bd99fae8203340b8"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5130e64529f408e19ef11a12/reading-5f7bc79911c8b61241f12e6f57e6a1216f7aed58a929525ad67c6b00ed40b044.md",
+      "sha256": "5f7bc79911c8b61241f12e6f57e6a1216f7aed58a929525ad67c6b00ed40b044",
+      "original_sha256": "ca2f23856ecaff9f1642cf8a6281c47c8faee29593752544bd99fae8203340b8",
+      "processing_sha256": "bb7696249dcf939827310c8302ddb9f95bf16cfecc626b72c892a6fa46bda692"
+    }
+  ]
+}

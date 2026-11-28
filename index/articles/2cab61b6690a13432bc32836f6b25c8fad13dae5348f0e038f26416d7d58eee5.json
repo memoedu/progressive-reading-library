@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2079932687960248563",
+  "title": "我用GPT6-Astra Pro 分析了Serenity 6,566条推文统计出来的研究和认知规律",
+  "original": {
+    "path": "原稿/2cab61b6690a13432bc32836/5431655b7507eea18d8aa6bb480b9aae63b91e66ae58b48ecfe5967e34f12aa0.md",
+    "sha256": "5431655b7507eea18d8aa6bb480b9aae63b91e66ae58b48ecfe5967e34f12aa0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2cab61b6690a13432bc32836/reading-b37f61f2587fb0adbf3858aa0e4e09cf904179a1ac5e1d46d66089351286de71.md",
+      "sha256": "b37f61f2587fb0adbf3858aa0e4e09cf904179a1ac5e1d46d66089351286de71",
+      "original_sha256": "5431655b7507eea18d8aa6bb480b9aae63b91e66ae58b48ecfe5967e34f12aa0",
+      "processing_sha256": "b290ce297cfbdda157877fa91fe6d65353e4409bdb161e88db504d45e4a2f388"
+    }
+  ]
+}

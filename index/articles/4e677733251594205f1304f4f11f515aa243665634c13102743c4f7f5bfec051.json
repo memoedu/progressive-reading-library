@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/3585508713/answer/2037170801351317256",
+  "title": "大家提升自己最快的方式是什么？",
+  "original": {
+    "path": "原稿/4e677733251594205f1304f4/64ca02d23abb4b52d4101cb01172661504f540770724e29af7945d8f3bacaf26.md",
+    "sha256": "64ca02d23abb4b52d4101cb01172661504f540770724e29af7945d8f3bacaf26"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4e677733251594205f1304f4/reading-4adb85e4b4b1ff474836ff37e216387c74ca539b309b9273ec67385b9dff3b87.md",
+      "sha256": "4adb85e4b4b1ff474836ff37e216387c74ca539b309b9273ec67385b9dff3b87",
+      "original_sha256": "64ca02d23abb4b52d4101cb01172661504f540770724e29af7945d8f3bacaf26",
+      "processing_sha256": "c52c027daab0f5f6e0cb94b6fab458a726aeea658a230d3e650d6eb340a81637"
+    }
+  ]
+}

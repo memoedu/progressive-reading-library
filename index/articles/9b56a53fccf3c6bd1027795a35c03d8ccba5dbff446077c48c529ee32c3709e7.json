@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/12475347432/answer/1960723738468279006",
+  "title": "多学一门语言可以带来什么收获？",
+  "original": {
+    "path": "原稿/9b56a53fccf3c6bd1027795a/8da8d63b16066a0d41e5f6a1cb8563b563b4aeb452de322c427598de55aeb79a.md",
+    "sha256": "8da8d63b16066a0d41e5f6a1cb8563b563b4aeb452de322c427598de55aeb79a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9b56a53fccf3c6bd1027795a/reading-e8916586d208f01e4a1258764ebf04b796b2c63bc55ee343da616f672b93ffca.md",
+      "sha256": "e8916586d208f01e4a1258764ebf04b796b2c63bc55ee343da616f672b93ffca",
+      "original_sha256": "8da8d63b16066a0d41e5f6a1cb8563b563b4aeb452de322c427598de55aeb79a",
+      "processing_sha256": "82496604b4520b0bb3a4ca1b11e87e413b597c26cef7254d00eaa66b95333a0d"
+    }
+  ]
+}

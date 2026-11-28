@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/earn.html",
+  "title": "How to Earn a Billion Dollars",
+  "original": {
+    "path": "原稿/54499be046ee82e917a53d55/364335b2297efb69636361e729790bf60c2b9c592a2faad1623234ecd09e5f10.md",
+    "sha256": "364335b2297efb69636361e729790bf60c2b9c592a2faad1623234ecd09e5f10"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/54499be046ee82e917a53d55/reading-a2c6605f2040a28dbf23ef6046535bf1d366fcf62087ba154b2f778f0ed06ec7.md",
+      "sha256": "a2c6605f2040a28dbf23ef6046535bf1d366fcf62087ba154b2f778f0ed06ec7",
+      "original_sha256": "364335b2297efb69636361e729790bf60c2b9c592a2faad1623234ecd09e5f10",
+      "processing_sha256": "e0fea3827f6c64c8a601d728241b39c10aaa4e6d113e75a121a682f0dc011347"
+    }
+  ]
+}

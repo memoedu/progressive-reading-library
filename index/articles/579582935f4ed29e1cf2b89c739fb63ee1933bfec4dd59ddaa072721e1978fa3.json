@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/603673833/answer/17099563352",
+  "title": "“鱼越大，鱼就越小”的推理过程中犯了什么错误?",
+  "original": {
+    "path": "原稿/579582935f4ed29e1cf2b89c/2e602926dde92fb20031249028085d2dad26a05633a2d2434c677aaa3f603021.md",
+    "sha256": "2e602926dde92fb20031249028085d2dad26a05633a2d2434c677aaa3f603021"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/579582935f4ed29e1cf2b89c/reading-53a10ca898a2459e18c8ee425b02ad38ba5e9aca6be13d3c14a3af458a51b5ed.md",
+      "sha256": "53a10ca898a2459e18c8ee425b02ad38ba5e9aca6be13d3c14a3af458a51b5ed",
+      "original_sha256": "2e602926dde92fb20031249028085d2dad26a05633a2d2434c677aaa3f603021",
+      "processing_sha256": "db075ced8b4d89b69718db05ae98279aa27578105877370f88e1221052ae56ab"
+    }
+  ]
+}

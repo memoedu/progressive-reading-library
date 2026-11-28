@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2052887183447560864",
+  "title": "对叶峻峣、飞鸳甃二人离谱暴论的再一次指控",
+  "original": {
+    "path": "原稿/33d5128442eecf18f7d90ad1/52e7a9a256a95897d1bd83a63e6b32e36443e89b333847f550f68731b2913ef3.md",
+    "sha256": "52e7a9a256a95897d1bd83a63e6b32e36443e89b333847f550f68731b2913ef3"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/33d5128442eecf18f7d90ad1/reading-2b3e9ea4599d3f2aebecfde073c12dac5531ff524c6aa1f1d60ae1356354212d.md",
+      "sha256": "2b3e9ea4599d3f2aebecfde073c12dac5531ff524c6aa1f1d60ae1356354212d",
+      "original_sha256": "52e7a9a256a95897d1bd83a63e6b32e36443e89b333847f550f68731b2913ef3",
+      "processing_sha256": "d9b71f74d421dd3810d7fb25a76fda8d10652036e50a6bccb16698baf6f35f98"
+    }
+  ]
+}

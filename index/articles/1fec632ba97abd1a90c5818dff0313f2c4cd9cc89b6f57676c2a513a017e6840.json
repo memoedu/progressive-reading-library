@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/105111160",
+  "title": "“角格点”完全分类",
+  "original": {
+    "path": "原稿/1fec632ba97abd1a90c5818d/f8374c4a4b620f5e13f8adc393c8eb4da7dd2bb0183a5311037aaadd0b412594.md",
+    "sha256": "f8374c4a4b620f5e13f8adc393c8eb4da7dd2bb0183a5311037aaadd0b412594"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1fec632ba97abd1a90c5818d/reading-78a8f90175428395f81f353b9870c41263812d56c47ebdeb40687b2d4148444f.md",
+      "sha256": "78a8f90175428395f81f353b9870c41263812d56c47ebdeb40687b2d4148444f",
+      "original_sha256": "f8374c4a4b620f5e13f8adc393c8eb4da7dd2bb0183a5311037aaadd0b412594",
+      "processing_sha256": "dd3c5080808c5db61ff66485f16e8fd38d83e07a0b854b717761abb483d05798"
+    }
+  ]
+}

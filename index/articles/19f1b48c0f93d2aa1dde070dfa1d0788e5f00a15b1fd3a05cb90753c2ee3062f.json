@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/If you have multiple interests, do not waste the next 2-3 years.md",
     "sha256": "530771845fbd4cda10cb7ae4fc97620b95f9b0487a3110980ca005ff8ef3769a"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/19f1b48c0f93d2aa1dde070d/reading-6d5ad36428c37ef86f212c301ae35e6688b8c09f2d9c272685f2de4b8496630e.md",
+      "sha256": "6d5ad36428c37ef86f212c301ae35e6688b8c09f2d9c272685f2de4b8496630e",
+      "original_sha256": "530771845fbd4cda10cb7ae4fc97620b95f9b0487a3110980ca005ff8ef3769a",
+      "processing_sha256": "7dc935ddee9b0dce2b8e99f287d3fbeb9834504d195fa8a4e2ecafcecebe9408"
+    }
+  ]
 }

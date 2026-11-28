@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2023543499937576139/answer/2036571041032562481",
+  "title": "如何评价恽之玮对AI冲击下的数学行业的悲观看法？",
+  "original": {
+    "path": "原稿/452867ccc6490f7ab45ee852/93a996f7038a66546f26b9a9f20987c244b56b026f6a816426d343c175566f5d.md",
+    "sha256": "93a996f7038a66546f26b9a9f20987c244b56b026f6a816426d343c175566f5d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/452867ccc6490f7ab45ee852/reading-e7ba829ce3ada1c83709fb44ac442b9678ef445597350a8e4f91b251a8f9387d.md",
+      "sha256": "e7ba829ce3ada1c83709fb44ac442b9678ef445597350a8e4f91b251a8f9387d",
+      "original_sha256": "93a996f7038a66546f26b9a9f20987c244b56b026f6a816426d343c175566f5d",
+      "processing_sha256": "fffe2f21d486cf328fbd9d5104d978547a85087bf5b47b6eb2a010029ff9bb08"
+    }
+  ]
+}

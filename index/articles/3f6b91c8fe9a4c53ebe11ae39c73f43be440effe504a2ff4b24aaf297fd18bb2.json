@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1908398681012548518/answer/2027832085864300773",
+  "title": "为什么成功人士的精力都非常旺盛？",
+  "original": {
+    "path": "原稿/3f6b91c8fe9a4c53ebe11ae3/759fb382dfcc3d19801a8c8ab76ea3c5c7d774bdbcee6167053bb00770506b28.md",
+    "sha256": "759fb382dfcc3d19801a8c8ab76ea3c5c7d774bdbcee6167053bb00770506b28"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3f6b91c8fe9a4c53ebe11ae3/reading-15b365fc44c9cd68e320bd5f2b029302111996dc1800131e0488eebf8d05a4d3.md",
+      "sha256": "15b365fc44c9cd68e320bd5f2b029302111996dc1800131e0488eebf8d05a4d3",
+      "original_sha256": "759fb382dfcc3d19801a8c8ab76ea3c5c7d774bdbcee6167053bb00770506b28",
+      "processing_sha256": "0ef823831a445f148bce3a2f2d32a9f7bc62d0c52be334b09ab0e609a6399fa6"
+    }
+  ]
+}

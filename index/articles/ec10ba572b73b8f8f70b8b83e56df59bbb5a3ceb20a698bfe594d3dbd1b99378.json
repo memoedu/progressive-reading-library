@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1999568471395103731/answer/2071274879375107241",
+  "title": "普通人的一生值得书写和记录吗？",
+  "original": {
+    "path": "原稿/ec10ba572b73b8f8f70b8b83/90735ef82d7786dfcf7925a5e179f7b9cddd058ce198edf250294230665f435d.md",
+    "sha256": "90735ef82d7786dfcf7925a5e179f7b9cddd058ce198edf250294230665f435d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ec10ba572b73b8f8f70b8b83/reading-919a85c6763ead4ce3a50c49160857a72411e0812a76673618198c00aba1e7e1.md",
+      "sha256": "919a85c6763ead4ce3a50c49160857a72411e0812a76673618198c00aba1e7e1",
+      "original_sha256": "90735ef82d7786dfcf7925a5e179f7b9cddd058ce198edf250294230665f435d",
+      "processing_sha256": "a9dc3601167807b8a7529517111201175fb64f054dfaa2b2a36bcc0ea91ece80"
+    }
+  ]
+}

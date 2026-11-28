@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1982254961619404250/answer/1985487677651435663",
+  "title": "用微分方程和概率统计可以对哪些有趣的物理/生物/社会学现象进行建模？",
+  "original": {
+    "path": "原稿/78ee787c2ed6df6290e28e8f/33930846c2616b21c3dfcc5b006d29a771441bea2f8088e4d3053ee6cf969673.md",
+    "sha256": "33930846c2616b21c3dfcc5b006d29a771441bea2f8088e4d3053ee6cf969673"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/78ee787c2ed6df6290e28e8f/reading-a741fbc376169a8773ce8541f292a799466c4d848aae30757c1fce0d1f526af3.md",
+      "sha256": "a741fbc376169a8773ce8541f292a799466c4d848aae30757c1fce0d1f526af3",
+      "original_sha256": "33930846c2616b21c3dfcc5b006d29a771441bea2f8088e4d3053ee6cf969673",
+      "processing_sha256": "96664dad8cfd1dc98a278f1a60a0449ca7e898221c94ae771a50b62f5df1902f"
+    }
+  ]
+}

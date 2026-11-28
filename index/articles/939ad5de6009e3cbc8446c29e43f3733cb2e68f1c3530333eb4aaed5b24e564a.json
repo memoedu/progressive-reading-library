@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/The Art Of Strategic Thinking (How To Become Wildly Successful).md",
     "sha256": "1ab8ae135e559a7b99be8f98c9ee20244d0e8b78bd9f314b6d474dfb10086367"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/939ad5de6009e3cbc8446c29/reading-ef086576cdeafe1638f59b9d69d854c5aa579c3e7d4b5432933b0bfae8380326.md",
+      "sha256": "ef086576cdeafe1638f59b9d69d854c5aa579c3e7d4b5432933b0bfae8380326",
+      "original_sha256": "1ab8ae135e559a7b99be8f98c9ee20244d0e8b78bd9f314b6d474dfb10086367",
+      "processing_sha256": "70f045bf65dbcdf7e85331db7f11122a08556225df78c99c78698df09c7c0a5a"
+    }
+  ]
 }

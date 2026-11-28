@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/do.html",
+  "title": "What to Do",
+  "original": {
+    "path": "原稿/07f22b56c34e74748eae8a7c/15c215d21a4468a1b8f356a567ba1a56c71a0ed68b290e6552ab93578883811e.md",
+    "sha256": "15c215d21a4468a1b8f356a567ba1a56c71a0ed68b290e6552ab93578883811e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/07f22b56c34e74748eae8a7c/reading-49917c9e03d98ed9bbe5a4c482738886361db730b3bfe0be0ef5eea095c0b46c.md",
+      "sha256": "49917c9e03d98ed9bbe5a4c482738886361db730b3bfe0be0ef5eea095c0b46c",
+      "original_sha256": "15c215d21a4468a1b8f356a567ba1a56c71a0ed68b290e6552ab93578883811e",
+      "processing_sha256": "5a731e6c22662165e8c6059c348083c9fc25b9ed7bccfc915a226506978f1830"
+    }
+  ]
+}

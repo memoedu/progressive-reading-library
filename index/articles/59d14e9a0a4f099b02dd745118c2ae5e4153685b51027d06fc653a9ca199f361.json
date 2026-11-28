@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Justin Math/From Families to Schools - Math Academy Podcast #9.md",
     "sha256": "bc4dcece177223efa8a8e691186c2ec9feccd7cd843a096e9e5b9121b4773071"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/59d14e9a0a4f099b02dd7451/reading-cac03729acffbb16ffa5d690763797fe864e843ed5a67cf1ce93a55bba1caf08.md",
+      "sha256": "cac03729acffbb16ffa5d690763797fe864e843ed5a67cf1ce93a55bba1caf08",
+      "original_sha256": "bc4dcece177223efa8a8e691186c2ec9feccd7cd843a096e9e5b9121b4773071",
+      "processing_sha256": "c5bdc3547f61b0ccac9e8fc8489e724b92eabc3f563c99f0dd51d3def69cf004"
+    }
+  ]
 }

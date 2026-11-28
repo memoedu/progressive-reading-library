@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/goodwriting.html",
+  "title": "Good Writing",
+  "original": {
+    "path": "原稿/9e6d8fb587cf8be7ce17776d/14f5b343a3cbeae48beab1cbb06a1b9aa5104638601c5eaed54dc65245e05bd1.md",
+    "sha256": "14f5b343a3cbeae48beab1cbb06a1b9aa5104638601c5eaed54dc65245e05bd1"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9e6d8fb587cf8be7ce17776d/reading-1436e8a9c31d926977641b9a444c0bc943763d4b9a3e13d9faeb2a2211b14654.md",
+      "sha256": "1436e8a9c31d926977641b9a444c0bc943763d4b9a3e13d9faeb2a2211b14654",
+      "original_sha256": "14f5b343a3cbeae48beab1cbb06a1b9aa5104638601c5eaed54dc65245e05bd1",
+      "processing_sha256": "77f68d26dd3786c57c1406ff9a47a65f11bcdcf3abfcd0a852e7d969b33e286f"
+    }
+  ]
+}

@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How to turn your love for learning into a one-person business.md",
     "sha256": "646fce71a575e5ed87dbf18ac82365b1ebe7dceb937e6b1a068f6bc4d719fab7"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ecc6dde3fbb41ac58d4b1477/reading-1d353b3e8eafa59e74fed0387433faadcbe5513f75496476b2797afc3e242c22.md",
+      "sha256": "1d353b3e8eafa59e74fed0387433faadcbe5513f75496476b2797afc3e242c22",
+      "original_sha256": "646fce71a575e5ed87dbf18ac82365b1ebe7dceb937e6b1a068f6bc4d719fab7",
+      "processing_sha256": "682b45075ce4e47cf9787455cb6c483398367347f6db9ceb2a81a6d0cecc139c"
+    }
+  ]
 }

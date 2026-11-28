@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/662539815/answer/2046282565078799586",
+  "title": "有哪些适合自学的高中教材平替值得推荐？",
+  "original": {
+    "path": "原稿/b79f4085c79e7807ba9c62f2/3e98399874831ee9a92e70eab2362e56d785a2b8b9e461fe1cd35676cbd5c3d5.md",
+    "sha256": "3e98399874831ee9a92e70eab2362e56d785a2b8b9e461fe1cd35676cbd5c3d5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b79f4085c79e7807ba9c62f2/reading-ee786d67031339fdbf725c3451615568abdf1b8dd67df984db631b3f250f3cb1.md",
+      "sha256": "ee786d67031339fdbf725c3451615568abdf1b8dd67df984db631b3f250f3cb1",
+      "original_sha256": "3e98399874831ee9a92e70eab2362e56d785a2b8b9e461fe1cd35676cbd5c3d5",
+      "processing_sha256": "09bcfeb4ae9cc09cbb9a09c07306964bb7834c779456af478af62819925fb593"
+    }
+  ]
+}

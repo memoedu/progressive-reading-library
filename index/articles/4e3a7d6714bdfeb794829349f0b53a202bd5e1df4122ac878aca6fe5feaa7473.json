@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2100915032901021809",
+  "title": "为何 初级工程师和研究员 在 AI 时代会受到生存空间挤压",
+  "original": {
+    "path": "原稿/4e3a7d6714bdfeb794829349/6760ef8899a5953500e6d8566dc12f50541a649e98c510c7d10455687e743629.md",
+    "sha256": "6760ef8899a5953500e6d8566dc12f50541a649e98c510c7d10455687e743629"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4e3a7d6714bdfeb794829349/reading-beb67d21ef0e7ee9b5fd4ff78d69195b264636d3525fc2bdb0b703a941c361d3.md",
+      "sha256": "beb67d21ef0e7ee9b5fd4ff78d69195b264636d3525fc2bdb0b703a941c361d3",
+      "original_sha256": "6760ef8899a5953500e6d8566dc12f50541a649e98c510c7d10455687e743629",
+      "processing_sha256": "7f91af37d6ca41ce573d27139667ed0849a6d4cb47f56d033f262913cf6e3f6d"
+    }
+  ]
+}

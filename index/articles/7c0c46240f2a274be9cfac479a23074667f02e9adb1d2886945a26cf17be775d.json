@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2069192105629635573/answer/2104978226003162021",
+  "title": "为什么很多 AI 开发的游戏，两天就能做出 Demo，却永远做不到正式上线？",
+  "original": {
+    "path": "原稿/7c0c46240f2a274be9cfac47/81b9bda4c31c9c4cda2540a14d301c0880d5b3652f55b6870736c69956a4dc8a.md",
+    "sha256": "81b9bda4c31c9c4cda2540a14d301c0880d5b3652f55b6870736c69956a4dc8a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7c0c46240f2a274be9cfac47/reading-344c38a4cdfb556d9564b9c7a1847fa7fd5c13dd4e6968de0e9981f87797b168.md",
+      "sha256": "344c38a4cdfb556d9564b9c7a1847fa7fd5c13dd4e6968de0e9981f87797b168",
+      "original_sha256": "81b9bda4c31c9c4cda2540a14d301c0880d5b3652f55b6870736c69956a4dc8a",
+      "processing_sha256": "67cdb100fefaf76747f506f13ea7caea7f542215b7c594c99c110b4306125ca5"
+    }
+  ]
+}

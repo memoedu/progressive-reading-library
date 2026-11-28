@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/593353688/answer/1980618158948767082",
+  "title": "如何评价杨奎松及其作品？",
+  "original": {
+    "path": "原稿/07c2be26637983f9acc66abf/3d5e3d8e6624ae7498969e951e85a3716ad0741cc30214f86e9d6c5f14a16e51.md",
+    "sha256": "3d5e3d8e6624ae7498969e951e85a3716ad0741cc30214f86e9d6c5f14a16e51"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/07c2be26637983f9acc66abf/reading-c1d3dddccb85c6572d090624f1132577415ac0156c53b6f954bace203f5c61a5.md",
+      "sha256": "c1d3dddccb85c6572d090624f1132577415ac0156c53b6f954bace203f5c61a5",
+      "original_sha256": "3d5e3d8e6624ae7498969e951e85a3716ad0741cc30214f86e9d6c5f14a16e51",
+      "processing_sha256": "2f4d0ec3bf78305de997bdba7cbdf2b85a9533e21bd5aa02104693bd460319cd"
+    }
+  ]
+}

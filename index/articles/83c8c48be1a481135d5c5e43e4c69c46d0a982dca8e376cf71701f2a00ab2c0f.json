@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/brandage.html",
+  "title": "The Brand Age",
+  "original": {
+    "path": "原稿/83c8c48be1a481135d5c5e43/a91b4765454624e915af8efe7eece07313e12de7149d4e772a3146d01d7e75b0.md",
+    "sha256": "a91b4765454624e915af8efe7eece07313e12de7149d4e772a3146d01d7e75b0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/83c8c48be1a481135d5c5e43/reading-48a6abad4e5dd09884d724d727558d29708af698f38a1a73fa66fff1deb18f9a.md",
+      "sha256": "48a6abad4e5dd09884d724d727558d29708af698f38a1a73fa66fff1deb18f9a",
+      "original_sha256": "a91b4765454624e915af8efe7eece07313e12de7149d4e772a3146d01d7e75b0",
+      "processing_sha256": "03c6eaf04baa6b87a12c68f71f6a68a07312619176dfcf4d85e52b787f5ec7d4"
+    }
+  ]
+}

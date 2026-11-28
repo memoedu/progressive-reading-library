@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/10871221991/answer/112235951324",
+  "title": "deepseek能怎么用？",
+  "original": {
+    "path": "原稿/87e764cab5057a6743bc5176/0b10df995f9c04454e9186161c804ac1e3f28fadd161a9c3a4bad623d543c898.md",
+    "sha256": "0b10df995f9c04454e9186161c804ac1e3f28fadd161a9c3a4bad623d543c898"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/87e764cab5057a6743bc5176/reading-2152f28e6f725205634a5126bf86e2c3d120f10489676f5892d93c65413f3a78.md",
+      "sha256": "2152f28e6f725205634a5126bf86e2c3d120f10489676f5892d93c65413f3a78",
+      "original_sha256": "0b10df995f9c04454e9186161c804ac1e3f28fadd161a9c3a4bad623d543c898",
+      "processing_sha256": "f40026e593fa788ee26574a85cd04055dab924301d1a2f982491e4be3c3c569a"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/prepare.html",
+  "title": "How Universities Should Prepare Founders",
+  "original": {
+    "path": "原稿/dd533d791d33a203f873c621/4d99b589dee7da597c8789c7ea204363f8d3979f4667a93aa692337bbbab3846.md",
+    "sha256": "4d99b589dee7da597c8789c7ea204363f8d3979f4667a93aa692337bbbab3846"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dd533d791d33a203f873c621/reading-418cbfa26b5a982ec86de86c108e0425cc890f1e926ac7729ddd9860a5064bd2.md",
+      "sha256": "418cbfa26b5a982ec86de86c108e0425cc890f1e926ac7729ddd9860a5064bd2",
+      "original_sha256": "4d99b589dee7da597c8789c7ea204363f8d3979f4667a93aa692337bbbab3846",
+      "processing_sha256": "101bfedb08809464a5db9f8197d584b5e2fdb734aa561bdc524e988281860c15"
+    }
+  ]
+}

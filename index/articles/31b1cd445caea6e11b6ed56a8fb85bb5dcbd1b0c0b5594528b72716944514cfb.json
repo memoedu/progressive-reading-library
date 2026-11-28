@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2064356009775309976",
+  "title": "[第1周] 「直线」「抛体」「圆周」(运动学视角)",
+  "original": {
+    "path": "原稿/31b1cd445caea6e11b6ed56a/1d45f9f820cce1425f44eb1e34d98c306d8d629a59aebcf88984512f1f4c0c4a.md",
+    "sha256": "1d45f9f820cce1425f44eb1e34d98c306d8d629a59aebcf88984512f1f4c0c4a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/31b1cd445caea6e11b6ed56a/reading-927f6ba3943f24f754b957280c4fe1d0d2153c34b3f7b449579f866d4260ecc1.md",
+      "sha256": "927f6ba3943f24f754b957280c4fe1d0d2153c34b3f7b449579f866d4260ecc1",
+      "original_sha256": "1d45f9f820cce1425f44eb1e34d98c306d8d629a59aebcf88984512f1f4c0c4a",
+      "processing_sha256": "a31a441fdef164c1d0d0ace0b9319a2226c6eeeff021e95070744df3d13e41cd"
+    }
+  ]
+}

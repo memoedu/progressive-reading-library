@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/509973594",
+  "title": "关于 IP 属地的一些科普",
+  "original": {
+    "path": "原稿/054c7c13d8e5c17390e3c3fc/ece05449658a27b7a2cbd5e85f8c25f0d195094948d23eb3e03e92a229b4a4dc.md",
+    "sha256": "ece05449658a27b7a2cbd5e85f8c25f0d195094948d23eb3e03e92a229b4a4dc"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/054c7c13d8e5c17390e3c3fc/reading-a3a8a63a2557311fb12d955fbce2add0b7cab3dd773a60cb0f278c9dc1fc8eb8.md",
+      "sha256": "a3a8a63a2557311fb12d955fbce2add0b7cab3dd773a60cb0f278c9dc1fc8eb8",
+      "original_sha256": "ece05449658a27b7a2cbd5e85f8c25f0d195094948d23eb3e03e92a229b4a4dc",
+      "processing_sha256": "e82582a3b9848b4bf594781583a7ca5556ce1d28e627fa7440f2272ff4741253"
+    }
+  ]
+}

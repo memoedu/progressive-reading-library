@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/580737509",
+  "title": "高中数学实战之思想与方法",
+  "original": {
+    "path": "原稿/450b151b5cf7dccff5b357bd/bf6e082567b298075f22a0b0bbb8c56467a731f0333f22d4062649ed6dd864bf.md",
+    "sha256": "bf6e082567b298075f22a0b0bbb8c56467a731f0333f22d4062649ed6dd864bf"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/450b151b5cf7dccff5b357bd/reading-84fad68ef46d711ffa627857516acb165631ee04ccf78380d47a5a389be5a745.md",
+      "sha256": "84fad68ef46d711ffa627857516acb165631ee04ccf78380d47a5a389be5a745",
+      "original_sha256": "bf6e082567b298075f22a0b0bbb8c56467a731f0333f22d4062649ed6dd864bf",
+      "processing_sha256": "bfa7cad6b8667094d9015390f0af667fd032779324bcf865f877db5800389fc4"
+    }
+  ]
+}

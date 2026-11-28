@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/657268425/answer/2108468965135722401",
+  "title": "为什么除了中日之外，就没有国家有人喜欢二次元了呢?",
+  "original": {
+    "path": "原稿/da113beea04cb5e668ec8754/8e97e8670abdc30a4d5f669b03fa6c20a91331d484d3f189eb44342dd480bf7a.md",
+    "sha256": "8e97e8670abdc30a4d5f669b03fa6c20a91331d484d3f189eb44342dd480bf7a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/da113beea04cb5e668ec8754/reading-2603e9e3dfb92174bd29ce6dfea261751db9793727f61cf8adf3bd62f72683e8.md",
+      "sha256": "2603e9e3dfb92174bd29ce6dfea261751db9793727f61cf8adf3bd62f72683e8",
+      "original_sha256": "8e97e8670abdc30a4d5f669b03fa6c20a91331d484d3f189eb44342dd480bf7a",
+      "processing_sha256": "fba49c9976f3828d0302e7e27a8454d1943860ba379f274a3d9f3e579559c649"
+    }
+  ]
+}

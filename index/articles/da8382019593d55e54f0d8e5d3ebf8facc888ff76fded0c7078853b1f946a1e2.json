@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2009291412156465511",
+  "title": "在 MIT 读博的两年半：RL theory 没有卵用，但我看到了第三种未来",
+  "original": {
+    "path": "原稿/da8382019593d55e54f0d8e5/b122792a937f88ede48daaa163d537ec978cd9f759040a55465de08bffdf870b.md",
+    "sha256": "b122792a937f88ede48daaa163d537ec978cd9f759040a55465de08bffdf870b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/da8382019593d55e54f0d8e5/reading-10207f6b5326580615fea5c1425946d8975b3a44ef8184d7182b1eb23088822d.md",
+      "sha256": "10207f6b5326580615fea5c1425946d8975b3a44ef8184d7182b1eb23088822d",
+      "original_sha256": "b122792a937f88ede48daaa163d537ec978cd9f759040a55465de08bffdf870b",
+      "processing_sha256": "72d6cf15acc3dde6eb23436e8c200a9bf67ce6d8ac48190a0f33565042d16205"
+    }
+  ]
+}

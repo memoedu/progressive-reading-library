@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://paulgraham.com/powerful.html",
+  "title": "Making Startups Powerful",
+  "original": {
+    "path": "原稿/24a9b9783df88a8d4d5ba643/31a80ccedcee846b9c2585c0e0ef5d17ada0e6d8f9e69b106cd852e0952ca96b.md",
+    "sha256": "31a80ccedcee846b9c2585c0e0ef5d17ada0e6d8f9e69b106cd852e0952ca96b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/24a9b9783df88a8d4d5ba643/reading-3fdda5db917ebec3327ed1d2148c283ae5d5731e8a107ace9102aedd97edf772.md",
+      "sha256": "3fdda5db917ebec3327ed1d2148c283ae5d5731e8a107ace9102aedd97edf772",
+      "original_sha256": "31a80ccedcee846b9c2585c0e0ef5d17ada0e6d8f9e69b106cd852e0952ca96b",
+      "processing_sha256": "916e340259b939fd783dbc1c33ba861bbe8b0e10ab12b27e4335b4235592f721"
+    }
+  ]
+}

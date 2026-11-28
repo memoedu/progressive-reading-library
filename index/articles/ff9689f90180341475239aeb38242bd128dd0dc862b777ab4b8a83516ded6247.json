@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2022701290656993315",
+  "title": "1000个低成本创业点子大盘点 (1 / 10)",
+  "original": {
+    "path": "原稿/ff9689f90180341475239aeb/e07244b2d5a2ace2811bd2fc053a8652b39d76d3edbc97b197d530961cf333e4.md",
+    "sha256": "e07244b2d5a2ace2811bd2fc053a8652b39d76d3edbc97b197d530961cf333e4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ff9689f90180341475239aeb/reading-1ebda55f0e2e674225ffb987bad8c41a7811baa81c4f8f2c5102b498335ee050.md",
+      "sha256": "1ebda55f0e2e674225ffb987bad8c41a7811baa81c4f8f2c5102b498335ee050",
+      "original_sha256": "e07244b2d5a2ace2811bd2fc053a8652b39d76d3edbc97b197d530961cf333e4",
+      "processing_sha256": "67bc1bce869ec3236d75aa753f1753a2001322c92ce977bc0ff8ce0f4c264c08"
+    }
+  ]
+}

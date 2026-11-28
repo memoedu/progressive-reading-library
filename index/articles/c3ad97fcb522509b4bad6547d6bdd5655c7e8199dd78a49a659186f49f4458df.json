@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2045229892359426963",
+  "title": "工学大类培养计划（暨机器人工程师培养计划第一季）",
+  "original": {
+    "path": "原稿/c3ad97fcb522509b4bad6547/f8eaf3a3a63c8c8df227a4918a1b8cf6fc471e5b40625af8b58509489e25e5b7.md",
+    "sha256": "f8eaf3a3a63c8c8df227a4918a1b8cf6fc471e5b40625af8b58509489e25e5b7"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c3ad97fcb522509b4bad6547/reading-e0b0ad0d8d6215e3b193b3b48990e950e54c080c0ca5e2d649c95b7c6e29096f.md",
+      "sha256": "e0b0ad0d8d6215e3b193b3b48990e950e54c080c0ca5e2d649c95b7c6e29096f",
+      "original_sha256": "f8eaf3a3a63c8c8df227a4918a1b8cf6fc471e5b40625af8b58509489e25e5b7",
+      "processing_sha256": "7d095cd0af99a3dab7cdba6b7f716a4abe900ea0a460243ad4effe26dbea623e"
+    }
+  ]
+}

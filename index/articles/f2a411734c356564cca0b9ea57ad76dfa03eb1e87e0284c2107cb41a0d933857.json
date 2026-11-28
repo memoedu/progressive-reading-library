@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/3022969383/answer/2049321525619192444",
+  "title": "哪些话一出现，你就知道是 AI 写的？",
+  "original": {
+    "path": "原稿/f2a411734c356564cca0b9ea/fedefb718c1cc3e06dcdeae3f1ebb0c94a698b5dcd0db74857ed015d69c4480a.md",
+    "sha256": "fedefb718c1cc3e06dcdeae3f1ebb0c94a698b5dcd0db74857ed015d69c4480a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f2a411734c356564cca0b9ea/reading-61e3055a6cf697b59d2333d800abcfa3e42ba39410d9b57debb40de73ac1e9e8.md",
+      "sha256": "61e3055a6cf697b59d2333d800abcfa3e42ba39410d9b57debb40de73ac1e9e8",
+      "original_sha256": "fedefb718c1cc3e06dcdeae3f1ebb0c94a698b5dcd0db74857ed015d69c4480a",
+      "processing_sha256": "3f88e6518b102441a53e13d0c4c8788f15b4f50c7d88fe8e8c2e779b639e29bf"
+    }
+  ]
+}

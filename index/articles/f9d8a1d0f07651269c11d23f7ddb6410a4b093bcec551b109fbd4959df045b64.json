@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1991478970697422663",
+  "title": "理论物理教程 第0季（序章）",
+  "original": {
+    "path": "原稿/f9d8a1d0f07651269c11d23f/735db9e05af0b27d56267d4adf61c48ab215beedbcacd69f72b8cf7f9e8300fb.md",
+    "sha256": "735db9e05af0b27d56267d4adf61c48ab215beedbcacd69f72b8cf7f9e8300fb"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f9d8a1d0f07651269c11d23f/reading-5588915b71bc5a12cc91c938526cd182088581150502723137fdf3e96c82d1fe.md",
+      "sha256": "5588915b71bc5a12cc91c938526cd182088581150502723137fdf3e96c82d1fe",
+      "original_sha256": "735db9e05af0b27d56267d4adf61c48ab215beedbcacd69f72b8cf7f9e8300fb",
+      "processing_sha256": "11ba755e45b31b2441ad2d8c1bdb3fdd395d21de1bc2f7e6be5e121105600b53"
+    }
+  ]
+}

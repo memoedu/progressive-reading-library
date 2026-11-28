@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/525777261/answer/2062534848447829410",
+  "title": "如何评价复旦大学兰小欢老师的著作《置身事内》？",
+  "original": {
+    "path": "原稿/8a00991598485960a21ffaf6/6574e0ac860e5bf6df0f766faad4b58b8e39fcd33661f4fc4c67103d8bc3bbde.md",
+    "sha256": "6574e0ac860e5bf6df0f766faad4b58b8e39fcd33661f4fc4c67103d8bc3bbde"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8a00991598485960a21ffaf6/reading-5fa120bf32e321a63ce7da26f746f0a29c6a6023b549301ce2a94777ceaf7ee5.md",
+      "sha256": "5fa120bf32e321a63ce7da26f746f0a29c6a6023b549301ce2a94777ceaf7ee5",
+      "original_sha256": "6574e0ac860e5bf6df0f766faad4b58b8e39fcd33661f4fc4c67103d8bc3bbde",
+      "processing_sha256": "509ab40282868c5364b8d494dee512092d409cb51356310831af43a87307cd59"
+    }
+  ]
+}

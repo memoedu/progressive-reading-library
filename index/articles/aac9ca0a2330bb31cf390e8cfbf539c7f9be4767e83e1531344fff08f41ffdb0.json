@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How to think like a strategic genius (5d thinking).md",
     "sha256": "f3b9da0b022dc52e76f54ec590dab6b1c3eceb7677203975dc41209dc952fa9d"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/aac9ca0a2330bb31cf390e8c/reading-0f3223d6b0151c5450087534376cd642e78206625fd77609b037eeb03b3038e1.md",
+      "sha256": "0f3223d6b0151c5450087534376cd642e78206625fd77609b037eeb03b3038e1",
+      "original_sha256": "f3b9da0b022dc52e76f54ec590dab6b1c3eceb7677203975dc41209dc952fa9d",
+      "processing_sha256": "e3a68c3fe005e5640d9c1ce4fcc715914a50a6f783857491cbc69822cb619a76"
+    }
+  ]
 }

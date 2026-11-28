@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1965428438828556967/answer/2048107369104725517",
+  "title": "为什么人类老是低估复杂系统的复杂度?",
+  "original": {
+    "path": "原稿/650abcea67cc78eea9ee193f/cb59f062b4e71f4e4f0606ed643405ccef71206e9e747277b5dea4e97a8f9c6a.md",
+    "sha256": "cb59f062b4e71f4e4f0606ed643405ccef71206e9e747277b5dea4e97a8f9c6a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/650abcea67cc78eea9ee193f/reading-4e51dba9f3be56438a5a727514daa0e9d3e8afa1b54b59ec201bcf6ff2afe60a.md",
+      "sha256": "4e51dba9f3be56438a5a727514daa0e9d3e8afa1b54b59ec201bcf6ff2afe60a",
+      "original_sha256": "cb59f062b4e71f4e4f0606ed643405ccef71206e9e747277b5dea4e97a8f9c6a",
+      "processing_sha256": "45bdb3991105b116092430fd54cdfcb8a40b5fb1d82279436bf6e4eede687e40"
+    }
+  ]
+}

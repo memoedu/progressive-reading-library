@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/19544167625",
+  "title": "Anki 使用经验贴",
+  "original": {
+    "path": "原稿/c9815caa7ec2bf9018854751/82c6e3409e8367cd08e2915a6039e79a623223fb76b3f7a14c2e0b1e53c261df.md",
+    "sha256": "82c6e3409e8367cd08e2915a6039e79a623223fb76b3f7a14c2e0b1e53c261df"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c9815caa7ec2bf9018854751/reading-b2288209e5cdfcb053865b1f75228e09dce6ababac8779ea963abbe06920d2d7.md",
+      "sha256": "b2288209e5cdfcb053865b1f75228e09dce6ababac8779ea963abbe06920d2d7",
+      "original_sha256": "82c6e3409e8367cd08e2915a6039e79a623223fb76b3f7a14c2e0b1e53c261df",
+      "processing_sha256": "53bb8964a52385442d9aeffa4f605f35168996e68b2fa256244fd4dc8c9043d2"
+    }
+  ]
+}

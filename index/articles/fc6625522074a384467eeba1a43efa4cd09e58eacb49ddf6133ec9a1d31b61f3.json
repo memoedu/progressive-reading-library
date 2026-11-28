@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/265632352/answer/4505787583",
+  "title": "脑科学+计算机（偏计算机） 有哪些具体的研究方向？",
+  "original": {
+    "path": "原稿/fc6625522074a384467eeba1/82f7b9f8140c5ed978550314841fb7c24f4d517a02fe0897106ecf0a28b771e8.md",
+    "sha256": "82f7b9f8140c5ed978550314841fb7c24f4d517a02fe0897106ecf0a28b771e8"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fc6625522074a384467eeba1/reading-1735f918ed8e5d9c2f7f46e1c57bab567e88ccddb6e1707b24dc2daf5bb15b4b.md",
+      "sha256": "1735f918ed8e5d9c2f7f46e1c57bab567e88ccddb6e1707b24dc2daf5bb15b4b",
+      "original_sha256": "82f7b9f8140c5ed978550314841fb7c24f4d517a02fe0897106ecf0a28b771e8",
+      "processing_sha256": "360897ed9bb3e26a4198e6bb665fcd33a0ae578db10e37ada9fc9aceb57c9148"
+    }
+  ]
+}

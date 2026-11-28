@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2012283687773946077/answer/2109694245049311875",
+  "title": "如何判断自己适合上班还是创业？",
+  "original": {
+    "path": "原稿/19fbb19fc7f1e1ab9da90908/1b94d4928ac5623ece67df1a1bfc4623953a0b226eef5b2d9894b8beb67b2ab7.md",
+    "sha256": "1b94d4928ac5623ece67df1a1bfc4623953a0b226eef5b2d9894b8beb67b2ab7"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/19fbb19fc7f1e1ab9da90908/reading-adfca60c822de99371d8a9bddba15f27a40e94cec6f727c75cd2eebfbb7f1313.md",
+      "sha256": "adfca60c822de99371d8a9bddba15f27a40e94cec6f727c75cd2eebfbb7f1313",
+      "original_sha256": "1b94d4928ac5623ece67df1a1bfc4623953a0b226eef5b2d9894b8beb67b2ab7",
+      "processing_sha256": "2c14c31d92e2a0bead34db1702fae010b1f8d5edcf20afaae608f51458678798"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1941894152628450769",
+  "title": "学习革命：为何90%的飞跃发生在最后 10%的时间里",
+  "original": {
+    "path": "原稿/75367da2250aaa80b2b95ea3/840bbbd8f66c023e7c29f0e635bb0152f142a3f1398ad41fe09eb13e5233bc50.md",
+    "sha256": "840bbbd8f66c023e7c29f0e635bb0152f142a3f1398ad41fe09eb13e5233bc50"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/75367da2250aaa80b2b95ea3/reading-243f25262fb03a7290e1211a68a2bffdcc90d5cc81f9da2383741f70e6d87218.md",
+      "sha256": "243f25262fb03a7290e1211a68a2bffdcc90d5cc81f9da2383741f70e6d87218",
+      "original_sha256": "840bbbd8f66c023e7c29f0e635bb0152f142a3f1398ad41fe09eb13e5233bc50",
+      "processing_sha256": "275296874318a8d10287216d40025e041186d90581c17963a7b40c415f963ebc"
+    }
+  ]
+}

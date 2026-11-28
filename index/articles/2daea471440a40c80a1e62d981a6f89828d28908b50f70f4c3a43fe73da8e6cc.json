@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://hdl.handle.net/10072/348664",
+  "title": "The Hidden Ruler: Wang Huning and the Making of Contemporary China",
+  "original": {
+    "path": "原稿/2daea471440a40c80a1e62d9/ce05f9a5af900283a616f650165b1df3538953769f8089c38aac1dedcb754722.md",
+    "sha256": "ce05f9a5af900283a616f650165b1df3538953769f8089c38aac1dedcb754722"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2daea471440a40c80a1e62d9/reading-b05420aeced5f59ba67c5a86d8dcf9bc142672e89b25b693ee2bcce07ae200e9.md",
+      "sha256": "b05420aeced5f59ba67c5a86d8dcf9bc142672e89b25b693ee2bcce07ae200e9",
+      "original_sha256": "ce05f9a5af900283a616f650165b1df3538953769f8089c38aac1dedcb754722",
+      "processing_sha256": "898ab9862723875e140741268dde0defe472807206937b74fece0c3b79b3d6a0"
+    }
+  ]
+}

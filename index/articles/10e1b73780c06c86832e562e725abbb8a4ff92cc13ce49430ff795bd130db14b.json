@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/How to become so creative it feels illegal.md",
     "sha256": "0c6aa0ef38c41d02e831ec492900e1539ceacb575e5faec74ef0b313f6154eb4"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/10e1b73780c06c86832e562e/reading-193d08cf75e281a2710ae187f587e10294081f6500c5f676f1f5f8e2c734c280.md",
+      "sha256": "193d08cf75e281a2710ae187f587e10294081f6500c5f676f1f5f8e2c734c280",
+      "original_sha256": "0c6aa0ef38c41d02e831ec492900e1539ceacb575e5faec74ef0b313f6154eb4",
+      "processing_sha256": "9f69cea7bd91b2750723f51a3629a654667abff95436d6aa50611f6a56b30034"
+    }
+  ]
 }

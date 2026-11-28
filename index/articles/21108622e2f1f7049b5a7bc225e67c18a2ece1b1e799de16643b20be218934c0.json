@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/662211972/answer/2049176847561257539",
+  "title": "人最核心的能力是什么？",
+  "original": {
+    "path": "原稿/21108622e2f1f7049b5a7bc2/9b95bd46f53cb169f24bb335f066a929da458aa560d501c4b3493930a314ee75.md",
+    "sha256": "9b95bd46f53cb169f24bb335f066a929da458aa560d501c4b3493930a314ee75"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/21108622e2f1f7049b5a7bc2/reading-f07dd84030c0418a8d82511e836aa5d10eb468e61d354ad33a7eb7e2261ab968.md",
+      "sha256": "f07dd84030c0418a8d82511e836aa5d10eb468e61d354ad33a7eb7e2261ab968",
+      "original_sha256": "9b95bd46f53cb169f24bb335f066a929da458aa560d501c4b3493930a314ee75",
+      "processing_sha256": "ab2b392be0287bd346ba8919a01083c772815a980d068754acae55ed55707e29"
+    }
+  ]
+}

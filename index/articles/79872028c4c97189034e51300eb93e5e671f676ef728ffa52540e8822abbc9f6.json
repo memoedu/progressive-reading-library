@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/551062577/answer/2044698935588041740",
+  "title": "什么是松弛感？如何获得松弛感？",
+  "original": {
+    "path": "原稿/79872028c4c97189034e5130/9091184f9d1d3e8a2ccc5128e18ff0328b7407d53085d8d0253061434298b5ff.md",
+    "sha256": "9091184f9d1d3e8a2ccc5128e18ff0328b7407d53085d8d0253061434298b5ff"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/79872028c4c97189034e5130/reading-9fc4b627708fc440048f7cfe5017696e52fe5f04935147e4a2dde76618081ce4.md",
+      "sha256": "9fc4b627708fc440048f7cfe5017696e52fe5f04935147e4a2dde76618081ce4",
+      "original_sha256": "9091184f9d1d3e8a2ccc5128e18ff0328b7407d53085d8d0253061434298b5ff",
+      "processing_sha256": "1ec71276ab1390734cbaa839f5c24a5d30ee6d09d0c91252d22a8cbd9f221a1b"
+    }
+  ]
+}

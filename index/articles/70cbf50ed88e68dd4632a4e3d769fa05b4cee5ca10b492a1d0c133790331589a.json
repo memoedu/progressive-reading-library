@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/28335314/answer/128933958927",
+  "title": "Anki 怎么用？",
+  "original": {
+    "path": "原稿/70cbf50ed88e68dd4632a4e3/137cd69663d27515d3977829d8b3d5d933fbb4a7cca85435a35e65b93640d5b9.md",
+    "sha256": "137cd69663d27515d3977829d8b3d5d933fbb4a7cca85435a35e65b93640d5b9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/70cbf50ed88e68dd4632a4e3/reading-6c23bd9ffa8cdd53e291a04083811e5a2131626b81c245c4342fc02bdc3bf672.md",
+      "sha256": "6c23bd9ffa8cdd53e291a04083811e5a2131626b81c245c4342fc02bdc3bf672",
+      "original_sha256": "137cd69663d27515d3977829d8b3d5d933fbb4a7cca85435a35e65b93640d5b9",
+      "processing_sha256": "633ef89a811bd355973aa9beb8d801592413e3117ad69f56bfb1360ac375d38b"
+    }
+  ]
+}

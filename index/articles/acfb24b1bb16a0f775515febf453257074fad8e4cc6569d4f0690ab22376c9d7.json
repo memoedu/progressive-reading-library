@@ -5,5 +5,13 @@
   "original": {
     "path": "订阅/RSS/Dan Koe Letters/The One-Human Business How To Earn In The Age of AI.md",
     "sha256": "17966cc72bc9e99006f5e5175d935ef3f84bae1c29be3082da76af3789dbf47f"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/acfb24b1bb16a0f775515feb/reading-bb1862013e353ee0bb39e08550ec6ed12365fba807f6eb42de4313654c2c8ad2.md",
+      "sha256": "bb1862013e353ee0bb39e08550ec6ed12365fba807f6eb42de4313654c2c8ad2",
+      "original_sha256": "17966cc72bc9e99006f5e5175d935ef3f84bae1c29be3082da76af3789dbf47f",
+      "processing_sha256": "fca18498892643716300863ed066858ce0a0cd831b1f64b74facda0f985358dd"
+    }
+  ]
 }

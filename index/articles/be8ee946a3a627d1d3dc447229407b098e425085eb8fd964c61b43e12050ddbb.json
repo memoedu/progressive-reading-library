@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2043764231686944381",
+  "title": "【立体几何/不建系】解三面角：计算二面/线面角的究级武器（附 skills）",
+  "original": {
+    "path": "原稿/be8ee946a3a627d1d3dc4472/17281b546161c7881687e4137cb19512aedace208e37d503bcfbb50982f4225c.md",
+    "sha256": "17281b546161c7881687e4137cb19512aedace208e37d503bcfbb50982f4225c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/be8ee946a3a627d1d3dc4472/reading-509e1af2c1bb6a23fc0f105e383cc2f4e2e7af1c0b25932402463d20852d402f.md",
+      "sha256": "509e1af2c1bb6a23fc0f105e383cc2f4e2e7af1c0b25932402463d20852d402f",
+      "original_sha256": "17281b546161c7881687e4137cb19512aedace208e37d503bcfbb50982f4225c",
+      "processing_sha256": "0bf3072ecd3f94f7960153fb687c7bbc0d327a9d5a5b4edacc0dc0af52a96523"
+    }
+  ]
+}

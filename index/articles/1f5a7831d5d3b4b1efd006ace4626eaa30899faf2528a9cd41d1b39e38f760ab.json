@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2044058375755921267",
+  "title": "【高中数学教材补全计划】选修3-5: 欧拉公式与闭曲面分类（一）",
+  "original": {
+    "path": "原稿/1f5a7831d5d3b4b1efd006ac/924a3b672e065491dc8cb617c3be5265c682629d0a923371bc324f7e621b0787.md",
+    "sha256": "924a3b672e065491dc8cb617c3be5265c682629d0a923371bc324f7e621b0787"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1f5a7831d5d3b4b1efd006ac/reading-0731088d1c8b3ccf39a11421dee5ffae47782f4c9d7b3b529ab01f7950b91bcf.md",
+      "sha256": "0731088d1c8b3ccf39a11421dee5ffae47782f4c9d7b3b529ab01f7950b91bcf",
+      "original_sha256": "924a3b672e065491dc8cb617c3be5265c682629d0a923371bc324f7e621b0787",
+      "processing_sha256": "814009b1f8750945aecfbea3f85d728294e0dac46937ccd00816a1774aa0d560"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2063717438009635806",
+  "title": "[转录稿译文]你与你的研究（You and Your Research）",
+  "original": {
+    "path": "原稿/36e406325857e60bfa517955/d524b45c753d4d0e7725dd97f5edbd0e84d12b1d23fd1aed331fd7f5794c0a98.md",
+    "sha256": "d524b45c753d4d0e7725dd97f5edbd0e84d12b1d23fd1aed331fd7f5794c0a98"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/36e406325857e60bfa517955/reading-112ff3b588615a039e09a78b7e96eab90a64c772867825b03d28929a2932f132.md",
+      "sha256": "112ff3b588615a039e09a78b7e96eab90a64c772867825b03d28929a2932f132",
+      "original_sha256": "d524b45c753d4d0e7725dd97f5edbd0e84d12b1d23fd1aed331fd7f5794c0a98",
+      "processing_sha256": "008f07583138056120c0e1d47a8c3b11f6f3b17eabb5d749d888fab59696513f"
+    }
+  ]
+}

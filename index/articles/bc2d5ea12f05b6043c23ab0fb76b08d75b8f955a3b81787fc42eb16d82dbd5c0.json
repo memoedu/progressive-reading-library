@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2047997630098170642",
+  "title": "函数、泛函、算子、函子：数学抽象的四级台阶",
+  "original": {
+    "path": "原稿/bc2d5ea12f05b6043c23ab0f/6aa04e5795e0dc291a41d6a98b713d11a8a1a542728d3f246f625ef9abe9de22.md",
+    "sha256": "6aa04e5795e0dc291a41d6a98b713d11a8a1a542728d3f246f625ef9abe9de22"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/bc2d5ea12f05b6043c23ab0f/reading-6171bfd54ca592b770b0c9ae8bec3b40ef12192e94c53b96632ab815947c31a0.md",
+      "sha256": "6171bfd54ca592b770b0c9ae8bec3b40ef12192e94c53b96632ab815947c31a0",
+      "original_sha256": "6aa04e5795e0dc291a41d6a98b713d11a8a1a542728d3f246f625ef9abe9de22",
+      "processing_sha256": "ea5609f4a2c8362e1256d9a58c6d6728fa388ec7af996648df17903c5ea5bef9"
+    }
+  ]
+}

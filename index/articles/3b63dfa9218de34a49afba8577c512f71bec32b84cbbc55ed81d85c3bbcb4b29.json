@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2049942755565102960",
+  "title": "如何做好研究 - 译，我希望我在本科阶段能读到这么好的文章，我的职业发展会完全不一样",
+  "original": {
+    "path": "原稿/3b63dfa9218de34a49afba85/85f3733789babd3ba9dbf5e2e89d651bf60ddf91c43acfe701ab265b5cfa6ccc.md",
+    "sha256": "85f3733789babd3ba9dbf5e2e89d651bf60ddf91c43acfe701ab265b5cfa6ccc"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3b63dfa9218de34a49afba85/reading-847d5dbba1ad0a8eb4dda33b7a6dab886ce279b651ee74871d43ac89b7bad97f.md",
+      "sha256": "847d5dbba1ad0a8eb4dda33b7a6dab886ce279b651ee74871d43ac89b7bad97f",
+      "original_sha256": "85f3733789babd3ba9dbf5e2e89d651bf60ddf91c43acfe701ab265b5cfa6ccc",
+      "processing_sha256": "8cd7673ce8848cddffc59f08608a512375a683fb5ca76572db0af95d0a1fe248"
+    }
+  ]
+}

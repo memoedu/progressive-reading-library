@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2100505738032440826",
+  "title": "论混沌的运营究竟是啥，和 R&D有什么区别",
+  "original": {
+    "path": "原稿/8644d56f767bd7e3d157a900/98c7c101bd706932a0d4da8155f9b17aa138ca4fada3d04275e7bf9765d37d95.md",
+    "sha256": "98c7c101bd706932a0d4da8155f9b17aa138ca4fada3d04275e7bf9765d37d95"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8644d56f767bd7e3d157a900/reading-998b7b3aa2e86744738d4f6dfd0c54663027dfc33ac42395c2e7c1660eb220c0.md",
+      "sha256": "998b7b3aa2e86744738d4f6dfd0c54663027dfc33ac42395c2e7c1660eb220c0",
+      "original_sha256": "98c7c101bd706932a0d4da8155f9b17aa138ca4fada3d04275e7bf9765d37d95",
+      "processing_sha256": "264ff35b4cd6b4f3d9825e0ddc3a1e1e33f682708f4de98d2da5829e4e62b41e"
+    }
+  ]
+}

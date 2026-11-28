@@ -1,0 +1,17 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2058592064707749030",
+  "title": "远程异步团队复杂协作的沟通艺术",
+  "original": {
+    "path": "原稿/91866626b60e26d53a97fa9d/b87f54cc0c7da4efb587cef42cdd8a352b00ce12812fdb75bcb59f1da805bb48.md",
+    "sha256": "b87f54cc0c7da4efb587cef42cdd8a352b00ce12812fdb75bcb59f1da805bb48"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/91866626b60e26d53a97fa9d/reading-def6f6220d6b226366a7f5c7186769bdf94cf56deed7c743416d75b0346bfb49.md",
+      "sha256": "def6f6220d6b226366a7f5c7186769bdf94cf56deed7c743416d75b0346bfb49",
+      "original_sha256": "b87f54cc0c7da4efb587cef42cdd8a352b00ce12812fdb75bcb59f1da805bb48",
+      "processing_sha256": "a3b7bb73398fc99e71ea2f1a3904d6a3456e1a0a4c6a4c3a08a430071a0c6217"
+    }
+  ]
+}

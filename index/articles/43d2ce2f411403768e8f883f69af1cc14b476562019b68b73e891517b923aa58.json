@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://danluu.com/fsyncgate",
+  "title": "errors on fsync are unrecovarable",
+  "original": {
+    "path": "原稿/43d2ce2f411403768e8f883f/9d9b0417d546b6097679859fe74e1d90aaf0e3842f2ccc126197071d1726bdf9.md",
+    "sha256": "9d9b0417d546b6097679859fe74e1d90aaf0e3842f2ccc126197071d1726bdf9"
+  }
+}

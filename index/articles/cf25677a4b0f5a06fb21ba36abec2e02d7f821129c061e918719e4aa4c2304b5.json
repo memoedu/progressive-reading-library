@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2095991275669414086/answer/2101994550545990237",
+  "title": "如何评价法国女友主动给中国男子洗袜子，而中国男子坚决拒绝并因此惹女友生气这件事？ - Daemon 的回答",
+  "original": {
+    "path": "原稿/cf25677a4b0f5a06fb21ba36/43563d8df542332bac795872013a0b6d25c91c1e66a68a96fd26942f760b6fbf.md",
+    "sha256": "43563d8df542332bac795872013a0b6d25c91c1e66a68a96fd26942f760b6fbf"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cf25677a4b0f5a06fb21ba36/reading-573e7023677a8de77c6f80ab2fe13701be3ed75e8e0f046fa187a0e685c7c635.md",
+      "sha256": "573e7023677a8de77c6f80ab2fe13701be3ed75e8e0f046fa187a0e685c7c635",
+      "original_sha256": "43563d8df542332bac795872013a0b6d25c91c1e66a68a96fd26942f760b6fbf",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

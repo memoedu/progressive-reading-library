@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1916584451808429500",
+  "title": "本科这三年",
+  "original": {
+    "path": "原稿/56d7c9948cd6d1de4edca709/3635009044bf1d53512f5d688f056455d6d67682acf8f2cfd2dcc00fe18403f7.md",
+    "sha256": "3635009044bf1d53512f5d688f056455d6d67682acf8f2cfd2dcc00fe18403f7"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/56d7c9948cd6d1de4edca709/reading-cfcc3f8bc0b9de69ca23ff3c7f78fafb039cc77f9397491c3c7bd46f0250d2d4.md",
+      "sha256": "cfcc3f8bc0b9de69ca23ff3c7f78fafb039cc77f9397491c3c7bd46f0250d2d4",
+      "original_sha256": "3635009044bf1d53512f5d688f056455d6d67682acf8f2cfd2dcc00fe18403f7",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

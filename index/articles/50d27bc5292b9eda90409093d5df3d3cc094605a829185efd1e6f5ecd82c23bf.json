@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://danluu.com/postmortem-lessons",
+  "title": "Reading postmortems",
+  "original": {
+    "path": "原稿/50d27bc5292b9eda90409093/c83a1e0141a77b6ec4bb5f1d8219b3bfbfc2f5d8b9aaa97d23d61dfded3b4a71.md",
+    "sha256": "c83a1e0141a77b6ec4bb5f1d8219b3bfbfc2f5d8b9aaa97d23d61dfded3b4a71"
+  }
+}

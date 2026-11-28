@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/265513614/answer/2116230092",
+  "title": "中国的高校计算机教育存在哪些问题？ - 割风 的回答",
+  "original": {
+    "path": "原稿/812c916ce38a48421b4ff8d7/8dfb32f7703f8f554d123596b723049c04cd421879c6d99417728261813f1973.md",
+    "sha256": "8dfb32f7703f8f554d123596b723049c04cd421879c6d99417728261813f1973"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/812c916ce38a48421b4ff8d7/reading-2893a97f8ba97673710e3fc9663a9bfd0fe6cb8b558d1d7a963e92f1b9d03a6a.md",
+      "sha256": "2893a97f8ba97673710e3fc9663a9bfd0fe6cb8b558d1d7a963e92f1b9d03a6a",
+      "original_sha256": "8dfb32f7703f8f554d123596b723049c04cd421879c6d99417728261813f1973",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

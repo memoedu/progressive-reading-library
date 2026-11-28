@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2042204623818191780/answer/2070962180770501142",
+  "title": "为什么我用思维导图反而感觉信息更乱了？",
+  "original": {
+    "path": "原稿/b14090635f5d012fd336cc59/c7f94271ea573dd30002fa89e744decfb5cfa7d31bc9fc8184bdc6c89928717e.md",
+    "sha256": "c7f94271ea573dd30002fa89e744decfb5cfa7d31bc9fc8184bdc6c89928717e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b14090635f5d012fd336cc59/reading-52927bd79b346deae38436862a85e40ba4cdadc15fd83b957b6daca487bf81ec.md",
+      "sha256": "52927bd79b346deae38436862a85e40ba4cdadc15fd83b957b6daca487bf81ec",
+      "original_sha256": "c7f94271ea573dd30002fa89e744decfb5cfa7d31bc9fc8184bdc6c89928717e",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

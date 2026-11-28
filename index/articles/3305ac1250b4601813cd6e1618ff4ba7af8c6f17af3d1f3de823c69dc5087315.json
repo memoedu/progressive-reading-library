@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2022301663692603800/answer/2032008622679535783",
+  "title": "数列中的幽灵：为什么某些数列永远无法被公式表达？ - Equation 的回答",
+  "original": {
+    "path": "原稿/3305ac1250b4601813cd6e16/22ba1ca289dd8e8fa19e47b6332d65f88bfd9e7338a94b200f1953f8e53955d1.md",
+    "sha256": "22ba1ca289dd8e8fa19e47b6332d65f88bfd9e7338a94b200f1953f8e53955d1"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3305ac1250b4601813cd6e16/reading-ab4c04c58e331b1204f626ab7ee7e22c856699b97023ed5ae0ea417326feb8eb.md",
+      "sha256": "ab4c04c58e331b1204f626ab7ee7e22c856699b97023ed5ae0ea417326feb8eb",
+      "original_sha256": "22ba1ca289dd8e8fa19e47b6332d65f88bfd9e7338a94b200f1953f8e53955d1",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

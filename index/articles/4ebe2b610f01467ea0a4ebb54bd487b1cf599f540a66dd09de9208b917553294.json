@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2066699701597033028",
+  "title": "确定性的工程学——成功学机制的逆向使用手册",
+  "original": {
+    "path": "原稿/4ebe2b610f01467ea0a4ebb5/9b2d9908fb7e1679a31560802399f3a3fd37378e6a0b62ade6a75905a9dc552a.md",
+    "sha256": "9b2d9908fb7e1679a31560802399f3a3fd37378e6a0b62ade6a75905a9dc552a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4ebe2b610f01467ea0a4ebb5/reading-5fb1614f4678270139ee8701550da5d9dd43740aeea595c786d2b66ff549c67d.md",
+      "sha256": "5fb1614f4678270139ee8701550da5d9dd43740aeea595c786d2b66ff549c67d",
+      "original_sha256": "9b2d9908fb7e1679a31560802399f3a3fd37378e6a0b62ade6a75905a9dc552a",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2015721606073309030/answer/2015854769466532879",
+  "title": "CS为什么要学数理逻辑？ - hotteano 的回答",
+  "original": {
+    "path": "原稿/cb97b0b5710ae07bdacb78f0/0e315329430c8239f003847da99d915b91ec7e3e76a121cd075b3fca4eef3e6b.md",
+    "sha256": "0e315329430c8239f003847da99d915b91ec7e3e76a121cd075b3fca4eef3e6b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cb97b0b5710ae07bdacb78f0/reading-33b6f0625965908b719a556a9c1312d5ee208e051ac932179438f613a1276132.md",
+      "sha256": "33b6f0625965908b719a556a9c1312d5ee208e051ac932179438f613a1276132",
+      "original_sha256": "0e315329430c8239f003847da99d915b91ec7e3e76a121cd075b3fca4eef3e6b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/47658334/answer/3001290249",
+  "title": "如何评价秦晖的《传统十论》这部作品？ - 林先生 的回答",
+  "original": {
+    "path": "原稿/f5135b3884db4d910c5c9c16/f02fdb7babf9e0c66ac88b0a01acef9c8ca1d0be3f301bd5fb8fed10161906bf.md",
+    "sha256": "f02fdb7babf9e0c66ac88b0a01acef9c8ca1d0be3f301bd5fb8fed10161906bf"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f5135b3884db4d910c5c9c16/reading-3e1f608854b19c24f310bb6fc194f2466c9e50107da4851821eab9a912c5fa4e.md",
+      "sha256": "3e1f608854b19c24f310bb6fc194f2466c9e50107da4851821eab9a912c5fa4e",
+      "original_sha256": "f02fdb7babf9e0c66ac88b0a01acef9c8ca1d0be3f301bd5fb8fed10161906bf",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

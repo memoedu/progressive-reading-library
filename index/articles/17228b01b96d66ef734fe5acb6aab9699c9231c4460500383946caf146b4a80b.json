@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/523704129/answer/2057976916104177397",
+  "title": "中国作家里谁的文笔最好？",
+  "original": {
+    "path": "原稿/17228b01b96d66ef734fe5ac/05e9073846ae034257bc33bd1187f9265a96c5e53939d36b7622f31f4a5ccd8c.md",
+    "sha256": "05e9073846ae034257bc33bd1187f9265a96c5e53939d36b7622f31f4a5ccd8c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/17228b01b96d66ef734fe5ac/reading-b29be4fc82ed11af78c3aac3277a545d5079aa85d14265a4ee2b3b0ddcf573b4.md",
+      "sha256": "b29be4fc82ed11af78c3aac3277a545d5079aa85d14265a4ee2b3b0ddcf573b4",
+      "original_sha256": "05e9073846ae034257bc33bd1187f9265a96c5e53939d36b7622f31f4a5ccd8c",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

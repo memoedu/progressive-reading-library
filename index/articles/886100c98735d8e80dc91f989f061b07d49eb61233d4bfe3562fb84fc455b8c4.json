@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1926477230931964612/answer/1953970729285580005",
+  "title": "如果央行一次性帮助所有人还掉债务，经济会怎么样？ - 灵也有希望 的回答",
+  "original": {
+    "path": "原稿/886100c98735d8e80dc91f98/b75221b229690be3bcd90d5c557e48c3956d0b14398f635621f5d7c9e2073256.md",
+    "sha256": "b75221b229690be3bcd90d5c557e48c3956d0b14398f635621f5d7c9e2073256"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/886100c98735d8e80dc91f98/reading-561df42b953e716ccd4f6f88599e403e6e298d4208a2815db23f02b637cc99c1.md",
+      "sha256": "561df42b953e716ccd4f6f88599e403e6e298d4208a2815db23f02b637cc99c1",
+      "original_sha256": "b75221b229690be3bcd90d5c557e48c3956d0b14398f635621f5d7c9e2073256",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

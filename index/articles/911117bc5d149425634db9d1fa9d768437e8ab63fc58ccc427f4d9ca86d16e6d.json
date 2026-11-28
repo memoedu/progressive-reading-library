@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1891113677651955809/answer/1916979662057367270",
+  "title": "为什么开发一个 AI Agent 看似容易，但真正让它「好用」却如此困难？技术瓶颈主要在哪里？ - 锦恢 的回答",
+  "original": {
+    "path": "原稿/911117bc5d149425634db9d1/5f46615554a0cafc82b3fd0882bcb9dd7ab77e6b1d8d8dc502cd9fb72c9cae57.md",
+    "sha256": "5f46615554a0cafc82b3fd0882bcb9dd7ab77e6b1d8d8dc502cd9fb72c9cae57"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/911117bc5d149425634db9d1/reading-fad27518f9949f197f1026a3bc917c48078fed6a64ab0dcfb352524e27ea38f4.md",
+      "sha256": "fad27518f9949f197f1026a3bc917c48078fed6a64ab0dcfb352524e27ea38f4",
+      "original_sha256": "5f46615554a0cafc82b3fd0882bcb9dd7ab77e6b1d8d8dc502cd9fb72c9cae57",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2068018549013098513",
+  "title": "致DeepSeek的朋友们：",
+  "original": {
+    "path": "原稿/622bdbd37ff879ce9cb0cda0/83cb468815e7666c0d8adc250312cf3d04d4ace929762804b4effb4fcc5fa748.md",
+    "sha256": "83cb468815e7666c0d8adc250312cf3d04d4ace929762804b4effb4fcc5fa748"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/622bdbd37ff879ce9cb0cda0/reading-033060cbd11af3c3895c5ae1014eaf947cae2abb0b5dac707099357a2512260e.md",
+      "sha256": "033060cbd11af3c3895c5ae1014eaf947cae2abb0b5dac707099357a2512260e",
+      "original_sha256": "83cb468815e7666c0d8adc250312cf3d04d4ace929762804b4effb4fcc5fa748",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

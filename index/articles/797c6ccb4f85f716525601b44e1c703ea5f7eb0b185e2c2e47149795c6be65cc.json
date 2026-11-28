@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1992568130757734756/answer/2060109866765760100",
+  "title": "我知道内存条一定会暴跌，有什么办法做空吗？ - 符拉迪沃斯托克 的回答",
+  "original": {
+    "path": "原稿/797c6ccb4f85f716525601b4/589817aa9943881f7c67ae2e41dd7783f2ddf9217daffad7ba1bf8208f66f432.md",
+    "sha256": "589817aa9943881f7c67ae2e41dd7783f2ddf9217daffad7ba1bf8208f66f432"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/797c6ccb4f85f716525601b4/reading-989cf1a0078e5ac79dec181f2880f69b557c9521a8b7dea2072624dd107a13cd.md",
+      "sha256": "989cf1a0078e5ac79dec181f2880f69b557c9521a8b7dea2072624dd107a13cd",
+      "original_sha256": "589817aa9943881f7c67ae2e41dd7783f2ddf9217daffad7ba1bf8208f66f432",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

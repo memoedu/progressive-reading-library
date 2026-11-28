@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/408383006/answer/1367390177",
+  "title": "如何自学理论计算机科学？ - Climber.pI 的回答",
+  "original": {
+    "path": "原稿/3ade2f120c11c25ec9b9534f/e1b28a526ebe29d430e7788ff901c124f8f19b695e93eb17b192d5eebf077249.md",
+    "sha256": "e1b28a526ebe29d430e7788ff901c124f8f19b695e93eb17b192d5eebf077249"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3ade2f120c11c25ec9b9534f/reading-91644935670bfaf8d26224e2c3abcf82f7d36d91800d1452a74522667d6e1a84.md",
+      "sha256": "91644935670bfaf8d26224e2c3abcf82f7d36d91800d1452a74522667d6e1a84",
+      "original_sha256": "e1b28a526ebe29d430e7788ff901c124f8f19b695e93eb17b192d5eebf077249",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

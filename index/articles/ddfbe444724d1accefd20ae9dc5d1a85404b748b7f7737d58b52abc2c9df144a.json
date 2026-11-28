@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/28880112/answer/5107788177",
+  "title": "请问:清华大学历史系秦晖先生算不算当今中国在社会和人文领域最有份量的学者?否则，请给出你心目中的人选。 - 林先生 的回答",
+  "original": {
+    "path": "原稿/ddfbe444724d1accefd20ae9/3dc0a45d2033bc87308b38ab3dfb27ac806817fe8599360e42ec64e8195498c9.md",
+    "sha256": "3dc0a45d2033bc87308b38ab3dfb27ac806817fe8599360e42ec64e8195498c9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ddfbe444724d1accefd20ae9/reading-f7bae2fc823510476b94bf7d4e8e782dcd10008a3723ecd368d8758e10300c3d.md",
+      "sha256": "f7bae2fc823510476b94bf7d4e8e782dcd10008a3723ecd368d8758e10300c3d",
+      "original_sha256": "3dc0a45d2033bc87308b38ab3dfb27ac806817fe8599360e42ec64e8195498c9",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

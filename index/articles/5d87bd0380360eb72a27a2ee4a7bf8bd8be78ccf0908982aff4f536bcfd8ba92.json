@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2063025694385369610/answer/2067741163235324617",
+  "title": "李新野是知乎最顶流吗？ - 知乎",
+  "original": {
+    "path": "原稿/5d87bd0380360eb72a27a2ee/49c1c374ef4ec8327af5b24e4a05bd3c3dd7fb9ac77af69a56d52efaba0b27c0.md",
+    "sha256": "49c1c374ef4ec8327af5b24e4a05bd3c3dd7fb9ac77af69a56d52efaba0b27c0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5d87bd0380360eb72a27a2ee/reading-4299e13615c3d905ce1282d42c6bb33ea2e93fb0e841b75e7ea6c2a621789640.md",
+      "sha256": "4299e13615c3d905ce1282d42c6bb33ea2e93fb0e841b75e7ea6c2a621789640",
+      "original_sha256": "49c1c374ef4ec8327af5b24e4a05bd3c3dd7fb9ac77af69a56d52efaba0b27c0",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

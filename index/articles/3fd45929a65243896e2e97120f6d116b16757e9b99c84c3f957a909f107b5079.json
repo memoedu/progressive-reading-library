@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/638615287/answer/1915158404009301713",
+  "title": "磕女百合番的男生是什么心理？ - 同尘 的回答",
+  "original": {
+    "path": "原稿/3fd45929a65243896e2e9712/c4b9edbcb74c0ebc67ea4917bd3ac3171fb39bddc057547ee68ec5358c4545c3.md",
+    "sha256": "c4b9edbcb74c0ebc67ea4917bd3ac3171fb39bddc057547ee68ec5358c4545c3"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3fd45929a65243896e2e9712/reading-563a5de18764197ab58129c35c33a1c4f8b0078782f151f0fe707aa23b08b11c.md",
+      "sha256": "563a5de18764197ab58129c35c33a1c4f8b0078782f151f0fe707aa23b08b11c",
+      "original_sha256": "c4b9edbcb74c0ebc67ea4917bd3ac3171fb39bddc057547ee68ec5358c4545c3",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

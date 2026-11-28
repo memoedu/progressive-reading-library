@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1956499221097187000/answer/1990575407121053637",
+  "title": "穷人最好的蛋白质来源是什么? - 机器猫 的回答",
+  "original": {
+    "path": "原稿/59f1fa835c7f3168522f4d73/6ce31e5d3dda65993cbcc16d8e7b5e227dbc137b2a1567c45078eb5f94794914.md",
+    "sha256": "6ce31e5d3dda65993cbcc16d8e7b5e227dbc137b2a1567c45078eb5f94794914"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/59f1fa835c7f3168522f4d73/reading-3e38fe1e01c14b95be043588dcb460d276761f061660befe675471652851fc19.md",
+      "sha256": "3e38fe1e01c14b95be043588dcb460d276761f061660befe675471652851fc19",
+      "original_sha256": "6ce31e5d3dda65993cbcc16d8e7b5e227dbc137b2a1567c45078eb5f94794914",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

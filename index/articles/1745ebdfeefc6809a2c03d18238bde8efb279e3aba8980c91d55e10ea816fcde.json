@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2050258088964493712/answer/2052836969621747327",
+  "title": "为啥vibe coding 会有一种让人上头的感觉，我没有？ - 江湖术士 的回答",
+  "original": {
+    "path": "原稿/1745ebdfeefc6809a2c03d18/b7a767fdd9cc06de260ca061f858499b51930556603b964e7a70832c8a518908.md",
+    "sha256": "b7a767fdd9cc06de260ca061f858499b51930556603b964e7a70832c8a518908"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1745ebdfeefc6809a2c03d18/reading-8be1215cf9c29aacd1f60aa4edbad804a9f0c6509f9b6948bd11605bbd1494c5.md",
+      "sha256": "8be1215cf9c29aacd1f60aa4edbad804a9f0c6509f9b6948bd11605bbd1494c5",
+      "original_sha256": "b7a767fdd9cc06de260ca061f858499b51930556603b964e7a70832c8a518908",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2068253867792504189/answer/2070232220053279587",
+  "title": "梁文锋在无人区被困的历史意味着什么？",
+  "original": {
+    "path": "原稿/96ef28ea3ba05236fa7f8ab7/6869af084cb5897d8ceed4b897a790ee94e0f717366409486f69e188cc77e8ed.md",
+    "sha256": "6869af084cb5897d8ceed4b897a790ee94e0f717366409486f69e188cc77e8ed"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/96ef28ea3ba05236fa7f8ab7/reading-dfb1bdbd50eaa9b4b776d6a26cc30f022bd3550b083b476213561e025a0ed352.md",
+      "sha256": "dfb1bdbd50eaa9b4b776d6a26cc30f022bd3550b083b476213561e025a0ed352",
+      "original_sha256": "6869af084cb5897d8ceed4b897a790ee94e0f717366409486f69e188cc77e8ed",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

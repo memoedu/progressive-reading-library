@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2060133066643879544/answer/2060477188961580693",
+  "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？ - 天使盐Tenshien 的回答",
+  "original": {
+    "path": "原稿/951ec12abe822004c30ec57a/319e6b4faee9a9cc9e36e8374a72af87acf508d593a4e7a154596dd0cbe8844d.md",
+    "sha256": "319e6b4faee9a9cc9e36e8374a72af87acf508d593a4e7a154596dd0cbe8844d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/951ec12abe822004c30ec57a/reading-173a0dca4ee8e6595be6fa90654602150c130dec055b31f1d6e460d4076f071e.md",
+      "sha256": "173a0dca4ee8e6595be6fa90654602150c130dec055b31f1d6e460d4076f071e",
+      "original_sha256": "319e6b4faee9a9cc9e36e8374a72af87acf508d593a4e7a154596dd0cbe8844d",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

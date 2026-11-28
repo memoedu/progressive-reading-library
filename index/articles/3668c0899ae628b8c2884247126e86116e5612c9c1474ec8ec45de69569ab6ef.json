@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/22237507/answer/1985502589501080176",
+  "title": "奇异值的物理意义是什么？ - 酱紫君 的回答",
+  "original": {
+    "path": "原稿/3668c0899ae628b8c2884247/7089009e49101ea9134f0c02db548b0a9bbb8ed3d13d61016492f4966e383d5b.md",
+    "sha256": "7089009e49101ea9134f0c02db548b0a9bbb8ed3d13d61016492f4966e383d5b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3668c0899ae628b8c2884247/reading-7d703c6b2a159c03bf22a87ed5a903e3e7a19479604575ce1592b370be68d812.md",
+      "sha256": "7d703c6b2a159c03bf22a87ed5a903e3e7a19479604575ce1592b370be68d812",
+      "original_sha256": "7089009e49101ea9134f0c02db548b0a9bbb8ed3d13d61016492f4966e383d5b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

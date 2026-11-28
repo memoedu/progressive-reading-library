@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/23605963/answer/2956807872",
+  "title": "大家通过相亲都明白了什么道理，得了什么感悟？ - 匿名用户 的回答",
+  "original": {
+    "path": "原稿/ecc86a3e2ada6075bc91b022/d03b4f444cd386ca60f262070627e48d4a7d3f6b7583be6424476200b6b3018c.md",
+    "sha256": "d03b4f444cd386ca60f262070627e48d4a7d3f6b7583be6424476200b6b3018c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ecc86a3e2ada6075bc91b022/reading-faea289f57076ad208e06b6ea56df314faeed082e4a316cfbbecb29e19e5e577.md",
+      "sha256": "faea289f57076ad208e06b6ea56df314faeed082e4a316cfbbecb29e19e5e577",
+      "original_sha256": "d03b4f444cd386ca60f262070627e48d4a7d3f6b7583be6424476200b6b3018c",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

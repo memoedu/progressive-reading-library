@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/7528272322/answer/63181172569",
+  "title": "高三学生本科想报考哲学系，有什么建议吗？ - cinder 的回答",
+  "original": {
+    "path": "原稿/25348846b5ef18c8c9b561ec/5048774563e8ddf62ccdfeb015aafe3f42ed211db998c5a61ca60c1eca4ef9b2.md",
+    "sha256": "5048774563e8ddf62ccdfeb015aafe3f42ed211db998c5a61ca60c1eca4ef9b2"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/25348846b5ef18c8c9b561ec/reading-b3376e7f973cacd8e1395eb23543d46ef8447ea62d0cc29ed85bb13f3032cf9e.md",
+      "sha256": "b3376e7f973cacd8e1395eb23543d46ef8447ea62d0cc29ed85bb13f3032cf9e",
+      "original_sha256": "5048774563e8ddf62ccdfeb015aafe3f42ed211db998c5a61ca60c1eca4ef9b2",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

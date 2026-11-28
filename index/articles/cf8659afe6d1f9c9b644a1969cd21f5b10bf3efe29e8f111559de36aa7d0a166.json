@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2056791474608366568/answer/2057233316357658327",
+  "title": "你觉得Vibe Coding是昙花一现还是真的在改变编程这件事？",
+  "original": {
+    "path": "原稿/cf8659afe6d1f9c9b644a196/c719d4588ba86b1f3a143d429b8addb73eee7816ed7c01d648c81b21e3ab528d.md",
+    "sha256": "c719d4588ba86b1f3a143d429b8addb73eee7816ed7c01d648c81b21e3ab528d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cf8659afe6d1f9c9b644a196/reading-d0b534de4edd062389eab10e80f97905e16e99beee705bccca6fa4804ebc326b.md",
+      "sha256": "d0b534de4edd062389eab10e80f97905e16e99beee705bccca6fa4804ebc326b",
+      "original_sha256": "c719d4588ba86b1f3a143d429b8addb73eee7816ed7c01d648c81b21e3ab528d",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

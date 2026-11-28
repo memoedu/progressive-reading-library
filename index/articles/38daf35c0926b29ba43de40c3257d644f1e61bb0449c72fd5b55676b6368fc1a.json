@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2000210358820946463",
+  "title": "万字长文解读LLM Agent：总体框架、经典论文与实践",
+  "original": {
+    "path": "原稿/38daf35c0926b29ba43de40c/3f78945e033671d33f0109d0ccd3ee37da22f215d9fdcd9f6d9b23c1bbf2615f.md",
+    "sha256": "3f78945e033671d33f0109d0ccd3ee37da22f215d9fdcd9f6d9b23c1bbf2615f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/38daf35c0926b29ba43de40c/reading-3ff35b2c07483ec69a4018dbf461718cf654aaa5b4bcdf829c694b0779de7f37.md",
+      "sha256": "3ff35b2c07483ec69a4018dbf461718cf654aaa5b4bcdf829c694b0779de7f37",
+      "original_sha256": "3f78945e033671d33f0109d0ccd3ee37da22f215d9fdcd9f6d9b23c1bbf2615f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

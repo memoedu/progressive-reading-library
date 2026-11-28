@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/12431607528/answer/1946247370917524695",
+  "title": "博士生工作效率太低怎么办？ - 前线SRE康某 的回答",
+  "original": {
+    "path": "原稿/8b9cbe95c0e21a97d80cdb50/79fd8e30d8cac33bf26a3120942f532e00cfd449571ef1bfa89de0253af1e678.md",
+    "sha256": "79fd8e30d8cac33bf26a3120942f532e00cfd449571ef1bfa89de0253af1e678"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8b9cbe95c0e21a97d80cdb50/reading-f9ab966a77c6a46d4c8e8fa2db7ddab77f0b5817805cc1afb1d2c8aaa360c00e.md",
+      "sha256": "f9ab966a77c6a46d4c8e8fa2db7ddab77f0b5817805cc1afb1d2c8aaa360c00e",
+      "original_sha256": "79fd8e30d8cac33bf26a3120942f532e00cfd449571ef1bfa89de0253af1e678",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

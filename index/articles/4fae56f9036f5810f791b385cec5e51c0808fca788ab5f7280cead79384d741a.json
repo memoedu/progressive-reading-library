@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/66165881/answer/2041877076106536509",
+  "title": "拉马努金是怎么发现那些壮观的公式的？ - cyb酱 的回答",
+  "original": {
+    "path": "原稿/4fae56f9036f5810f791b385/19b11289211c2cce9482acbc25879fbe122490fb90269c080b836450127a12ee.md",
+    "sha256": "19b11289211c2cce9482acbc25879fbe122490fb90269c080b836450127a12ee"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4fae56f9036f5810f791b385/reading-f8b996a9bc286ae4929372af562bd9fb6a17703e87c3816b40d44a59918031db.md",
+      "sha256": "f8b996a9bc286ae4929372af562bd9fb6a17703e87c3816b40d44a59918031db",
+      "original_sha256": "19b11289211c2cce9482acbc25879fbe122490fb90269c080b836450127a12ee",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

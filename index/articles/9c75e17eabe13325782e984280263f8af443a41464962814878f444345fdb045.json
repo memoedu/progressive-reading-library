@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1961083112625780623/answer/1993539208581755404",
+  "title": "女将军人设很多却火不起来，这背后原因有哪些？ - 命汝尹茲东郊 的回答",
+  "original": {
+    "path": "原稿/9c75e17eabe13325782e9842/e1e956218b8454c02c2c37d4f7ec19a38cf1a7b47ae3094a103ac2c61d354b8c.md",
+    "sha256": "e1e956218b8454c02c2c37d4f7ec19a38cf1a7b47ae3094a103ac2c61d354b8c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9c75e17eabe13325782e9842/reading-44e823b5272ec24dcb797fb87e6024bfc7d077f75645c1e6ec9d5eff5c47cae0.md",
+      "sha256": "44e823b5272ec24dcb797fb87e6024bfc7d077f75645c1e6ec9d5eff5c47cae0",
+      "original_sha256": "e1e956218b8454c02c2c37d4f7ec19a38cf1a7b47ae3094a103ac2c61d354b8c",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/657302311/answer/1992562376210393062",
+  "title": "为什么人可以直观地看出函数局部最小值的大致位置，而计算机不能？ - V777 的回答",
+  "original": {
+    "path": "原稿/bd84510512568cfc0a7c12ca/5f2f74c363d779a310e4c656e06f7ef279cf5a2a8daae8342646c4d8eddd6490.md",
+    "sha256": "5f2f74c363d779a310e4c656e06f7ef279cf5a2a8daae8342646c4d8eddd6490"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/bd84510512568cfc0a7c12ca/reading-734d8d6cddb368024dafebfdaca6421da44a051dced77c3f2975a83f4ac4d465.md",
+      "sha256": "734d8d6cddb368024dafebfdaca6421da44a051dced77c3f2975a83f4ac4d465",
+      "original_sha256": "5f2f74c363d779a310e4c656e06f7ef279cf5a2a8daae8342646c4d8eddd6490",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

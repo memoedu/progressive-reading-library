@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/27335909/answer/201314356",
+  "title": "养成哪些上网习惯可以避免泄露重要的个人隐私？ - 吕俭SVM 的回答",
+  "original": {
+    "path": "原稿/44e83ba18b9d5ea93188c23c/3be09bf230e665154a52c19d02e2361539d25dd477f8f53ae7b918bfe19706ee.md",
+    "sha256": "3be09bf230e665154a52c19d02e2361539d25dd477f8f53ae7b918bfe19706ee"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/44e83ba18b9d5ea93188c23c/reading-acecd520266a542c820b0b122a1c605c8e0b37c733394f35c7bfee4b51edda52.md",
+      "sha256": "acecd520266a542c820b0b122a1c605c8e0b37c733394f35c7bfee4b51edda52",
+      "original_sha256": "3be09bf230e665154a52c19d02e2361539d25dd477f8f53ae7b918bfe19706ee",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/11463857483/answer/2069201762347640269",
+  "title": "什么东西大学生最该学却没人教？",
+  "original": {
+    "path": "原稿/421a755cab6831c221022a92/684cdbc4180a4228eb5fa1b7f4a0450a0c63356ed364503ddf1fe4c4efb2c1b9.md",
+    "sha256": "684cdbc4180a4228eb5fa1b7f4a0450a0c63356ed364503ddf1fe4c4efb2c1b9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/421a755cab6831c221022a92/reading-4f3136104741ae326514c2bcbc21ac938a87de4416ca3f6e232df3455c97e57f.md",
+      "sha256": "4f3136104741ae326514c2bcbc21ac938a87de4416ca3f6e232df3455c97e57f",
+      "original_sha256": "684cdbc4180a4228eb5fa1b7f4a0450a0c63356ed364503ddf1fe4c4efb2c1b9",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

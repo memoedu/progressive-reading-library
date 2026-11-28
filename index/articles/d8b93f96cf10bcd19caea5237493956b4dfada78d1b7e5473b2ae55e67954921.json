@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/47727045/answer/3491934777",
+  "title": "突然开窍是怎样一种体验？ - 冲浪请别跷二郎腿 的回答",
+  "original": {
+    "path": "原稿/d8b93f96cf10bcd19caea523/1676d5e86abf073e235c4b1eea1c4dd4c0ea83cde941dcd28a986125e4f6b4c0.md",
+    "sha256": "1676d5e86abf073e235c4b1eea1c4dd4c0ea83cde941dcd28a986125e4f6b4c0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d8b93f96cf10bcd19caea523/reading-6e8141262b458ba45df98e932f5c4a344bd60b415d5cf149ab7363d3f4208e8d.md",
+      "sha256": "6e8141262b458ba45df98e932f5c4a344bd60b415d5cf149ab7363d3f4208e8d",
+      "original_sha256": "1676d5e86abf073e235c4b1eea1c4dd4c0ea83cde941dcd28a986125e4f6b4c0",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/10385500084/answer/2057942150474635027",
+  "title": "如何看待健身锻炼到最后一身伤病? - 匿名上网 的回答",
+  "original": {
+    "path": "原稿/4abdab24eaecfe5f13cb0fef/b74feabb9514c4c7473ddedcdffb7768d483aca32860689ba0c8a3f3845e1a38.md",
+    "sha256": "b74feabb9514c4c7473ddedcdffb7768d483aca32860689ba0c8a3f3845e1a38"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4abdab24eaecfe5f13cb0fef/reading-67231772121838183404fbe7e00b8c5c67fd02f02b2ed2bd14c3df975526977e.md",
+      "sha256": "67231772121838183404fbe7e00b8c5c67fd02f02b2ed2bd14c3df975526977e",
+      "original_sha256": "b74feabb9514c4c7473ddedcdffb7768d483aca32860689ba0c8a3f3845e1a38",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

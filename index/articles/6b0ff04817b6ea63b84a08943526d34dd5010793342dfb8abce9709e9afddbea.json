@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2057753624717911009/answer/2057811661147448681",
+  "title": "如何看待华为首批天才少年计划入选者李博杰吐槽DeepSeek的面试流程拖沓，被面试官指控抄袭？ - 酱紫君 的回答",
+  "original": {
+    "path": "原稿/6b0ff04817b6ea63b84a0894/dec163fbf2e1f48c18741eb0de87ce2977149486605efbb53f25fc8d4886d39f.md",
+    "sha256": "dec163fbf2e1f48c18741eb0de87ce2977149486605efbb53f25fc8d4886d39f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6b0ff04817b6ea63b84a0894/reading-cfd0a468925b63576cd7d43541284f8f81bf4aa08bdb08bed30413251c261928.md",
+      "sha256": "cfd0a468925b63576cd7d43541284f8f81bf4aa08bdb08bed30413251c261928",
+      "original_sha256": "dec163fbf2e1f48c18741eb0de87ce2977149486605efbb53f25fc8d4886d39f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

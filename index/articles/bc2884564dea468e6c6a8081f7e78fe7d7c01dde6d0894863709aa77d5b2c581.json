@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/627868480/answer/19265295720",
+  "title": "具身智能的前景如何？是否适合读博？ - matrix明仔 的回答",
+  "original": {
+    "path": "原稿/bc2884564dea468e6c6a8081/87cbc3705054df2b567bbb61ee5d7a689feb50884c0f93499f2f726b92b29eda.md",
+    "sha256": "87cbc3705054df2b567bbb61ee5d7a689feb50884c0f93499f2f726b92b29eda"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/bc2884564dea468e6c6a8081/reading-63bf54d7ba209a2d89d23bfdb58090585b5d527540113fa9044515994a3883ae.md",
+      "sha256": "63bf54d7ba209a2d89d23bfdb58090585b5d527540113fa9044515994a3883ae",
+      "original_sha256": "87cbc3705054df2b567bbb61ee5d7a689feb50884c0f93499f2f726b92b29eda",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

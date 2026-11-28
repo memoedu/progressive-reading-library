@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2041288151956723472",
+  "title": "盘点数学里的各种反演",
+  "original": {
+    "path": "原稿/9b837af9bf3b4a413e4a184c/22e478cc9f744539f8fdf45bc7e22e9cd41f09894560e078d5a289af88a3889e.md",
+    "sha256": "22e478cc9f744539f8fdf45bc7e22e9cd41f09894560e078d5a289af88a3889e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9b837af9bf3b4a413e4a184c/reading-18a62819076b584173efe3bc7cb64e1a680b381e33c602c229290d508bd5061a.md",
+      "sha256": "18a62819076b584173efe3bc7cb64e1a680b381e33c602c229290d508bd5061a",
+      "original_sha256": "22e478cc9f744539f8fdf45bc7e22e9cd41f09894560e078d5a289af88a3889e",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

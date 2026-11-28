@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2046223992399329167",
+  "title": "世界模型初探与碎碎念——写在博一结束",
+  "original": {
+    "path": "原稿/9968506170934da108a17354/07844ea613bd3abc9c5a171d5b2d4e9562552298505553574a751e76d3791df5.md",
+    "sha256": "07844ea613bd3abc9c5a171d5b2d4e9562552298505553574a751e76d3791df5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9968506170934da108a17354/reading-87b41c628bab533e45ae53f1288de0d8ae3384a547f4232847179755810621ef.md",
+      "sha256": "87b41c628bab533e45ae53f1288de0d8ae3384a547f4232847179755810621ef",
+      "original_sha256": "07844ea613bd3abc9c5a171d5b2d4e9562552298505553574a751e76d3791df5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

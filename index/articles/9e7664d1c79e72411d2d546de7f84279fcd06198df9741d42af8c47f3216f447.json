@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1967534073749667914/answer/2000508541514059925",
+  "title": "都说现代人有精神性危机，但我在现实中似乎并没感觉到其他人有那么痛苦，这是为什么？ - 姜源 的回答",
+  "original": {
+    "path": "原稿/9e7664d1c79e72411d2d546d/5d204c2b29596d2de2a9309516bb04886e4cb3855217f4dd83ff0e5dec9f309a.md",
+    "sha256": "5d204c2b29596d2de2a9309516bb04886e4cb3855217f4dd83ff0e5dec9f309a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9e7664d1c79e72411d2d546d/reading-1b7ba41594de0fb8f4dcd83fedb7d35bdd0cd26d88e81ab2dc5314fa6136b697.md",
+      "sha256": "1b7ba41594de0fb8f4dcd83fedb7d35bdd0cd26d88e81ab2dc5314fa6136b697",
+      "original_sha256": "5d204c2b29596d2de2a9309516bb04886e4cb3855217f4dd83ff0e5dec9f309a",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

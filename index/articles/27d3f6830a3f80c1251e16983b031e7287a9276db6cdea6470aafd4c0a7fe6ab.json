@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/655158500/answer/2056426210943670112",
+  "title": "为什么总有人用「13 月」「星期八」来嘲讽英语？ - 罗心澄 的回答",
+  "original": {
+    "path": "原稿/27d3f6830a3f80c1251e1698/b895c2fb7c4c216f9016a730bafd12c30a7177894022a456c9928951fe6a8a30.md",
+    "sha256": "b895c2fb7c4c216f9016a730bafd12c30a7177894022a456c9928951fe6a8a30"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/27d3f6830a3f80c1251e1698/reading-b34fefc217e04a049a0de1425ada1bfe3a21cf949c1d880d36f844b106be23b5.md",
+      "sha256": "b34fefc217e04a049a0de1425ada1bfe3a21cf949c1d880d36f844b106be23b5",
+      "original_sha256": "b895c2fb7c4c216f9016a730bafd12c30a7177894022a456c9928951fe6a8a30",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

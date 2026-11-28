@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/689834716",
+  "title": "博主写书《工程师视角下的高中数学》，半开源",
+  "original": {
+    "path": "原稿/00e32c707a2c3f7607ea2508/9ece28a74135fdeb05d43908c787053c136717f0d44bfbf04a469926b2e2fa4f.md",
+    "sha256": "9ece28a74135fdeb05d43908c787053c136717f0d44bfbf04a469926b2e2fa4f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/00e32c707a2c3f7607ea2508/reading-127bb85e13f4ec7917f49e5bae0eba1e8520f68b0f023926aadccd23d95644e0.md",
+      "sha256": "127bb85e13f4ec7917f49e5bae0eba1e8520f68b0f023926aadccd23d95644e0",
+      "original_sha256": "9ece28a74135fdeb05d43908c787053c136717f0d44bfbf04a469926b2e2fa4f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

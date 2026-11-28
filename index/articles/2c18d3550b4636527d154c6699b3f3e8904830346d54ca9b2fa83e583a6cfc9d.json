@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/439275803/answer/2058019100455178802",
+  "title": "如何看待AI参与文学创作？ - wangleineo 的回答",
+  "original": {
+    "path": "原稿/2c18d3550b4636527d154c66/3823d77442d98b01eb1cca5d00401a7064dcbbe1b4152fd92b19d463e4ce5a19.md",
+    "sha256": "3823d77442d98b01eb1cca5d00401a7064dcbbe1b4152fd92b19d463e4ce5a19"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2c18d3550b4636527d154c66/reading-eee842d4347d2dd0861e1727b2fadf3aa059ea2484707e6bf7bfebdc27977189.md",
+      "sha256": "eee842d4347d2dd0861e1727b2fadf3aa059ea2484707e6bf7bfebdc27977189",
+      "original_sha256": "3823d77442d98b01eb1cca5d00401a7064dcbbe1b4152fd92b19d463e4ce5a19",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

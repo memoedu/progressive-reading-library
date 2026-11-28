@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2007138202419495682",
+  "title": "从 vibe coding agent 到后训练，从零开始的实验科学",
+  "original": {
+    "path": "原稿/4550bd850047d2139ade6488/7cb19fb2eff38469ea092d188de7239835b0e9b437750e544c1b165f10cd5965.md",
+    "sha256": "7cb19fb2eff38469ea092d188de7239835b0e9b437750e544c1b165f10cd5965"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4550bd850047d2139ade6488/reading-510f621b8410e9915cdb8bc1bba024f491f544f4ded16485b7d8f886e8032f91.md",
+      "sha256": "510f621b8410e9915cdb8bc1bba024f491f544f4ded16485b7d8f886e8032f91",
+      "original_sha256": "7cb19fb2eff38469ea092d188de7239835b0e9b437750e544c1b165f10cd5965",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

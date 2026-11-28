@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/621253280/answer/3274065702",
+  "title": "如果一定要推荐一个历史学者，你会推荐谁？ - 故纸堆中的讼棍 的回答",
+  "original": {
+    "path": "原稿/7542769fbdea60c21ec07395/9c7d8c787d6fa29d8a208de09a9e12d75a5829d806341ed0ea117b03be2090a5.md",
+    "sha256": "9c7d8c787d6fa29d8a208de09a9e12d75a5829d806341ed0ea117b03be2090a5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7542769fbdea60c21ec07395/reading-1e10ee67650e042443f9d38dcaf36f36faac711109e346149d35f9ed5e0db0f3.md",
+      "sha256": "1e10ee67650e042443f9d38dcaf36f36faac711109e346149d35f9ed5e0db0f3",
+      "original_sha256": "9c7d8c787d6fa29d8a208de09a9e12d75a5829d806341ed0ea117b03be2090a5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

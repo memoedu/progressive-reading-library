@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/303781246/answer/2069706533118685682",
+  "title": "20-30 岁怎么规划自己的人生呢？",
+  "original": {
+    "path": "原稿/e321dca37e90b090fc1a61ab/430c0dc476b2450ca4d0f55a05e75396f1273ee92a56050dfba01138f0d6d949.md",
+    "sha256": "430c0dc476b2450ca4d0f55a05e75396f1273ee92a56050dfba01138f0d6d949"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e321dca37e90b090fc1a61ab/reading-f7f5757e25c5d9f302b5642065a93ab6f7581e887a74a25b627ee578062c1f8b.md",
+      "sha256": "f7f5757e25c5d9f302b5642065a93ab6f7581e887a74a25b627ee578062c1f8b",
+      "original_sha256": "430c0dc476b2450ca4d0f55a05e75396f1273ee92a56050dfba01138f0d6d949",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

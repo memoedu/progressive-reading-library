@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2060761344652138165",
+  "title": "《Machine Learning Yearning》核心章节深度解读：第13-19章 误差分析（Bad Case通用方法论源头）",
+  "original": {
+    "path": "原稿/deb0c71c0f86090148b3ff34/00e003b701f468a881e5acf1abf9560bde2b58120c54248fc78f2f883f4e39e9.md",
+    "sha256": "00e003b701f468a881e5acf1abf9560bde2b58120c54248fc78f2f883f4e39e9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/deb0c71c0f86090148b3ff34/reading-6454f6376ab1349f424ddffaa357436898cb4d41b38060a7863c7eb9a181e8a7.md",
+      "sha256": "6454f6376ab1349f424ddffaa357436898cb4d41b38060a7863c7eb9a181e8a7",
+      "original_sha256": "00e003b701f468a881e5acf1abf9560bde2b58120c54248fc78f2f883f4e39e9",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

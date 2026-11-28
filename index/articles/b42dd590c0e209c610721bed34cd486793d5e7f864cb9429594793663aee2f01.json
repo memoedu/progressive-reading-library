@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2026791911885685432/answer/2037484177361212165",
+  "title": "两岸统一的核心障碍是什么？ - 知乎",
+  "original": {
+    "path": "原稿/b42dd590c0e209c610721bed/24724603f34d511c39d0776479fe801db99da620da5b42d5f0d5f9b3cd8caed0.md",
+    "sha256": "24724603f34d511c39d0776479fe801db99da620da5b42d5f0d5f9b3cd8caed0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b42dd590c0e209c610721bed/reading-bb86a9bf5ead868ecd4ab8b052ecd69246903cd707614079a32c388c152efab3.md",
+      "sha256": "bb86a9bf5ead868ecd4ab8b052ecd69246903cd707614079a32c388c152efab3",
+      "original_sha256": "24724603f34d511c39d0776479fe801db99da620da5b42d5f0d5f9b3cd8caed0",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

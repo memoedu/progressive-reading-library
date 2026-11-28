@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2013539137932775450/answer/2026683132875667301",
+  "title": "突然发现，父母从来没有教过我们如何社会化，你们也是成年后才自己补完这门课的吗？",
+  "original": {
+    "path": "原稿/218f0ffc24fe263b1bfc4b98/53023f5a288614c54bab689baf6fc08e9c2c6dbfd36688c66a4dedb400445b11.md",
+    "sha256": "53023f5a288614c54bab689baf6fc08e9c2c6dbfd36688c66a4dedb400445b11"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/218f0ffc24fe263b1bfc4b98/reading-0aafae2eec5bb3d98acdef282c8e76c8ca2de2c23451cac0048dac3b4bef9ff1.md",
+      "sha256": "0aafae2eec5bb3d98acdef282c8e76c8ca2de2c23451cac0048dac3b4bef9ff1",
+      "original_sha256": "53023f5a288614c54bab689baf6fc08e9c2c6dbfd36688c66a4dedb400445b11",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

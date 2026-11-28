@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2017031352093013210/answer/2018278191123408719",
+  "title": "从vibe coding到如今的agent，作为大学生几乎丧失手搓代码的能力，需要焦虑吗？ - Soulflare 的回答",
+  "original": {
+    "path": "原稿/aa511067c25ca1ebfc0b6950/ca5196ebe5d07675e43b650789d19f2a348cb30ae8f2af898e39b7039f37d2ce.md",
+    "sha256": "ca5196ebe5d07675e43b650789d19f2a348cb30ae8f2af898e39b7039f37d2ce"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/aa511067c25ca1ebfc0b6950/reading-baaba3bf37e07f5db9ca968fa936963e5a5d4efabae440e8c4c1248816ccce30.md",
+      "sha256": "baaba3bf37e07f5db9ca968fa936963e5a5d4efabae440e8c4c1248816ccce30",
+      "original_sha256": "ca5196ebe5d07675e43b650789d19f2a348cb30ae8f2af898e39b7039f37d2ce",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

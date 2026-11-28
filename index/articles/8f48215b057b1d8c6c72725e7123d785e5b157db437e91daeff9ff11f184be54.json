@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/19624646/answer/18286810",
+  "title": "有哪些值得推介的客观详实的中国近代史或当代史书籍？ - 沐石 的回答",
+  "original": {
+    "path": "原稿/8f48215b057b1d8c6c72725e/101f03b711df69d4911f55130f268e40769e2b7abf5bf2825b167c7916eb8fb9.md",
+    "sha256": "101f03b711df69d4911f55130f268e40769e2b7abf5bf2825b167c7916eb8fb9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8f48215b057b1d8c6c72725e/reading-df7e50f067cb2ecefd0d8408e92cfecb16134bff2da8b9b63a730c1923f8788e.md",
+      "sha256": "df7e50f067cb2ecefd0d8408e92cfecb16134bff2da8b9b63a730c1923f8788e",
+      "original_sha256": "101f03b711df69d4911f55130f268e40769e2b7abf5bf2825b167c7916eb8fb9",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

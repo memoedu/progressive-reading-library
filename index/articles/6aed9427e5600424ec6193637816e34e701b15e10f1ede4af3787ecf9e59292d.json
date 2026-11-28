@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1928065577953493293/answer/1928822672508314676",
+  "title": "青年秦晖的极左造反派理论与晚年秦晖的亲美自由派理论具有哪些共性与差异？ - 脱碳甲醛 的回答",
+  "original": {
+    "path": "原稿/6aed9427e5600424ec619363/d3bc931531b755448fdde2647d68ed55c3db6b311d216adfe66336b796c1c149.md",
+    "sha256": "d3bc931531b755448fdde2647d68ed55c3db6b311d216adfe66336b796c1c149"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6aed9427e5600424ec619363/reading-cbd79926b5d846dcd11c6434cac2341e1dbe4b9355fac3c5b252049a81e88ed1.md",
+      "sha256": "cbd79926b5d846dcd11c6434cac2341e1dbe4b9355fac3c5b252049a81e88ed1",
+      "original_sha256": "d3bc931531b755448fdde2647d68ed55c3db6b311d216adfe66336b796c1c149",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

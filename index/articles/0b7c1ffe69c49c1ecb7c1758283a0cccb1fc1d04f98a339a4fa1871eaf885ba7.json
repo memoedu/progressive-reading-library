@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1928228722651145665/answer/1951318283702731381",
+  "title": "什么时候“缺乏主体性”变成一句流行语了，这指出事情的本质了吗？ - 神圣哀悼 的回答",
+  "original": {
+    "path": "原稿/0b7c1ffe69c49c1ecb7c1758/507817fce4592476917814e683cb4538df5876c9417aae6869bc1062f866b73e.md",
+    "sha256": "507817fce4592476917814e683cb4538df5876c9417aae6869bc1062f866b73e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0b7c1ffe69c49c1ecb7c1758/reading-415cb86fdba3ec3ddedbce0f157d1335eebdff80595faa7aec39f2188a1c92f0.md",
+      "sha256": "415cb86fdba3ec3ddedbce0f157d1335eebdff80595faa7aec39f2188a1c92f0",
+      "original_sha256": "507817fce4592476917814e683cb4538df5876c9417aae6869bc1062f866b73e",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

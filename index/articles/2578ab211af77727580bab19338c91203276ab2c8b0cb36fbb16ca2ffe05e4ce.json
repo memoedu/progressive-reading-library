@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/67578306/answer/2034209238185140281",
+  "title": "你在生活中用过最高端的经济知识是什么? - 北冥有鱼 的回答",
+  "original": {
+    "path": "原稿/2578ab211af77727580bab19/8bb83dd77af9ded7ceac4ee38075a0198dac3580000a6a8609d408db2acb15fb.md",
+    "sha256": "8bb83dd77af9ded7ceac4ee38075a0198dac3580000a6a8609d408db2acb15fb"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2578ab211af77727580bab19/reading-a5bfafa8e2969f445bbbd9db2a222b9c681c4606a37ade77cfcf73246a3077a5.md",
+      "sha256": "a5bfafa8e2969f445bbbd9db2a222b9c681c4606a37ade77cfcf73246a3077a5",
+      "original_sha256": "8bb83dd77af9ded7ceac4ee38075a0198dac3580000a6a8609d408db2acb15fb",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

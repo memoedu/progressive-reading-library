@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/437938486/answer/1917909081773015751",
+  "title": "北京邮电大学和西安电子科技大学对比，实力如何? - Believer 的回答",
+  "original": {
+    "path": "原稿/f8b7b21d5e2c148297e654e8/2ca10dca53d2998979e502515dd8caf5520d295ba9d0ebf9cfaf15771726af45.md",
+    "sha256": "2ca10dca53d2998979e502515dd8caf5520d295ba9d0ebf9cfaf15771726af45"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f8b7b21d5e2c148297e654e8/reading-e32ae2fc81a985fcf97fb4cc1062f028a451f410f936f6a3ed97e3894460e902.md",
+      "sha256": "e32ae2fc81a985fcf97fb4cc1062f028a451f410f936f6a3ed97e3894460e902",
+      "original_sha256": "2ca10dca53d2998979e502515dd8caf5520d295ba9d0ebf9cfaf15771726af45",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

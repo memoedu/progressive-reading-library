@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/390877568/answer/2015707816229351863",
+  "title": "能推荐一本《分析力学》或《理论力学》（物理专业）课本吗？",
+  "original": {
+    "path": "原稿/654ae993633600273635313c/3d102a035329b77fe28d263e81857dd9c34701230562049cf301b618ca7bacfc.md",
+    "sha256": "3d102a035329b77fe28d263e81857dd9c34701230562049cf301b618ca7bacfc"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/654ae993633600273635313c/reading-8ff11fdbd793fce89611b05698c2e04fe8e00ea555f1e043b7a141d6a11a6e57.md",
+      "sha256": "8ff11fdbd793fce89611b05698c2e04fe8e00ea555f1e043b7a141d6a11a6e57",
+      "original_sha256": "3d102a035329b77fe28d263e81857dd9c34701230562049cf301b618ca7bacfc",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

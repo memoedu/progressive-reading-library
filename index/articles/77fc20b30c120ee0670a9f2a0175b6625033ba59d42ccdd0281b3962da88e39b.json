@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/10925463384",
+  "title": "数学系参考书推荐（大二上）",
+  "original": {
+    "path": "原稿/77fc20b30c120ee0670a9f2a/90e4e295a9ec5a68f7d5f5569f856809ab682032abfe79c0dbe10203645356a0.md",
+    "sha256": "90e4e295a9ec5a68f7d5f5569f856809ab682032abfe79c0dbe10203645356a0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/77fc20b30c120ee0670a9f2a/reading-09b0438deec870ba54de1e7dfc8d745d12eddef6dfb368f59a0ae2102b0b5f30.md",
+      "sha256": "09b0438deec870ba54de1e7dfc8d745d12eddef6dfb368f59a0ae2102b0b5f30",
+      "original_sha256": "90e4e295a9ec5a68f7d5f5569f856809ab682032abfe79c0dbe10203645356a0",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/711081649/answer/1945308716942460371",
+  "title": "为什么建议普通人别炒股？",
+  "original": {
+    "path": "原稿/bf4c44a18afe2d38004efc1b/81d1f5b887d5502ebd6eebf1595580bf879335632b029cca346ae8bb4c31382b.md",
+    "sha256": "81d1f5b887d5502ebd6eebf1595580bf879335632b029cca346ae8bb4c31382b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/bf4c44a18afe2d38004efc1b/reading-d92818c0b6b51981583eebd816845b359604feb304c1d08120f378aca033c1a4.md",
+      "sha256": "d92818c0b6b51981583eebd816845b359604feb304c1d08120f378aca033c1a4",
+      "original_sha256": "81d1f5b887d5502ebd6eebf1595580bf879335632b029cca346ae8bb4c31382b",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

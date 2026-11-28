@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2058221554144637051",
+  "title": "技术预测：小径分岔的花园",
+  "original": {
+    "path": "原稿/9cc22dcab186bbab6549647d/a4d4187aad3ae957d0842ab89a3c7ee4899d53d9ee9168aed95c9aa019abd291.md",
+    "sha256": "a4d4187aad3ae957d0842ab89a3c7ee4899d53d9ee9168aed95c9aa019abd291"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9cc22dcab186bbab6549647d/reading-11bd2c5ca82a33cb1c559de8116f5547819d2c1caa762edef34b90fc9253c74d.md",
+      "sha256": "11bd2c5ca82a33cb1c559de8116f5547819d2c1caa762edef34b90fc9253c74d",
+      "original_sha256": "a4d4187aad3ae957d0842ab89a3c7ee4899d53d9ee9168aed95c9aa019abd291",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

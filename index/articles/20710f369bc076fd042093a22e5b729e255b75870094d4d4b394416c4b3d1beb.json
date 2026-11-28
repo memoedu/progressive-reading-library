@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2064705136883245583",
+  "title": "世界：导读",
+  "original": {
+    "path": "原稿/20710f369bc076fd042093a2/ffb96c922c60cde3630ddbba4d16155dd52f8a0f61c822ff7289c920763f9d69.md",
+    "sha256": "ffb96c922c60cde3630ddbba4d16155dd52f8a0f61c822ff7289c920763f9d69"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/20710f369bc076fd042093a2/reading-c4c58b58f23210df2453b8aba35b44acec87f6875de8f03e4341a3b93099ddfa.md",
+      "sha256": "c4c58b58f23210df2453b8aba35b44acec87f6875de8f03e4341a3b93099ddfa",
+      "original_sha256": "ffb96c922c60cde3630ddbba4d16155dd52f8a0f61c822ff7289c920763f9d69",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

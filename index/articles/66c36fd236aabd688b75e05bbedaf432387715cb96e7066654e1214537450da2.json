@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/3750276124/answer/2064750055693853736",
+  "title": "月之暗面（Moonshot AI）的CEO杨植麟为什么这么强？ - Flood Sung 的回答",
+  "original": {
+    "path": "原稿/66c36fd236aabd688b75e05b/cc689910cc4c140884838a6d1840b9b30c014e56614808ddd07a4fdbf0147547.md",
+    "sha256": "cc689910cc4c140884838a6d1840b9b30c014e56614808ddd07a4fdbf0147547"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/66c36fd236aabd688b75e05b/reading-5c1a6086cfaebe391ec94e191372c8a5055d6b36901dbda6ac5cc4f27c51885a.md",
+      "sha256": "5c1a6086cfaebe391ec94e191372c8a5055d6b36901dbda6ac5cc4f27c51885a",
+      "original_sha256": "cc689910cc4c140884838a6d1840b9b30c014e56614808ddd07a4fdbf0147547",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

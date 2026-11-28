@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2050309628966261870",
+  "title": "北邮计算机网络课设：AI编程狂欢后的思考",
+  "original": {
+    "path": "原稿/bab8fd2f331534b623ccc61b/a1eeb99e2616fa1fccd4fa6f390e20c18f408a04e7ef7a1c73c0593757218ad5.md",
+    "sha256": "a1eeb99e2616fa1fccd4fa6f390e20c18f408a04e7ef7a1c73c0593757218ad5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/bab8fd2f331534b623ccc61b/reading-2b8859457b9b32f713509f258db25af5079ef85a8c48a30755d62380a191038d.md",
+      "sha256": "2b8859457b9b32f713509f258db25af5079ef85a8c48a30755d62380a191038d",
+      "original_sha256": "a1eeb99e2616fa1fccd4fa6f390e20c18f408a04e7ef7a1c73c0593757218ad5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

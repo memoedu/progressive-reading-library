@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1965052043103281833/answer/1971547477162321418",
+  "title": "可以推荐几本高质量的当代史（1980-2025）书籍吗？既可以是世界史，也可以是中国史? - 铜鐘Tongzhg 的回答",
+  "original": {
+    "path": "原稿/5d67ea13ca6c2695b8d2fce1/ff00bb01ba8eed179b23ab86958537147d517c7e9fcdb359f79a09ccf325e6ad.md",
+    "sha256": "ff00bb01ba8eed179b23ab86958537147d517c7e9fcdb359f79a09ccf325e6ad"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5d67ea13ca6c2695b8d2fce1/reading-08e1669f889ad7e13cf7bc0c12f5e852b8893398960673b90249d4148c47efe4.md",
+      "sha256": "08e1669f889ad7e13cf7bc0c12f5e852b8893398960673b90249d4148c47efe4",
+      "original_sha256": "ff00bb01ba8eed179b23ab86958537147d517c7e9fcdb359f79a09ccf325e6ad",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

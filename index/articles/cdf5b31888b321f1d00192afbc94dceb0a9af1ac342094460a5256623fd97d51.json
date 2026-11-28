@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1968361285579150015/answer/2046545633893429516",
+  "title": "为什么 LLM 仅预测下一词，就能「涌现」出高级能力？",
+  "original": {
+    "path": "原稿/cdf5b31888b321f1d00192af/98f2a22f37e685c4a593439469b8de8d2dcc1e093e57312e2d64dcd767d22070.md",
+    "sha256": "98f2a22f37e685c4a593439469b8de8d2dcc1e093e57312e2d64dcd767d22070"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cdf5b31888b321f1d00192af/reading-caaca3330c21e900ea1efe12cfc1b7a35bf89df696db9a93c6f1f458f48a7514.md",
+      "sha256": "caaca3330c21e900ea1efe12cfc1b7a35bf89df696db9a93c6f1f458f48a7514",
+      "original_sha256": "98f2a22f37e685c4a593439469b8de8d2dcc1e093e57312e2d64dcd767d22070",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

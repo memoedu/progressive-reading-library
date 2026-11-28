@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1964779645380564241/answer/1970662899967041856",
+  "title": "如何评价小说《群聊里的革命》? - sturmvogel 的回答",
+  "original": {
+    "path": "原稿/7431f78ffd042ed496d872cb/1e83110ff806f372ef596fa1df7811baff90360bfb6b353634d5d71a5bb80c91.md",
+    "sha256": "1e83110ff806f372ef596fa1df7811baff90360bfb6b353634d5d71a5bb80c91"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7431f78ffd042ed496d872cb/reading-045a0c23f1ce526fc10b800d185f592ab1f119446c75617aa48f57488108b498.md",
+      "sha256": "045a0c23f1ce526fc10b800d185f592ab1f119446c75617aa48f57488108b498",
+      "original_sha256": "1e83110ff806f372ef596fa1df7811baff90360bfb6b353634d5d71a5bb80c91",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

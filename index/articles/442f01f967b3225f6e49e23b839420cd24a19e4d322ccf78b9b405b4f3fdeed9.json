@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1957395370515596292/answer/2056081942421018499",
+  "title": "如何看待英语单词量接近一万的我做初中生的卷子能碰到五个无注释单词不认识的这件事? - Thoughts Memo 的回答",
+  "original": {
+    "path": "原稿/442f01f967b3225f6e49e23b/db30ac68de02d430ca58767fd80d9a16e02ebd6c103a4230a5acb2bff68318cb.md",
+    "sha256": "db30ac68de02d430ca58767fd80d9a16e02ebd6c103a4230a5acb2bff68318cb"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/442f01f967b3225f6e49e23b/reading-8467fc4566a7ea2a78018dcc355c3b3c1a122a3a08151f96b05bf0f4abc4df57.md",
+      "sha256": "8467fc4566a7ea2a78018dcc355c3b3c1a122a3a08151f96b05bf0f4abc4df57",
+      "original_sha256": "db30ac68de02d430ca58767fd80d9a16e02ebd6c103a4230a5acb2bff68318cb",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

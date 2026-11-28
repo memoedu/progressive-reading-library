@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2044593527619839239/answer/2060335280968807126",
+  "title": "codex的windows桌面版真的只有在wsl中才是“满血”，才有最佳体验吗？ - QwQer 的回答",
+  "original": {
+    "path": "原稿/055b30085dda666f284e38e4/268dcc0b02aea6b0dfd7847b8cb73562a13ac82b6f7825324e562f6972f5139a.md",
+    "sha256": "268dcc0b02aea6b0dfd7847b8cb73562a13ac82b6f7825324e562f6972f5139a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/055b30085dda666f284e38e4/reading-7915edca6e2846a006f249338e5c8099166e038ef1bf7d4fcdad08aa72cc8ef4.md",
+      "sha256": "7915edca6e2846a006f249338e5c8099166e038ef1bf7d4fcdad08aa72cc8ef4",
+      "original_sha256": "268dcc0b02aea6b0dfd7847b8cb73562a13ac82b6f7825324e562f6972f5139a",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

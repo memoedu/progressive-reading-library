@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/663297604/answer/1929490631903941154",
+  "title": "复数丢失全序性，四元数丢失交换律，八元数丢失结合律，十六元数丢失交错性，能推广得到定量一般规律吗?",
+  "original": {
+    "path": "原稿/dbf9bee852ddc089e4383923/5baa33c8b3e23a173dbfce40d1c362162d107535ae02aee48d02e51885eee022.md",
+    "sha256": "5baa33c8b3e23a173dbfce40d1c362162d107535ae02aee48d02e51885eee022"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dbf9bee852ddc089e4383923/reading-fd725bb9c7348a1a3ff6c830291ecd922b72983c3db4f0469179fc74d02dfbcf.md",
+      "sha256": "fd725bb9c7348a1a3ff6c830291ecd922b72983c3db4f0469179fc74d02dfbcf",
+      "original_sha256": "5baa33c8b3e23a173dbfce40d1c362162d107535ae02aee48d02e51885eee022",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

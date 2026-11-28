@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/268538892/answer/2060086004048983260",
+  "title": "怎样拥有漂亮的女朋友？ - 墨苍离 的回答",
+  "original": {
+    "path": "原稿/5f733de19ce83d6e9bb4363b/ded60695337a3226f1be4d7595994ab4806fe095cff3432203d00f73dd6f645c.md",
+    "sha256": "ded60695337a3226f1be4d7595994ab4806fe095cff3432203d00f73dd6f645c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5f733de19ce83d6e9bb4363b/reading-4df215089722233feb5df8aee0cd6661b372aa08a9c93a4318972547765b5d37.md",
+      "sha256": "4df215089722233feb5df8aee0cd6661b372aa08a9c93a4318972547765b5d37",
+      "original_sha256": "ded60695337a3226f1be4d7595994ab4806fe095cff3432203d00f73dd6f645c",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

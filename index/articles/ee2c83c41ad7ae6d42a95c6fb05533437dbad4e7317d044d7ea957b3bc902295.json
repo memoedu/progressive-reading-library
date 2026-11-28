@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2056012975518045282/answer/2056132362187052770",
+  "title": "如何看待欧洲将空调问题变成政治问题？ - 寻道人 的回答",
+  "original": {
+    "path": "原稿/ee2c83c41ad7ae6d42a95c6f/c8ac50fa5afbd3f071b92016724d0eb98f42947a391c9028bc4fe3b9d7155612.md",
+    "sha256": "c8ac50fa5afbd3f071b92016724d0eb98f42947a391c9028bc4fe3b9d7155612"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ee2c83c41ad7ae6d42a95c6f/reading-ce6c11d3b2e49472e93cf7205ade3ab8d81a8955be6274d750100729a37a8b7b.md",
+      "sha256": "ce6c11d3b2e49472e93cf7205ade3ab8d81a8955be6274d750100729a37a8b7b",
+      "original_sha256": "c8ac50fa5afbd3f071b92016724d0eb98f42947a391c9028bc4fe3b9d7155612",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

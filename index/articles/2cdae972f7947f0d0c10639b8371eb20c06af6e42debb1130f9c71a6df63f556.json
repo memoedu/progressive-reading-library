@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/22979658/answer/2021171012700500415",
+  "title": "男生如何高效地打扮自己？ - 搏击俱乐部 的回答",
+  "original": {
+    "path": "原稿/2cdae972f7947f0d0c10639b/fbedf7aa1d4cac1d4e91ae75e1e95f7a9db94039fe53bc6f5b62119ac3dacd79.md",
+    "sha256": "fbedf7aa1d4cac1d4e91ae75e1e95f7a9db94039fe53bc6f5b62119ac3dacd79"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2cdae972f7947f0d0c10639b/reading-c752c785314df4ff533a458cd888c61ce407381d58ae398a255f6db392121156.md",
+      "sha256": "c752c785314df4ff533a458cd888c61ce407381d58ae398a255f6db392121156",
+      "original_sha256": "fbedf7aa1d4cac1d4e91ae75e1e95f7a9db94039fe53bc6f5b62119ac3dacd79",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

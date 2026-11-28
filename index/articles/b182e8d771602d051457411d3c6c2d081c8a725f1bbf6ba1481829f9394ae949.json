@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/313830485/answer/113026066983",
+  "title": "目前为止，你总结出的最大人生经验是什么？",
+  "original": {
+    "path": "原稿/b182e8d771602d051457411d/c8859790b0adef518b81733452615dbd049cf75641c01ecff9abad0b6b260896.md",
+    "sha256": "c8859790b0adef518b81733452615dbd049cf75641c01ecff9abad0b6b260896"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b182e8d771602d051457411d/reading-4ede5e74262f53480dcf7a8d71b0b9bfb2d79a58d3dc9db995640b331a58fd24.md",
+      "sha256": "4ede5e74262f53480dcf7a8d71b0b9bfb2d79a58d3dc9db995640b331a58fd24",
+      "original_sha256": "c8859790b0adef518b81733452615dbd049cf75641c01ecff9abad0b6b260896",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

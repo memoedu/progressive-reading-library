@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/14669257149/answer/125583825267",
+  "title": "为什么每当自己稍有些享乐的想法，就会勾起内心的愧疚感？",
+  "original": {
+    "path": "原稿/341c3f41a988d2c9f23ee004/8ee4f3992fdda643ad519adeaee152c91d6cd87038685b392976862cdf9467d1.md",
+    "sha256": "8ee4f3992fdda643ad519adeaee152c91d6cd87038685b392976862cdf9467d1"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/341c3f41a988d2c9f23ee004/reading-176828bfe2ee5c63b4db5b04fadcd15e7068cec1b3f50df22259e437d8d228e7.md",
+      "sha256": "176828bfe2ee5c63b4db5b04fadcd15e7068cec1b3f50df22259e437d8d228e7",
+      "original_sha256": "8ee4f3992fdda643ad519adeaee152c91d6cd87038685b392976862cdf9467d1",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

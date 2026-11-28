@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2032805433035968597",
+  "title": "基因无法解释才华（作者：David Bessis）",
+  "original": {
+    "path": "原稿/e127766ab623406a5eddd239/abe85feab2e48e9d80acf5479acab0ff6865eb5751d49aa3fb5dbe56cab08ee2.md",
+    "sha256": "abe85feab2e48e9d80acf5479acab0ff6865eb5751d49aa3fb5dbe56cab08ee2"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e127766ab623406a5eddd239/reading-194d015107505bc712e1b2d0f2a85bf92458980eb3a5bc92a3281a805b706974.md",
+      "sha256": "194d015107505bc712e1b2d0f2a85bf92458980eb3a5bc92a3281a805b706974",
+      "original_sha256": "abe85feab2e48e9d80acf5479acab0ff6865eb5751d49aa3fb5dbe56cab08ee2",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

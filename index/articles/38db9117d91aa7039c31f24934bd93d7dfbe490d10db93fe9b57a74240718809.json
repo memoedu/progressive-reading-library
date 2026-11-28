@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1986494838795941546",
+  "title": "绿导师是怎样戴帽的：学术跃进运动的来龙去脉",
+  "original": {
+    "path": "原稿/38db9117d91aa7039c31f249/af32b98d24efaffea2fb314be11f6a627d8fb9d761bce42aee7ff355a246352b.md",
+    "sha256": "af32b98d24efaffea2fb314be11f6a627d8fb9d761bce42aee7ff355a246352b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/38db9117d91aa7039c31f249/reading-c8d5963b368651397a25d9dc377a6e63f35a41f4d998133562b6fd6b0e254007.md",
+      "sha256": "c8d5963b368651397a25d9dc377a6e63f35a41f4d998133562b6fd6b0e254007",
+      "original_sha256": "af32b98d24efaffea2fb314be11f6a627d8fb9d761bce42aee7ff355a246352b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

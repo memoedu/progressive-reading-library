@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1991065489661771791/answer/2067330144000382832",
+  "title": "你们都在用AI做什么呢？ - Serika Onoe 的回答",
+  "original": {
+    "path": "原稿/2885750675ea7233ccee9d7a/3247a979eee583e7515eeae15ff2c14162bf2a06aec7bb7a8ec9b63b27187fce.md",
+    "sha256": "3247a979eee583e7515eeae15ff2c14162bf2a06aec7bb7a8ec9b63b27187fce"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2885750675ea7233ccee9d7a/reading-78837572c8f226765e966c32e3053541f8547e181fa07bbd883944180615141d.md",
+      "sha256": "78837572c8f226765e966c32e3053541f8547e181fa07bbd883944180615141d",
+      "original_sha256": "3247a979eee583e7515eeae15ff2c14162bf2a06aec7bb7a8ec9b63b27187fce",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

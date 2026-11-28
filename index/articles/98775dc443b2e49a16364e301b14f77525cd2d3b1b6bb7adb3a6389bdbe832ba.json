@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/107531370",
+  "title": "我对秦晖的笼统评价",
+  "original": {
+    "path": "原稿/98775dc443b2e49a16364e30/355ff5748c8ad4954cd26d1deddf45eff8f3478e1022cc1b1cd50fd9ecd77e94.md",
+    "sha256": "355ff5748c8ad4954cd26d1deddf45eff8f3478e1022cc1b1cd50fd9ecd77e94"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/98775dc443b2e49a16364e30/reading-3146eab96fa60b8dab675103e14bcb8f8c561c65339a0d4ab672a6b63c3a64e4.md",
+      "sha256": "3146eab96fa60b8dab675103e14bcb8f8c561c65339a0d4ab672a6b63c3a64e4",
+      "original_sha256": "355ff5748c8ad4954cd26d1deddf45eff8f3478e1022cc1b1cd50fd9ecd77e94",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

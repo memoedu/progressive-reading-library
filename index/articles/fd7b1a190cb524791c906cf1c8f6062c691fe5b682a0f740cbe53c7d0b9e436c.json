@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2019768454232719400/answer/2043393775150662913",
+  "title": "我想买国内的coding plan，买谁家的比较好？ - pansz 的回答",
+  "original": {
+    "path": "原稿/fd7b1a190cb524791c906cf1/0116897ffa64f1b5df421f76c4af1ae1486fac19809522bbb71bd414f231e4fb.md",
+    "sha256": "0116897ffa64f1b5df421f76c4af1ae1486fac19809522bbb71bd414f231e4fb"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fd7b1a190cb524791c906cf1/reading-6e3f7d9560d6b3a5f12bd5f6cc020d75d278376238b97fbcea4c06d3c35ab25f.md",
+      "sha256": "6e3f7d9560d6b3a5f12bd5f6cc020d75d278376238b97fbcea4c06d3c35ab25f",
+      "original_sha256": "0116897ffa64f1b5df421f76c4af1ae1486fac19809522bbb71bd414f231e4fb",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

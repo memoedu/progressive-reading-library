@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/349371945/answer/3340806992",
+  "title": "昂纳克寓言是什么，又有何象征意义？ - Nemo 的回答",
+  "original": {
+    "path": "原稿/5bf5fcc9e2f23b85ac92d754/54faa75a7688b70c292d08b098812fe79ddda166e5a306f07ab5f1f884ca3bd4.md",
+    "sha256": "54faa75a7688b70c292d08b098812fe79ddda166e5a306f07ab5f1f884ca3bd4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/5bf5fcc9e2f23b85ac92d754/reading-5be499f012f1216149ec16fcd42c5f6c78faf8e3e30b7220520f1928ed450302.md",
+      "sha256": "5be499f012f1216149ec16fcd42c5f6c78faf8e3e30b7220520f1928ed450302",
+      "original_sha256": "54faa75a7688b70c292d08b098812fe79ddda166e5a306f07ab5f1f884ca3bd4",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

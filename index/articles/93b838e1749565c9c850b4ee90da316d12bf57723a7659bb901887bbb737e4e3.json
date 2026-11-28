@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2064685795273979435",
+  "title": "低认知负担阅读地图：金融、计算机、计算神经科学与人生经验",
+  "original": {
+    "path": "原稿/93b838e1749565c9c850b4ee/5b0b90705ae0577ca7d03d25911fb04bf04a05896624d6fcfef5471424707c3a.md",
+    "sha256": "5b0b90705ae0577ca7d03d25911fb04bf04a05896624d6fcfef5471424707c3a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/93b838e1749565c9c850b4ee/reading-2d8a0f156b364113183729ef7fb8dfd43aebfe1657875f538dfa72354fad5509.md",
+      "sha256": "2d8a0f156b364113183729ef7fb8dfd43aebfe1657875f538dfa72354fad5509",
+      "original_sha256": "5b0b90705ae0577ca7d03d25911fb04bf04a05896624d6fcfef5471424707c3a",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

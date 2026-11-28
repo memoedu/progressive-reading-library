@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2053606417802716735/answer/2061154659973199143",
+  "title": "你心目中的大一几何学入门课程是怎样的？ - 太阳太阳littlesun 的回答",
+  "original": {
+    "path": "原稿/a2b0b0eebb31541bc46ede70/d02b873bdf41bcc9a3a9afe9b71f189049832dbba2c8e6a90b699716dd7eefe5.md",
+    "sha256": "d02b873bdf41bcc9a3a9afe9b71f189049832dbba2c8e6a90b699716dd7eefe5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a2b0b0eebb31541bc46ede70/reading-83697646d307d1c688f8a239cd9027873dc874f94fe5f7b6556fef1a7167a44b.md",
+      "sha256": "83697646d307d1c688f8a239cd9027873dc874f94fe5f7b6556fef1a7167a44b",
+      "original_sha256": "d02b873bdf41bcc9a3a9afe9b71f189049832dbba2c8e6a90b699716dd7eefe5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

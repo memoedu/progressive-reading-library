@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1936375725931361485/answer/1951235004484030764",
+  "title": "怎么成为一个 ai agent 工程师？ - 锦恢 的回答",
+  "original": {
+    "path": "原稿/d0ddc6eadc23625da665a629/676ab1091c39b17c53a0f2a2c4407e5eedd8afbefe8d414829a9e3fea56c933b.md",
+    "sha256": "676ab1091c39b17c53a0f2a2c4407e5eedd8afbefe8d414829a9e3fea56c933b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d0ddc6eadc23625da665a629/reading-a2f0a62a2248ac99bdacc5bf43a3438d4d328724553855b301abcda39db8f3cd.md",
+      "sha256": "a2f0a62a2248ac99bdacc5bf43a3438d4d328724553855b301abcda39db8f3cd",
+      "original_sha256": "676ab1091c39b17c53a0f2a2c4407e5eedd8afbefe8d414829a9e3fea56c933b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

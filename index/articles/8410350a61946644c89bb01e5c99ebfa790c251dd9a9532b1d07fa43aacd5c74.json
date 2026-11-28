@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/667769829/answer/3633965191",
+  "title": "高等代数如何入门? - 知乎用户ChbIX2 的回答",
+  "original": {
+    "path": "原稿/8410350a61946644c89bb01e/4b6ccae32cf1111f6412c25c288bc9bb461f860d8db04a8696623e78cd78592b.md",
+    "sha256": "4b6ccae32cf1111f6412c25c288bc9bb461f860d8db04a8696623e78cd78592b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8410350a61946644c89bb01e/reading-288da9460c2bd334e7625e3f73374db18c175ee732ffbc53cc9ed21386394390.md",
+      "sha256": "288da9460c2bd334e7625e3f73374db18c175ee732ffbc53cc9ed21386394390",
+      "original_sha256": "4b6ccae32cf1111f6412c25c288bc9bb461f860d8db04a8696623e78cd78592b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

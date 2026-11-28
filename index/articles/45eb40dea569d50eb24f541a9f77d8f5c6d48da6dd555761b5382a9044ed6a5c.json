@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/652795747/answer/3489218234",
+  "title": "汉语是世界上最言简意赅的语言吗？ - 小帽officials 的回答",
+  "original": {
+    "path": "原稿/45eb40dea569d50eb24f541a/78e74d4877170d118c72f61ff29c7c93db664a154e938a1c61b33ca5c7d777fa.md",
+    "sha256": "78e74d4877170d118c72f61ff29c7c93db664a154e938a1c61b33ca5c7d777fa"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/45eb40dea569d50eb24f541a/reading-b4000863b3e86d5e700476d6d8e10e4ee30558610ab86e3d5cf968bc9456c28a.md",
+      "sha256": "b4000863b3e86d5e700476d6d8e10e4ee30558610ab86e3d5cf968bc9456c28a",
+      "original_sha256": "78e74d4877170d118c72f61ff29c7c93db664a154e938a1c61b33ca5c7d777fa",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

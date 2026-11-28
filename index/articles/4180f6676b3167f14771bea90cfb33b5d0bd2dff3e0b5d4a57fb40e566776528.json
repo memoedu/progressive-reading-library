@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/348344092/answer/1332299426",
+  "title": "为什么大家都贬低 LeetCode 的难度？ - chenzhe 的回答",
+  "original": {
+    "path": "原稿/4180f6676b3167f14771bea9/8c5af2877334f17efecd238a10e699511c1979f35146364bdd9216f663bd8be8.md",
+    "sha256": "8c5af2877334f17efecd238a10e699511c1979f35146364bdd9216f663bd8be8"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4180f6676b3167f14771bea9/reading-71c4a4211ef62270aa3e810bc6136785cf35838435579910a06c5ee03a6528a9.md",
+      "sha256": "71c4a4211ef62270aa3e810bc6136785cf35838435579910a06c5ee03a6528a9",
+      "original_sha256": "8c5af2877334f17efecd238a10e699511c1979f35146364bdd9216f663bd8be8",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

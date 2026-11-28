@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2043494727585096140",
+  "title": "L 站(LinuxDO) 已经烂完了，后会无期",
+  "original": {
+    "path": "原稿/37bc7bd07c6e8be9a7095b52/659a5e2296b809b28d0f989c142093505cf0df1d5a429017d0c6eae8d542d326.md",
+    "sha256": "659a5e2296b809b28d0f989c142093505cf0df1d5a429017d0c6eae8d542d326"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/37bc7bd07c6e8be9a7095b52/reading-59c7d92b8e1d4c5007e7440a12b01b3f1fdd32c83e20a9b9a8fa61c402223b94.md",
+      "sha256": "59c7d92b8e1d4c5007e7440a12b01b3f1fdd32c83e20a9b9a8fa61c402223b94",
+      "original_sha256": "659a5e2296b809b28d0f989c142093505cf0df1d5a429017d0c6eae8d542d326",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

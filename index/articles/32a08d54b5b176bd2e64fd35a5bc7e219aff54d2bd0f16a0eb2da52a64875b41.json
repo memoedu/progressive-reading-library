@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/625601845/answer/2033707351904101706",
+  "title": "秦晖的书值得读吗？他有什么成果？ - 沉钧 的回答",
+  "original": {
+    "path": "原稿/32a08d54b5b176bd2e64fd35/02f535ffd10db44c3af43b6ddb36425fb20ba1a53b909dc5ce8bee62f24c0370.md",
+    "sha256": "02f535ffd10db44c3af43b6ddb36425fb20ba1a53b909dc5ce8bee62f24c0370"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/32a08d54b5b176bd2e64fd35/reading-55f63377a1f208c11ebcbac7b0490404099fc091cb55ebd4b95b2dbc3028c64d.md",
+      "sha256": "55f63377a1f208c11ebcbac7b0490404099fc091cb55ebd4b95b2dbc3028c64d",
+      "original_sha256": "02f535ffd10db44c3af43b6ddb36425fb20ba1a53b909dc5ce8bee62f24c0370",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

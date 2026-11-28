@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1963256821990012133/answer/2010471448704201691",
+  "title": "如何判断是自己prompt写的不够好还是基座模型的能力不够达不到预期的效果，才需要做模型微调？ - 笙囧同学 的回答",
+  "original": {
+    "path": "原稿/d2baa004879a409b9bcda706/269ed9e9c8479727e48cc674c62dbcb733ec1525c36ea268edbdc16bb334c3f5.md",
+    "sha256": "269ed9e9c8479727e48cc674c62dbcb733ec1525c36ea268edbdc16bb334c3f5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d2baa004879a409b9bcda706/reading-23bf3f8b568e7000eabbfb059d48c570f529b1e8c04a9513a9f73471a1127334.md",
+      "sha256": "23bf3f8b568e7000eabbfb059d48c570f529b1e8c04a9513a9f73471a1127334",
+      "original_sha256": "269ed9e9c8479727e48cc674c62dbcb733ec1525c36ea268edbdc16bb334c3f5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/759653128/answer/1992573961704343293",
+  "title": "如何评价历史学者秦晖？ - 言枫 的回答",
+  "original": {
+    "path": "原稿/d9589cc3d8370aa7849560e5/de10afe34042e770120fa9fa12c928973345a70a050010bc819053e6726d2273.md",
+    "sha256": "de10afe34042e770120fa9fa12c928973345a70a050010bc819053e6726d2273"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d9589cc3d8370aa7849560e5/reading-35887a56b59c4f679f485c30c46a8a965ee1216fe5e3626050172878d671208d.md",
+      "sha256": "35887a56b59c4f679f485c30c46a8a965ee1216fe5e3626050172878d671208d",
+      "original_sha256": "de10afe34042e770120fa9fa12c928973345a70a050010bc819053e6726d2273",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

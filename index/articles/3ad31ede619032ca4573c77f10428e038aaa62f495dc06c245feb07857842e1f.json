@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1978629899645366519/answer/2062158161218478940",
+  "title": "这个世界为什么没有人来教如何处理各种关系？ - 墨苍离 的回答",
+  "original": {
+    "path": "原稿/3ad31ede619032ca4573c77f/54f591a549580bc055835552f7a83949530410c706ff2c67c00cdd2403affb33.md",
+    "sha256": "54f591a549580bc055835552f7a83949530410c706ff2c67c00cdd2403affb33"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3ad31ede619032ca4573c77f/reading-7e2575dc5f4d5ca153bc04683da3b58a382f4e68a5a1b868e5031a0b42140ab3.md",
+      "sha256": "7e2575dc5f4d5ca153bc04683da3b58a382f4e68a5a1b868e5031a0b42140ab3",
+      "original_sha256": "54f591a549580bc055835552f7a83949530410c706ff2c67c00cdd2403affb33",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2019377373607376569",
+  "title": "理论/计算物理环境配置指南的全面重写，以及 AI 如何改变了一切",
+  "original": {
+    "path": "原稿/09b011104a22e2326038af80/72d9c30c87ec44ee9279a4d298f92bad81f698173a64a2d3d452cbceb0e0953f.md",
+    "sha256": "72d9c30c87ec44ee9279a4d298f92bad81f698173a64a2d3d452cbceb0e0953f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/09b011104a22e2326038af80/reading-9cc549efd0077dac2b321f027fdf17c80d328086254241aef0011ef0adc721e9.md",
+      "sha256": "9cc549efd0077dac2b321f027fdf17c80d328086254241aef0011ef0adc721e9",
+      "original_sha256": "72d9c30c87ec44ee9279a4d298f92bad81f698173a64a2d3d452cbceb0e0953f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

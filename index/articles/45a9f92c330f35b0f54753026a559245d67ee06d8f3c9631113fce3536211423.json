@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2030946076845412523/answer/2033174391584973075",
+  "title": "有哪些大家以为是休息放松，其实非常耗气血的日常行为？ - 蒋甬杭 的回答",
+  "original": {
+    "path": "原稿/45a9f92c330f35b0f5475302/5a3fecc6f4c340c631670ca435594738f781e66a6c17f30cc8220cf5d6609a57.md",
+    "sha256": "5a3fecc6f4c340c631670ca435594738f781e66a6c17f30cc8220cf5d6609a57"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/45a9f92c330f35b0f5475302/reading-1fa7ef302c9dadf6bbfbefe3930ab65cd5e995d9cc135ce05890191413bbfef7.md",
+      "sha256": "1fa7ef302c9dadf6bbfbefe3930ab65cd5e995d9cc135ce05890191413bbfef7",
+      "original_sha256": "5a3fecc6f4c340c631670ca435594738f781e66a6c17f30cc8220cf5d6609a57",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

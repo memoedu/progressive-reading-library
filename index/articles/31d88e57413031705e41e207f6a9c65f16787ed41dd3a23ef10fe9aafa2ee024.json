@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1991499375239782670/answer/2018799020781388066",
+  "title": "请说出一个对人极其重要、简单、实用，但常被忽略的认知？ - 温野Wenyae 的回答",
+  "original": {
+    "path": "原稿/31d88e57413031705e41e207/a109fefad5f5a4f684f6ead8859e0417b9176fb17c9f8190af43000d68a4ad68.md",
+    "sha256": "a109fefad5f5a4f684f6ead8859e0417b9176fb17c9f8190af43000d68a4ad68"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/31d88e57413031705e41e207/reading-0b01a491967c33fc11871ec508bfab8f69a806ff3f346dbf935167128bd1a959.md",
+      "sha256": "0b01a491967c33fc11871ec508bfab8f69a806ff3f346dbf935167128bd1a959",
+      "original_sha256": "a109fefad5f5a4f684f6ead8859e0417b9176fb17c9f8190af43000d68a4ad68",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

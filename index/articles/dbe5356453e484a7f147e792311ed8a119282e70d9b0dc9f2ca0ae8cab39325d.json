@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2062241318290642682",
+  "title": "关于如何打入 kimi 内部",
+  "original": {
+    "path": "原稿/dbe5356453e484a7f147e792/8a719c9db046a9f6e8bade38dc2a9895789de365153b8f2f090a5f3938848a84.md",
+    "sha256": "8a719c9db046a9f6e8bade38dc2a9895789de365153b8f2f090a5f3938848a84"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/dbe5356453e484a7f147e792/reading-0a3931284d66c98b83bb8c1e4c641a9050764e57915da1e361f84f60f2e868bc.md",
+      "sha256": "0a3931284d66c98b83bb8c1e4c641a9050764e57915da1e361f84f60f2e868bc",
+      "original_sha256": "8a719c9db046a9f6e8bade38dc2a9895789de365153b8f2f090a5f3938848a84",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

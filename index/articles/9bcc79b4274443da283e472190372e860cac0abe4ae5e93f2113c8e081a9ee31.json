@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1949309363434009516/answer/1949979727780622419",
+  "title": "为什么某些数学专业的同学有种莫名其妙的优越感? - Sawyer 的回答",
+  "original": {
+    "path": "原稿/9bcc79b4274443da283e4721/0b3ce9a1859b10453107cb55fd4c5714e5c250f8762d7058a871d41c64712b67.md",
+    "sha256": "0b3ce9a1859b10453107cb55fd4c5714e5c250f8762d7058a871d41c64712b67"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/9bcc79b4274443da283e4721/reading-7cbd79e9fed5d2129506fd9467484d77979fd96814246ed41f471a8d886603d2.md",
+      "sha256": "7cbd79e9fed5d2129506fd9467484d77979fd96814246ed41f471a8d886603d2",
+      "original_sha256": "0b3ce9a1859b10453107cb55fd4c5714e5c250f8762d7058a871d41c64712b67",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/657698863/answer/75910870331",
+  "title": "如何评价 B 站键政 UP 主 MHYYYY ？ - 知乎",
+  "original": {
+    "path": "原稿/808de7ff912c09682882042c/a109dbef33e7d1ac2be37b43e9dbe5b1f8cd9a6d055a9d5a1e17fbaa94e5b4f9.md",
+    "sha256": "a109dbef33e7d1ac2be37b43e9dbe5b1f8cd9a6d055a9d5a1e17fbaa94e5b4f9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/808de7ff912c09682882042c/reading-7b6bbbfdaf42def490e9ca06925c4ea1dc82e215813a891d3d2949b1ade4fc02.md",
+      "sha256": "7b6bbbfdaf42def490e9ca06925c4ea1dc82e215813a891d3d2949b1ade4fc02",
+      "original_sha256": "a109dbef33e7d1ac2be37b43e9dbe5b1f8cd9a6d055a9d5a1e17fbaa94e5b4f9",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

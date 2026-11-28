@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2066485449519117883/answer/2069382048712807496",
+  "title": "为什么今年会出现“高大衔接班”现象？",
+  "original": {
+    "path": "原稿/330b0a48d15b2540d646833e/d018ee7a91d1dd938853fc89abe3c76a49f8cd64fd256ee62ac0e57bf2f08708.md",
+    "sha256": "d018ee7a91d1dd938853fc89abe3c76a49f8cd64fd256ee62ac0e57bf2f08708"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/330b0a48d15b2540d646833e/reading-c6d4ac9e375be2c713800d153fe279d79521d91a0d005cb718181a7e8e346694.md",
+      "sha256": "c6d4ac9e375be2c713800d153fe279d79521d91a0d005cb718181a7e8e346694",
+      "original_sha256": "d018ee7a91d1dd938853fc89abe3c76a49f8cd64fd256ee62ac0e57bf2f08708",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

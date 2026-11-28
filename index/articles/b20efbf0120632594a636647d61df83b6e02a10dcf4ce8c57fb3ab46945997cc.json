@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1897959255778231029/answer/2064694891033245525",
+  "title": "你的低成本爱好是什么？ - 其实 的回答",
+  "original": {
+    "path": "原稿/b20efbf0120632594a636647/7209e3b988fe6605b4e882f9fcc9060c1cb3459b8c12f0b54919497c0b65e65b.md",
+    "sha256": "7209e3b988fe6605b4e882f9fcc9060c1cb3459b8c12f0b54919497c0b65e65b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b20efbf0120632594a636647/reading-60efbe50098bfdd9f0c6702962b852e291a75094d96a99acd545360e2efb9ac9.md",
+      "sha256": "60efbe50098bfdd9f0c6702962b852e291a75094d96a99acd545360e2efb9ac9",
+      "original_sha256": "7209e3b988fe6605b4e882f9fcc9060c1cb3459b8c12f0b54919497c0b65e65b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

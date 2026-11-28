@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2057921700008925157/answer/2058392345675093800",
+  "title": "为什么Ai在许多方面都比人强，却总是觉得少些灵气？ - Trisimo崔思莫 的回答",
+  "original": {
+    "path": "原稿/8288980b707ed965e35e84b2/741249280cbf72bd440925c791c1989bd44c279f75f6d8f15fbd240a3088ba23.md",
+    "sha256": "741249280cbf72bd440925c791c1989bd44c279f75f6d8f15fbd240a3088ba23"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8288980b707ed965e35e84b2/reading-2dda38404cea19ddb59c71aa0f52518b30b04eab672abfad296d0aadffe6ef07.md",
+      "sha256": "2dda38404cea19ddb59c71aa0f52518b30b04eab672abfad296d0aadffe6ef07",
+      "original_sha256": "741249280cbf72bd440925c791c1989bd44c279f75f6d8f15fbd240a3088ba23",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

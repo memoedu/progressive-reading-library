@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/639325772",
+  "title": "Obsidian+Zotero打造最强科研工具链",
+  "original": {
+    "path": "原稿/2c128ff7cd2384dcec5134ca/b7f61b78362a6660cff7cfc58de2412f11e90b32017673993e01ffc7db354342.md",
+    "sha256": "b7f61b78362a6660cff7cfc58de2412f11e90b32017673993e01ffc7db354342"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2c128ff7cd2384dcec5134ca/reading-f63c545798194a0691394c8ac628d0b64ca985cb9acd0fd518272e493a9c186c.md",
+      "sha256": "f63c545798194a0691394c8ac628d0b64ca985cb9acd0fd518272e493a9c186c",
+      "original_sha256": "b7f61b78362a6660cff7cfc58de2412f11e90b32017673993e01ffc7db354342",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

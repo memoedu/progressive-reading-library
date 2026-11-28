@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1969722593352351956",
+  "title": "高中数学笺注（20251106 第12次更新 V2.0）",
+  "original": {
+    "path": "原稿/c0157b323c835a33ef199f53/03f7896889926a418f02fba6254580d54c4f8b615a4717d9b7adaf26d72565f6.md",
+    "sha256": "03f7896889926a418f02fba6254580d54c4f8b615a4717d9b7adaf26d72565f6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c0157b323c835a33ef199f53/reading-9cfed8e895ae7709a2f9926863134570f8c227c35a959210593e3eacec0891ab.md",
+      "sha256": "9cfed8e895ae7709a2f9926863134570f8c227c35a959210593e3eacec0891ab",
+      "original_sha256": "03f7896889926a418f02fba6254580d54c4f8b615a4717d9b7adaf26d72565f6",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

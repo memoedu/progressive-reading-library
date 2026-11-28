@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2059988770229850788",
+  "title": "OpenCode Go Manager v1.3.0发布！",
+  "original": {
+    "path": "原稿/3f8587741806ab5356041acc/00ef90376c2f0d1c521af1b2641c27312c102b06e2c0c74aa295edb3876c15fc.md",
+    "sha256": "00ef90376c2f0d1c521af1b2641c27312c102b06e2c0c74aa295edb3876c15fc"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3f8587741806ab5356041acc/reading-a6873abeb8e21fd21b7b8d23dd59a582e880de7ee4c4a45cd1a108030377435a.md",
+      "sha256": "a6873abeb8e21fd21b7b8d23dd59a582e880de7ee4c4a45cd1a108030377435a",
+      "original_sha256": "00ef90376c2f0d1c521af1b2641c27312c102b06e2c0c74aa295edb3876c15fc",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

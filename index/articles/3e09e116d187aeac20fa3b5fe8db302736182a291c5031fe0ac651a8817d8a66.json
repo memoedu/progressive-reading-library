@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1955641233260156768/answer/1957043818173018361",
+  "title": "为什么有些人说普京是当代的列宁？ - 箱中之物 的回答",
+  "original": {
+    "path": "原稿/3e09e116d187aeac20fa3b5f/a4e1da5b85623ec14b292403709c01e5f843053d1a339b89dbeb76121e6d3027.md",
+    "sha256": "a4e1da5b85623ec14b292403709c01e5f843053d1a339b89dbeb76121e6d3027"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3e09e116d187aeac20fa3b5f/reading-d9d1fe28f30ea6a048b2f78044cdb6cb91e8e186908694ba906d738e91dbd053.md",
+      "sha256": "d9d1fe28f30ea6a048b2f78044cdb6cb91e8e186908694ba906d738e91dbd053",
+      "original_sha256": "a4e1da5b85623ec14b292403709c01e5f843053d1a339b89dbeb76121e6d3027",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

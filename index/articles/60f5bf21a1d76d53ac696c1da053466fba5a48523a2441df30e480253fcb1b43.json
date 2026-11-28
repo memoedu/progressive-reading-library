@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/393170756/answer/49695140413",
+  "title": "为什么这么多人吹wsl？ - IAmDanny 的回答",
+  "original": {
+    "path": "原稿/60f5bf21a1d76d53ac696c1d/d12e7618b82af43a543ef53cb277034fb456a4e72312f61b547901b754799e2e.md",
+    "sha256": "d12e7618b82af43a543ef53cb277034fb456a4e72312f61b547901b754799e2e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/60f5bf21a1d76d53ac696c1d/reading-573c1432c8c3e7a46a1b9bec2344c4c2952120a7a18a04f054ba01681d4eae5c.md",
+      "sha256": "573c1432c8c3e7a46a1b9bec2344c4c2952120a7a18a04f054ba01681d4eae5c",
+      "original_sha256": "d12e7618b82af43a543ef53cb277034fb456a4e72312f61b547901b754799e2e",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

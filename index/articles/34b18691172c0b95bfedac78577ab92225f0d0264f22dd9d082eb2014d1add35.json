@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/352213141/answer/2016885196163686921",
+  "title": "为什么大多数cs专业的学生不愿意老老实实啃深入理解计算机系统这一类黑皮书? - BugBuster喵 的回答",
+  "original": {
+    "path": "原稿/34b18691172c0b95bfedac78/b4cac51c611ef1da389faa16b664e0893fb8da77025e76eef05eb11e8a51b831.md",
+    "sha256": "b4cac51c611ef1da389faa16b664e0893fb8da77025e76eef05eb11e8a51b831"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/34b18691172c0b95bfedac78/reading-bb514f888ee02f54d3cabc6e1041b0fd0044209e49596a2507629d8df70b4989.md",
+      "sha256": "bb514f888ee02f54d3cabc6e1041b0fd0044209e49596a2507629d8df70b4989",
+      "original_sha256": "b4cac51c611ef1da389faa16b664e0893fb8da77025e76eef05eb11e8a51b831",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/656344623/answer/3593484454",
+  "title": "为什么电竞化让游戏变得无聊？ - MelonMelonPult 的回答",
+  "original": {
+    "path": "原稿/daf16c2892e427658bfbc39d/f86a94c16fbe7a7b776948889d12242f183c75cb7f79379b8e5c3c0d2910d5f3.md",
+    "sha256": "f86a94c16fbe7a7b776948889d12242f183c75cb7f79379b8e5c3c0d2910d5f3"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/daf16c2892e427658bfbc39d/reading-ffc620b15129b88241973c20fb24fe4a9133d6f11e9b6d53fef426f42fa207ae.md",
+      "sha256": "ffc620b15129b88241973c20fb24fe4a9133d6f11e9b6d53fef426f42fa207ae",
+      "original_sha256": "f86a94c16fbe7a7b776948889d12242f183c75cb7f79379b8e5c3c0d2910d5f3",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

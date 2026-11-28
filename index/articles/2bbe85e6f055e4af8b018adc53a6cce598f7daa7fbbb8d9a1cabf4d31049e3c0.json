@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/29471467/answer/96893267134",
+  "title": "如何评价《乌合之众》这本书? - 远山微明 的回答",
+  "original": {
+    "path": "原稿/2bbe85e6f055e4af8b018adc/a9b5e0336fb7aea73fdbb55097eaab169cd89f654c5c26c48f3521204695d42f.md",
+    "sha256": "a9b5e0336fb7aea73fdbb55097eaab169cd89f654c5c26c48f3521204695d42f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2bbe85e6f055e4af8b018adc/reading-b2c26d5e7bef374fd5a9ed61d17ec0d08c6919aca471feeca76ed1f8015e4ac5.md",
+      "sha256": "b2c26d5e7bef374fd5a9ed61d17ec0d08c6919aca471feeca76ed1f8015e4ac5",
+      "original_sha256": "a9b5e0336fb7aea73fdbb55097eaab169cd89f654c5c26c48f3521204695d42f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

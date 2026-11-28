@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2065522333075366855/answer/2066765731195254465",
+  "title": "李新野为什么问了一堆关于自己的难绷问题？ - TyMou 的回答",
+  "original": {
+    "path": "原稿/d77de7c377f9a62122330b43/ff20dbdebc3aaa1e8157675471d9113bb476e396afbfb38a6b88a386e43208ec.md",
+    "sha256": "ff20dbdebc3aaa1e8157675471d9113bb476e396afbfb38a6b88a386e43208ec"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d77de7c377f9a62122330b43/reading-a7659d235d3759faf0965551ebc78a5168f68fbb6b225de1f8eff258abc4c65b.md",
+      "sha256": "a7659d235d3759faf0965551ebc78a5168f68fbb6b225de1f8eff258abc4c65b",
+      "original_sha256": "ff20dbdebc3aaa1e8157675471d9113bb476e396afbfb38a6b88a386e43208ec",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

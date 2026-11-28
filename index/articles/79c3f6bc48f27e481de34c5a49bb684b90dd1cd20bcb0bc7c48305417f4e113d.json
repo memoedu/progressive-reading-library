@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1903942276356477653/answer/2061915375445582995",
+  "title": "网络开盒的原理是什么？ - Asher 的回答",
+  "original": {
+    "path": "原稿/79c3f6bc48f27e481de34c5a/24fc2730cedfb5d7eef12e6ed3ab99d6c8987136103c3ad293d0475c4b3a7f64.md",
+    "sha256": "24fc2730cedfb5d7eef12e6ed3ab99d6c8987136103c3ad293d0475c4b3a7f64"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/79c3f6bc48f27e481de34c5a/reading-b55cd1c67bc499d082eae86fc92df42ad4a775bc0581b7381fc96beba285c4a1.md",
+      "sha256": "b55cd1c67bc499d082eae86fc92df42ad4a775bc0581b7381fc96beba285c4a1",
+      "original_sha256": "24fc2730cedfb5d7eef12e6ed3ab99d6c8987136103c3ad293d0475c4b3a7f64",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

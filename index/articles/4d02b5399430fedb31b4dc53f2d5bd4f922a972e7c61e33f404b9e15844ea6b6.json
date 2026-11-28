@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2066451096307077382",
+  "title": "从三人小组作业到构建一个国家",
+  "original": {
+    "path": "原稿/4d02b5399430fedb31b4dc53/6ae0560413421208d6d186d00cd6e26693ab240593af6b710f7053dfd6d882b6.md",
+    "sha256": "6ae0560413421208d6d186d00cd6e26693ab240593af6b710f7053dfd6d882b6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4d02b5399430fedb31b4dc53/reading-d7b2932aa22b87be81163343c3db9ff14c62c8d4f25b0c09abc4ac1bc11606dc.md",
+      "sha256": "d7b2932aa22b87be81163343c3db9ff14c62c8d4f25b0c09abc4ac1bc11606dc",
+      "original_sha256": "6ae0560413421208d6d186d00cd6e26693ab240593af6b710f7053dfd6d882b6",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/304611853/answer/1928906521925886769",
+  "title": "现代数学和理论物理已经发展到怎样一个令人震惊的水平了？ - GYJ 的回答",
+  "original": {
+    "path": "原稿/c15793601e86a027cb2ccc91/7037bb4d1cc5377f9bc24b2580796c43c4330654800bc6295a1708c8df7f514f.md",
+    "sha256": "7037bb4d1cc5377f9bc24b2580796c43c4330654800bc6295a1708c8df7f514f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c15793601e86a027cb2ccc91/reading-f57031e7ca57d6929a968017ae216b6c3e09c74997db739566d898725bbbe21d.md",
+      "sha256": "f57031e7ca57d6929a968017ae216b6c3e09c74997db739566d898725bbbe21d",
+      "original_sha256": "7037bb4d1cc5377f9bc24b2580796c43c4330654800bc6295a1708c8df7f514f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

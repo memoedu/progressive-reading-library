@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2055406645606453651/answer/2057238846186731371",
+  "title": "为什么我国学院派知识分子会提出“秦制”，“血酬定律”，“两脚羊理论”这种富有远见和洞察精神的专有名词？ - 远山微明 的回答",
+  "original": {
+    "path": "原稿/8d4e7240e578dc442b02058b/12d90d26c528b6ad2c21864b7863b1134602dd7d662c85c60d59abfdb118e42a.md",
+    "sha256": "12d90d26c528b6ad2c21864b7863b1134602dd7d662c85c60d59abfdb118e42a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8d4e7240e578dc442b02058b/reading-1222b05a361833db76b1fe7634f2677a5ac6a1615560c7a8c9ec88753423c71e.md",
+      "sha256": "1222b05a361833db76b1fe7634f2677a5ac6a1615560c7a8c9ec88753423c71e",
+      "original_sha256": "12d90d26c528b6ad2c21864b7863b1134602dd7d662c85c60d59abfdb118e42a",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

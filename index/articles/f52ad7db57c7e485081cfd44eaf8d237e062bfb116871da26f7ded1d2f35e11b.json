@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/654279113/answer/2024364489689104767",
+  "title": "如何去判断一个人的人品？ - 剪哥 的回答",
+  "original": {
+    "path": "原稿/f52ad7db57c7e485081cfd44/495987f9cf5f8e788f36c913806a124a94d41362078c83256431e281a6256b2c.md",
+    "sha256": "495987f9cf5f8e788f36c913806a124a94d41362078c83256431e281a6256b2c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f52ad7db57c7e485081cfd44/reading-e2f4a81098f7246345c202ad05b2274f9dcf53b6b8489a9a0e57bb19be3d251b.md",
+      "sha256": "e2f4a81098f7246345c202ad05b2274f9dcf53b6b8489a9a0e57bb19be3d251b",
+      "original_sha256": "495987f9cf5f8e788f36c913806a124a94d41362078c83256431e281a6256b2c",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

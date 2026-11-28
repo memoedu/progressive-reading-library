@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2002035863996080910",
+  "title": "如果你也在读通鉴——关于dutongjian.com",
+  "original": {
+    "path": "原稿/f4ffc834eadf839dcd200de3/77a3c49da3756f49ee8cb791e47a7710d93c72413bd84680c3b9ab7443c91489.md",
+    "sha256": "77a3c49da3756f49ee8cb791e47a7710d93c72413bd84680c3b9ab7443c91489"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f4ffc834eadf839dcd200de3/reading-cef232a3b294167cf1b8379553900d7333032ad6b1ad470b05f80212b93d0c8b.md",
+      "sha256": "cef232a3b294167cf1b8379553900d7333032ad6b1ad470b05f80212b93d0c8b",
+      "original_sha256": "77a3c49da3756f49ee8cb791e47a7710d93c72413bd84680c3b9ab7443c91489",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

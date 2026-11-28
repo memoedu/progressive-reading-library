@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/659317023/answer/2046284347066546070",
+  "title": "如何证明大语言模型不是中文屋（The Chinese Room）？ - 程墨Morgan 的回答",
+  "original": {
+    "path": "原稿/940fc6e8d993c99965777472/6f7b61a61c16e5495ad0871afa0a583520a71de59871e55acd96c890999cd89d.md",
+    "sha256": "6f7b61a61c16e5495ad0871afa0a583520a71de59871e55acd96c890999cd89d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/940fc6e8d993c99965777472/reading-e190fd0d62c95ebfbb69cc33fae7045831ad31abe7c000d56c55e13602d6e7f0.md",
+      "sha256": "e190fd0d62c95ebfbb69cc33fae7045831ad31abe7c000d56c55e13602d6e7f0",
+      "original_sha256": "6f7b61a61c16e5495ad0871afa0a583520a71de59871e55acd96c890999cd89d",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

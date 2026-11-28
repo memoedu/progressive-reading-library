@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1925637043997877683/answer/2062770336656054107",
+  "title": "有人说民族是想象的共同体，那么能不能想象美利坚人、三体人是汉族人？ - Reo(cvi) 的回答",
+  "original": {
+    "path": "原稿/f56f03c355825bc3ac795d51/eac7706b562c49096ffb9f179eac5b69e16595022f4489451fcf1ed46de85d6a.md",
+    "sha256": "eac7706b562c49096ffb9f179eac5b69e16595022f4489451fcf1ed46de85d6a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f56f03c355825bc3ac795d51/reading-2066ed6a33dc4846999af7480c4777afa4408303c96b11c8d68279245123b181.md",
+      "sha256": "2066ed6a33dc4846999af7480c4777afa4408303c96b11c8d68279245123b181",
+      "original_sha256": "eac7706b562c49096ffb9f179eac5b69e16595022f4489451fcf1ed46de85d6a",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

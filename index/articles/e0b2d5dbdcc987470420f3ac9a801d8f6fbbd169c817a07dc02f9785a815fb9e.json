@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/422686198/answer/1994048709793715570",
+  "title": "有哪些你觉得是常识，但大部分人好像并不知道的事？ - 畅畅 的回答",
+  "original": {
+    "path": "原稿/e0b2d5dbdcc987470420f3ac/1c462b40592f404da07c4cd59b8a834023f6b82d75c003f310c70e7f5ec9fdc2.md",
+    "sha256": "1c462b40592f404da07c4cd59b8a834023f6b82d75c003f310c70e7f5ec9fdc2"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e0b2d5dbdcc987470420f3ac/reading-208561f1a23f2881b202c54acad25c6ca57ebc3460f604753d7851393927e159.md",
+      "sha256": "208561f1a23f2881b202c54acad25c6ca57ebc3460f604753d7851393927e159",
+      "original_sha256": "1c462b40592f404da07c4cd59b8a834023f6b82d75c003f310c70e7f5ec9fdc2",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

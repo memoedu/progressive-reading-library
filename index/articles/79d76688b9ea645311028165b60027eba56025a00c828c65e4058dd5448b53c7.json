@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2060311730501292554",
+  "title": "陈童《初始经典力学（信息守恒版）》：解释式（2.14）",
+  "original": {
+    "path": "原稿/79d76688b9ea645311028165/45758e4d9f0eb3415b40db47dd6af8cb702d9432d2c27a677d1d77fd09e3b3e3.md",
+    "sha256": "45758e4d9f0eb3415b40db47dd6af8cb702d9432d2c27a677d1d77fd09e3b3e3"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/79d76688b9ea645311028165/reading-2a623a5444cb5678b773de3c99343a23541830300577d82a553e8304ca863918.md",
+      "sha256": "2a623a5444cb5678b773de3c99343a23541830300577d82a553e8304ca863918",
+      "original_sha256": "45758e4d9f0eb3415b40db47dd6af8cb702d9432d2c27a677d1d77fd09e3b3e3",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

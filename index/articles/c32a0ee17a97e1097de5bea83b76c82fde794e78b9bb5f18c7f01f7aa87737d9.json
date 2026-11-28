@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1963849503451887205/answer/2028781062147388827",
+  "title": "天天说提高认知，可是到底怎么才能提高自己的认知呢？ - 墨苍离 的回答",
+  "original": {
+    "path": "原稿/c32a0ee17a97e1097de5bea8/821099431cc015fe772ce091c5a0f56004a95211fdd12f8891a6ee9fd9f272e9.md",
+    "sha256": "821099431cc015fe772ce091c5a0f56004a95211fdd12f8891a6ee9fd9f272e9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c32a0ee17a97e1097de5bea8/reading-8706022a4282821ce90606f8732390abdcc24d82b3ef30403e319347ef69f371.md",
+      "sha256": "8706022a4282821ce90606f8732390abdcc24d82b3ef30403e319347ef69f371",
+      "original_sha256": "821099431cc015fe772ce091c5a0f56004a95211fdd12f8891a6ee9fd9f272e9",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

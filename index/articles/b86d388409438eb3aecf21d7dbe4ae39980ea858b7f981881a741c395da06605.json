@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2058298748489535953/answer/2058912867513062936",
+  "title": "李新野和韦东奕谁比较帅？ - 知乎",
+  "original": {
+    "path": "原稿/b86d388409438eb3aecf21d7/72e51c8709ad88f38744d26976d9ff3cc42554e0d8a486893ecac36afcfbd6b4.md",
+    "sha256": "72e51c8709ad88f38744d26976d9ff3cc42554e0d8a486893ecac36afcfbd6b4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b86d388409438eb3aecf21d7/reading-99d2a4de2141914b3eb4730323ca3c1dbeaa7a8d85024d3a56cb703c7428fa15.md",
+      "sha256": "99d2a4de2141914b3eb4730323ca3c1dbeaa7a8d85024d3a56cb703c7428fa15",
+      "original_sha256": "72e51c8709ad88f38744d26976d9ff3cc42554e0d8a486893ecac36afcfbd6b4",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

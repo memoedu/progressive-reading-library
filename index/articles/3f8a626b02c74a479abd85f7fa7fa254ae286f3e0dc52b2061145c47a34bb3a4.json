@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2060536664095830369/answer/2060553359409600184",
+  "title": "你对Vibe coding的新鲜感减退了吗？ - Trisimo崔思莫 的回答",
+  "original": {
+    "path": "原稿/3f8a626b02c74a479abd85f7/0a27377afcd9974ff497c656015ea12809c8445b98e8d46037252ef7148d9b4b.md",
+    "sha256": "0a27377afcd9974ff497c656015ea12809c8445b98e8d46037252ef7148d9b4b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3f8a626b02c74a479abd85f7/reading-70b622fc544e324e3c7efd99ca0b3f81306f4de2f329115d00c8521974584a5c.md",
+      "sha256": "70b622fc544e324e3c7efd99ca0b3f81306f4de2f329115d00c8521974584a5c",
+      "original_sha256": "0a27377afcd9974ff497c656015ea12809c8445b98e8d46037252ef7148d9b4b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

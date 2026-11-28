@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2068006501562815518",
+  "title": "为什么硬件开发如此艰难",
+  "original": {
+    "path": "原稿/6b098d572540a5496e254a00/f43a1f1e5444f5fbb93da5f762e9c38ba86cc015543e2bfe013ecc09d9b0e8c5.md",
+    "sha256": "f43a1f1e5444f5fbb93da5f762e9c38ba86cc015543e2bfe013ecc09d9b0e8c5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6b098d572540a5496e254a00/reading-f1dddf78c4e234740fc165fa913c13bcc172e2d8cab7fce0d98111576bc5716e.md",
+      "sha256": "f1dddf78c4e234740fc165fa913c13bcc172e2d8cab7fce0d98111576bc5716e",
+      "original_sha256": "f43a1f1e5444f5fbb93da5f762e9c38ba86cc015543e2bfe013ecc09d9b0e8c5",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

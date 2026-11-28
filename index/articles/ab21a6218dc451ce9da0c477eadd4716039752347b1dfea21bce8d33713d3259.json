@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1954927078878192708/answer/2055061312841965849",
+  "title": "如何做到科学延寿？ - 唐法语 的回答",
+  "original": {
+    "path": "原稿/ab21a6218dc451ce9da0c477/b1aa54ffe1ed5ee57c71d9eebef73d0451dc9c17ee06c1856558d08118312de6.md",
+    "sha256": "b1aa54ffe1ed5ee57c71d9eebef73d0451dc9c17ee06c1856558d08118312de6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ab21a6218dc451ce9da0c477/reading-c6f2153db090aaafa3269b29a38a78e9795dd5a83c4622488863b9969f5ec316.md",
+      "sha256": "c6f2153db090aaafa3269b29a38a78e9795dd5a83c4622488863b9969f5ec316",
+      "original_sha256": "b1aa54ffe1ed5ee57c71d9eebef73d0451dc9c17ee06c1856558d08118312de6",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

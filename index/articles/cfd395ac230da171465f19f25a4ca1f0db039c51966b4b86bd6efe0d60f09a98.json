@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/21629921/answer/2070099632739312727",
+  "title": "范式（Paradigm）是什么？",
+  "original": {
+    "path": "原稿/cfd395ac230da171465f19f2/7d142ca6812701fc05645fb1fccf239a9699e41ca28d79c124be4ebf43b3941c.md",
+    "sha256": "7d142ca6812701fc05645fb1fccf239a9699e41ca28d79c124be4ebf43b3941c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cfd395ac230da171465f19f2/reading-6bbb9cbc783ca51f7c24db37a1803b78220f96934e53272bff5dc92b2aed4521.md",
+      "sha256": "6bbb9cbc783ca51f7c24db37a1803b78220f96934e53272bff5dc92b2aed4521",
+      "original_sha256": "7d142ca6812701fc05645fb1fccf239a9699e41ca28d79c124be4ebf43b3941c",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

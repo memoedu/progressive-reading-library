@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1959282826319995791/answer/2030267769002907635",
+  "title": "学transformer前需不需要先把RNN学一遍？ - BugBuster喵 的回答",
+  "original": {
+    "path": "原稿/ec80f1c4bbda29505fd2fad4/31e4f3bce5e1dc1904e020e700cfbd9d5e6ce15b080385c527e608330b51fedd.md",
+    "sha256": "31e4f3bce5e1dc1904e020e700cfbd9d5e6ce15b080385c527e608330b51fedd"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ec80f1c4bbda29505fd2fad4/reading-3c5f04ebd0483c7f116281047162b1d20eb0bc6bac2ddce5ec843ef3f6cd2283.md",
+      "sha256": "3c5f04ebd0483c7f116281047162b1d20eb0bc6bac2ddce5ec843ef3f6cd2283",
+      "original_sha256": "31e4f3bce5e1dc1904e020e700cfbd9d5e6ce15b080385c527e608330b51fedd",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

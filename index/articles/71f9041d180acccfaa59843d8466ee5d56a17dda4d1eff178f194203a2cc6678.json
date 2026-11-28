@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2058996805182960802/answer/2060670140585399882",
+  "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？ - pansz 的回答",
+  "original": {
+    "path": "原稿/71f9041d180acccfaa59843d/13a7e336b3ba86e1284f41c6c6c6c63227f89efc54e66a4f6f42d2e604b9cdfd.md",
+    "sha256": "13a7e336b3ba86e1284f41c6c6c6c63227f89efc54e66a4f6f42d2e604b9cdfd"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/71f9041d180acccfaa59843d/reading-8b2809d2dc29c9b1021cfd9d5761f9ad1ad875d89a306d80ff28cbeafbf070e7.md",
+      "sha256": "8b2809d2dc29c9b1021cfd9d5761f9ad1ad875d89a306d80ff28cbeafbf070e7",
+      "original_sha256": "13a7e336b3ba86e1284f41c6c6c6c63227f89efc54e66a4f6f42d2e604b9cdfd",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/327635458/answer/2068366022877434402",
+  "title": "有哪些高情商的聊天技巧？ - 威资吧吧务组 的回答",
+  "original": {
+    "path": "原稿/a88f3301f1273ebf901de89c/0179a8289fa0a489f28363fa08dcae245a9e6fef655460f70bbbd151650baed9.md",
+    "sha256": "0179a8289fa0a489f28363fa08dcae245a9e6fef655460f70bbbd151650baed9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a88f3301f1273ebf901de89c/reading-03900d552d08222b85e6f0010598dbebf8442b5b71cddbd5b7b12eac717e8327.md",
+      "sha256": "03900d552d08222b85e6f0010598dbebf8442b5b71cddbd5b7b12eac717e8327",
+      "original_sha256": "0179a8289fa0a489f28363fa08dcae245a9e6fef655460f70bbbd151650baed9",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

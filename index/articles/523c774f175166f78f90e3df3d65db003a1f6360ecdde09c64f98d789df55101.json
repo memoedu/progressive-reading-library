@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2063107028374099860/answer/2063338173439145163",
+  "title": "有没有比DeepSeek V4 Flash更加具有性价比的大模型? - momo 的回答",
+  "original": {
+    "path": "原稿/523c774f175166f78f90e3df/011da206558e11d38097e95d4b90a01306c18b6469eac709bf1ae133fe892f5c.md",
+    "sha256": "011da206558e11d38097e95d4b90a01306c18b6469eac709bf1ae133fe892f5c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/523c774f175166f78f90e3df/reading-93ffa39bd9152953dcc0d576d7d914f88a4f950b454f12a92d34c3ea0f6a874a.md",
+      "sha256": "93ffa39bd9152953dcc0d576d7d914f88a4f950b454f12a92d34c3ea0f6a874a",
+      "original_sha256": "011da206558e11d38097e95d4b90a01306c18b6469eac709bf1ae133fe892f5c",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

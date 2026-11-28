@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2051568979186135415/answer/2053528234663339618",
+  "title": "如何评价视频《朋友去希望小学当志愿者，被一群孩子骂“死娘炮”》？暴露出了哪些问题？ - 十六夜兴言 的回答",
+  "original": {
+    "path": "原稿/f7a6192c4320d306debe5b7d/b3dff59b271c6688fdda33dd0bb2291f229d86811f455a878e8dd97157260390.md",
+    "sha256": "b3dff59b271c6688fdda33dd0bb2291f229d86811f455a878e8dd97157260390"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f7a6192c4320d306debe5b7d/reading-39dedbc6d82d8be873472aac1acea9119bee078aa20166a9285d936db3f039ee.md",
+      "sha256": "39dedbc6d82d8be873472aac1acea9119bee078aa20166a9285d936db3f039ee",
+      "original_sha256": "b3dff59b271c6688fdda33dd0bb2291f229d86811f455a878e8dd97157260390",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

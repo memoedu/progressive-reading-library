@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1959326152863777202/answer/2063406542636966047",
+  "title": "中国教育是促进了天才的产生还是抑制了天才的诞生? - 蒟蒻c 的回答",
+  "original": {
+    "path": "原稿/4f05f7778c175163bc579831/a51de8a66e056811fdc2ae58dce531ba00f9f5709fb7ad1048c972e691f757f7.md",
+    "sha256": "a51de8a66e056811fdc2ae58dce531ba00f9f5709fb7ad1048c972e691f757f7"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4f05f7778c175163bc579831/reading-9b02899c3dc8fab381590c2584818482eb6013c0b5e31e6334a368cb3c0dc1fe.md",
+      "sha256": "9b02899c3dc8fab381590c2584818482eb6013c0b5e31e6334a368cb3c0dc1fe",
+      "original_sha256": "a51de8a66e056811fdc2ae58dce531ba00f9f5709fb7ad1048c972e691f757f7",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

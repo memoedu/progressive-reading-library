@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/667475290/answer/2015218500155757604",
+  "title": "大学生对自己最好的低成本投资是什么？ - q9adg 的回答",
+  "original": {
+    "path": "原稿/ccbb29e0dde1c816e34f4e8e/7d8b39e38fe7bedac682f3680bc6dd2bfc96024ed13082d403833551601ab2eb.md",
+    "sha256": "7d8b39e38fe7bedac682f3680bc6dd2bfc96024ed13082d403833551601ab2eb"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ccbb29e0dde1c816e34f4e8e/reading-9c872d201eb83c3852134563ac574a20e307280be243425667bd196df64f8fef.md",
+      "sha256": "9c872d201eb83c3852134563ac574a20e307280be243425667bd196df64f8fef",
+      "original_sha256": "7d8b39e38fe7bedac682f3680bc6dd2bfc96024ed13082d403833551601ab2eb",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1936418851911873099/answer/1940352521618035051",
+  "title": "范畴论是否应当进入大一通识课程？ - 吾欲揽六龙 的回答",
+  "original": {
+    "path": "原稿/88d30f5ecad10a1af7a352ec/610870e175ea9819c1f761c4d4e2dcac7d086376220cb6cd82b118b23e2d0342.md",
+    "sha256": "610870e175ea9819c1f761c4d4e2dcac7d086376220cb6cd82b118b23e2d0342"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/88d30f5ecad10a1af7a352ec/reading-a2e9a845252b963f400d2c0086aca242be5660a1220c85ab5bac04de08e58a44.md",
+      "sha256": "a2e9a845252b963f400d2c0086aca242be5660a1220c85ab5bac04de08e58a44",
+      "original_sha256": "610870e175ea9819c1f761c4d4e2dcac7d086376220cb6cd82b118b23e2d0342",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/61508754/answer/2050218793255826707",
+  "title": "什么具体的理论／问题／让你对数学（本科以上）提起了真正的兴趣（motivation）？ - 傅科摆 的回答",
+  "original": {
+    "path": "原稿/d1ef7542a9ab61071648135e/040df2d7691c1866a4182324b3c20fdb06e1d82294d6642aa706bfbab188a90d.md",
+    "sha256": "040df2d7691c1866a4182324b3c20fdb06e1d82294d6642aa706bfbab188a90d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d1ef7542a9ab61071648135e/reading-39108bf872aa57a78cada757bf307e6288e8f5f27a49a47c12a3504b01de7603.md",
+      "sha256": "39108bf872aa57a78cada757bf307e6288e8f5f27a49a47c12a3504b01de7603",
+      "original_sha256": "040df2d7691c1866a4182324b3c20fdb06e1d82294d6642aa706bfbab188a90d",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

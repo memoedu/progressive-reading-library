@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2052354958029239207",
+  "title": "守护天使：为了生产力和安全的 LLM 个性化",
+  "original": {
+    "path": "原稿/d217d25552defdef6a7b28d4/0bf6c30aa5f6c3321e8f0718c9d54f13f7c3dbc47d13125f6172853e2752932a.md",
+    "sha256": "0bf6c30aa5f6c3321e8f0718c9d54f13f7c3dbc47d13125f6172853e2752932a"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d217d25552defdef6a7b28d4/reading-e533242eb70f5b0efc38b5774e8b9a79e3e1c983d1802ca4a7ca1ef7d82bd154.md",
+      "sha256": "e533242eb70f5b0efc38b5774e8b9a79e3e1c983d1802ca4a7ca1ef7d82bd154",
+      "original_sha256": "0bf6c30aa5f6c3321e8f0718c9d54f13f7c3dbc47d13125f6172853e2752932a",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/15618589706/answer/1974417644007490186",
+  "title": "现代医学能不能解释为何吃羊肉会让身体暖和? - 剁椒鹿 的回答",
+  "original": {
+    "path": "原稿/70b9479d063185f648f10f28/b96e6ccf90465a27a8f85927f341eb851790dde0587e83d0d88ed4e652bb388f.md",
+    "sha256": "b96e6ccf90465a27a8f85927f341eb851790dde0587e83d0d88ed4e652bb388f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/70b9479d063185f648f10f28/reading-eaa8b4ed88f47154c6dc39fa3c1df0a51ffa2808edb176269ce5b15364fa12f6.md",
+      "sha256": "eaa8b4ed88f47154c6dc39fa3c1df0a51ffa2808edb176269ce5b15364fa12f6",
+      "original_sha256": "b96e6ccf90465a27a8f85927f341eb851790dde0587e83d0d88ed4e652bb388f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

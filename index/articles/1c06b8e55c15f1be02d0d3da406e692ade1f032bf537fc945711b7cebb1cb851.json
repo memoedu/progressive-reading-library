@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2059411830137738256/answer/2060785241774728377",
+  "title": "有了配分函数，为何还要自由能? - 愛物理的无双麓叶 的回答",
+  "original": {
+    "path": "原稿/1c06b8e55c15f1be02d0d3da/323a104b25349b14738caac7913b7bf3808870227075c8b18b2274443803160e.md",
+    "sha256": "323a104b25349b14738caac7913b7bf3808870227075c8b18b2274443803160e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1c06b8e55c15f1be02d0d3da/reading-704f19a9deb22d7a4752699b512504529314dfe3a735fa22888745867092314f.md",
+      "sha256": "704f19a9deb22d7a4752699b512504529314dfe3a735fa22888745867092314f",
+      "original_sha256": "323a104b25349b14738caac7913b7bf3808870227075c8b18b2274443803160e",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

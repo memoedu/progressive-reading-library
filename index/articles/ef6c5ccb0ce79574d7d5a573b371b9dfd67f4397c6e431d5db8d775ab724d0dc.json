@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/759653128/answer/26898639145",
+  "title": "如何评价历史学者秦晖？ - Red Balista 的回答",
+  "original": {
+    "path": "原稿/ef6c5ccb0ce79574d7d5a573/b6a5aef3c3eac3a4729f426be3acac416ab8eb750d59fd435aa809f1d6189f81.md",
+    "sha256": "b6a5aef3c3eac3a4729f426be3acac416ab8eb750d59fd435aa809f1d6189f81"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ef6c5ccb0ce79574d7d5a573/reading-c0f349cf0f514180515e5e8b29955823a84016790f7d6e45549b8ebda9bc6fa5.md",
+      "sha256": "c0f349cf0f514180515e5e8b29955823a84016790f7d6e45549b8ebda9bc6fa5",
+      "original_sha256": "b6a5aef3c3eac3a4729f426be3acac416ab8eb750d59fd435aa809f1d6189f81",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/82579410",
+  "title": "读博那些事儿",
+  "original": {
+    "path": "原稿/a2f6f0b90196490e4ae06866/355b5f52c4790c8171d89aca273ebdf7140aeabdb6db584f336d8eca426a9e80.md",
+    "sha256": "355b5f52c4790c8171d89aca273ebdf7140aeabdb6db584f336d8eca426a9e80"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/a2f6f0b90196490e4ae06866/reading-91636b4282afb21e815b9c2b7ebe99f8840d1d02d36bb73c0715f79faf40e0b6.md",
+      "sha256": "91636b4282afb21e815b9c2b7ebe99f8840d1d02d36bb73c0715f79faf40e0b6",
+      "original_sha256": "355b5f52c4790c8171d89aca273ebdf7140aeabdb6db584f336d8eca426a9e80",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

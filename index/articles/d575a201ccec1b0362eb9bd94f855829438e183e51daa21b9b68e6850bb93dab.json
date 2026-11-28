@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/531144023/answer/2045067220544382241",
+  "title": "怎样看出一个男孩子以后会不会有出息？ - Simon 的回答",
+  "original": {
+    "path": "原稿/d575a201ccec1b0362eb9bd9/d6fdfd2d61b95d4a37b2cd23c7aa6ffa1621f8d54ed2039284945b4c98387381.md",
+    "sha256": "d6fdfd2d61b95d4a37b2cd23c7aa6ffa1621f8d54ed2039284945b4c98387381"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d575a201ccec1b0362eb9bd9/reading-f3a5131edd6cd54ecc6ebcd407e32fa351b5ecd5cc1142b38c5b8ddfc75e31f0.md",
+      "sha256": "f3a5131edd6cd54ecc6ebcd407e32fa351b5ecd5cc1142b38c5b8ddfc75e31f0",
+      "original_sha256": "d6fdfd2d61b95d4a37b2cd23c7aa6ffa1621f8d54ed2039284945b4c98387381",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

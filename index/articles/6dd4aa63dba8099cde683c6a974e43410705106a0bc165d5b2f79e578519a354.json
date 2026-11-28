@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1986739287643947919/answer/2059091019061367800",
+  "title": "长期关注墨苍离的人都怎么样了？ - 且听风吟 的回答",
+  "original": {
+    "path": "原稿/6dd4aa63dba8099cde683c6a/584df3db9fa455bfdf9f2c1e0aaff51d2e3f5e727e5c30f893dd1da603555ee9.md",
+    "sha256": "584df3db9fa455bfdf9f2c1e0aaff51d2e3f5e727e5c30f893dd1da603555ee9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6dd4aa63dba8099cde683c6a/reading-250fe874d7f96ebf6b03a903a820e5318e58a28844a0bbf38c916fb7b0c9f870.md",
+      "sha256": "250fe874d7f96ebf6b03a903a820e5318e58a28844a0bbf38c916fb7b0c9f870",
+      "original_sha256": "584df3db9fa455bfdf9f2c1e0aaff51d2e3f5e727e5c30f893dd1da603555ee9",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

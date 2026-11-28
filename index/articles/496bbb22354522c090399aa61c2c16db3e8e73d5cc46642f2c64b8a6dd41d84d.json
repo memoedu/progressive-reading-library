@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2035436479833437185",
+  "title": "费曼学习法-该从神坛上下来了！",
+  "original": {
+    "path": "原稿/496bbb22354522c090399aa6/6907c54480946e68267a6af5020d1ff2f51701e7c6212b77f789a651a9fc85e1.md",
+    "sha256": "6907c54480946e68267a6af5020d1ff2f51701e7c6212b77f789a651a9fc85e1"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/496bbb22354522c090399aa6/reading-3dfdfda640138f754ead9f14f82af3f7fa4ca72341d2a372e8754d1178d2775c.md",
+      "sha256": "3dfdfda640138f754ead9f14f82af3f7fa4ca72341d2a372e8754d1178d2775c",
+      "original_sha256": "6907c54480946e68267a6af5020d1ff2f51701e7c6212b77f789a651a9fc85e1",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

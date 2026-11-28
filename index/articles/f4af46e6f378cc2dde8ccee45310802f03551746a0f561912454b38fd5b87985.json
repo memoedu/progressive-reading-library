@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/648872980/answer/3434699462",
+  "title": "请问李文威老师将由北京大学出版的《代数学讲义》怎么样？他几天前在主页挂了最新的版本，基本已经完成? - NulIptr_ 的回答",
+  "original": {
+    "path": "原稿/f4af46e6f378cc2dde8ccee4/0a2e0fdcdb456bd855b6c515ef5a43cade5c76bd2c337a020eee076ceff4bd0d.md",
+    "sha256": "0a2e0fdcdb456bd855b6c515ef5a43cade5c76bd2c337a020eee076ceff4bd0d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f4af46e6f378cc2dde8ccee4/reading-5744f843ec93134d5544d18587e6f0c4f345ebf1b2b46cf750b2ce098c1930d8.md",
+      "sha256": "5744f843ec93134d5544d18587e6f0c4f345ebf1b2b46cf750b2ce098c1930d8",
+      "original_sha256": "0a2e0fdcdb456bd855b6c515ef5a43cade5c76bd2c337a020eee076ceff4bd0d",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/30674457/answer/890393405",
+  "title": "两人相爱却不能在一起是什么感觉？ - 鲜鱼羊 的回答",
+  "original": {
+    "path": "原稿/4ff68d17d65b720ebd50ad0a/8ac28120b5a04ae371734da12f8e5fc23d00507839e18ceb47b1e79288e1a34e.md",
+    "sha256": "8ac28120b5a04ae371734da12f8e5fc23d00507839e18ceb47b1e79288e1a34e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/4ff68d17d65b720ebd50ad0a/reading-611e38abebd8ac91bf0d887b0056f85a0d908e8e32a0e567a9e89e248de7d644.md",
+      "sha256": "611e38abebd8ac91bf0d887b0056f85a0d908e8e32a0e567a9e89e248de7d644",
+      "original_sha256": "8ac28120b5a04ae371734da12f8e5fc23d00507839e18ceb47b1e79288e1a34e",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

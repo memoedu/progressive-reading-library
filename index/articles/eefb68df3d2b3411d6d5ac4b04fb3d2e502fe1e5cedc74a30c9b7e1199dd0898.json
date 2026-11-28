@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/454920313/answer/1858232313",
+  "title": "如何看待哈佛大学数学教授姚鸿泽认为分析，几何和拓扑当初学不应当过于纠结细节，而应当快速进入核心内容？ - gmachine1729 的回答",
+  "original": {
+    "path": "原稿/eefb68df3d2b3411d6d5ac4b/31e06d52a8ceac922a3d75bab2fc4a79f9c11f0d6e748ab96c867e0f5cc318b5.md",
+    "sha256": "31e06d52a8ceac922a3d75bab2fc4a79f9c11f0d6e748ab96c867e0f5cc318b5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/eefb68df3d2b3411d6d5ac4b/reading-b9970765d83e00c0df1ccb86731b7087849ce47f78d91f1b8df0b83c0e5dc561.md",
+      "sha256": "b9970765d83e00c0df1ccb86731b7087849ce47f78d91f1b8df0b83c0e5dc561",
+      "original_sha256": "31e06d52a8ceac922a3d75bab2fc4a79f9c11f0d6e748ab96c867e0f5cc318b5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

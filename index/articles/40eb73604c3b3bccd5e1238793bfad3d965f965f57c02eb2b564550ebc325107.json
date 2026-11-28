@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2007616159604823171",
+  "title": "写给高中生：机器人行业发展路线选择指南",
+  "original": {
+    "path": "原稿/40eb73604c3b3bccd5e12387/d1c35310b744a650f198088ec5b79a21b727afd66e400d713b4ba0dd3ac25611.md",
+    "sha256": "d1c35310b744a650f198088ec5b79a21b727afd66e400d713b4ba0dd3ac25611"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/40eb73604c3b3bccd5e12387/reading-41d4f29a96d6d07e9cac06018a0abb312aa02a265aebe60f5e1b482ee66e2428.md",
+      "sha256": "41d4f29a96d6d07e9cac06018a0abb312aa02a265aebe60f5e1b482ee66e2428",
+      "original_sha256": "d1c35310b744a650f198088ec5b79a21b727afd66e400d713b4ba0dd3ac25611",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

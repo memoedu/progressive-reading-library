@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1990393405570827008/answer/1995463919620350271",
+  "title": "为什么双曲线引入复数i就能变椭圆？？ - 三岛露桃绯 的回答",
+  "original": {
+    "path": "原稿/1c0613ec34cfb68cde9c2d3f/afbd6743701a4ed0d48ea6f2c1c86630243362e6745781879af1623b685785b0.md",
+    "sha256": "afbd6743701a4ed0d48ea6f2c1c86630243362e6745781879af1623b685785b0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1c0613ec34cfb68cde9c2d3f/reading-82478b3d4073d401170160169befcbaa91897ad6e8692287c1a254f4ac10e98e.md",
+      "sha256": "82478b3d4073d401170160169befcbaa91897ad6e8692287c1a254f4ac10e98e",
+      "original_sha256": "afbd6743701a4ed0d48ea6f2c1c86630243362e6745781879af1623b685785b0",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

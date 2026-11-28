@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/325540666/answer/2064825915264218996",
+  "title": "在保证营养的前提下，如何极尽简化饮食？ - timo 的回答",
+  "original": {
+    "path": "原稿/e6c45808accfe07f85fcebac/587c8ec40d0d244922605380436cb1c7c758210b29e14189995cfc238d09f17f.md",
+    "sha256": "587c8ec40d0d244922605380436cb1c7c758210b29e14189995cfc238d09f17f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e6c45808accfe07f85fcebac/reading-05c5af0fa51464dbcebaa5dd228446304db5e6c123c3ec810b2339c33c632152.md",
+      "sha256": "05c5af0fa51464dbcebaa5dd228446304db5e6c123c3ec810b2339c33c632152",
+      "original_sha256": "587c8ec40d0d244922605380436cb1c7c758210b29e14189995cfc238d09f17f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

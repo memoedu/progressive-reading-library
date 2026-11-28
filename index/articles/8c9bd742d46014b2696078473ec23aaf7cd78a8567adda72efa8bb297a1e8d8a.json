@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1906904634045502184/answer/2040410691966854594",
+  "title": "为什么自杀是不被提倡和允许的? - 派蒙的非常食品 的回答",
+  "original": {
+    "path": "原稿/8c9bd742d46014b269607847/5e1794567ccb8d7ae575d13c14fc7d82fe1afc3d517bc655e20b37adb4ba2d6d.md",
+    "sha256": "5e1794567ccb8d7ae575d13c14fc7d82fe1afc3d517bc655e20b37adb4ba2d6d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8c9bd742d46014b269607847/reading-7808e4251e9a9147c2e0b0ad708303ca2c6ec18daf26f20f3eb77496ca4dff88.md",
+      "sha256": "7808e4251e9a9147c2e0b0ad708303ca2c6ec18daf26f20f3eb77496ca4dff88",
+      "original_sha256": "5e1794567ccb8d7ae575d13c14fc7d82fe1afc3d517bc655e20b37adb4ba2d6d",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

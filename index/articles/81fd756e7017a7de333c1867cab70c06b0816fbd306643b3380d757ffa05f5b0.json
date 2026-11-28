@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2029772607696770126",
+  "title": "英文互联网精髓",
+  "original": {
+    "path": "原稿/81fd756e7017a7de333c1867/f13edbe0627ebf9388d7b047edfeeb0e29e0f1bfbf096420a3043824d280152e.md",
+    "sha256": "f13edbe0627ebf9388d7b047edfeeb0e29e0f1bfbf096420a3043824d280152e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/81fd756e7017a7de333c1867/reading-cc8e13e6f61ecdeb01afcd833228614eae7fa7410adca79d07304a3e8ab125f2.md",
+      "sha256": "cc8e13e6f61ecdeb01afcd833228614eae7fa7410adca79d07304a3e8ab125f2",
+      "original_sha256": "f13edbe0627ebf9388d7b047edfeeb0e29e0f1bfbf096420a3043824d280152e",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

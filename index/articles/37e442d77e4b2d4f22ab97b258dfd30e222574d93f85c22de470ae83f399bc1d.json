@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2059668183129273450",
+  "title": "计算机专业线上实习第一个月记录：小牛马实习生骑着大牛马Codex吭哧吭哧干活",
+  "original": {
+    "path": "原稿/37e442d77e4b2d4f22ab97b2/310649c90d10d420b85417409dd4e5e23d5c6031861d984477173a10648cd5d0.md",
+    "sha256": "310649c90d10d420b85417409dd4e5e23d5c6031861d984477173a10648cd5d0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/37e442d77e4b2d4f22ab97b2/reading-a3a13e02f17f7d371b8aa1d591915aacc94f6ca2088591afe361871cbd426099.md",
+      "sha256": "a3a13e02f17f7d371b8aa1d591915aacc94f6ca2088591afe361871cbd426099",
+      "original_sha256": "310649c90d10d420b85417409dd4e5e23d5c6031861d984477173a10648cd5d0",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

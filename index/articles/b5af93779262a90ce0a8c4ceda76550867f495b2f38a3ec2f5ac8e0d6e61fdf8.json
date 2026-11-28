@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1952950927012102617/answer/2053157861375604719",
+  "title": "对政治的解构是不是新生代的悲哀? - 浪羁 的回答",
+  "original": {
+    "path": "原稿/b5af93779262a90ce0a8c4ce/3d5f21516342a6fcabc0acc9a6867d392f67e0aca6e563b602f16ee361cff14c.md",
+    "sha256": "3d5f21516342a6fcabc0acc9a6867d392f67e0aca6e563b602f16ee361cff14c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b5af93779262a90ce0a8c4ce/reading-f93860455030216ba93acbd4d6340054f8706e48493f67845bdc23c9c52785d2.md",
+      "sha256": "f93860455030216ba93acbd4d6340054f8706e48493f67845bdc23c9c52785d2",
+      "original_sha256": "3d5f21516342a6fcabc0acc9a6867d392f67e0aca6e563b602f16ee361cff14c",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

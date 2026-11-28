@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2031191295234978639/answer/2046566397581473187",
+  "title": "纯数前途真的很黑吗？ - pnomaist 的回答",
+  "original": {
+    "path": "原稿/31a18994d4030a69ed968ae8/f86161a0812018e92974992eb754b63c063d51ad88ffd4f55ac5b965d53f8bba.md",
+    "sha256": "f86161a0812018e92974992eb754b63c063d51ad88ffd4f55ac5b965d53f8bba"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/31a18994d4030a69ed968ae8/reading-bd768a05c942395967513fc4b33c33308160adf0dfd0d1dc9c5f336a18fedce8.md",
+      "sha256": "bd768a05c942395967513fc4b33c33308160adf0dfd0d1dc9c5f336a18fedce8",
+      "original_sha256": "f86161a0812018e92974992eb754b63c063d51ad88ffd4f55ac5b965d53f8bba",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/12377440590/answer/109544688007",
+  "title": "健身领域有哪些被大众视为真理，但实际是伪科学的观点？ - 李祥JasonLee 的回答",
+  "original": {
+    "path": "原稿/e939da787a42dde6ecad5fe9/76072b86b89c31820758d7da9e38e17d460d90992d0bfe7e24ea16390df545d5.md",
+    "sha256": "76072b86b89c31820758d7da9e38e17d460d90992d0bfe7e24ea16390df545d5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/e939da787a42dde6ecad5fe9/reading-78f8e8e204979ad43075f99bdfc86c28b53d668e90b4279d31a5beb52e234fb4.md",
+      "sha256": "78f8e8e204979ad43075f99bdfc86c28b53d668e90b4279d31a5beb52e234fb4",
+      "original_sha256": "76072b86b89c31820758d7da9e38e17d460d90992d0bfe7e24ea16390df545d5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

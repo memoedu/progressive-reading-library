@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/4821914768/answer/2038546784520253740",
+  "title": "为什么高中总对大学有很美好的幻想？",
+  "original": {
+    "path": "原稿/263b1dfc763c0139dcff3c5f/df10827faa0a3db1057ddb9a31d413e6afb4827645c91171ac1764fb83df874f.md",
+    "sha256": "df10827faa0a3db1057ddb9a31d413e6afb4827645c91171ac1764fb83df874f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/263b1dfc763c0139dcff3c5f/reading-fba45b00621ff7e6efd14e31b2df20f8891638cbe3b3aa28fbd73e741b34e40c.md",
+      "sha256": "fba45b00621ff7e6efd14e31b2df20f8891638cbe3b3aa28fbd73e741b34e40c",
+      "original_sha256": "df10827faa0a3db1057ddb9a31d413e6afb4827645c91171ac1764fb83df874f",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

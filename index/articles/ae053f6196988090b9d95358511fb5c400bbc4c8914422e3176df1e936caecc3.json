@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1934718685144155826/answer/2034000348176757133",
+  "title": "中国为什么不all in AI? - KKR Database 的回答",
+  "original": {
+    "path": "原稿/ae053f6196988090b9d95358/69bb1fab2d19f97ed1f135a2be23ce01ce1b3bf7a5a04aa5cfd4b6e78b743ec5.md",
+    "sha256": "69bb1fab2d19f97ed1f135a2be23ce01ce1b3bf7a5a04aa5cfd4b6e78b743ec5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ae053f6196988090b9d95358/reading-2d4ffc177b39ff1d771b715d0dd1714045b24a43dcdbbe445397a93d2ac4751c.md",
+      "sha256": "2d4ffc177b39ff1d771b715d0dd1714045b24a43dcdbbe445397a93d2ac4751c",
+      "original_sha256": "69bb1fab2d19f97ed1f135a2be23ce01ce1b3bf7a5a04aa5cfd4b6e78b743ec5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

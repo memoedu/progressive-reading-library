@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2066464299980271961",
+  "title": "写给重度音乐爱好者的十万字乐理（Music Theory）读本：从入门到飞升（下）",
+  "original": {
+    "path": "原稿/20b561cc36444bc42d8537bf/a711282329874f5d556ba1e22f842055e95243e3e76d64fdfdce1a1f622f8ea9.md",
+    "sha256": "a711282329874f5d556ba1e22f842055e95243e3e76d64fdfdce1a1f622f8ea9"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/20b561cc36444bc42d8537bf/reading-b097785d4a005c1dc4828b62fd805b5c533c93c3410e6a7a71e3273de38e907b.md",
+      "sha256": "b097785d4a005c1dc4828b62fd805b5c533c93c3410e6a7a71e3273de38e907b",
+      "original_sha256": "a711282329874f5d556ba1e22f842055e95243e3e76d64fdfdce1a1f622f8ea9",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

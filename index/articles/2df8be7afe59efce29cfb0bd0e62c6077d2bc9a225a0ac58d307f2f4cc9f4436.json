@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/599396505/answer/3583853852",
+  "title": "大模型微调到底有没有技术含量，或者说技术含量到底有多大？ - ybq 的回答",
+  "original": {
+    "path": "原稿/2df8be7afe59efce29cfb0bd/fadeaec7f27770fd23acb617b97d4de02af6cf9a6f33e1898b88dc6032109217.md",
+    "sha256": "fadeaec7f27770fd23acb617b97d4de02af6cf9a6f33e1898b88dc6032109217"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2df8be7afe59efce29cfb0bd/reading-4fb16a7de31b465dc8bcf12843c891c08bed73c456c21c179d3d4b05331f97d0.md",
+      "sha256": "4fb16a7de31b465dc8bcf12843c891c08bed73c456c21c179d3d4b05331f97d0",
+      "original_sha256": "fadeaec7f27770fd23acb617b97d4de02af6cf9a6f33e1898b88dc6032109217",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

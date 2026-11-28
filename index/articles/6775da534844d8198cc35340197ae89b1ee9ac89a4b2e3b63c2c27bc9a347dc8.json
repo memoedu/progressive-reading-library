@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2006474721647157414/answer/2045495509759045757",
+  "title": "大家Vibe Coding路上遇到最大的问题是什么？ - walker sky 的回答",
+  "original": {
+    "path": "原稿/6775da534844d8198cc35340/d5e6d7ce5db3b2d2d5e2107e4c6215538035f20b9c224dd209f99e524feb939e.md",
+    "sha256": "d5e6d7ce5db3b2d2d5e2107e4c6215538035f20b9c224dd209f99e524feb939e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6775da534844d8198cc35340/reading-39453b3fbd236866e33ecb9f08a3f2aa8ee93349f7e9bf381441b37d8db3b531.md",
+      "sha256": "39453b3fbd236866e33ecb9f08a3f2aa8ee93349f7e9bf381441b37d8db3b531",
+      "original_sha256": "d5e6d7ce5db3b2d2d5e2107e4c6215538035f20b9c224dd209f99e524feb939e",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

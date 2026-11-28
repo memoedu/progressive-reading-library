@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/605397486/answer/2028852956124954924",
+  "title": "假如清华大学录取通知书和一个亿你会怎么选？ - Sigon 的回答",
+  "original": {
+    "path": "原稿/8351a06fe65220bd8fe82443/6d3c891e58bbe7589027ce4735054e79442ed53f9fd5a075d31938a208b44085.md",
+    "sha256": "6d3c891e58bbe7589027ce4735054e79442ed53f9fd5a075d31938a208b44085"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8351a06fe65220bd8fe82443/reading-df1d90e63e0f72ad8587281ee64392006f83746e197758454d32c15821e5e81c.md",
+      "sha256": "df1d90e63e0f72ad8587281ee64392006f83746e197758454d32c15821e5e81c",
+      "original_sha256": "6d3c891e58bbe7589027ce4735054e79442ed53f9fd5a075d31938a208b44085",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

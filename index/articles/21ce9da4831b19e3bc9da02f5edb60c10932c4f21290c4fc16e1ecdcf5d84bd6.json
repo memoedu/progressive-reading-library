@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/30740253/answer/55033551",
+  "title": "怎样自学数学本科课程？ - 爱迪小生 的回答",
+  "original": {
+    "path": "原稿/21ce9da4831b19e3bc9da02f/cf8f1d105f7a6293492bc13604e3fcebf2d1a1b33c439edfc3fb7cc206b410fc.md",
+    "sha256": "cf8f1d105f7a6293492bc13604e3fcebf2d1a1b33c439edfc3fb7cc206b410fc"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/21ce9da4831b19e3bc9da02f/reading-dcf1e2f9999f2b0fb03dad482278770034c0886b7280680197be87f3c07726ca.md",
+      "sha256": "dcf1e2f9999f2b0fb03dad482278770034c0886b7280680197be87f3c07726ca",
+      "original_sha256": "cf8f1d105f7a6293492bc13604e3fcebf2d1a1b33c439edfc3fb7cc206b410fc",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

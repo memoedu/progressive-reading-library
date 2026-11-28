@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2067032355878048144",
+  "title": "医院、点滴与《砂之女》",
+  "original": {
+    "path": "原稿/98e6e3ff5bd20e0d0574e853/16ad124218803337ca55df442aeabb3f80cb3bbd6bca51d53f6bdf367cd4820b.md",
+    "sha256": "16ad124218803337ca55df442aeabb3f80cb3bbd6bca51d53f6bdf367cd4820b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/98e6e3ff5bd20e0d0574e853/reading-4ae76150399bc3766dcdcb771730dbfa1a8c397ecfb8d97cb0f890ac9f5bf03d.md",
+      "sha256": "4ae76150399bc3766dcdcb771730dbfa1a8c397ecfb8d97cb0f890ac9f5bf03d",
+      "original_sha256": "16ad124218803337ca55df442aeabb3f80cb3bbd6bca51d53f6bdf367cd4820b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/8856354987/answer/90170094562",
+  "title": "就现状来看，大模型算法类的硕士没有在c9华五读，导师也放养，基本上是不是可以放弃科研这条道路了？ - 李磊NLP 的回答",
+  "original": {
+    "path": "原稿/cc928a72bebb17c50d9760f6/63180e2de957c6da01ef9ca579415ac45029df9c2cd45f8436bb9b9f1f2fc4d5.md",
+    "sha256": "63180e2de957c6da01ef9ca579415ac45029df9c2cd45f8436bb9b9f1f2fc4d5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cc928a72bebb17c50d9760f6/reading-022f6a8ee99826c69262cfe3832f50ba497a113c709e12d421647f2901a3a858.md",
+      "sha256": "022f6a8ee99826c69262cfe3832f50ba497a113c709e12d421647f2901a3a858",
+      "original_sha256": "63180e2de957c6da01ef9ca579415ac45029df9c2cd45f8436bb9b9f1f2fc4d5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

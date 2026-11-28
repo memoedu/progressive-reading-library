@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1912658721026334786",
+  "title": "南科大的灵魂：敢闯敢试——一位“老南科人”的观察与忧思",
+  "original": {
+    "path": "原稿/2a5b53cfeb47ddd14cd102d6/90f6803bac99f1ff939133989e5356c3690fffa45a39b51bec9747e801630abc.md",
+    "sha256": "90f6803bac99f1ff939133989e5356c3690fffa45a39b51bec9747e801630abc"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/2a5b53cfeb47ddd14cd102d6/reading-3cd6ffc02c0b1d7b018715e71c33dd4563d6ff12dd38716ddd00fb45ef8289f0.md",
+      "sha256": "3cd6ffc02c0b1d7b018715e71c33dd4563d6ff12dd38716ddd00fb45ef8289f0",
+      "original_sha256": "90f6803bac99f1ff939133989e5356c3690fffa45a39b51bec9747e801630abc",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

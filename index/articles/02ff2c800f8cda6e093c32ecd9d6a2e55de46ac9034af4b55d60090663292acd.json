@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/13197648844/answer/2014655460729444196",
+  "title": "为什么日本出不了DeepSeek？ - 怒手领缝大出生 的回答",
+  "original": {
+    "path": "原稿/02ff2c800f8cda6e093c32ec/a780c9fbbcbef1e30dc339be30f111cbaccb1ccbcd52eef226595fb49c93d49b.md",
+    "sha256": "a780c9fbbcbef1e30dc339be30f111cbaccb1ccbcd52eef226595fb49c93d49b"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/02ff2c800f8cda6e093c32ec/reading-e328cd3fb081504ed1961fff2db15966ad4d9e7a55bf3f4c0002cb7d5efac101.md",
+      "sha256": "e328cd3fb081504ed1961fff2db15966ad4d9e7a55bf3f4c0002cb7d5efac101",
+      "original_sha256": "a780c9fbbcbef1e30dc339be30f111cbaccb1ccbcd52eef226595fb49c93d49b",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

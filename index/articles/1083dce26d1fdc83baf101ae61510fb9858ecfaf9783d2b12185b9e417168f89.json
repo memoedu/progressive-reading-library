@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/759653128/answer/2012961400247578831",
+  "title": "如何评价历史学者秦晖？ - 图奇Yolo 的回答",
+  "original": {
+    "path": "原稿/1083dce26d1fdc83baf101ae/4c7fdb1b066ee3394b76f996df717bf1010b8a049ed63466e1c5c3f5e5bdabcf.md",
+    "sha256": "4c7fdb1b066ee3394b76f996df717bf1010b8a049ed63466e1c5c3f5e5bdabcf"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1083dce26d1fdc83baf101ae/reading-bdacd577cac5cf6dbb4bd0b92ffdaca6c290541b1b1c352d5899095432ebb80d.md",
+      "sha256": "bdacd577cac5cf6dbb4bd0b92ffdaca6c290541b1b1c352d5899095432ebb80d",
+      "original_sha256": "4c7fdb1b066ee3394b76f996df717bf1010b8a049ed63466e1c5c3f5e5bdabcf",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

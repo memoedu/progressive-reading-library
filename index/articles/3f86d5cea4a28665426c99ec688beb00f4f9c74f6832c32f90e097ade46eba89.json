@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1928065577953493293/answer/1995875630466762674",
+  "title": "青年秦晖的极左造反派理论与晚年秦晖的亲美自由派理论具有哪些共性与差异？ - zzzzzzzzzz 的回答",
+  "original": {
+    "path": "原稿/3f86d5cea4a28665426c99ec/07b662710ec2393c0991df59d83ff0f1c18cc8dd0a671cfb992d42485efe1712.md",
+    "sha256": "07b662710ec2393c0991df59d83ff0f1c18cc8dd0a671cfb992d42485efe1712"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/3f86d5cea4a28665426c99ec/reading-604c1489ffada2a9010c659b16acdc7c7f10ab7412347a7aa73ac90c6d140aff.md",
+      "sha256": "604c1489ffada2a9010c659b16acdc7c7f10ab7412347a7aa73ac90c6d140aff",
+      "original_sha256": "07b662710ec2393c0991df59d83ff0f1c18cc8dd0a671cfb992d42485efe1712",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

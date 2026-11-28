@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2028956502472279921",
+  "title": "读陈童《初识经典力学》有感——建立经典力学体系的五条进路",
+  "original": {
+    "path": "原稿/8536e86a6a02d90d52e5367c/ac595e5c251381dd5855a6ca7caf0ff5453e17e016c80679dd977a5c1c255144.md",
+    "sha256": "ac595e5c251381dd5855a6ca7caf0ff5453e17e016c80679dd977a5c1c255144"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8536e86a6a02d90d52e5367c/reading-81c14d92181a5f08971c2b0997abdd0c658fff73ff98800be1f8ca9b97333853.md",
+      "sha256": "81c14d92181a5f08971c2b0997abdd0c658fff73ff98800be1f8ca9b97333853",
+      "original_sha256": "ac595e5c251381dd5855a6ca7caf0ff5453e17e016c80679dd977a5c1c255144",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

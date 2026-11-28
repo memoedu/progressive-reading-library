@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2026328196283479617",
+  "title": "机器学习研究的个人观点指南 - OpenAI 联创 John Schulman",
+  "original": {
+    "path": "原稿/053826fddec5b3049c632af2/9b41eb2c6f179834a6384beec4fc3d4f52e176c8616e9d09794626447c9c7118.md",
+    "sha256": "9b41eb2c6f179834a6384beec4fc3d4f52e176c8616e9d09794626447c9c7118"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/053826fddec5b3049c632af2/reading-c39e150384293f18ee2e580e0ef185774e192e7ef88fdb874f9d02ff7615035f.md",
+      "sha256": "c39e150384293f18ee2e580e0ef185774e192e7ef88fdb874f9d02ff7615035f",
+      "original_sha256": "9b41eb2c6f179834a6384beec4fc3d4f52e176c8616e9d09794626447c9c7118",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

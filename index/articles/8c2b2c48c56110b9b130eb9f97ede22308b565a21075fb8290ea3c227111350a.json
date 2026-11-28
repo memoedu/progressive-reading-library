@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2058338895776028483",
+  "title": "写在失控之后与坠毁之前：更Agentic的Code Agent正在毁掉我们的心智模型",
+  "original": {
+    "path": "原稿/8c2b2c48c56110b9b130eb9f/c56ad2f9df57b2aa4721afa026f205fec8fd34cad4491db29238dbe6354422f3.md",
+    "sha256": "c56ad2f9df57b2aa4721afa026f205fec8fd34cad4491db29238dbe6354422f3"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8c2b2c48c56110b9b130eb9f/reading-d015fdd6d1280516c2cd5c2569e3fa2ad6c02db8c269857fca7c58b57ca2ce40.md",
+      "sha256": "d015fdd6d1280516c2cd5c2569e3fa2ad6c02db8c269857fca7c58b57ca2ce40",
+      "original_sha256": "c56ad2f9df57b2aa4721afa026f205fec8fd34cad4491db29238dbe6354422f3",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

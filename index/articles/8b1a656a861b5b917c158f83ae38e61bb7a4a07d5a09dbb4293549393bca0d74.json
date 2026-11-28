@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/624623198/answer/3685475173",
+  "title": "为什么现在吹Rust的人这么多？ - 锦恢 的回答",
+  "original": {
+    "path": "原稿/8b1a656a861b5b917c158f83/472180159e553f910595ffeeb50cd9fbfa3c5f09facf610d96a32adae5a103c0.md",
+    "sha256": "472180159e553f910595ffeeb50cd9fbfa3c5f09facf610d96a32adae5a103c0"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8b1a656a861b5b917c158f83/reading-1bba2eeaebb46c9191553dedc815d32bb1608266ef78105f99c6f916e6ef509d.md",
+      "sha256": "1bba2eeaebb46c9191553dedc815d32bb1608266ef78105f99c6f916e6ef509d",
+      "original_sha256": "472180159e553f910595ffeeb50cd9fbfa3c5f09facf610d96a32adae5a103c0",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

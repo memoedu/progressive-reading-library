@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/635420622/answer/2034629822643704114",
+  "title": "拳击防身的自学方法都有哪些？ - 抱鹅的少年 的回答",
+  "original": {
+    "path": "原稿/cc965211a8fcd15ce0316cf5/1dca49a202128cec27216f329f06da05fd56175404b5e691c5ef82c016e8fc78.md",
+    "sha256": "1dca49a202128cec27216f329f06da05fd56175404b5e691c5ef82c016e8fc78"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cc965211a8fcd15ce0316cf5/reading-6ce1c96ea6939972d06db013c1a65ad3de86865aa1f500a20e307526680b709c.md",
+      "sha256": "6ce1c96ea6939972d06db013c1a65ad3de86865aa1f500a20e307526680b709c",
+      "original_sha256": "1dca49a202128cec27216f329f06da05fd56175404b5e691c5ef82c016e8fc78",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

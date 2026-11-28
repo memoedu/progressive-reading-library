@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1932060425601672754/answer/2000040896356435104",
+  "title": "没有练过的普通人，怎样才能提高和别人对打的胜率？ - 抱鹅的少年 的回答",
+  "original": {
+    "path": "原稿/81a4e5b7b9fa5852d189418d/0cf9218a717c56b507a780a94a2617ef244f2ee234051ca267acd0c0ed19fdef.md",
+    "sha256": "0cf9218a717c56b507a780a94a2617ef244f2ee234051ca267acd0c0ed19fdef"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/81a4e5b7b9fa5852d189418d/reading-c6e1c1b17c978ffd5deb29eb97ef86d96bed5dd39f211d170ef808712821023a.md",
+      "sha256": "c6e1c1b17c978ffd5deb29eb97ef86d96bed5dd39f211d170ef808712821023a",
+      "original_sha256": "0cf9218a717c56b507a780a94a2617ef244f2ee234051ca267acd0c0ed19fdef",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

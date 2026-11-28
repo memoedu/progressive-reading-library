@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1895966355703976391/answer/2059355831926371871",
+  "title": "你觉得学英语最大的阻碍是什么？",
+  "original": {
+    "path": "原稿/da99b009a85e385a42c9a830/ea0b53fa6fb4b623ac3d11d18748a3498bd0185fd6ab9c02ab5e4baacc1d1d93.md",
+    "sha256": "ea0b53fa6fb4b623ac3d11d18748a3498bd0185fd6ab9c02ab5e4baacc1d1d93"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/da99b009a85e385a42c9a830/reading-71d257f644c7d9a12c87ce0069fc8cafa2a676bd5a6bc33c786d4a0aa8b7a6ad.md",
+      "sha256": "71d257f644c7d9a12c87ce0069fc8cafa2a676bd5a6bc33c786d4a0aa8b7a6ad",
+      "original_sha256": "ea0b53fa6fb4b623ac3d11d18748a3498bd0185fd6ab9c02ab5e4baacc1d1d93",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2066595452238160814/answer/2067247794679764670",
+  "title": "为什么DeepSeek-V4-Flash-0731的后训练如此有效？ - 任易 的回答",
+  "original": {
+    "path": "原稿/c66dee2c5ad2624057b7d4ce/b9a10b3099b6e6b6251b58464c9acc7e41c4f6a169bce89d56fb12d1cf407f75.md",
+    "sha256": "b9a10b3099b6e6b6251b58464c9acc7e41c4f6a169bce89d56fb12d1cf407f75"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c66dee2c5ad2624057b7d4ce/reading-db6b96df8f51a4e5ff116d4a3e45e1b4130c7670c0e7b2675084b5f0355b81c2.md",
+      "sha256": "db6b96df8f51a4e5ff116d4a3e45e1b4130c7670c0e7b2675084b5f0355b81c2",
+      "original_sha256": "b9a10b3099b6e6b6251b58464c9acc7e41c4f6a169bce89d56fb12d1cf407f75",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

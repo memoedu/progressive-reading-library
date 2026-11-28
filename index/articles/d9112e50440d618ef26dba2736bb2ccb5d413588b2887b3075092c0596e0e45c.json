@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2055782042420372097",
+  "title": "对Agent技术的一些随思",
+  "original": {
+    "path": "原稿/d9112e50440d618ef26dba27/7db8dee5614c8863c21d53ae5796f05b0a4fae1230f6178fdee5488cb1c011d5.md",
+    "sha256": "7db8dee5614c8863c21d53ae5796f05b0a4fae1230f6178fdee5488cb1c011d5"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d9112e50440d618ef26dba27/reading-434cfe7cafd3ab1298bf34e465130160be35a805215312727abc09671f5c63f9.md",
+      "sha256": "434cfe7cafd3ab1298bf34e465130160be35a805215312727abc09671f5c63f9",
+      "original_sha256": "7db8dee5614c8863c21d53ae5796f05b0a4fae1230f6178fdee5488cb1c011d5",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

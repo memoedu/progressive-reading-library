@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/531662635/answer/2030605964743807574",
+  "title": "有哪些你看了以后大呼过瘾的计算机书籍？",
+  "original": {
+    "path": "原稿/f1b6ab22fb4d7daa69efa979/00651948b6405ddf8686ee5751dcf72c25cf42a47e517fce69c21e11b9de691f.md",
+    "sha256": "00651948b6405ddf8686ee5751dcf72c25cf42a47e517fce69c21e11b9de691f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/f1b6ab22fb4d7daa69efa979/reading-ee1522dc3bf202d1f0c2c86f74bfe6692e10f8ce27b231beccc150ef3f425a34.md",
+      "sha256": "ee1522dc3bf202d1f0c2c86f74bfe6692e10f8ce27b231beccc150ef3f425a34",
+      "original_sha256": "00651948b6405ddf8686ee5751dcf72c25cf42a47e517fce69c21e11b9de691f",
+      "processing_sha256": "54416de2efab56a78f56d9a248a8c5853cd682a45629eed5e41d0aa7ed676667",
+      "options_sha256": "d5ed82e4a09073bed8d9bc7fd21555552dfadb67007cf694bfb3494b4c2b29d5"
+    }
+  ]
+}

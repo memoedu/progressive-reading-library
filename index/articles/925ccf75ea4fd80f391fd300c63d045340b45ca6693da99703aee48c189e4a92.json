@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/598621331/answer/3010051298",
+  "title": "为啥南京大学蒋炎岩老师的操作系统课那么难? - 秋天俯身采种子 的回答",
+  "original": {
+    "path": "原稿/925ccf75ea4fd80f391fd300/1aad8e5a7f47fe49c73dcad8c91e0bcbb9e3718986bbd3fcd8c0cbdd6b5b8316.md",
+    "sha256": "1aad8e5a7f47fe49c73dcad8c91e0bcbb9e3718986bbd3fcd8c0cbdd6b5b8316"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/925ccf75ea4fd80f391fd300/reading-29744a4fe0b97111695a0cd3941007d6373f3a28f3357bee330c517ca38c06a4.md",
+      "sha256": "29744a4fe0b97111695a0cd3941007d6373f3a28f3357bee330c517ca38c06a4",
+      "original_sha256": "1aad8e5a7f47fe49c73dcad8c91e0bcbb9e3718986bbd3fcd8c0cbdd6b5b8316",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

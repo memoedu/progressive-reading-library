@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2071711669378441934/answer/2072463706970132595",
+  "title": "大厂员工吐槽现在开会就是互丢AI文档，你有同感吗？很多公司都强调内化AI能力，但真的有提升产出质量吗？ - 酱紫君 的回答",
+  "original": {
+    "path": "原稿/7e5f8e9c180af2ba24b4436e/f9237a0d163979fbad22b088f092639d5bea7c0f8db92cdb45e7531dde0b998f.md",
+    "sha256": "f9237a0d163979fbad22b088f092639d5bea7c0f8db92cdb45e7531dde0b998f"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/7e5f8e9c180af2ba24b4436e/reading-8c754f5e9dded3ca587270aaa74abc0dc5094802e7aaca913a74e3c3a139f499.md",
+      "sha256": "8c754f5e9dded3ca587270aaa74abc0dc5094802e7aaca913a74e3c3a139f499",
+      "original_sha256": "f9237a0d163979fbad22b088f092639d5bea7c0f8db92cdb45e7531dde0b998f",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

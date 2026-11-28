@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2059735311672931665",
+  "title": "桂电密码学大一 | 入学一年来的心路历程 | 繁星与新生",
+  "original": {
+    "path": "原稿/95bc4d3e1974e1030ae94203/b6dadce5dd8aa5ba5bfcedc76f3fac17b713f8f02cad22dd05b6e1241c25d286.md",
+    "sha256": "b6dadce5dd8aa5ba5bfcedc76f3fac17b713f8f02cad22dd05b6e1241c25d286"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/95bc4d3e1974e1030ae94203/reading-82b005ca7c8237fa985f1404fe2a6d3c2e03346cbc4052e62ef35c5e0f30bfaf.md",
+      "sha256": "82b005ca7c8237fa985f1404fe2a6d3c2e03346cbc4052e62ef35c5e0f30bfaf",
+      "original_sha256": "b6dadce5dd8aa5ba5bfcedc76f3fac17b713f8f02cad22dd05b6e1241c25d286",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

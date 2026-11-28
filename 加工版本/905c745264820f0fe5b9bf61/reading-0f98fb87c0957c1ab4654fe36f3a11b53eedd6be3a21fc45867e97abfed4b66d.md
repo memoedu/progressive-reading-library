@@ -1,0 +1,110 @@
+<!-- reading-guide:start -->
+
+## 阅读前置卡
+
+### 一句话核心
+这是一位系统软件研究者对自己讲座中三个核心构想（可编程课程、混合式软件工程、个人化第一性原理）的自我澄清与辩护，核心在于“代码即一切”的底层信念。
+
+### 核心洞见
+- 课程可以完全程序化为可replay的trace，且通过LLM自动生成旁白、定制案例，实现“write once, teach everywhere”，最终可能取代传统教师角色。
+- 软件工程中Structured Programming与Agile的张力，在“code is cheap”时代可通过混合策略消解：核心架构用代码严格可控，外围逻辑交给LLM敏捷生成。
+- 个人知识体系的核心是少数几个“first principle”（如state machine、trace），它们能近乎无损地还原论文最重要的设计，这种压缩式理解是高效吸收新工作的关键。
+- 作者认为AI不需要完美，只要能超过最好的人类，人类在特定设计环节的意义就会被消解——这是对“人机分工”的激进判断。
+- 作者明确表示讲座第二部分未能讲清，本文是对该部分的最完整文字补充，价值高于talk本身。
+
+### 对我的价值判断
+**高**。这篇文章直接触及你正在搭建的AI工作流与教育产品核心：课程程序化、LLM驱动的教学定制、以及用第一性原理压缩知识的方法论。作者给出了可操作的技术路径（如用代码描述课程、用AI维护核心架构），且包含对“人机分工”的尖锐判断，能直接反哺你的产品判断与知识系统设计。
+
+### 信息密度判断
+**高**。密度来自作者本人的真实工程经验（CS336对比、SpecKit、eBPF case study）、对软件工程历史的重新框架（Structured vs Agile的混合解）、以及个人认知方法论（small explanation、first principle压缩）。不是观点重复，而是有具体技术细节和案例支撑的原创判断。
+
+### 能解决我的什么痛点
+- 如何将课程/讲义生产从线性文本升级为可编程、可AI定制的结构化资产。
+- 如何在AI Agent工作流中平衡“严格可控的架构”与“敏捷生成的逻辑”，避免vibe coding失控。
+- 如何用少数第一性原理（如state/trace）快速消化大量论文，提升渐进阅读的压缩效率。
+- 如何判断“AI替代人类”的真实边界，避免对Agent能力过度乐观或悲观。
+
+### 具体用处
+- 可直接沉淀为RemNote卡片：课程程序化模型、混合软件工程策略、small explanation方法论。
+- 可作为你设计AI工作流时的参考案例：用代码描述教学流程、用LLM生成旁白与定制案例。
+- 可用于教育产品判断：评估“样板课+数字人+AI定制”模式的可行性与市场空间。
+- 可作为研究选题素材：作者提出的transactional semantics与混合工程范式值得追踪后续Case Study。
+
+### 是否急需阅读
+**急需**。这篇文章是你当前关注的教育科技与AI工作流交叉领域的稀缺高密度材料，且作者给出了可直接借鉴的技术路径和判断框架，能立即反哺你的知识系统搭建与产品思考。
+
+<!-- reading-guide:end -->
+
+---
+
+## 原文
+
+# 如何评价蒋炎岩在ChinaSys'25 Winter的讲座《一个软工人的辩白》？
+
+## 第一部分：把课程视为可重放的程序
+
+补充一些细节。第一部分我是想得很清楚了，它就是个library，Percy Liang在CS336里把program trace直接拿来当lecture notes：[https://github.com/stanford-cs336/spring2025-lectures](https://link.zhihu.com/?target=https%3A//github.com/stanford-cs336/spring2025-lectures)。其实lecture的过程就是replay一个program trace：
+
+```python
+def why_this_course_exists():
+ text("## Why did we make this course?")
+ 
+ text("Let's ask GPT-4 "), link(gpt4)
+ response = query_gpt4o(prompt="Why teach a course on building language models from scratch? Answer in one sentence.") # @inspect response
+```
+
+我实现的是一个加强版的这个：不是生成一个linear trace和inspect variables，而是运行一个程序，可以mark上课的state和transition，同样是replay program trace，但支持live code demo，这比CS336更接近完整的上课描述：
+
+```python
+def code_demo():
+    mark(title="代码演示")
+    demo = CodeDemo("first-demo", "experiments/unix-philosophy")
+    demo.transition(key_sequence=f"bash hello.sh\n", description="解释做了什么")
+```
+
+## “Write once, teach everywhere”的可能性
+
+看起来是一个非常incremental的小改进，没有什么“depth”，但其实我看到的是一种 “write once, teach everywhere”的可能性：我们可以把一节课里所有线性的东西，包括动画、互动……而且它们变成了代码，用LLM就好处理了：
+
+-   让LLM去把往年的slides，甚至是音频的transcription变成这样的代码。
+-   让LLM为每一个transition生成解释和旁白，给数字人就行。
+-   让LLM自动增删改和定制lecture。
+
+因此我看到的是，以后就都只要做几种样板课就可以了，直接在GitHub上开源，网友们一起维护，就不再需要什么老师了；需要有人出场的时候就生成一个数字人，随时收集听众的状态再去调整教学内容，比如可以为学生从案例池里选一个最适合他的，或者让coding agent临时把学生自己以前的东西拿来做案例。我完全可以就地辞职开公司卖这个，因为Percy Liang和Manim都已经证明这个conceptual model是成功的，剩下就是工作量了。
+
+## 第二部分：Structured Programming与Agile的张力
+
+第二部分其实我也想得比较清楚了，但确实talk里没能讲清楚，只讲了最容易听明白的transactional semantics。试着从这个角度来理解：
+
+-   Structured Programming要我们iterative refine，自顶向下，从一开始就把架构弄清楚，控制住软件。但这个只适合一锤子买卖，一开始把需求都想清楚。
+-   Agile告诉我们需求不可能一下子都想清楚，让我们从第一天开始就能run，然后不停地重构，直到最后完成，一开始的架构不好不要紧，跑起来更重要。
+-   实际上是Structured Programming和Agile总是混在一起，做可演进的架构，快速推功能，对齐需求，这也是为什么prototype好搞，product难做的原因。架构不够好，需求上来项目就垮了。
+
+## 混合方案：代码表达架构，LLM善后细节
+
+但现在code is cheap了，这个tension是不是能想办法解决呢？SpecKit显然走在正确的路上；我想做的transactional semantics是使我们在想严格控制的时候直接就能用代码严格控制，与此同时，如果我只是想agile，只要partial correctness的时候，让LLM生成一些一次性的代码，放飞自我也是完全可以的。这个具体的工作，是想说“有些东西毫无疑问用代码表达是更好的，因此可以试试混合”。
+
+软件某种程度上是物理世界过程在信息世界的投影，LLM时代会更多的回到“描述”投影是什么，怎么实现它对于绝大部分人来说都是不需要知道的。比如，我们可以在第一天就有一个Structured的设计，这个设计随时可以改（也可以vibe coding让agent改），改了以后leaf logic就由LLM去自动善后，而架构的部分是100%可控的代码。我们现在在做一个 Case Study，用我们的方式从零构建一个eBPF的runtime，同时在项目里维护自然语言的手册，但数据结构是自己定义的，大概可以这样写：
+
+```python
+with AI:
+    spec = (
+        VMSpec +
+        CoreManual +
+        ByteCodeInst[inst] +
+        "生成bytecode的解释器")
+    interpreter = AI.execute(spec)
+    ...
+```
+
+如果我们（或者AI）能维护好这样一个10,000行的核心架构，剩下的部分完全可以敏捷起来，各种文档、用例，剩下丢给AI就行。但这个核心架构是非常考验软件工程能力的，比如class design，现在大家用coding agent，都是得跟各种模型各种对话，才能得到一个差强人意的，大部分时候模型还给不了我特别满意的。但我们也看到，模型设计代码的能力真的是确实越来越强了，而且人能做到、能解释清楚的设计，AI没什么本质上做不了，AI不需要完美，只要能超过最好的人类，人类就没有意义了。
+
+## 第三部分：个人经历与first principle
+
+第三部分完全是我个人的经历：我完成“自己”的pretraining以后，我训练过领域的工作，基本就都是small explanation了。每当有一个新的paper，都会回来微调我自己的模型。比如 state machine就是一个非常基础，甚至都“不用说”的概念，但它确实是我思考问题的first principle，我理解很多工作的方式都是它利用了state/trace的什么特性，而且这个理解和很多人（甚至paper的作者）都是不太一样的，但我可以几乎无损地还原出paper最重要的那些design。这就有点像George Polya“How to Solve It”里的万能解题法，也有不少争议，因为too general to be useful，但他本人毫无疑问就是这样思考问题的，里面其他的部分，Polya说不出来，我也说不出来，但我可以把我对具体案例的理解讲出来。Hitchhiker paper里有更多的细节，而且有人buy了也有人没buy（这篇paper当时集齐了1分和5分，而Champion这篇paper的是做seL4的）。
+
+## 对test input generation的有效性
+
+无论如何，用在test input generation方面是有效的——我作为这个小领域的expert，已经看到这个领域里完全不一样的天地了。这几年看的paper不少，但我觉得真正矫正我first principle的还是真就那几个Turing Award的老paper，Dijkstra和Knuth对编程的思考; Lamport的existence of refinement mapping, Codd的relational model, Jim Gray的transactions等等。人就是很微妙，看了很多东西看不懂，觉得懂了就变成small explanation了，也就是“压缩即智能”吧。
+
+本来讲一点观点就是博大家一乐，community里有不同的声音才能进步。

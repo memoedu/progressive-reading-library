@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/653372785/answer/1979595620340754302",
+  "title": "高华作品有价值吗？ - Joseph Holy 的回答",
+  "original": {
+    "path": "原稿/daeb348cb4b2990c227c4b46/d25f898eb8caa2ca213e35b2206c1c2e8d10c7eb27d3c7feb86bed7949f41602.md",
+    "sha256": "d25f898eb8caa2ca213e35b2206c1c2e8d10c7eb27d3c7feb86bed7949f41602"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/daeb348cb4b2990c227c4b46/reading-d15c04f2f1d9ac4565061b4aad54dfc05106a3ddad60edb75260c97f7635499e.md",
+      "sha256": "d15c04f2f1d9ac4565061b4aad54dfc05106a3ddad60edb75260c97f7635499e",
+      "original_sha256": "d25f898eb8caa2ca213e35b2206c1c2e8d10c7eb27d3c7feb86bed7949f41602",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

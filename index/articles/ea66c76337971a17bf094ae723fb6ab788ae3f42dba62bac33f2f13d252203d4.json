@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1890122575163663130/answer/2061862175224886024",
+  "title": "怎么评价知乎文学区答主不动的推动者（企鹅）? - 科尔多瓦之猫 的回答",
+  "original": {
+    "path": "原稿/ea66c76337971a17bf094ae7/426d0229cf700cd471c62755ecd84981bf891f4d3baa64c6f45edbc1429d0376.md",
+    "sha256": "426d0229cf700cd471c62755ecd84981bf891f4d3baa64c6f45edbc1429d0376"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/ea66c76337971a17bf094ae7/reading-4c2db490505b7c987a407ba0ceb567fef4d141753d834ed5ef6be685451de109.md",
+      "sha256": "4c2db490505b7c987a407ba0ceb567fef4d141753d834ed5ef6be685451de109",
+      "original_sha256": "426d0229cf700cd471c62755ecd84981bf891f4d3baa64c6f45edbc1429d0376",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

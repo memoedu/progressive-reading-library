@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1962906492345782477",
+  "title": "宵夜杂谈：直觉物理 & 推理物理（上）",
+  "original": {
+    "path": "原稿/40c7ea155d108eda417cf4c6/3c6b22e6a4f490f4efb7e750cd2ba4748c2cbfee398c39c42d6047496c47d44e.md",
+    "sha256": "3c6b22e6a4f490f4efb7e750cd2ba4748c2cbfee398c39c42d6047496c47d44e"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/40c7ea155d108eda417cf4c6/reading-0cea3811ab46d6604476c6368bb47cd05b0fc86639c4d058291a327fb5373f43.md",
+      "sha256": "0cea3811ab46d6604476c6368bb47cd05b0fc86639c4d058291a327fb5373f43",
+      "original_sha256": "3c6b22e6a4f490f4efb7e750cd2ba4748c2cbfee398c39c42d6047496c47d44e",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

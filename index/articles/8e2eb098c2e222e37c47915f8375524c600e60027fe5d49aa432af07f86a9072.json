@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/386080269/answer/1977535820371099699",
+  "title": "像马克思的夫人燕妮这样的女人多吗？ - 不动的推动者 的回答",
+  "original": {
+    "path": "原稿/8e2eb098c2e222e37c47915f/e9d621a130dfd74323e826a59c465a9c3b75686b40e844c5bc87a59156329ea6.md",
+    "sha256": "e9d621a130dfd74323e826a59c465a9c3b75686b40e844c5bc87a59156329ea6"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/8e2eb098c2e222e37c47915f/reading-f5c7e2ad08ed33a1db05eae3814fb2fd328a7fb524efce77789d7323c23b944a.md",
+      "sha256": "f5c7e2ad08ed33a1db05eae3814fb2fd328a7fb524efce77789d7323c23b944a",
+      "original_sha256": "e9d621a130dfd74323e826a59c465a9c3b75686b40e844c5bc87a59156329ea6",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

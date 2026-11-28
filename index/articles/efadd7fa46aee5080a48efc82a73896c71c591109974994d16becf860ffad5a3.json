@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1999614002137956984/answer/2067037719784585013",
+  "title": "什么是人的元认知？如何提高自己的元认知水平？ - Jajil 的回答",
+  "original": {
+    "path": "原稿/efadd7fa46aee5080a48efc8/ef2ddfcccb82448748a220f966e093bcabb4268410a2e9dc5f87c98886dfb886.md",
+    "sha256": "ef2ddfcccb82448748a220f966e093bcabb4268410a2e9dc5f87c98886dfb886"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/efadd7fa46aee5080a48efc8/reading-5de625515753cbf75bada442453cf2961e0ab21d40432587274d44e538e1c8a4.md",
+      "sha256": "5de625515753cbf75bada442453cf2961e0ab21d40432587274d44e538e1c8a4",
+      "original_sha256": "ef2ddfcccb82448748a220f966e093bcabb4268410a2e9dc5f87c98886dfb886",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

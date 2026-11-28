@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/29311732/answer/1936083021074759840",
+  "title": "语言的力量到底有多大? - 墨苍离 的回答",
+  "original": {
+    "path": "原稿/190abc0184589eaa741f9472/d5d8237be70cb65d5c0d08fc7945337f2fdf43ccb4da2f9e1c9e2c037d2faf82.md",
+    "sha256": "d5d8237be70cb65d5c0d08fc7945337f2fdf43ccb4da2f9e1c9e2c037d2faf82"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/190abc0184589eaa741f9472/reading-57d13e8cc8813861ee5d38b4f91d09016d8017e90d400d81925faffef53ad207.md",
+      "sha256": "57d13e8cc8813861ee5d38b4f91d09016d8017e90d400d81925faffef53ad207",
+      "original_sha256": "d5d8237be70cb65d5c0d08fc7945337f2fdf43ccb4da2f9e1c9e2c037d2faf82",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

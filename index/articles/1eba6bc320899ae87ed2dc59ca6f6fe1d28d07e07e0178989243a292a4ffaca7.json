@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2056270842867217996",
+  "title": "从分析力学看 Transformer",
+  "original": {
+    "path": "原稿/1eba6bc320899ae87ed2dc59/c813956a3be01571c410bbf4dc89a6425701b70dbff3e51725287945a9874997.md",
+    "sha256": "c813956a3be01571c410bbf4dc89a6425701b70dbff3e51725287945a9874997"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/1eba6bc320899ae87ed2dc59/reading-7d0945af14ef473dd6168e2bc83b59914cf7e5db586f87286131b303b608a67c.md",
+      "sha256": "7d0945af14ef473dd6168e2bc83b59914cf7e5db586f87286131b303b608a67c",
+      "original_sha256": "c813956a3be01571c410bbf4dc89a6425701b70dbff3e51725287945a9874997",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

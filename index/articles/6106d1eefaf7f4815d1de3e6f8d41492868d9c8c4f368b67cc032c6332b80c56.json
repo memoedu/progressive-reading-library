@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2043103002907738805/answer/2043192381399361215",
+  "title": "如何评价今年王虹、邓煜可能同时创纪录拿到菲尔兹奖？ - 亲潮 的回答",
+  "original": {
+    "path": "原稿/6106d1eefaf7f4815d1de3e6/c01a3bb7664131f508b5e68060f960571684c9405b544d4e4df22311dec6fce1.md",
+    "sha256": "c01a3bb7664131f508b5e68060f960571684c9405b544d4e4df22311dec6fce1"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/6106d1eefaf7f4815d1de3e6/reading-81339985b85979297368efac3cf8bae980ed418d5157e815d000aa4ebd304945.md",
+      "sha256": "81339985b85979297368efac3cf8bae980ed418d5157e815d000aa4ebd304945",
+      "original_sha256": "c01a3bb7664131f508b5e68060f960571684c9405b544d4e4df22311dec6fce1",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

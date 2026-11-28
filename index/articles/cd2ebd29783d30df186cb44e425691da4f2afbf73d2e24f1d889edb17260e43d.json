@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2025675769846796561/answer/2036843421416023991",
+  "title": "为什么“吃碳水”如今充满贬义色彩？ - 廖平 的回答",
+  "original": {
+    "path": "原稿/cd2ebd29783d30df186cb44e/6c265313a81f153c6555b409945013f029c9600f38b88cf7d0cdf173daddf88d.md",
+    "sha256": "6c265313a81f153c6555b409945013f029c9600f38b88cf7d0cdf173daddf88d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/cd2ebd29783d30df186cb44e/reading-5d45589ec69685f2f21ca0a6e347a8eb443aae8483abe837d717f1127899ae70.md",
+      "sha256": "5d45589ec69685f2f21ca0a6e347a8eb443aae8483abe837d717f1127899ae70",
+      "original_sha256": "6c265313a81f153c6555b409945013f029c9600f38b88cf7d0cdf173daddf88d",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

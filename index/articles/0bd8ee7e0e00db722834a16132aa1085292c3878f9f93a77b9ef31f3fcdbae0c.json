@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/19624646/answer/1221372332",
+  "title": "有哪些值得推介的客观详实的中国近代史或当代史书籍？ - 汝蓝 的回答",
+  "original": {
+    "path": "原稿/0bd8ee7e0e00db722834a161/3dd055c9ac67c6283bcd2617ac8221f9e7f0a5a1f17b9c32dd67069e59bb2847.md",
+    "sha256": "3dd055c9ac67c6283bcd2617ac8221f9e7f0a5a1f17b9c32dd67069e59bb2847"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/0bd8ee7e0e00db722834a161/reading-8ddb55e2b6c906d9ed2e6b59ccb245ec5b83a50d22fba5d15c0883f8a7643f8e.md",
+      "sha256": "8ddb55e2b6c906d9ed2e6b59ccb245ec5b83a50d22fba5d15c0883f8a7643f8e",
+      "original_sha256": "3dd055c9ac67c6283bcd2617ac8221f9e7f0a5a1f17b9c32dd67069e59bb2847",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

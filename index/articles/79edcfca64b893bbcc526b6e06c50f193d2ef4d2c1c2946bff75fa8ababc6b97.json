@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1964654155080660003/answer/1967545867264308087",
+  "title": "现代编程框架是否让人离计算机原理越来越远？ - 酱紫君 的回答",
+  "original": {
+    "path": "原稿/79edcfca64b893bbcc526b6e/adb21dd0f84368b6ca505dddcfd50b202e299ffa751f1b4e57ac13d977ff3352.md",
+    "sha256": "adb21dd0f84368b6ca505dddcfd50b202e299ffa751f1b4e57ac13d977ff3352"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/79edcfca64b893bbcc526b6e/reading-85d78b963db6af73f1d0d5b8570aed0d1339939828a079976f733f54ec4e82f5.md",
+      "sha256": "85d78b963db6af73f1d0d5b8570aed0d1339939828a079976f733f54ec4e82f5",
+      "original_sha256": "adb21dd0f84368b6ca505dddcfd50b202e299ffa751f1b4e57ac13d977ff3352",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/404626828/answer/2057242217706738131",
+  "title": "如何评价 b站up主 峰哥亡命天涯? - 知乎",
+  "original": {
+    "path": "原稿/fdb2fb540f2b45959b7b3b46/993fa6c9bd39f20c6503289b5ad55379811647c49fd83761d88198089d31ede4.md",
+    "sha256": "993fa6c9bd39f20c6503289b5ad55379811647c49fd83761d88198089d31ede4"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/fdb2fb540f2b45959b7b3b46/reading-79ea7709c0e35100fee57f7c226db0d6c9d68b0d8fd73e5bcc55c7c40009eb80.md",
+      "sha256": "79ea7709c0e35100fee57f7c226db0d6c9d68b0d8fd73e5bcc55c7c40009eb80",
+      "original_sha256": "993fa6c9bd39f20c6503289b5ad55379811647c49fd83761d88198089d31ede4",
+      "processing_sha256": "be6c1ef669ae40419858c1e024b9edc10217d8470e4fd8036019e1dfc4d27bcc",
+      "options_sha256": "a28b0e4ce2957edcec786403f784ec91d0fc0e3c10049656a9b3ce15790f13b6"
+    }
+  ]
+}

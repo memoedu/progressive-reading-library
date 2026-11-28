@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://danluu.com/julialang",
+  "title": "A review of the Julia language",
+  "original": {
+    "path": "原稿/56fac398b6750e9fd991d450/1237499e3155250799f4fccf6149431c3c0bbc13b4186b8fa1ffc156607d9fd6.md",
+    "sha256": "1237499e3155250799f4fccf6149431c3c0bbc13b4186b8fa1ffc156607d9fd6"
+  }
+}

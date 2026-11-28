@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/1887462742442636712/answer/2108861516212717468",
+  "title": "高中物理使用微元法的本质是什么？ - 少安师兄Rc 的回答",
+  "original": {
+    "path": "原稿/d33ea2da0c67b6afb5e2758c/16a48e9191db64b0622418bcfe374703ffd3f1e08a2fc009130f9fda41abf04c.md",
+    "sha256": "16a48e9191db64b0622418bcfe374703ffd3f1e08a2fc009130f9fda41abf04c"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/d33ea2da0c67b6afb5e2758c/reading-bafa0f8708d870c47f9bf058ce3b526dfcb88505c0ac8706154a43659f7b7bb8.md",
+      "sha256": "bafa0f8708d870c47f9bf058ce3b526dfcb88505c0ac8706154a43659f7b7bb8",
+      "original_sha256": "16a48e9191db64b0622418bcfe374703ffd3f1e08a2fc009130f9fda41abf04c",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

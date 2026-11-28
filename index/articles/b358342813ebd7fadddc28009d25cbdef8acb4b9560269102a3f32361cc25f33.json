@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/2105637893888913693",
+  "title": "AI 迷雾中的数学研究--Charting your own future",
+  "original": {
+    "path": "原稿/b358342813ebd7fadddc2800/af11b00a6783875681015fae722a3219ff79c17e805317f4efc0087f374f2ed7.md",
+    "sha256": "af11b00a6783875681015fae722a3219ff79c17e805317f4efc0087f374f2ed7"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/b358342813ebd7fadddc2800/reading-22f77c731771c8e6e2d6866feed89300a64144334d5cd4fb723ffc685d14319c.md",
+      "sha256": "22f77c731771c8e6e2d6866feed89300a64144334d5cd4fb723ffc685d14319c",
+      "original_sha256": "af11b00a6783875681015fae722a3219ff79c17e805317f4efc0087f374f2ed7",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

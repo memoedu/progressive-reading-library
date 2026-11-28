@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://danluu.com/integer-overflow",
+  "title": "Integer overflow checking cost",
+  "original": {
+    "path": "原稿/20c5a8a0b8ba65cd864ad355/e6abb1cbc9199204fad58d497e2bde4aaf0bd5b33330d5077ce6936df9258a06.md",
+    "sha256": "e6abb1cbc9199204fad58d497e2bde4aaf0bd5b33330d5077ce6936df9258a06"
+  }
+}

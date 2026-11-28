@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://danluu.com/broken-builds",
+  "title": "How often is the build broken?",
+  "original": {
+    "path": "原稿/32cf5729d4cda25011d19260/be04322083e3673f28f44be00fa24a0b757e437fa970365ef3bb1f246e939c68.md",
+    "sha256": "be04322083e3673f28f44be00fa24a0b757e437fa970365ef3bb1f246e939c68"
+  }
+}

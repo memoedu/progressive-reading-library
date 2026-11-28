@@ -5,5 +5,14 @@
   "original": {
     "path": "原稿/69d69c597316f0494bf3a184/f78b039d33461a3122333a7a55cb338d12b03f1e80089da7f3d9acd10546f166.md",
     "sha256": "f78b039d33461a3122333a7a55cb338d12b03f1e80089da7f3d9acd10546f166"
-  }
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/69d69c597316f0494bf3a184/reading-f244ae56ccdeeca4ab3df01fcf83189701173fb6c114197de6b1a85fd8ff8992.md",
+      "sha256": "f244ae56ccdeeca4ab3df01fcf83189701173fb6c114197de6b1a85fd8ff8992",
+      "original_sha256": "f78b039d33461a3122333a7a55cb338d12b03f1e80089da7f3d9acd10546f166",
+      "processing_sha256": "7e6d900b3ae9766b0f7f27034790e5587c3ec10b64a3388b9688ff088fad6d7e",
+      "options_sha256": "d358346b820535ca189b6042b2f1ebf1f319328b91b1b2820ebd2f1143a7ada3"
+    }
+  ]
 }

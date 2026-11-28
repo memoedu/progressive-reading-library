@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/2048089972352324831/answer/2108926227453064040",
+  "title": "为什么编译原理看起来与现实距离这么远，在高校里面还要花这么大的功夫教和学呢？ - 抽象千里冰封 的回答",
+  "original": {
+    "path": "原稿/c991a13150dcc080ee4ccc7b/b8b43d8f19f0cb872de5f3b609ed3cc62663ec2569c4125ea1d2d7ab00628183.md",
+    "sha256": "b8b43d8f19f0cb872de5f3b609ed3cc62663ec2569c4125ea1d2d7ab00628183"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/c991a13150dcc080ee4ccc7b/reading-196f7141996aeb4455510ed52f7b11c2228daf5cbe4a08ba5f954923c920899c.md",
+      "sha256": "196f7141996aeb4455510ed52f7b11c2228daf5cbe4a08ba5f954923c920899c",
+      "original_sha256": "b8b43d8f19f0cb872de5f3b609ed3cc62663ec2569c4125ea1d2d7ab00628183",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://danluu.com/malloc-tutorial",
+  "title": "Malloc tutorial",
+  "original": {
+    "path": "原稿/6f61cd30e723327b1b3d265c/402163791cf8e95ebe7b5bb80171056f663daad61eacfb52fabb8a61afca885c.md",
+    "sha256": "402163791cf8e95ebe7b5bb80171056f663daad61eacfb52fabb8a61afca885c"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://danluu.com/testing",
+  "title": "Given that we spend little effort on testing, how should we test software?",
+  "original": {
+    "path": "原稿/0d31e2a4265aea1b8e8addb8/f0f72f924059dfbf3d959de98ff6eacdb248482c60ced873be3b4756e0e9b91d.md",
+    "sha256": "f0f72f924059dfbf3d959de98ff6eacdb248482c60ced873be3b4756e0e9b91d"
+  }
+}

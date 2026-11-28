@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://zhuanlan.zhihu.com/p/1997434698956301928",
+  "title": "【纯粹数学杂志灌水指南】—— 如何将经典教科书习题包装成前沿研究？",
+  "original": {
+    "path": "原稿/85497771a3aa546bc4e2162b/ffbe1e7e8b5c9591b2e995882942c457e79005f020665f47a0a25e8818917d86.md",
+    "sha256": "ffbe1e7e8b5c9591b2e995882942c457e79005f020665f47a0a25e8818917d86"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/85497771a3aa546bc4e2162b/reading-c89fa387beda3b5a56a3593155c662cbd5c3c67ef5278284ac3fd16069a5f807.md",
+      "sha256": "c89fa387beda3b5a56a3593155c662cbd5c3c67ef5278284ac3fd16069a5f807",
+      "original_sha256": "ffbe1e7e8b5c9591b2e995882942c457e79005f020665f47a0a25e8818917d86",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}

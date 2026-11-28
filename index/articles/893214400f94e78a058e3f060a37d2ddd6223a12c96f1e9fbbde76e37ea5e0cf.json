@@ -1,0 +1,18 @@
+{
+  "schema": "progressive-reading.shared-article/v1",
+  "url": "https://www.zhihu.com/question/265513614/answer/529582208",
+  "title": "中国的高校计算机教育存在哪些问题？ - 匿名用户 的回答",
+  "original": {
+    "path": "原稿/893214400f94e78a058e3f06/48d777daac4e5cd964a5e351afb92eeb33bb2c9d5ad5393dde61ba86655b468d.md",
+    "sha256": "48d777daac4e5cd964a5e351afb92eeb33bb2c9d5ad5393dde61ba86655b468d"
+  },
+  "reading_files": [
+    {
+      "path": "加工版本/893214400f94e78a058e3f06/reading-f86f7de84dd828e6a4d647d4f15c17c892039d788f932474014849e4a0050a29.md",
+      "sha256": "f86f7de84dd828e6a4d647d4f15c17c892039d788f932474014849e4a0050a29",
+      "original_sha256": "48d777daac4e5cd964a5e351afb92eeb33bb2c9d5ad5393dde61ba86655b468d",
+      "processing_sha256": "0f46548af75cf3f7bb5c30e81d14f3e5c5f1e3034205973bfd6a9e394351df5e",
+      "options_sha256": "10a7952e34023b04047f4610713b2bd2a88edd6957ed516f8be52f12b181864c"
+    }
+  ]
+}
